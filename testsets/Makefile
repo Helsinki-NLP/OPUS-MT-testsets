@@ -1,7 +1,7 @@
 
 
-2LETTER_DIRS  = ${wildcard ??-??}
-2LETTER_FILES = ${sort ${wildcard ??-??/*.??.gz}}
+2LETTER_DIRS  = ${wildcard ??-??} ${wildcard ??_??-??} ${wildcard ??-??_??} ${wildcard ??_??-??_??} ${wildcard ??-??-??}
+2LETTER_FILES = ${sort ${wildcard */*.??} ${wildcard */*.??_??} ${wildcard */*.??-??}}
 
 TXT = $(patsubst %.sgm,%,${wildcard *.sgm})
 
@@ -9,26 +9,73 @@ all: ${TXT}
 
 
 
+
+## Tatoeba challenge data
+
+TATOEBA_VERSION = v2020-07-28
+TATOEBA_DOWNLAOD = https://object.pouta.csc.fi/Tatoeba-Challenge/test-${TATOEBA_VERSION}.tar
+
+.PHONY: tatoeba tatoeba-fetch tatoeba-convert tatoeba-cleanup
+tatoeba:
+	${MAKE} tatoeba-fetch
+	${MAKE} tatoeba-convert
+	${MAKE} tatoeba-cleanup
+
+tatoeba-fetch:
+	mkdir -p tmp-tatoeba
+	wget -O tmp-tatoeba/test-${TATOEBA_VERSION}.tar ${TATOEBA_DOWNLAOD}
+	tar -C tmp-tatoeba -xf tmp-tatoeba/test-${TATOEBA_VERSION}.tar
+
+TATOEBA_TEST = ${wildcard tmp-tatoeba/data/test/*/test.txt}
+TATOEBA_BASE = ${patsubst tmp-tatoeba/data/test/%/test.txt,%/tatoeba-test-${TATOEBA_VERSION},${TATOEBA_TEST}}
+
+tatoeba-convert: ${TATOEBA_BASE}
+
+tatoeba-cleanup:
+	rm -fr tmp-tatoeba
+
+tatoeba-print:
+	@echo ${TATOEBA_BASE}
+
+${TATOEBA_BASE}: %/tatoeba-test-${TATOEBA_VERSION}: tmp-tatoeba/data/test/%/test.txt
+	mkdir -p ${dir $@}
+	cut -f1 $< > $@.$(firstword $(subst -, ,${patsubst %/tatoeba-test-${TATOEBA_VERSION},%,$@})).labels
+	cut -f2 $< > $@.$(lastword $(subst -, ,${patsubst %/tatoeba-test-${TATOEBA_VERSION},%,$@})).labels
+	cut -f3 $< > $@.$(firstword $(subst -, ,${patsubst %/tatoeba-test-${TATOEBA_VERSION},%,$@}))
+	cut -f4 $< > $@.$(lastword $(subst -, ,${patsubst %/tatoeba-test-${TATOEBA_VERSION},%,$@}))
+
+
+
+
 ## TICO-19 translation benchmark
 ## from https://tico-19.github.io/index.html
 
-TICO19_TEST = ${patsubst tico19-testset/test/test.%.tsv,%/tico19-test.en.gz,${wildcard tico19-testset/test/*.tsv}}
+TICO19_TEST = ${patsubst tico19-testset/test/test.%.tsv,%/tico19-test.en,${wildcard tico19-testset/test/*.tsv}}
 
-tico19-testset:
+.PHONY: tico19 tico19-fetch tico19-convert tico19-cleanup
+tico19:
+	${MAKE} tico19-fetch
+	${MAKE} tico19-convert
+	${MAKE} tico19-cleanup
+
+tico19-fetch:
 	wget https://tico-19.github.io/data/tico19-testset.zip
 	unzip tico19-testset.zip
 	rm -f tico19-testset.zip
+
+tico19-cleanup:
 	rm -fr __MACOSX
-	${MAKE} tico19-testdata
+	rm -fr tico19-testset
 
-.PHONY: tico19-testdata
-tico19-testdata: ${TICO19_TEST}
+tico19-convert: ${TICO19_TEST}
 
-${TICO19_TEST}: %/tico19-test.en.gz: tico19-testset/test/test.%.tsv
+${TICO19_TEST}: %/tico19-test.en: tico19-testset/test/test.%.tsv
 	mkdir -p ${dir $@}
-	cut -f3 $< | tail -n +2 | sed 's/^ *//;s/ *$$//' | gzip -c > $@
-	cut -f4 $< | tail -n +2 | sed 's/^ *//;s/ *$$//' | gzip -c > ${@:en.gz=${patsubst en-%/,%,$(dir $@)}}.gz
-
+	cut -f1 $< | tail -n +2 | sed 's/^ *//;s/ *$$//' > $@.labels
+	cut -f2 $< | tail -n +2 | sed 's/^ *//;s/ *$$//' > ${@:en=${patsubst en-%/,%,$(dir $@)}}.labels
+	cut -f3 $< | tail -n +2 | sed 's/^ *//;s/ *$$//' > $@
+	cut -f4 $< | tail -n +2 | sed 's/^ *//;s/ *$$//' > ${@:en=${patsubst en-%/,%,$(dir $@)}}
+	cut -f5- $< | tail -n +2 | sed 's/^ *//;s/ *$$//' > $@.info
 
 
 
@@ -42,8 +89,8 @@ missing-files:
 	  b=`basename $$f`; \
 	  s=`echo "$$d" | cut -f1 -d '-'`; \
 	  t=`echo "$$d" | cut -f2 -d '-'`; \
-	  S=`echo $$b | sed "s/.\(..\).gz/.$$s.gz/"`; \
-	  T=`echo $$b | sed "s/.\(..\).gz/.$$t.gz/"`; \
+	  S=`echo $$b | sed "s/.\(..\)/.$$s/"`; \
+	  T=`echo $$b | sed "s/.\(..\)/.$$t/"`; \
 	  if [ ! -e $$d/$$S ]; then \
 	    echo "not found: $$d/$$S"; \
 	    if [ -e $$t-$$s/$$S ]; then \
@@ -66,15 +113,16 @@ missing-files:
 ## this is very slow but only needs to be done once ....
 iso-codes:
 	for f in ${2LETTER_FILES}; do \
-	  l=`echo $$f | sed 's/^.*\.\(..\).gz$$/\1/'`; \
+	  l=`echo $$f | sed 's/^.*\.\(..\)$$/\1/;s/^.*\.\(..\)[-?]\(..\)$$/\1_\2/'`; \
 	  L=`iso639 -m -n $$l`; \
-	  F=`echo $$f | sed "s/.\(..\).gz$$/.$$L.gz/"`; \
-	  if [ ! -e $$F ]; then \
-	    echo "make $$F"; \
-	    d=`dirname $$f`; \
-	    b=`basename $$f`; \
-	    B=`basename $$F`; \
-	    cd $$d;ln -s $$b $$B;cd ..; \
+	  F=`echo $$f | sed "s/\.\(..\)$$/.$$L/;s/\.\(..\)[-?]\(..\)$$/.$$L/"`; \
+	  d=`dirname $$f`; \
+	  D=`iso639 -m -n -p $$d`; \
+	  B=`basename $$F`; \
+	  if [ ! -e $$D/$$B ]; then \
+	    echo "make $$D/$$B"; \
+	    mkdir -p $$D; \
+	    cp $$f $$D/$$B; \
 	  fi \
 	done
 

@@ -1,0 +1,1 @@
+Não quero trabalhar amanhã.
