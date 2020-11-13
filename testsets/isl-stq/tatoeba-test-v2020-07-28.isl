@@ -1,1 +1,0 @@
-Gulrót eða banani?

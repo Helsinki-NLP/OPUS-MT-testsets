@@ -26,8 +26,8 @@ tatoeba-fetch:
 	wget -O tmp-tatoeba/test-${TATOEBA_VERSION}.tar ${TATOEBA_DOWNLAOD}
 	tar -C tmp-tatoeba -xf tmp-tatoeba/test-${TATOEBA_VERSION}.tar
 
-TATOEBA_TEST = ${wildcard tmp-tatoeba/data/test/*/test.txt}
-TATOEBA_BASE = ${patsubst tmp-tatoeba/data/test/%/test.txt,%/tatoeba-test-${TATOEBA_VERSION},${TATOEBA_TEST}}
+TATOEBA_TEST = ${wildcard tmp-tatoeba/data/test-${TATOEBA_VERSION}/*/test.txt}
+TATOEBA_BASE = ${patsubst tmp-tatoeba/data/test-${TATOEBA_VERSION}/%/test.txt,%/tatoeba-test-${TATOEBA_VERSION},${TATOEBA_TEST}}
 
 tatoeba-convert: ${TATOEBA_BASE}
 
@@ -37,7 +37,7 @@ tatoeba-cleanup:
 tatoeba-print:
 	@echo ${TATOEBA_BASE}
 
-${TATOEBA_BASE}: %/tatoeba-test-${TATOEBA_VERSION}: tmp-tatoeba/data/test/%/test.txt
+${TATOEBA_BASE}: %/tatoeba-test-${TATOEBA_VERSION}: tmp-tatoeba/data/test-${TATOEBA_VERSION}/%/test.txt
 	mkdir -p ${dir $@}
 	cut -f1 $< > $@.$(firstword $(subst -, ,${patsubst %/tatoeba-test-${TATOEBA_VERSION},%,$@})).labels
 	cut -f2 $< > $@.$(lastword $(subst -, ,${patsubst %/tatoeba-test-${TATOEBA_VERSION},%,$@})).labels

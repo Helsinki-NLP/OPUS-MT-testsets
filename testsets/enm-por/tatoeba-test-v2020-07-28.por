@@ -1,1 +1,0 @@
-Os elefantes comem grama.
