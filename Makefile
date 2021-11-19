@@ -3,7 +3,7 @@
 # maintain various MT testsets
 
 
-DATASETS = wmt tatoeba
+DATASETS = wmt tatoeba flores1 flores101
 
 all:
 	${MAKE} ${DATASETS}
@@ -15,7 +15,7 @@ all:
 ## create default files for language labels
 ## (just add the language of the file as default)
 
-TESTFILES = $(filter-out %.info,$(filter-out %.labels,${wildcard testsets/*/*.*}))
+TESTFILES = $(filter-out %.info,$(filter-out %.labels,${wildcard testsets/*-*/*.*}))
 LABELFILES = ${patsubst %,%.labels,${TESTFILES}}
 
 .PHONY: label-files
@@ -64,7 +64,7 @@ ${2_LETTER_FILES_UPGRADED}: %.upgraded: %
 	  else \
 	    echo "testsets/$$d/${basename ${notdir $<}}.$$l exists already"; \
 	  fi )
-	touch $@
+#	touch $@
 
 
 
@@ -236,6 +236,7 @@ ${WMT_TEST_XML}: %.converted: %.xml
 
 ## flores101
 
+.PHONY: flores101
 flores101:
 	wget https://dl.fbaipublicfiles.com/flores101/dataset/flores101_dataset.tar.gz
 	tar -C testsets -xzf flores101_dataset.tar.gz
@@ -250,6 +251,7 @@ FLORES101_DEVTEST_LABELS = ${patsubst %.devtest,%.labels,$(FLORES101_DEVTEST_FIL
 
 ## make symbolic links for all language combinations
 
+.PHONY: flores101-file-links
 flores101-file-links: ${FLORES101_DEV_LABELS} ${FLORES101_DEVTEST_LABELS}
 	-for s in ${basename ${notdir ${FLORES101_DEV_LABELS}}}; do \
 	  for t in ${basename ${notdir ${FLORES101_DEV_LABELS}}}; do \
@@ -271,12 +273,14 @@ flores101-file-links: ${FLORES101_DEV_LABELS} ${FLORES101_DEVTEST_LABELS}
 ## language labels
 ## TODO: do we really need those?
 
+.PHONY: flores101-dev-labels
 flores101-dev-labels: ${FLORES101_DEV_LABELS}
 ${FLORES101_DEV_LABELS}: %.labels: %.dev
 	for l in `seq ${shell cat $< | wc -l}`; do \
 	  echo ${basename ${notdir $@}} >> $@; \
 	done
 
+.PHONY: flores101-devtest-labels
 flores101-devtest-labels: ${FLORES101_DEVTEST_LABELS}
 ${FLORES101_DEVTEST_LABELS}: %.labels: %.devtest
 	for l in `seq ${shell cat $< | wc -l}`; do \
@@ -287,7 +291,29 @@ ${FLORES101_DEVTEST_LABELS}: %.labels: %.devtest
 
 
 
+.PHONY: flores1
 flores1:
 	wget -O flores_test_sets.tgz https://github.com/facebookresearch/flores/blob/main/floresv1/data/flores_test_sets.tgz?raw=true
 	tar -xzf flores_test_sets.tgz
 	rm -f flores_test_sets.tgz
+	for s in km ne ps si; do \
+	  mkdir -p testsets/$$s-en testsets/en-$$s; \
+	  rsync flores_test_sets/wikipedia.dev.$$s-en.en testsets/en-$$s/wikipedia.dev.$$s-en.en; \
+	  rsync flores_test_sets/wikipedia.dev.$$s-en.$$s testsets/en-$$s/wikipedia.dev.$$s-en.$$s; \
+	  rsync flores_test_sets/wikipedia.devtest.$$s-en.en testsets/en-$$s/wikipedia.devtest.$$s-en.en; \
+	  rsync flores_test_sets/wikipedia.devtest.$$s-en.$$s testsets/en-$$s/wikipedia.devtest.$$s-en.$$s; \
+	  rsync flores_test_sets/wikipedia.dev.$$s-en.en testsets/$$s-en/wikipedia.dev.$$s-en.en; \
+	  rsync flores_test_sets/wikipedia.dev.$$s-en.$$s testsets/$$s-en/wikipedia.dev.$$s-en.$$s; \
+	  rsync flores_test_sets/wikipedia.devtest.$$s-en.en testsets/$$s-en/wikipedia.devtest.$$s-en.en; \
+	  rsync flores_test_sets/wikipedia.devtest.$$s-en.$$s testsets/$$s-en/wikipedia.devtest.$$s-en.$$s; \
+	done
+	for s in ne si; do \
+	  mkdir -p testsets/$$s-en testsets/en-$$s; \
+	  rsync flores_test_sets/wikipedia.test.$$s-en.en testsets/en-$$s/wikipedia.test.$$s-en.en; \
+	  rsync flores_test_sets/wikipedia.test.$$s-en.$$s testsets/en-$$s/wikipedia.test.$$s-en.$$s; \
+	  rsync flores_test_sets/wikipedia.test.$$s-en.en testsets/$$s-en/wikipedia.test.$$s-en.en; \
+	  rsync flores_test_sets/wikipedia.test.$$s-en.$$s testsets/$$s-en/wikipedia.test.$$s-en.$$s; \
+	done
+
+
+
