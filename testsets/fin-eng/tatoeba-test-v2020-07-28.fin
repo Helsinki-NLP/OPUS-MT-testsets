@@ -1,0 +1,10000 @@
+Sinun pitää soittaa Tomille heti.
+Orava etsii pähkinöitä.
+Minun lapsiveteni meni.
+Yritä kovasti.
+No, oliko se sen arvoista?
+Millainen henkilö sinä olet?
+Tämä on meille.
+Se olisi järjetöntä.
+Shekki on tapa maksaa rahaa jollekulle.
+Älä istu pöydällä. Se voi murtua.
+En halua syödä mitään.
+Hyvää työtä!
+Juhliin tuli melkoinen määrä ihmisiä.
+Syömme tänä iltana pihviä.
+Mitä merkittäviä vientituotteita Australialla on?
+Hän on häpeämätön.
+Sinun tulisi auttaa isääsi.
+Te ette taida uskoa että olen oikeassa, vai uskotteko?
+Hyvää päivää, mitä haluaisit?
+Minulla on teitä kaikkia kauhea ikävä.
+Talomme on historiallinen rakennus ja se on julistettu suojelukohteeksi.
+Hän antaa sille kaiken huomionsa.
+Olen iloinen että olet kunnossa.
+Kaikki hymyilivät.
+Onko sinulla koskaan syyllinen olo?
+Tämä kuva otettiin kolme vuotta sitten.
+Tom pitää ranskankielisten kirjojen lukemisesta.
+Laiva pudotti ankkurin.
+On varmaa että hän ei käynyt ulkona tuona päivänä.
+Tomi katsoo vähintään yhden elokuvan päivässä.
+Olet tiellä.
+Se saa oloni itsevarmemmaksi.
+Tom nukkui liian myöhään tänä aamuna.
+Kaikkien pitää tehdä tämä.
+Tomia pelottaa.
+Vanhempani olivat opettajia.
+Saatan vaikuttaa itsevarmalta, mutta ihmisten edessä puhuminen hermostuttaa minua hirveästi. Käteni tärisevät, kieleni menee solmuun ja joskus en edes tiedä itse mitä sanon.
+Saavuin tänään iltapäivästä.
+Emme voi edes olla varmoja, että Tom tulee osallistumaan kokoukseen.
+Lupaus unohtuu nopeasti.
+Tomi alkoi opiskella ranskaa noin kolme vuotta sitten.
+Jääkaapissa on ruokaa.
+Pakolaisilla oli vaikeuksia löytää tarpeeksi syötävää.
+Missä se hätäuloskäynti on?
+Et voi tappaa minua.
+Oletko mielisairas?
+Ihmiset, jotka eivät löydä aikaa virkistäytymiselle, joutuvat ennemmin tai myöhemmin löytämään aikaa sairastamiselle.
+Haittaako sinua, jos nauhoitan tämän keskustelun?
+Tom on huono valehtelija.
+Laatikon sisällä täytyy olla jotain.
+Tom tiesi mitä oli pian tapahtumassa.
+En tiedä, voinko mennä sinne vai en.
+Sinun kuusi on palamassa.
+Puolueeton valtio on sellainen, joka ei myy aseita sotiviin maihin, paitsi jos maksaa käteisellä.
+Strutsit eivät osaa lentää.
+Päästäkää hänet irti!
+Älä sekoile!
+Tom hinkkasi hyvän haltian antamaa kiveä, jolloin hän muuntui oravaksi ja pääsi livahtamaan vankilaikkunoiden kaltereiden läpi vaivatta
+Sairaus usein johtuu liiasta juomisesta.
+Minä olen poliisi.
+Tom oli paikalla kun häntä tarvitsin.
+En tiedä hänen nimeään, mutta tiedän hänet näöltä.
+Onko sinulla koira?
+Tom on kaikista vanhin.
+Hän näytti meille kuvan äidistään.
+Minusta Tom on liian aggressiivinen.
+Kerro minulle välittömästi kun jotain tapahtuu.
+Avaisitko ikkunan?
+Mikä on e^x:n derivaatta?
+Tomi on laiska ja hemmoteltu.
+Tom odotti kärsivällisesti Marya.
+Oloni on onnellinen.
+Sinun ei tarvitse nostaa meteliä siitä!
+Mitä tapahtuisi, jos suuri asteroidi iskeytyisi Maahan?
+Tom nukkuu aina tunneilla. Vaikuttaa melkein siltä niin kuin hän menisi kouluun vain paikkaamaan univelkaansa.
+Tein sen jo.
+Tomilla on paljon tekemistä tällä viikolla.
+Olen hereillä.
+En ole nähnyt ketään, joka nauttisi enemmän elämästään, vaikka hänen elinolonsa olivat kauheat.
+Tomi tuli toiseksi.
+Miks sä oot yhtäkkiä niin mukava mulle?
+Kaikki minun ystäväni puhuvat ranskaa.
+Hän luulee, että olen kateellinen.
+Hän on nyt kunnon nuorimies.
+Kaiken sen jälkeen Mari eli hiljaista elämää pienessä asunnossa Välimeren rannalla.
+Hänen talonsa on hyvin uudenaikainen.
+Minä käytän Googlea joka päivä.
+Tomi on hereillä.
+Kaikki nauroivat paitsi Tomi.
+Hän on hänen ystävänsä.
+Odotan, että hän tulee takaisin.
+En usko, että voimme salata skandaalia enää paljon pidempään; ihmiset saavat selville.
+Vauva itki koko yön.
+Kypros on saari.
+Siinä paha missä mainitaan.
+Olen kääntäjä.
+Teistä tyypeistä ei ole paljon apua.
+Tom rakastaa sinua aina.
+Jänishousu!
+Kaikki on sovittu.
+Anna Tomille vähän tilaa.
+Tom ei ollut tyytyväinen.
+En pidä yksin olemisesta.
+Ostin puoli tusinaa munia.
+Puhun asioista niiden oikeilla nimillä.
+Tomi yliarvioi ranskan osaamisensa.
+Tomilla on salaisuuksia.
+Minua ei haluta harrastaa liikuntaa.
+Nämä viinirypäleet näyttävät makeilta, mutta itse asiassa ne ovat happamia.
+Olen pahoillani, en voi jäädä pitkäksi aikaa.
+Rauta on paljon hyödyllisempää kuin kulta.
+Tämä paikka on varattu.
+Katsoin tosi hyvän elokuvan eilen.
+Käyn suihkussa melkein joka aamu.
+Teen sen, mutta minulla on yksi ehto.
+Milloin hän lähti Mongoliaan?
+Hänen puhetavastaan ja käytöksestään huomaa, että hän on landepaukku.
+Tänään on todella kylmä.
+Tässä on se kirja.
+Tomi harmistui.
+Hänen asenteensa ällöttää minua.
+Hän on tällä hetkellä vankilassa veropetoksesta.
+Baari, jossa Tom on töissä, menetti myyntilupansa, koska siellä oltiin myyty alkoholia alaikäisille.
+Tämä on korkein rakennus, jonka olen koskaan nähnyt.
+Olette puhumassa.
+Hän on blondi.
+Tomin huone on hyvin pieni.
+Tiedän tunteen.
+Ääniominaisuus on saatavilla vain joissain kiinan-, hollannin-, ranskan-, saksan- ja shanghainkiinankielisissä lauseissa.
+Mietittekö te tosissanne menemistä?
+Pekka Ervasti sanoo kirjassaan "Kalevalan avain", että maailman herraa ja luojaa kutsuttiin Kalevaksi ja sana Kalevala merkitsee "luojan tai herran tyyssijaa", tarkoittaen korkeampia elämän tasoja tai näkymättömän maailman vyöhykkeitä.
+Tahtosi on lakini.
+Tom osaa myös puhua vähän ranskaa.
+Mikä sinun nimesi on?
+Tom ei koskaan käynyt Maryn luona sairaalassa.
+Olin luokkani huippua.
+Heillä on molemmilla virkapuvut päällään.
+Tom kysyi minulta tiedänkö ketään, joka voisi kääntää ranskasta englantiin.
+Ettehän unohda sulkea ovea.
+Puraisin kieltäni!
+Kymmenen minuuttia sen jälkeen, kun he olivat ohittaneet Naran, loppui autosta bensa.
+Tehdään työmme.
+Sinun täytyy hankkiutua eroon tuosta huonosta tavasta.
+Hypätkää yli.
+Kissa on ruskea.
+Kosteikkoalueet myös imevät ylimääräisiä ravinteita, sedimenttiä ja muita saasteita ennen kuin ne päätyvät jokiin, järviin ja muihin vesistöihin.
+Haluaisitko jotakin syödäksesi?
+Kuulin, että jouduit onnettomuuteen.
+Minulla on vähän kiire.
+Minulla on pitänyt kiirettä.
+Tom on ollut Bostonissa useamman kerran.
+Miksi lukitsit oven?
+Tulta! Juoskaa!
+Hän oli varattuna.
+Ajanvaraukseni on puolen tunnin päästä.
+Veljeni tytär on sairaanhoitaja.
+Sekunnin ajan luulin kuolevani.
+Minua kidutettiin.
+Tomilla on kaljamaha.
+Tuo on se bussipysäkki.
+Varastaminen on väärin.
+Pidä tyttöjä silmällä; he ovat huonoja uimareita.
+Minä syön nuudeleita.
+Voi leivällä maistuu todella hyvältä.
+Jok'ikinen on lapsi, samasta suvusta. Sama satu tuuduttaa heidät uneen ja herättää heidät aamutuimaan.
+Tosimiehet juovat teetä.
+Hän oli epävarma mitä tehdä.
+Tarvitsen vain yhden päivän lisää.
+Sormukseni on poissa.
+En pysty tekemään tätä ilman heitä.
+Latinan kieli ei ole kokonaan tuntematon minulle, mutta minulta puuttuu kyky puhua sitä.
+Älä vedä verhoja kiinni silloin kun ikkuna on auki.
+He muodostivat uintijoukkueen.
+Se ei tule tapahtumaan.
+”Onko herra Nakagawa tavattavissa?” ”Täällä puhuu Nakagawa.”
+Pureeko sinun koirasi?
+Olet kaunis kuin kirsikankukka.
+Tom katkaisi puhelun.
+En syytä siitä sinua.
+Kaikki on muuttumassa.
+Tom ei todellakaan tarvitse lisää rahaa.
+Mitkä valokuvat hän valitsi?
+Anteeksi että keskeytän.
+Sinulla oli tilaisuus.
+Talvella kuivat lehdet lentelevät ilmassa.
+Tämä maa kärsii aivovuodosta.
+Hänellä on enemmän kokemusta kuin minulla.
+Tomi vain pilailee.
+Internetissä ei ole tyttöjä.
+En yritä suostutella Tomia.
+Onko sinulla koiraa?
+Sinä olet epäkohtelias.
+Tomia uhattiin aseella.
+Tomi haluaa olla huomion keskipisteenä.
+Tom käveli kohden rappuja.
+”Näytät ihan turistilta.” ”Mutta minähän olen turisti!”
+Ajattelin että hän tulisi.
+Kolkuttakoot onni ovellesi.
+Kiitos neuvosta.
+Lehmät syövät mielellään ruohoa.
+Derbyn päivä on keskiviikkona kahden viikon päästä.
+Minulle jaettiin neljä ässää.
+Onko sinulla herätyskelloa huoneessasi?
+Jokainen Tatoebassa oleva lause on valetta, erityisesti tämä.
+Tomilla on tummat aaltoilevat hiukset.
+Otetaan avioero.
+Mikä kirja on sinun?
+Hikipajatyö, sademetsien tuho, ilmaston lämpeneminen, alkuperäisasukasyhteisöjen siirrot, veden ynnä ilman saastuminen, eläimistön hävittäminen viljelysmailta ”tuholaisina”, kansanvallalla valittujen hallintojen väkivaltainen syrjäyttäminen suuryhtiöitä myötäilevillä nukkediktaattoreilla, yltiöpäinen avolouhinta, öljynporaus herkillä alueilla, ammattiliittojen hajottaminen, lapsiorjuus ja lahjukset sortohallinnoille ovat vain eräitä näennäisen viattomien arkipäiväisten tuotteiden kuluttamisesta johtuvia seurauksia.
+Se erääntyy huomenna.
+Isäni, joka nyt työskentelee Amerikassa, kirjoitti meille kirjeen viime viikolla.
+Sinun täytyy keskittyä kokonaan toipumiseesi.
+Teidän tulee keskittyä tiehen kun te ajatte.
+Tom viettää päivät puhuen ranskaa koulussa ja puhuu englantia vain kotona.
+Venäjä on iso.
+Antakaa minulle kaikki kukat, jotka teillä on siellä.
+Pesimme jalkaterämme.
+Tom tulee aina olemaan täällä sinua varten.
+Tykkään hänen asenteestaan.
+Puhutko sinä ranskaa hyvin?
+Juoksette.
+Tomi sanoo, että se on kiireellinen asia.
+Et pysty siihen ilman minua.
+Sinä olet opettaja.
+Aikaa voittaaksemme matkustimme lentokoneella.
+Kylmä tuuli puhalsi sisään.
+Tervehdys, muukalainen.
+Sinä ammuit hänet, etkö ampunutkin?
+Kiitos mahdollisuudesta.
+Voit luottaa siihen, että hän pitää sanansa.
+Voisitko puhua ranskaa?
+Mitäs puuhaat?
+Hänen sukkansa ovat harmaat.
+Hänellä on suuri määrä kirjoja.
+Minun täytyy mennä sairaalaan.
+Luuletko että miehet ja naiset voivat olla vain ystäviä?
+Tatoeba: On parempi olla käsittämätön kuin ei olla lause.
+Kaikki tekevät virheitä.
+Voimmeko me puhua ranskaa?
+Jätä minut nyt rauhaan.
+Miksi sinä haluat tappaa meidät?
+Jumala parantaa sinut, ja lääkäri saat rahat.
+Tunnen sen pitkäpartaisen saksalaisen.
+Toivottavasti tapaamme.
+Minä tiedän, että Tomi pitää jatsista.
+Tom halusi auttaa Marya.
+On sinullakin otsaa!
+Sini- ja kosinifunktiot ottavat arvoja lukujen miinus yksi ja yksi väliltä (mukaanlukien -1 ja 1).
+Aion tuhota kaiken.
+"Pfirsichbäumchen" tarkoittaa "pientä persikkapuuta" saksaksi.
+Söin silloin ensi kertaa hevosenlihaa.
+Tomi juo kahvia.
+Hän silmäili vierasta epäluuloisesti.
+Tapaamme maanantaina, kaverit.
+Näin jokin valkoisen lentävän taivaalla, joten minä aloin uskoa enkeleihin.
+Sinun on tultava pikaisesti.
+Hän puhui Korean sodan lopettamisesta.
+Olemme pari.
+Hän ei puhu minulle mistään enään.
+Kokous loppui aikaisemmin kuin tavallisesti.
+Sinulla ei varmaankaan satu olemaan puukkoa mukanasi?
+Älä kuule yritä olla olevinasi.
+Yritin parastani.
+Pöydän alla on kissa.
+Tom puhdisti silmälasinsa.
+Tomi yritti pitää Maria lämpimänä.
+Saanko nähdä passinne?
+Tämä ei ole ihan se, mikä minulla oli mielessä.
+Tomi on sinua älykkäämpi.
+Se on huono ajatus.
+Hän kokee ulkomailla jatkuvaa koti-ikävää.
+Tämä vauva on kolmen viikon ikäinen.
+Ihan sama!
+Hyttyset rakastavat minua.
+Täällä ei ole enää mitään minulle.
+Nautaa, kiitos.
+Mistä urheilusta pidätte eniten?
+Minä rakastan sinua.
+Olet väärässä.
+Aurinko paistoi.
+Onpa outo tyyppi!
+Pikkuveljeni katsoo televisiota.
+Kävele hitaasti!
+Odotin kolme tuntia.
+Huhu levisi koulussa kuin kulovalkea.
+Jatkakaa lukemista!
+Kuinka kaunis se onkaan!
+Hän täyttää seitsemäntoista helmikuussa.
+Olen tottunut puhumaan siitä.
+Haittaako, jos vilkaisemme?
+Tomin lapset eivät osaa puhua ranskaa.
+Tom kertoi minulle, ettei hän opiskellut ranskaa lukiossa.
+Tom oli syntymäasussaan.
+Tämän sanan paino on toisella tavulla.
+Tom leikkasi hiukseni.
+Ihailimme hänen älyään, puhumattakaan hänen rohkeudestaan.
+He ovat todella innokkaita.
+Tapasin sattumalta entisen tyttöystäväni Portugalissa.
+Ottakaa leipä ottimilla, olkaa hyvä.
+Onko sinulla aikaa syödä lounasta kanssani?
+Etsin henkilöä, joka ymmärtäisi ranskaa.
+Ajan hybridiautoa.
+Haluaisin tehdä lähtöselvityksen, kiitos.
+Tom ampui hänet.
+Tomin romaani on käännetty ranskaksi.
+Kello on 14.00.
+On parempi olla onnellinen hölmö kuin onneton nero.
+Kun hän on hermostunut, hänen puheensa takeltelee.
+Luovuta!
+Minä en ole minun isäni.
+Mahtava ajatus!
+Tom ei tiedä sitten yhtään mitään ohjelmoinnista.
+Tom oli kokouksessa koko päivän.
+Minä kuulen musiikkia.
+Prinssillä ja ilveilijällä oli paljon yhteistä.
+Minun täytyy mennä nyt.
+Olet liian nuori ymmärtämään.
+Tekeekö vaikutuksen?
+Tomi ei käytä somea ollenkaan.
+Käänsikö Marika yhtään sarjakuvakirjaa japanista suomeksi?
+Koirani yritti puraista Tommia.
+Olemme päättäneet palkata Tomin.
+Minua on pyydetty antamaan sinulle viesti.
+En pidä lämpimistä talvista.
+Ihmisen täytyy tehdä töitä.
+Sinä putoat.
+Tiedätkö mitä tämä tarkoittaa?
+Missä olit töissä viime vuonna?
+Miksi minä?
+Katsopa ympärillesi.
+Milloin tavallisesti pääset töistä?
+Tom meni töihin viisitoistavuotiaana.
+Teidän pitäisi pyytää häneltä neuvoa.
+Kuusi ovat palamassa.
+Minä tiedän, että ette te valehtele.
+Onnettomat, kuten myös huonouniset, ovat aina ylpeitä tästä ominaisuudesta.
+Kaupunki kihisee turisteja.
+Mikset sinä kysy opettajaltasi neuvoa?
+Hän on vaihtanut nimensä.
+Tom lintsasi koulusta taas tänään.
+Olen kotoisin Saudi-Arabiasta.
+Minä olen Hong Kongissa juuri nyt.
+Oletko löytänyt vielä asuntoa?
+Tämä nainen ei ole sievä.
+Pakene.
+Viesti oli ranskaksi.
+Joidenkin mielestä uhkapelaaminen on synti.
+Tom käänsi asiakirjan ranskaksi.
+Toivomme yhä Tomin tulevan paremmaksi.
+Tomi on sinun opettajasi, eikö vain?
+Hän halusi tavata sinut.
+Metsässä asuu hirvittävä paholainen.
+Odotimme Heleniä tunnin kirjastossa, mutta häntä ei kuulunut.
+Oletko uskonnollinen?
+Pysäytä Tom.
+Faksasin Tomille kartan.
+Jos se olisi minusta kiinni, niin antaisin sinulle ylennyksen.
+Nainen varasti häneltä paljon rahaa ja onkin nyt vankilassa.
+Olet paljon fiksumpi kuin luulet.
+Meidän ei olisi pitänyt ostaa tätä autoa.
+Ei koskaan tullut mieleeni, että saattaisin olla väärässä.
+Jatka tarinaasi.
+Tietääkö joku miten Photoshopia käytetään?
+Otetaan Englanti esimerkiksi.
+Tomi pyysi armoa.
+Tomi kattoi pöydän.
+Minulla on tunne siitä, että olen nähnyt nämä kengät jossain aikaisemmin.
+Fadil avasi pikaruokaravintolan.
+Tämä on ensimmäinen lentokonematkani.
+Suurin osa Marin kavereista on poikia.
+Olen siellä hetken päästä.
+Hän ei ole lääkäri.
+Tässä on sinun juomasi.
+Tom nukkui pommiin.
+Täällä on lohikäärmeitä.
+Tom osaa joitakin sanoja ranskaksi.
+Sinullahan on silmä mustana.
+Söin liikaa tänään.
+En usko, että meitä on esitelty.
+Ratkaise ongelma.
+Ei. Minä haluan maksaa käteisellä.
+Älä välitä siitä.
+Melkein huusin.
+Oletko sinä lääkäri?
+Jokaisella pitäisi olla harrastus.
+Olen hämmästynyt siitä, miten nopeasti hän on edennyt englannissa.
+Me majoituimme edulliseen hotelliin.
+Tukaani säätelevät ruumiinlämpöään muuttamalla veren virtausta nokkaan.
+Mikään Tomin tekosista ei enää yllätä minua.
+Tom vieköön kaiken tarvitsemansa ajan.
+Kauneus ilman aistikkuutta on kuin ruusu ilman tuoksua.
+Tom siirtyi niin, että Mari pääsi istumaan hänen viereensä.
+Olen sankari.
+Olen utelias.
+Taidot ovat Jumalan suomia; ole nöyrä. Kunnia on ihmisten suomaa; ole kiitollinen. Itserakkaus on itsesuotua; ole varovainen.
+He ovat hyviä ihmisiä.
+Oli lämmin, joten avasin ikkunan.
+Terve. Oletko sinä Jackie Scott?
+Kaikki kyytiin!
+En voisi myydä kitaraani unissanikaan.
+Meteli piti minut hereillä koko yön.
+Söin ruokalassa.
+Älä tule myöhässä!
+Anna kun katson.
+Hän on elossa!
+Heti kun näin hänet, tiesin hänen olevan minulle vihainen.
+Arvasit oikein! Kirja oli vielä autossa.
+Se on parannus.
+Tom on ollut sairaana vuoteessa pitkän aikaa.
+Kävelen metsässä joka päivä.
+Mikä on Tomin koko nimi?
+Kaikki on mahdollista.
+Meillä on useita vaihtoehtoja.
+Tiedän miten paljon Tom merkitsi sinulle.
+Tykkään shoppailla eBayssä.
+Olen vegetaristi, joka syö kasoittain lihaa.
+Tämä on ihana kuva.
+Haluaako kukaan pizzaa?
+Sarah Bernhardt oli ranskalainen teatterinäyttelijä.
+Se ei ole pätkääkään sinun asiasi.
+Hän on takaisin kymmenessä minuutissa.
+Sairaus tyhjentää lompakon.
+Tom kiirehti matkoihinsa.
+Tulin niin pian kuin sain selville.
+Sinun täytyy tehdä töitä pelastaaksesi avioliittosi.
+Olimme ulkona yhdessä.
+Ensimmäinen tekoni senaattorina on nimittää sinut viralliseksi ilveilijäksi.
+He voivat auttaa.
+Tällä viikolla meillä on kolmipäiväinen viikonloppu.
+Tom on varmasti ylpeä.
+Pinkki ei ole vain tytöille.
+Minä paistan pekonia ja munia.
+Me matkustettiin ympäri Australiaa.
+Marin tavoite on omistaa oma koti ennen kuin hän täyttää kolmekymmentä.
+Mitä sinä olet aikeissa tehdä?
+Jos huomaat virheitä, niin korjaathan ne.
+En tule valmistumaan ajoissa.
+En ymmärrä saksaa.
+Tom on hyvännäköinen mies.
+Käärme nielaisi koiran kokonaisena.
+Myyn autoja työkseni.
+En ikimaailmassa odottanut näkeväni Tomia uudestaan.
+Olen suorittamassa kasvatustieteen maisterin tutkintoa.
+Anteeksi, että täällä on niin sotkuista.
+Missä tämän sukan pari on?
+Tässä maassa on neljä vuodenaikaa.
+Pidän siitä hyvin paljon.
+He ovat erittäin kyvykkäitä.
+Anna kun autan.
+Jotkut menivät kävellen kun toiset taas pyöräilivät.
+Hiljaa hyvä tulee.
+Missä sinun koulusi on?
+Yritä olla murehtimatta hänestä.
+Baseball-sesonki on avattu.
+Tom onnistui pakenemaan palavasta lentokoneesta.
+Unohdin, että Tom puhuu ranskaa.
+Minun isoveljeni on todella pitkä: noin 1,8 m.
+Et ole ikinä yksin.
+Hylkään ehdotuksesi.
+Talvilomaan on vain pari päivää.
+Pitäkää heitä silmällä.
+Silititkö kaikki paidat?
+En ole koskaan nähnyt sellaista paitsi Wikipediassa.
+Voit tietenkin tehdä ihan niin kuin haluat.
+Laitoitko hellan pois päältä?
+Voisitko auttaa minua vähän?
+Söin pizzaa joka päivä viime viikolla.
+Vettä täytyy juoda 2 litraa päivittäin.
+Kielen rakenne on myös ymmärryksen rakenne.
+Muista, olet raskaana.
+Voin hädin tuskin odottaa kesään saakka.
+Sinun pitäisi valmistautua pahimpaan.
+Pantheon on nykyisin kirkko.
+Hänen sydämensä särkyi, koska hänen rakkautensa ei saanut vastakaikua.
+Minulla on pientä päänsärkyä.
+Sinun pitämisestäsi ei ole hyötyä — tuhoamisestasi ei ole haittaa.
+Se ei ollut niin kauheaa.
+Minun täytyy kieltäytyä.
+Auto on keltainen.
+Kiitos siitä, että pelastit henkeni.
+Kissalla on kaksi korvaa.
+Ole kiltti ja anna minulle jotain syötävää.
+Monet syöpäpotilaat menettävät hiuksensa kemoterapian takia.
+Ei mulla ollu mitään onkelmaa.
+Olenko minä oikeassa?
+Tom ei voinut koskaan unohtaa sodan kauheuksia.
+Hyvää yötä, Timmy.
+Juokse!
+Et koskaan sano rakastavasi minua.
+Milloin ruoka on valmista? Minulla on kauhea nälkä.
+En tykkää sinkkuna olemisesta.
+Hän jäi tänne yksin.
+Tom on kiinnostunut Ranskan historiasta.
+Ai niinkö?
+Tomi sanoi, että hän ei tehnyt mitään väärin ja että se ei ollut hänen syytänsä.
+Tomi on panikoimassa.
+Mitä vittua siitä?
+Mikä on huomisen suunnitelma?
+Tiedätkö Wikipedian verkkosivut?
+Olen suunnitellut naamioituvani lääkäriksi.
+Ja onko siellä veneitä?
+Kati särki hänen sydämensä vaatimalla töykeästi häntä poistumaan.
+Olet yhä elossa.
+Olen perheen musta lammas.
+Voi kunpa olisin mennyt hänen kanssaan naimisiin.
+Tom ei ole täällä koskaan.
+Olen töissä hotellissa Bostonissa.
+Annoin periksi heidän vaatimuksilleen.
+Ehkäpä teen kakun vaihtelun vuoksi.
+Uskovaista ei voi vakuuttaa mistään, sillä heidän uskonsa ei perustu todisteisiin vaan perustavanlaatuiseen tarpeeseen uskoa.
+Niin metsä vastaa kuin sinne huudetaan.
+Herätinkö minä sinut?
+Tämä on täydellistä.
+Aina on parantamisen varaa.
+Olen ihastunut sinuun.
+Aluksi hän ei tajunnut voittaneensa puhekilpailun.
+Pysy liikkeellä.
+Ruusujen varsissa on piikkejä.
+Meillä ei ole varausta.
+Hänen nimensä on pitkä ja vaikea lausua.
+Ne juoksevat nyt.
+Hän haluaa nähdä meidät uudestaan.
+Tomilla on silmätulehdus.
+Sinun täytyy pitää mielessä, että se mitä on kirjoitettu Wikipediaan, ei ole aina totta.
+Sinulle ei olisi pahitteeksi levätä vähän.
+Tee muistiinpanoja.
+Pystytkö lukea tätä?
+Tuoli antoi periksi kun Tom istui sille, ja hän rojahti lattialle loukaten selkänsä.
+Tomi yritti avata ovea, mutta se oli lukossa.
+Tunnen olevani vapaa.
+Otimme yhteyttä Tomin perheeseen.
+Minä puhun saksaa.
+Mä katon tosi vähän telkkarii.
+Miksi valo on päällä?
+Tom näyttää vihaiselta.
+Mustat kenkäni kaipaavat korkojen korjausta.
+Olen työskennellyt täällä 13 kuukautta.
+Kaikki vaikuttavat optimistisilta.
+Suomi pudotti Venäjän talviolympialaisten jääkiekkoturnauksesta.
+Olin oikeassa.
+Hän on ystävällinen ihminen.
+Se oli hauska.
+”Otatteko ranch- vai sinihomejuustokastiketta salaattiinne?” ”Voimmeko saada molempia?”
+Korjasin yhden.
+Jäniksen korvasta valuu verta.
+Kalansyöminen on hyvää terveydellesi.
+Työskenteletkö hyvin paineen alla?
+Myönnän virheeni.
+"Hei! Ukko heräsi." "Missä olen?" "Hyrulessa. Olit vaipuneena koomaan." "Kuinka pitkäksi aikaa?" "Kuukaudeksi." "Vai niin. Mitä tapahtui sillä välin k—" "Riittää! Menen Subwayhin lounastamaan." "Jep, me lähdemme — tuletko myös, Link?" "Juu. Olen niin nälkäinen, että voisin syödä dinosauruksen!"
+En tiedä paljoa Australiasta.
+Miten kirahvi ääntelee?
+Tom saattaa olla sairas.
+Haluan päästä täältä mahdollisimman kauas.
+Minun tytärtäni huijattiin.
+Se oli kummallinen.
+Lopeta puhuminen.
+Tyttö, joka tykkää minusta, on tuolla.
+Anna minulle aseesi.
+Maryn lauseet ovat helppoja kääntää.
+Vastaanotin englanninkielisen kirjeen eilen.
+Kissa tuhosi sohvani.
+Tom teeskenteli, ettei hän välittäisi siitä, että Mari seurusteli Jonin kanssa.
+Tämä on talo, jossa hän syntyi.
+Tom tietää kaiken autoista.
+Hän vastustaa minua joka käänteessä.
+Rukoilkaa.
+Tom ei ole tyhmä.
+Tomi pitää luonnosta.
+Hän valmisti pojalleen pienoismallilentokoneen.
+Jos hikipajatyöhon liittyvän mekkalan todellinen tarkoitus on saada yliopisto-opiskelijat ja professorit tuntemaan itsensä moraalisesti paremmiksi kuin yritykset, jotka tarjoavat paljon kaivattua työtä köyhissä maissa, niin se tavoite on täytetty.
+Sinun pitää korjata se heti.
+Koulussa oli vain yksi vesirokkotapaus.
+Tom on tilannut sellaisen.
+Luulin, että meillä oli ongelma.
+Olen pahoillani, Tomi. Minä en voi tehdä sitä.
+Sinun täytyy tulla nopeasti.
+Milloin olet valmis lähtöön?
+Tomi näytti Marille kuvaa Jonista.
+Miten voit olla pitämättä Tomista.
+Oletko pakannut laukkusi?
+Tomilla on paljon vaihtoehtoja.
+Mietitkö sitä?
+Ensimmäistä kertaa elämässäni löysin itseni ypöyksin vieraasta kaupungista.
+Otan sinuun yhteyttä pian.
+Minulla ei ole mitään tekemistä asian kanssa.
+Mä varoitin Tomia.
+Minä löysin rahat.
+En niitä vehnääsi.
+Pysy tässä huoneessa.
+Pitäydytään suunnitelmassa.
+En ole naimisissa.
+Sitä ei saa ikinä tietää, jos ei kokeile.
+Sinä voit arvata, mitä seuraavaksi tapahtui.
+Tom on todella huolissaan.
+Huvittaako sinua mennä uimaan?
+Lähden kun Tom pääsee tänne.
+Tomi on rohkea, eikö olekin?
+Tom halusi puhua Marille jostain.
+Sini- ja kosinifunktiot ottavat arvoja lukujen -1 ja 1 väliltä (miinus yksi ja yksi mukaanluettuina).
+Tomi kirjoitti artikkelin koulun lehteen.
+Onko sinun vaikea laihtua?
+Tässä on kaikki mitä voin tehdä toistaiseksi.
+Postita hakemuksesi suoraan koulun kansliaan.
+Ota kaksi aspiriinia.
+Harmi, etten pääse mukaan.
+Mitä sinä teit väärin?
+Uutiset hänen erostaan tulivat täytenä yllätyksenä.
+Tulen takaisin tunnin päästä.
+Sinulla on kauniit jalat.
+Minun oli oppittava kantapään kautta, että ei ole suositeltavaa ajaa autoa jos on humalassa.
+Vain jäävuoren huippu näkyy vedenpinnan yläpuolella.
+Olin todella huolissani sinusta.
+Hän siivosi huoneen.
+Hyppää.
+Olet optimisti, vai kuinka?
+Tarvitsen pienet nokoset.
+Pidätkö scifi-leffoista?
+Onko niitä olemassa?
+Tomi tykkää kalastaa.
+Vauva ei itke enää.
+Anteeksi että olen myöhässä.
+Hän toi omenoita, appelsiineja ja niin edespäin.
+Olen aivan sipissä.
+Näyttää että kirsikan kukinta-aika on lopussa. Terälehtien näkee leijuvan alas.
+Olen pidempi kuin Tom.
+Tomi on riippuvainen kahvista.
+En voi tietää sitä mitenkään.
+Tämä on sanaleikki.
+Tom näkisi tämän oikein mielellään
+Hän hajoittaa mielellään sähkölaitteita osiin.
+Minä vain pilailin.
+Toivotan sinulle menestystä.
+Minä tiedän mitä opiskella.
+En halunnut tuhlata yhtään enempää aikaa Tomin kanssa.
+Tom oli liian hölmistynyt sanoakseen mitään.
+Mitä kieliä osaat puhua?
+Olen lopen kyllästynyt valituksiisi.
+Olet varmasti henkisesti uupunut.
+Minulle tuli muistinmenetys.
+Te valehtelette.
+Mikä on sinun lempikielesi?
+Tomi on erittäin itsekäs henkilö.
+On todella hienoa tehdä töitä tässä.
+Syön voileipää.
+Hänessä on paljon vikoja. Siitä huolimatta pidän hänestä.
+Pidätkö sinä ranskasta?
+Mari ostaa vain hikipajavapaita vaatteita.
+Betty tappoi äitinsä.
+Tom kutsuttiin pois.
+He yöpyivät uudessa hotellissa Kobessa.
+”Te, hyvä herra, olette imperialisti!” ”Ja te, herra hyvä, olette trolli.”
+Heitetään se pois ja aloitetaan puhtaalta pöydältä.
+Haluan mennä katsomaan elokuvan.
+Opettaja kysyi häneltä: »Mikä on kahdensadanviidenkymmenenkuuden neliöjuuri?»
+Tomi näyttää surulliselta.
+Olen kiitollinen ystävistäni.
+Hän haluaa edelleen tulla.
+Jokainen tunsi laulun.
+Onko Tom adoptoitu?
+Tomi ja minä olemme molemmat kasvissyöjiä.
+Älä pane vastaan.
+Kiitos, herra.
+Mahtavaa!
+Jos et pysty kukistaa heitä, liity heihin.
+Pääsääntöisesti lapset pitävät jäätelöstä.
+Mitähän tekisin, jos teetä ei olisi olemassa?
+Mitä huomenna tapahtuu?
+Hän on pahoissa veloissa.
+Ei etsitä ongelmia.
+Television katselu on hauskaa.
+Käskin häntä istuutumaan ja juomaan lasin vettä.
+Nämä lämpimät villasukat ovat alpakasta tehtyjä.
+Ovatko kaikki kunnossa?
+Tomi juoksi lumessa paljain jaloin.
+Olen ollut täällä töissä 13 kuukautta.
+Tomi ja Mari taistelivat.
+Sinun ei pitäisi unohtaa sitä.
+Heippa!
+Tykkäätkö baseballista?
+Minä olen Tomi, Marin mies.
+Oletko valmis laittamaan sen sisään?
+Anna joku muu esimerkki.
+Tomi oli uskomattoman onnekas.
+Juoskaa!
+Oletko sinä koskaan syönyt meksikolaista ruokaa?
+Eikö se mene juuri toisinpäin?
+Minulla on ristiriitaisia tunteita tätä kohtaan.
+Jopa minut päihitettiin.
+Meidän pitää löytää se.
+Älä käyttäydy niin kuin tietäisit kaiken.
+Se ei saa olla ongelma.
+Tomi meni piiloon sängyn alle.
+Pidän keväästä eniten.
+Tom tahtoi olla siellä.
+Jäin melkein auton alle.
+Minun mielestäni sinä olet typerä.
+Me käymme kirkossa yhdessä.
+Ole hiljaa äläkä häiritse työtäni.
+Onpa hyvä ajatus!
+Äidillä on kuumetta.
+Lapset tekivät valtavan lumiukon.
+Minun on oltava varovainen.
+Vuosisadan loppuun mennessä maa on kokenut dramaattisen lämpötilan nousun.
+Höpö höpö.
+En usko Tomin haluavan vanhaa polkupyöräänne.
+Tomilla oli ongelma Maryn kanssa.
+Tom on valveilla.
+Minulla on kysymyksiä.
+Tämä on kalliimpi kuin tuo.
+Tom kertoi juuri minulle.
+Kirsikat ovat nyt täydessä kukassa.
+Mitä ihminen kylvää, sitä hän myös niittää.
+Sinun ei tarvitse tehdä muuta kuin pyyhkiä lattia.
+Tämä ongelma vaikuttaa meihin kaikkiin.
+Poika meni sänkyyn sukat jalassaan.
+Dynamiitin käsittely voi olla vaarallista.
+Hän oli palannut lopullisesti Englantiin.
+Sanotko siis, että piilotat hyvän ulkonäkösi ihan tarkoituksella?
+Kaipaan poikaystävääni todella kovasti.
+Ulkomaalainen kysyi minulta missä asema on.
+Pystytkö kirjoittamaan?
+Katsopa peiliin.
+Hän aina kohtelee minua kuin lasta.
+Tom on ruma, mutta hän on todella kiva.
+Sä näytät lihavalta noissa housuissa.
+Konsertissa oli paljon väkeä.
+Odotapa hetki.
+Puhuuko täällä joku ranskaa?
+Keskittykää!
+Moni ihminen tarvitsee apuamme.
+Kun Tom heräsi, Mary oli suihkussa.
+Tule takaisin!
+Laitoin sen takaisin paikalleen.
+Puhuimme kahteen asti aamulla.
+Hän on todella kiireinen nyt.
+Me halumme vain sinut.
+Hän polttaa kuin savupiippu ja juo kuin kala.
+En voinut olla katsomatta.
+Se näyttää hyvältä.
+No niin, olepa kiltisti.
+Oletko tyytyväinen lopputulokseen?
+Minä olen laki!
+Me syömme.
+Kotiin tultuaan Tom teki läksyt.
+Tomi kuuntelee TED-esitelmää.
+Et voi pidättää Tomia menemästä töihin tänään.
+Minun perheeni piti koirasta todella paljon.
+Tomi ei oo viel tehny sen läksyjä.
+Vihaan kahvia.
+Tom ei edes ole kiinnostunut baseballista.
+Aivan kuin näkisin unta.
+Tom todella suuttui.
+Tom pani ilmastoinnin päälle ja asunto alkoi viiletä.
+Minulla on ollut kiireitä parina viime päivänä.
+Tulppaanit ovat nyt täydessä kukassa.
+Millainen se eilen katsomasi elokuva oli?
+Onko sokeriruoko hedelmä?
+Olen melko kiireinen.
+Minä kutsun tänne vartijan.
+Tom osaa puhua ranskaa hyvin.
+Minulla ei ole rahaa, jolla ostaa se sanakirja.
+Tapaan sinut tavallisessa paikassa.
+Tom päästi linnun vapaaksi.
+Tom istui tukin päällä.
+Voisiko joku auttaa minua?
+Hän varmasti on kiltti poika.
+Annoin Tomille maitoa ja keksejä.
+Onko kukaan koskaan särkenyt sydäntäsi?
+Kirjoitan äidilleni kerran kuussa.
+Minä en ole lause. Minut pitäisi poistaa Tatoebasta.
+Missä WC on?
+Uskotko helvettiin?
+Monet ovat joutuneet kokea sortoa ja kurjuutta pitkän aikaa kolonialismin alla.
+Nämä avaimet eivät ole minun.
+”Mikä hätänä?” kysyi pieni valkoinen kani.
+Hän unohti ostaneensa hänelle lahjan.
+Tarkoitan sitä, mitä sanoin.
+Atlanttiin kaksi vuotta sitten pudonneen koneen osia on löytynyt.
+Pilvessä?
+Antaudun.
+Sinä tiedät kuka sen teki, etkö tiedäkin?
+Tomi on leikkimässä poikansa kanssa.
+Anna minun vain mennä.
+Olen uintikerhon jäsen.
+En voi auttaa teitä.
+Tomi on ujo.
+Minä tulen pian takaisin.
+Terve, olen Mike.
+Sinun ei tarvitse tulla sisään.
+Perhe on kaikista perustavanlaatuisin yhteiskunnan yksikkö.
+Haluan mennä ennemmin kävellen kuin bussilla.
+Minä annan sen takaisin.
+Älä suotta murehdi.
+Se on melkein tyhjä.
+Osaatteko te edes kuvitella, millaista minun elämäni on?
+Miten se voisi olla vaarallista?
+Haluan, että lopettaisit tuon.
+Olenko aiheuttanut sinulle pettymyksen?
+Eettinen henkilö ei valehtele, huijaa eikä varasta.
+Tänään aion mennä konserttiin.
+Minä odotinkin sitä!
+Tämä on oikeuden pilkkaa.
+Kuolkaa.
+Me ostettiin pyöree pöytä.
+Haluaisitko toisen teekupillisen?
+Sinun olisi pitänyt pitää se salaisuus.
+Vaikuttavaa!
+Minä opin häneltä paljon tähtitieteestä.
+Tomi voisi kertoa teille.
+Jalkapallon pelaajat tienaavat paljon.
+Naiset elävät yleisesti ottaen pidempään kuin miehet.
+Toistakaa jokainen lause perässäni.
+Olehan varovainen.
+Ook sä lääkäri?
+Osaan vain rakastaa, kärsiä ja laulaa.
+Kasvoin Pokémonia katsoen.
+Hänen sydämessään ei ole hitustakaan ystävällisyyttä.
+Tom kannusti minua oppimaan ranskaa.
+Missä on Boston?
+Saat käyttää tätä autoa.
+Kuinka vanha sinä olet oikeasti?
+Heistä tuli pian pari.
+Taifuuni lähestyy Japania.
+Joku on talossa.
+Etsisimme haudattua aarretta.
+Poikani täytyy olla tarkkaavaisempi koulussa.
+Missä minun kenkäni ovat?
+Arvauksesi on väärin.
+Olin Lontoossa viime kuussa.
+Ok.
+Hän kaatui ja mursi vasemman jalkansa.
+Jokin vaivaa Tomia kovasti.
+Japani ylläpitää ystävällisiä suhteita Yhdysvaltojen kanssa.
+Tomi on yhtä pitkä kuin Mari.
+Heitä aseesi tänne.
+Tehdäkö englannin läksyt vai eikö tehdä englannin läksyjä ja lisätä lauseita Tatoebaan, kas siinä vasta kysymys.
+Muutama naapureista tuli toivottamaan meidät tervetulleiksi asuinalueelle.
+Päivä ilman naurua on hukkaanheitetty päivä.
+Heitä hänet ulos täältä!
+Kaikki on nyt hyvin.
+Tomi oli liian ujo puhuakseen Marille.
+Tom valitti naapurilleen napurin koiran jatkuvasta hakkumisesta.
+Mitä koskien?
+Suihkukone laskeutui ohjaustornin ohjeita noudattaen.
+Hän tekee minut hulluksi.
+Minusta on ihanaa tehdä ostoksia eBayssä.
+Mary on hyvin otettu.
+Tomi on innoissaan surffaamisesta.
+Tomi ei näytä kovin tyytyväiseltä.
+Ne ovat huonoja uutisia.
+Olen pahoillani, mutta vastaus on ei.
+Olen raivoissani, vaikka hän pyysi anteeksi.
+Tom nukkui ilmapatjalla.
+Voit ottaa minuun yhteyttä.
+Sinun veljesi meni naimisiin, eikö niin?
+Mary oli vakuuttunut, ettei hän menisi koskaan naisimiin.
+Tom on usein jurrissa aamukymmeneltä.
+En halua, että vietät aikaasi Tomin kanssa.
+Kirjoita tämä ylös.
+Jos saat kutsun ensimmäisiin orgioihisi, älä vain ilmesty paikalle alasti.
+Hän on valittu.
+Hän näytti katumuksensa vakavasta virheestä.
+Tämä pöytä on tehty puusta.
+Tom ei tykkää opiskelusta.
+Tomi olisi pystynyt tekemään sen.
+Siihen mennessä kun Tom pääsi kaupalle, se oli suljettu.
+He puhuivat rakkaudesta.
+Puutarhassa on vanha kirsikkapuu.
+En tiedä siitä lähes mitään.
+Tomi päättää.
+Tomilla on aipädi.
+Rakastan kirjojen lukemista.
+Onko se kovin vakava ongelma?
+Hän on rehellinen. Sen takia pidän hänestä.
+Oletteko ikinä hikoilleet näin paljon?
+Ei minun tarvinnut auttaa sinua mutta tein sen silti.
+Sinun pitäisi käydä enemmän ulkona.
+Vain hieman enemmän.
+Te ette saa koskaan tietää, jollette kokeile.
+Olen nähnyt hänen ihan lähiaikoina.
+Se oli suuri, musta amerikkalainen sotalaiva.
+Pitääkö Tomi intialaisesta ruuasta.
+Onko Tom yrittänyt tätä aikaisemmin?
+Tule kiireesti sisään.
+Kauppa menee kiinni seitsemältä.
+En ole syönyt parsaa pitkään aikaan.
+Oletko maksanut vuokran?
+Jos ystäväsi hyppäisivät sillalta, hyppäisitkö sinäkin?
+ALV on Saksassa 19 prosenttia.
+Harri, minä olen huolestunut.
+Haluan asua suuressa kaupungissa.
+Join kolme kuppia kahvia tänä aamuna.
+En halua menettää Maria.
+Muistan nähneeni tuon herran jossakin.
+Myös Tom opiskelee ranskaa.
+Onko sinulla ajokorttia?
+Annan sinulle lainaksi kaikki rahat, jotka minulla on nyt.
+Tomi on tuottelias kirjailija.
+Komitea kokoontuu ensi perjantaina.
+Monet lapset käyttävät niitä.
+Tom käy osa-aikatöissä.
+Kuinka suuri on liian suuri puhelimeksi?
+Vartija on tapettu.
+Oli silkkaa nautintoa viettää ilta sinunlaisesi fiksun, hauskan ja kauniin tytön kanssa.
+Voisitko kertoa mistä sait tämän?
+Tom ei halunnut ajatella sitä.
+Heti kun hänet jätettiin yksin, hän avasi kirjeen.
+Kun mä kuulen tän kappaleen, niin mä ajattelen sua ja ikävöin sua.
+Sinullapa on paljon ongelmia.
+Tom on tottunut ajamaan avolavalla, mutta hän ei ole ikinä ajanut sellaisella todella isolla rekka-autolla.
+En pysty suojella Tomia.
+Tom on Marin pojanpoika.
+He tunsivat, että nyt ei ollut aika aloittaa kansalaissotaa.
+Tulen tulevaisuudesta.
+Minä muistan sen.
+Totut siihen pian.
+Tom tietää todennäköisesti miten Maryn kotiin mennään.
+Lopeta minun kiusaamiseni!
+Elämällä ei ole merkitystä ilman ystäviä.
+Kuusi on tulossa takaisin.
+Tom ei välitä, mitä Marille käy.
+Tämä loota ei mahdu matkalaukkuuni.
+Hän oli luonteeltaan jämäkkä.
+Haluaisin kuulla Tomista.
+Sinun ei tarvitse kuunnella häntä.
+Ei Roomaakaan päivässä rakennettu.
+Meidän pitäisi opiskella.
+Sinä puhut todella nopeasti.
+Poikani on ainoa joka syö hänen laittamia ruokia.
+Osaatko ajaa autoa?
+Mistä kukasta sinä pidät eniten?
+Opiskeleeko Tom ranskaa?
+Minua ei haluta kuntoilla.
+On vaarallista ajaa moottoripyörää ilman kypärää.
+Tuo mekko sopii sinulle hyvin.
+Matematiikka on kuin rakkaus – ideana yksinkertainen, mutta voi mennä mutkikkaaksi.
+Rukoile.
+Tom oppi ranskaa asuessaan Quebecissä.
+Hevoset ovat hyvin herkkiä eläimiä.
+Onpa tämä epämiellyttävä yllätys!
+Olitko humalassa?
+Tom ei auta minua.
+Musiikitta elämä olisi erhe. Saksalaisen mielessä Jumalakin laulaa lauluja.
+Tom, oletko sinä täällä?
+Dan on sananvapauden puolella.
+Pidin tärkeänä joka aamu aikaisin heräämistä.
+Tämä on vakava asia.
+Ehdokas syytteli vastustajaansa lennokkain väittein.
+Onko teillä kiire?
+Tom pyysi palkankorotusta.
+Tom on älykäs.
+Luulen, että olet oikeassa.
+En tiedä pystynkö siihen, mutta minä koetan.
+Rakastan hänen siskoaan todella paljon.
+Kuinka paljon on liikaa?
+Vesi laajenee lämmetessään.
+Hän antoi minulle postikortin.
+Älä vihellä koulussa.
+Sinun oli parempi.
+Palauta minkä lainaat.
+Jätetään se Tomin päätettäväksi.
+Tomi oli järkyttynyt.
+Arvaa mitä söin illalliseksi eilen illalla. Popcornia.
+Montako vierasta on?
+Avatkaa tuli!
+Tomilla on kymmenenvaihteinen pyörä.
+Olen syntynyt kahdeskymmenestoinen marraskuuta vuonna tuhat yhdeksänsataa neljäkymmentäkahdeksan.
+Paperin valmistaminen pysyi pitkään valtionsalaisuutena.
+Mitä Tom näkee Maryssä?
+Ne ovat parhaita uutisia, jotka olen kuullut pitkään aikaan.
+Se oli juuri se, mitä tarvitsinkin.
+Historia toistaa jälleen itseään.
+Olen menossa leffaan.
+Haluaisin tietää enemmän tämänpäiväisen tapaamisen kulusta.
+Onko se siellä?
+Hän kuulosti vähän vihaiselta.
+En halua olla tielläsi.
+Ota näitä leivoksia, jos maistuu.
+Hän ei voinut hyväksyä tosiasiaa että hän ja hänen oppilaillaan oli niin paljon kun toisilla ihmisillä oli niin vähän.
+Ensi viikolla saattaa pakastua.
+Käyn leffassa joka viikko.
+Tämä on meidän laukkumme.
+Mitä lehteä tilaat?
+Tomi antoi periksi houkutukselle.
+Minäkin olin yhtä optimistinen kuin Tom, kun alunperin aloitin työt täällä.
+He osaavat laulaa.
+En pidä semmoisesta musiikista.
+Ehkä tyttö oli yllättynyt kuin sai kirjeeni.
+Tätä lehmää ei ole polttomerkitty.
+Menetin luottamukseni häneen.
+Tom alkoi tehdä töitä Marille viime vuonna.
+Hänen terveytensä heikkeni.
+Ei tarvita äidinkielen veroista kielitaitoa, että pystyy kommunikoida.
+Elämäni on niin sekaisin.
+Sodan aikana tehtiin useita hirmutekoja.
+Luulin, että tuolla tyypillä oli ase, joten ammuin hänet.
+Sanoik sä, et sul on kissa?
+Olemme pahoillamme, että vedimme liian hätäisiä johtopäätöksiä.
+Lopeta!
+Tom on fiksu.
+Hei Susan. Mitä kuuluu?
+Tomi on läsnä.
+Olen kateellinen siitä, että sinulla on hyvä pomo.
+Tapaamisen täytyy alkaa niin pian kuin mahdollista.
+He tappaisivat minut, jos he saisivat tietää.
+Tiedän, että voimme voittaa.
+Islanti on saarivaltio Grönlannin, Fär-saarten ja Norjan välissä Pohjois-Atlantilla.
+Tomi ja Mari eivät halunneet apuani.
+Saksalaisen ystäväni nimi on Hans.
+Onneksi löysimme sinut.
+Minun isäni on lääkäri.
+Olen homo.
+Pidä kuule huolta ihan vaan omista asioistasi!
+Tom ei puhu.
+Luokkakaverini ovat säälittäviä. He ovat opiskelleet neljä vuotta ja eivät osaa siitä huolimatta taivuttaa verbejä! Ainoa opiskelija, joka osaa puhua hyvin, ei ole enää luokalla.
+Tomilla on hyvä näkökohta.
+He näyttävät olevan valokuvaajia.
+Hoidan tätä.
+Kaupat ovat kiinni.
+Mitäköhän Tom aikoo tehdä ensi viikonloppuna?
+Tässä huoneessa saa polttaa.
+Tom lukitsi avaimensa autoonsa.
+Herättäisitkö minut kuudelta huomenna aamulla?
+Mitä teette?
+Olen jo pakannut.
+Täytyy lukea rivien välistä.
+Ensiksi, onnellisuus on suhteessa rahaan.
+Piirakka oli herkullista.
+Tule istumaan minun viereeni!
+Se ei tule olemaan helppoa.
+He sanovat, että se on todella hyvä.
+Todella mukavaa nähdä sua.
+Upeaa!
+He vaihtoivat järjestelmää.
+Islanti kuului aiemmin Tanskalle.
+Tämän puun hedelmät ovat makeita.
+Tomi pakotti minut kirjoittamaan tuon kirjeen.
+Luulin, että osaisit puhua ranskaa.
+”Ymmärrätkö?” ”En ymmärrä ollenkaan.”
+Hän ei suostunut kättelemään.
+Timantit ovat todella kovia.
+Minä olen niin iloinen, että olet palannut.
+Etuovi ei aukea.
+Tämä oli käännös tekijänoikeussuojatusta materiaalista, joten poistin sen, koska tekijänoikeuksien omistajilla on oikeus hallinnoida heidän teokseensa pohjautuvia teoksia.
+Se on sukukalleus.
+Kuulin, että olit onnettomuudessa.
+Minä uskon sinua.
+Teidän olisi parempi lähteä nyt.
+Tomi on valmis.
+Me olimme lukemassa.
+Pidin sanani.
+Kävitkö ulkona eilen illalla?
+Monilla maailman noin seitsemästä tuhannesta kielestä on elossa vain kourallinen puhujia, ja kieliä uhkaa kuoleminen.
+Minä pystyin nähdä, että Tomi oli kovissa kivuissa.
+Osaatko ajaa?
+Yrittämättä et saa ikinä tietää.
+Opiskelen ranskan kielioppia.
+Tom nukkui tänä aamuna.
+Oletko koskaan raapinut selkääsi Japanissa valmistetulla selänraaputtimella?
+Hän on fiksu.
+Tomi yllätettiin.
+Voisitko sammuttaa valot?
+Sain viillon.
+Olen melko varma, että Tom on ainoa henkilö, joka voi kertoa meille sen, mitä meidän tarvitsee tietää.
+Minulla alkaa olla tylsää.
+Me tiedämme molemmat, että tämä ei ole oikein.
+Tom ei ole ongelma.
+Olenko minä veljeni vartija?
+Saatan olla epäsosiaalinen, mutta se ei tarkoita, etten puhuisi ihmisille.
+Menkää ulos! Ette voi leikkiä täällä.
+Minä pyysin häntä odottamaan tässä.
+Vahdi selustaani!
+En tiedä. Mitä jos kysyisit Tomilta?
+Näytätpä tänään komealta, Tom.
+Tom asettautui jonon jatkoksi.
+Hän yritti tehdä itsemurhan.
+Hukkasin sitä edeltävänä päivänä kamerani.
+Minun nimeni on Salli.
+Tom on tarpeeksi vanha päättääkseen itse.
+Voititteko?
+Olen jo väsynyt.
+Bakteerit eivät lisäänny alkoholissa.
+Kohtaa seuraukset.
+Minulla oli myös muutamia puheluja soitettavana.
+Astronomiensa neuvosta Aleksanteri Suuri päätti, ettei hyökkää Egyptiin, ja meni sen sijasta Intiaan.
+Tomilla ei ole omaa toimistoa.
+Me autamme heitä, mutta emme nyt.
+Tom ei koskaan asunut Bostonissa.
+Olen tutkinnonsuorittanut kääntäjä.
+Ottakaa makeisia, jos maistuu.
+Tomi ei ole täällä.
+Ehkä Tomin pitäisi olla tarkkaavaisempi tunneilla.
+Sinun pitäisi luottaa minuun.
+Menestyäksesi elämässä tarvitset kahta asiaa: tietämättömyyttä ja itsevarmuutta.
+Tomi hävisi.
+Aloittakaa välittömästi.
+Tom työskentelee NASAlle.
+Tumblr on suosittu blogialusta.
+Tom haluaa halauksen.
+Aion tappaa ison pomon.
+Tuli polttaa.
+Sinun elämänkatsomuksesi on erilainen kuin minun.
+Hänen hampaansa olivat valkoiset.
+Pysytään yhteyksissä!
+Petaa sänkysi.
+Olet hienostunut.
+He suunnittelevat järjestävänsä juhlat.
+Tomilla oli oikein hauskaa.
+Saat lähteä milloin tahansa.
+Tähän bussiin mahtuu 30 henkilöä.
+Pelkään kissoja.
+Minimipalkalla ei tule toimeen.
+Irrota hänestä!
+Teidän pitää tehdä paljon töitä.
+Maistuuko se hyvältä?
+Hänen ylimielisyytensä ei ole enää siedettävissä.
+En ole ylpeä.
+Hyvien pisteiden eteen tarvitsee työskennellä kovasti.
+Odottakaa viisi minuuttia.
+Hän oli niin hengästynyt, että pystyi hädin tuskin puhua.
+Kokeile sitä, Tomi.
+Hän kielsi tietävänsä mitään heidän suunnitelmistaan.
+Se oli ilkeää häneltä.
+Tyttö rakastaa häntä.
+Käyn miestenhuoneessa.
+Hän liikkuu nopeasti.
+Minun nimeni on Henri.
+Sinun olisi pitänyt kertoa minulle totuus.
+Olemme molempikätisiä.
+Hän on vankilassa.
+Olen todella kiitollinen avustasi.
+Olet Tomin kaveri, etkö olekin?
+Olen kieltänyt sinua aina vaan uudestaan olla tekemättä niin.
+Mikä tämän sillan pituus on?
+Tomi oli alkkareissa.
+He tietävät meidät.
+He itkivät.
+Me tutkimme jokaisen planeetan, joka kiertää aurinkoa.
+Saitko työt valmiiksi?
+Mitä tekisin ilman häntä?
+Tomi ei ole koskaan aiemmin ajanut autolla.
+Säästä rahaa pahan päivän varalle.
+He ovat lukeneet mielenkiintoista kirjaa.
+Isäni ei ollut koskaan siihen mennessä käynyt ulkomailla.
+Japani on kaunis maa.
+Sitten aave puhui taas, ja hänen äänensä muistutti tuulen huokailua.
+Minä sytytin kynttilän.
+Luoti läpäisi hänen ruumiinsa.
+Tupakointi on haitaksi terveydelle.
+Teidän olisi syytä lähteä nyt.
+Tomi on itse asiassa aika hyvä laulaja.
+Minulla on ikävä lapsiani.
+Hän halusi imarrella minua.
+Eilen tulin hyväksi mutta huomasin sen vähän ikävytyttäväksi, niinpä tulin taas pahaksi.
+Me olemme täysin eksyksissä.
+Hän päätti tulla asianajajaksi.
+Tilasin Lontoosta joitakin kirjoja.
+Hän kysyi minulta kenen luulen voittavan turnauksen.
+Hän jumaloi kissoja.
+Pidän tietoisuutta perustavanlaatuisena. Aine voidaan mielestäni johtaa tietoisuudesta. Emme pääse tietoisuuden tuolle puolen. Kaikki mistä puhumme, kaikki mitä pidetään olemassaolona, edellyttää tietoisuuden.
+Minä olen hyvin kiinnostunut tähtitieteestä.
+Tiedätkö tämän puolalaisen sanonnan?
+Hän ylpeili uudella autollaan.
+Tämä on hölynpölyä.
+Kuu on syksyllä kaunis.
+Ovatko nämä kitkarenkaat?
+Kumpaa söit, kalaa vai lihaa?
+Tomi ei pessyt hiuksiaan.
+Onko sinulla vaatteet päällä?
+Minä, Stallone, en ole sellainen mies, että minua pelottaisi jo jonkin kokeen koekaniinina oleminen.
+Missä te olette olleet?
+Tomi on komeampi kuin minä.
+Kerro Tomille.
+Tomi ei ymmärrä Maria.
+Haluaisimme puhua sinulle.
+Siinä maassa on mukava käydä, mutta en haluaisi asua siellä.
+Joten, eettinen kysymys on jäljellä: Pitäisikö savukkeiden valmistajien sallia päästä globaaleille markkinoille?
+Se ei vain tunnu oikealta.
+Isäni on täällä.
+Kun hän sai työt tehtyä, hän meni kotiin.
+Saavuin stadionille kello 16, mutta peli oli jo alkanut.
+Kuuntele.
+Hän on vahva.
+Tom katsoi ylös taivaalle.
+Minä pidän vihreästä väristä.
+Oletko vielä puhunut Tomin kanssa?
+Potilas makasi sängyssä silmät suljettuina.
+Se on aivan liian vaarallista.
+Onko Tom aikeissa alkaa laulaa?
+Tom ilmestyi tyhjästä.
+Autamme teitä mielellämme.
+Annoinko minä liput sinulle?
+Onko se ilmainen?
+Sylkisittekö?
+Tomia tarvitaan muualla.
+Opiskelin ennen illallista.
+Minun täytyy lähteä.
+Tom koetti säästää Maryn hengen.
+Tämä lintu ei voi lentää.
+Jopa Tomi näytti ärsyyntyneeltä.
+Asun kolmen korttelin päässä.
+Kauppa on ollut suljettu sunnuntaista asti.
+Tämä koulu perustettiin vuonna 1970.
+Onko se totta, että muutat Bostoniin?
+Koira juoksi pois nähdessään minut.
+Hy hymyilivät.
+Tieteellisestä näkökulmasta en ole aivan varma asiasta.
+Hän on vasta kaksikymmentäkuusivuotias ja johtaa jo useita yrityksiä.
+Laskepa siitä yhteen.
+Tom ei juuri koskaan soita Marille.
+Mitä pidempään elät, sitä vanhemmaksi tulet.
+En oikeastaan koskaan välittänyt siitä.
+Selitän sen sinulle.
+Tomi ei ole vielä palannut.
+Etsi sellaisen ympyrän ympärysmitta, jonka pinta-ala on kaksitoista neliösenttimetriä.
+Kiltti, älä kuole.
+Kuinka pitkä vierailusi oli?
+Sitä voi koskaan tietää mitä saattaa tapahtua.
+Tämä on melko tavallista.
+Tomi kaatoi kolmeen lasiin viiniä.
+Kenties Tomi ei tule ajoissa valmiiksi.
+Yhteys ja rakkaus: Me kaikki haluamme sitä. Useimmat tyytyvät yhteyteen, koska rakkaus on liian pelottavaa.
+Oletpa aikaisin hereillä tänä aamuna. Onko sinulla joitain asioita hoidettavana?
+Tiesin, ettei sinun ja Tomin suhteesta tulisi koskaan mitään.
+Saanko koskea tätä?
+Tom varmaankin jätti kitaransa yläkertaan.
+Mitä muuta voisit vielä haluta lisää?
+Onpa nätti paikka.
+Hän yleni everstiksi.
+Taifuuni tuhosi useita taloja.
+Tomi näki oravan hyppivän oksalta oksalle.
+He selvisivät hengissä, vaikka rakennus tuhoutui.
+Tom halusi puhua Marille.
+Tomi leikkii poikansa kanssa.
+Tom ei halunnut rohkaista Maria tekemään mitään, mikä voisi saada hänet pulaan.
+Ehkä minun pitäisi kirjoittaa Tomille kirje.
+Naaraskenguru kantaa poikasiaan pussissaan.
+Kylässä oli pieni koulu.
+Heti kun aletaan puhua maksamisesta, hän rauhoittuu.
+Minun ilmapalloni räjähti!
+Se oli kellarissa.
+Hyvä aviomies tekee hyvän vaimon.
+En yllättyisi ollenkaan.
+Tom ei ole hyvä urheilussa.
+Jotkut linnut eivät osaa lentää.
+Melkein kaikki olivat kuolleita.
+Vokaaliharmonia on tärkeä unkarin kielessä.
+Oppilas kysyi: »Mistä opettaja puhui?»
+Keskustelin Tomin kanssa pitkään siitä.
+Mikä hän on etunimeltään?
+Japani oli päihittänyt Venäjän sodassa vuonna 1905.
+He pesevät kätensä.
+Tulemme debatoimaan tästä aiheesta kokouksessa.
+En halua odottaa niin pitkään.
+Minä siivoan toimistoani.
+Lepäsin puun varjossa.
+Palaan asiaan myöhemmin.
+Kuulin kahdesti pimeässä nimeäni kutsuttavan.
+Se on alkanut taas.
+Tomilla ei ollut mahdollisuutta käydä kylässä Marin luona viime kerralla kun hän oli Bostonissa.
+Vasta sitten tajusin jättäneeni lompakon kotiin.
+On halvempaa mennä linja-autolla.
+Mikä matkalaukku on Tomin?
+Katsokaahan tätä.
+Minun ei tarvinnut koskaan murehtia sinusta.
+Tomilla menee hyvin.
+Minulla on paketti Tomille.
+Tom heittää keikkaa katumiimikkona.
+Tomin suunnitelma on aika hyvä.
+Nähään!
+Hän on vielä elossa.
+Tom haluaa, että soitat hänelle niin pian kuin mahdollista.
+He menivät naimisiin kolme kuukautta sitten.
+Kotona ollaan.
+Shakespeare on erään kirjailijan nimi.
+Onnittelen sinua ensipalkinnon voittamisesta puhekilpailuissa.
+Ääniä lasketaan.
+Tom ei aloittanut ranskan opiskelemista kuin vasta kolmekymppisenä.
+Vastaa edes yhteen kysymykseen.
+Tulen jos voin.
+Voimme jäädä vielä vähäksi aikaa.
+Näin sen omin silmin.
+Mitä minä oikein voin tehdä?
+Jotkut siipikarjatilalliset ovat menettäneet koko parvensa ketuille.
+Minä en usko, että Tomi haluaa vanhan pyöränne.
+Meidän täytyy aloittaa alusta.
+Puutarhassa kasvoi kirsikkapuu.
+Yleisyyttä menettämättä voimme sanoa jonon suppenevan kohti nollaa.
+Ehkä olemme sukulaisia.
+Sääsket pitävät ihmistä vaarallisena, mutta tärkeänä ravinnonlähteenä.
+Huvittaisiko teitä lähteä uimaan?
+Tämä rakennus kuuluu vanhemmilleni.
+Tomilla ei ollut aikaa hengähtää.
+Tomi myönsi sen.
+Mustavalkotelevisiot ovat vanhentuneita.
+Opiskelen yliopistossa.
+Tässä autossa on varashälytin.
+Voit käyttää tätä autoa.
+Tomi ei voinut uskoa hyvää tuuriaan.
+Kiipesimme Fuji-vuoren huipulle.
+Kukaan ei voi elää kahtasataa vuotta.
+Tule takaisin Bostoniin.
+Jumala ei ole pilvissä kultavaltaistuimella nököttävä rajallinen yksilö. Jumala on kaikessa vaikuttava puhdas Tietoisuus. Ymmärrä tämä, ja siksi hyväksy sekä rakasta jokaista tasavertaisesti.
+Meitä ei kiinnosta vittuakaan.
+Se tarvitsee liikuntaa.
+Sanotaan, että metallilaatikot ovat erinomaisia lämmönjohtimia.
+Näytät tyytyväiseltä.
+Et voi lopettaa nyt.
+Jannea ei huvittanut ruveta maalaamaankaan, vaikka hän tavallisesti piti siitä kovasti.
+Esperantossa on vain yksi deklinaatio. Sen voi oppia alle vartissa.
+Tom osti itselleen smokin.
+Älä ole epäkohtelias!
+Älä unohda sun lippuu.
+Hautasin koirani lemmikkihautuumaalle.
+Hän satutti kyynerpäänsä kaatuessaan.
+Hän jätti joukkueensa, koska hän ei tullut toimeen valmentajan kanssa.
+Hän syö hedelmiä.
+Mistä sinä näet huolta?
+Onko sinulla auto?
+Tatoeba on käännössivusto.
+Tuo ei ole reilua.
+Ajattelen suunnitelmaanne.
+Arvaamaton kuin huhtikuu.
+Tom on sanonut tuskin sanaakaan koko päivänä.
+Tule likemmäksi, että näen sinun naamasi.
+Ainakaan minä en ole kaltaisesi luuseri.
+Puutarhuri oli murhaaja.
+Tietävätkö he, mitä tapahtui?
+Hän luki tämän kirjan eilen.
+Valehtelet.
+Tom teki valintansa.
+Raha se maailmaa pyörittää.
+Tämä voi käydä mielenkiintoiseksi.
+Hän ei hukkaa hetkeäkään.
+Me teimme tämän.
+Ota kenkäsi pois japanilaisessa kodissa.
+Kuinka myöhään Tom teki töitä eilen?
+Et voi parkkeerata sinne.
+Tomi toi kukkia.
+Ne ovat todella hyödyllisiä.
+Pitäkää sitä silmällä.
+Tom ei kertonut kenellekään mitä hän suunnitteli tekevänsä.
+Kerro minulle lisää itsestäsi.
+On tapahtunut paljon.
+Saanko mennä leffaan tänään illalla?
+Miten osaat ääntää englantia noin hyvin?
+Lisko ei tule koskaan antamaan sinulle vastarakkautta. Ei, vaikka hoivaisit sitä ja antaisit sille nimeksi Herra Pörröinen.
+Meillä on tehtävää.
+Minun on kerrottava hänelle siitä.
+Ei ole kodin voittanutta.
+Se ei vaikuta niin absurdilta.
+Hän osaa puhua ranskaa sujuvasti.
+Olen tuntenut Tomin pitkään.
+Mennään ulos haukkaamaan happea.
+Soita minulle, kun olet valmis.
+Minulla oli sinua ikävä.
+Nenäni on todella iso, ja kaiken lisäksi vinossa.
+En tahdo spagettia taas tänään.
+Hän sai kahdeksan tunnin keskeytymättömän unen.
+Tomi oli yksi eloonjääneistä.
+Tomin mielestä koulu on ajanhukkaa.
+En voinut olla ihailematta hänen urheuttaan.
+On aika epätodennäköistä, että he menisivät naimisiin.
+Onko tämä tarpeeksi hyvä sinulle?
+Yhtäkkiä kaikki valot sammuivat.
+Pidän Tomista.
+Rakastin Tomia.
+Hukkasin paljon rahaa.
+Hän pelaa vaarallista peliä.
+Tiedän hänen osoitteensa.
+Jotkut ihmiset uskoivat, että maailma oli menossa loppuaan kohti 2000, toiset 2012... mutta olemme silti täällä!
+Ryhdistäydy!
+Mene takaisin sinne mistä olet tullutkin.
+Valokuvasi ei tee sinulle oikeutta.
+Tomi on tosi herkkä.
+Mari on maailman johtava orava-asiantuntija.
+Äkkiä, auttakaa.
+Onhan sinulla pointti siinä.
+Se on masentava ajatus.
+Hallinnolla on painetta luoda uusia menettelytapoja.
+Mary on lopettanut tupakoinnin.
+Tom karjuu.
+Olen aina ihaillut Tomia.
+Huomiseen.
+Asumme Puistokadulla.
+Se ei ole sinun ongelmasi.
+Olitko se sinä autossa?
+Terve, mitä kuuluu?
+Voisitko avata laukkusi?
+Atacaman aavikko Pohjois-Chilessä on maailman kuivin paikka.
+Hyvää ruokahalua.
+Hän ei ollut puhunut ranskaa.
+Tuo on ruma kravatti.
+Hän on hulluna sinuun.
+Kaunis nainen on ystävällinen.
+Hän ei pidä keskustassa asumisesta.
+Tom loukkasi jalkansa jalkapalloa pelatessaan.
+Jotakuinkin niihin aikoihin Lucius Cornelius Sulla, noustuaan Rooman diktaattoriksi, piti Caesaria poliittisena uhkana vallalleen.
+Tom menetti näkönsä.
+Hyttyset hyökkäävät kimppuumme.
+Pyydän teitä palaamaan paikoillenne.
+Hän ei voi pitää huolta itsestään.
+Useimmissa tapauksisa auto-onnettomuudet johtuvat unenpuutteesta.
+Siten kvanttifysiikka paljastaa maailmankaikkeuden perustavan ykseyden.
+Tomi on tulossa hulluksi.
+Haluaisin puhua ylihoitajalle.
+Onnettomuus tulee harvoin yksin.
+Tom leikkaa Maryn hiukset.
+Tom nukahti rattiin ja aiheutti onnettomuuden.
+Tom lopetti tupakanpolton.
+Varo autoa!
+Tuhlaajapoika palasi kotiin.
+En pysty menemään eteenpäin.
+On välttämätöntä, että te käytte lääkärissä.
+Minä haluan pyytää anteeksi.
+Otan pyykit sisään ennen kuin alkaa sataa.
+Anna minun suudella sinua.
+He eivät halunneet enempää levittää orjuutta.
+Tämä on törkeää!
+Haluaisitko lisää perunamuusia?
+Minä lupaan!
+Hän oli ainoa mies.
+Soita ambulanssi.
+Esperantossa on vain yksi taivutusluokka. Sen voi oppia alle vartissa.
+Seuraavalla kerralla sinun pitäisi ostaa isompaa kokoa.
+Herätä Tom!
+Hän veti huomioni puoleensa.
+Haluan polttaa kaikki hänen kuvansa.
+Voi kunpa olisin yhtä fiksu kuin sinä.
+Tiedän olevani taakka — ei sinun tarvitse toistuvasti huomatella siitä.
+Osaisinpa uida.
+Tietämättömyys on näkymätöntä siitä kärsiville.
+Oppilas kysyi: ”Mistä opettaja puhui?”
+Te olette nuoria.
+Nukukko sää?
+Jos kolmiossa on kaksi suoraa kulmaa, se on neliö josta puuttuu yksi sivu.
+Tom päätti opiskella ranskaa.
+Tomillakin on kivaa.
+Tyttäreni on poikatyttö.
+Tom rikkoi tuon.
+Tom ei pitänyt Marista eikä Jonista.
+Toivottavasti kuolet.
+Minä löydän ne.
+Tarvitsen todisteita.
+Kaksi kolmesta tämän koulun oppilaasta on poikia.
+Hän on fiksumpi kuin Mary muttei niin kaunis.
+Kaikki meni surkeasti pieleen.
+Työskenteletkö vielä Tomin kanssa?
+Englanti ei ole hänen ensikielensä.
+Ehkäpä minun ei pitäisi mennä Bostoniin tänä viikonloppuna.
+Älä valehtele.
+Tomi sanoo, että hän ei ole milloinkaan käynyt Australiassa.
+Tatoeba tarvitsee lisää kiistanalaisia lauseita.
+Se kiussaa minua.
+Älä käy vainoharhaiseksi!
+Sinua on varoitettu.
+Me valmistimme tuon soijakastikkeen teollisen mikrobiologian projektina.
+He olivat raivanneet esteen tiellä.
+Auringonvarjoa käytetään kesällä kasvojen pitämiseen varjossa.
+Tom tahtoi puhua Marin isälle.
+Muiriel on nyt kaksikymmentä vuotta vanha.
+Koulu alkaa taas pian.
+Jos sinä satutat häntä, minä tapan sinut.
+Minä pidän talvesta.
+Hän ei voi ajaa.
+Olen iloinen siitä, että Tom piti siitä.
+Vauva nukkui syvästi äitinsä käsivarsilla.
+Olitko sinä sotilas?
+Kaikki teistä tekivät hyvää työtä.
+Minä toivon, että sinä ymmärrät minua.
+Voitko selittää ongelmasi meille?
+Hän pitää makeasta teestä.
+Työ on niin turhauttavaa nykyään.
+Jopa lapsi pystyy siihen.
+Hän istui alas lukemaan tarinaa.
+Tom otti sukat pois jalasta.
+Onko se kaukana?
+Mikset jää tänne?
+Mari on rento ja hauska.
+Kolme kolmanteen on kaksikymmentäseitsemän.
+Muutin uuteen asuntoon.
+Tom ei nukkunut.
+Onko tämä tyttöystäväsi?
+Tomi on todella vaarallinen tyyppi.
+Golf ei ole minun juttuni.
+Sain työn.
+Hän oli viimeinen ihminen, jonka odotin näkeväni sellaisessa paikassa.
+Tomi asui vähän aikaa Bostonissa.
+Asut kanavan lähellä.
+Tom näki Marin ajavan Jonin uutta autoa.
+Tämä on aika tyypillistä.
+En taputa sinulle.
+Tomin silmät ovat punaiset tänään.
+Nauttikaa vierailustanne tässä hotellissa.
+Vanha louhos on nyt suosittu uimakuoppa.
+Otan tämän takin.
+En usko Jumalan olemassaoloon.
+Sanotaan hänen kirjoittaneen tämän kirjan.
+Sinun ei tarvitse vastata tuohon kysymykseen.
+Se ei ollut ongelma.
+He eivät ole kiinnostuneita muista kielistä.
+Mutainen tie pilasi minun uudet kenkäni.
+Jos kirjalista on liian pitkä, jätä pois kaikki ulkomaiset kirjat.
+Tomi myi autonsa epäröimättä.
+Tämä on adverbi.
+En vain halua, että käsität minut väärin.
+Tomi ja Mari molemmat kiittivät Jonia.
+Tom osaa pitää salaisuuden.
+Tykkäätkö surffaamisesta?
+Se on tuskin totta.
+Mikä on Teidän nimenne?
+Onko teillä koiraa?
+Ota niin monta persikkaa kuin haluat.
+Työskenneltyään koko iltapäivän kuumassa auringossa Tom näytti olevan kuumissaan ja väsynyt.
+Sinun olisi parempi sitoa haava heti.
+Tom on kuin ilmetty isänsä.
+Tom aloitti työt meillä, kun hän oli vasta kolmetoista.
+Se on hirveän kallista.
+Me olemme muuttuneet.
+Herra White on liberaali poliitikko.
+Sinun pitäisi lukea enemmän.
+Hän pesee auton.
+Mitä sinä aiot valmistaa?
+Mitään ei muutettu.
+Minä niin toivon, että voisin olla sinun kanssasi siellä.
+Kosto on tuskan tunnustus.
+Teimme tämän.
+Olen kiitollinen lapsistani.
+Oletan, että sinulla on kiire.
+Tomi on luokan pisin.
+Tänä yönä ruumisarkku on häävuotemme.
+Mari maksoi Tomin takuilla ulos vankilasta, kun Tom joutui baaritappeluun.
+Tom osti Marylta kameran.
+Tomi on vihainen.
+Kuulen musiikkia.
+Ostitko sen pimeästi?
+Olen tosi kiinnostunut musiikista.
+Onko lehmällä vaaleanpunaiset utareet?
+Gangsterijoukko varasti rahaa.
+Minä olin lukemassa uudelleen kirjeitä, jotka sinä lähetit minulle.
+Sinä sanoit, että soittaisit.
+Minulla on nälkä.
+Lääkärilaskut tekivät ison loven säästöihimme.
+Älä ole noin pessimistinen.
+Toivon, että olemme siellä pian perillä.
+Miksi sinä naurat?
+Kuka tämän teki?
+Tukkuhinnat eivät olleet muuttuneet oleellisesti.
+Sain Tomin vakuutettua siitä, että hänen pitäisi mennä Bostoniin Marin kanssa.
+Se ei ole ratkaisu.
+Hän oli jumalallisen kaunis.
+Päätin mennä kävellen.
+Hän ei pystynyt estämään kyyneleitään.
+Minulla on kova kuume.
+Tom pysyi kotona.
+Onko sinulla veljiä tai siskoja?
+Pianoa soittava tyttö on nimeltään Akiko.
+Makeaa!
+Mitä muille kuuluu?
+Ihailen Tomia paljon.
+Hän näyttää kauniilta ja terveeltä.
+Tom kuoli vankilassa kymmenen vuotta sitten.
+En myisi sitä mihinkään hintaan.
+Tom on yrittänyt ottaa sinuun yhteyttä.
+Ostin hänelle uuden auton.
+Tom punastui vähän.
+Mistä sinä opit noin vaikean sanan?
+En voi kastella takapihaa. Ei ole vettä.
+Tomi pyysi Maria ostamaan hänelle lipun.
+Miten tämä sana sanotaan?
+Ota minun.
+Lontoossa on suuri määrä puistoja.
+Tom tulee ihan heti takaisin.
+Tom haluaa vastauksia.
+Väärin!
+Aurinko laski vuorten taakse.
+Vauva nukahti kehtoon.
+Tiedätkö, kuka juontaa tämän dokumentaarin?
+Äitisi on pornotähti.
+Mitä tämä tarkoittaa?
+Se ei ole mitään liioittelua.
+Onko teillä Japanissa joululomaa?
+Jääminen on vaarallista.
+Onko tämä ensimmäinen matkasi tänne?
+Valmistaudumme juhliin.
+Yks kaks jotakin tapahtui.
+Tomi on todella välitön, eikö niin?
+Hän on muodikas.
+Uinti on hyväksi terveydelle.
+Auringonvalo tekee huoneeni lämpimäksi.
+Olemme kuin perhe.
+Lehdet putoilevat hitaasti.
+Notkista polvet ja katso eteenpäin.
+Tom ei epäröinyt.
+He menevät metsään poimimaan sieniä, jos sää sallii.
+Tomi laulaa usein suihkussa.
+He menivät ulos.
+Tein kaiken täysin itse.
+Saako olla keksiä?
+En saanut vastausta keneltäkään.
+Juoksä teetä?
+Oletteko te Tomi?
+Toimiikohan tämä oikeasti?
+Tomi valehteli kytille.
+Harkitsen asiaa uudelleen.
+Isäni käyttää tätä autoa.
+Menen etsimään Tomia.
+Kerro vaan, jos tarvitset apua.
+"Asiakkaamme ovat Taiwanissa", selitti Tom.
+Pidä kätesi erossa minusta.
+Joudut vaikeuksiin, jos vanhempasi saavat tietää.
+Hän toi minulle kirjeen käännettäväksi.
+Runous on matematiikan alalaji, erittäin ankara sanojen avioliitto.
+Tämä ei lopu koskaan.
+Tom naarmutti kätensä.
+Mietittekö vakavissanne menemistä?
+Kuuntelethan tarkasti.
+Jos voit lukea tämän lauseen, se johtuu siitä, että osaat lukea.
+Hän pystyi opettelemaan runon ulkoa viisivuotiaana.
+Älä koske mihinkään.
+Nukuin television edessä.
+Oletko vaikeuksissa?
+Suuteliko hän sinua?
+Hän karkasi kotoaan.
+Mitä minä en halua menettää on rakkaus.
+Asumme samassa asuntolassa.
+Onko sinulla yhtään ranskalaista viiniä?
+Tom on erittäin pystyvä.
+Katsoin kaikkialta.
+Hotelli on vuoren juurella.
+Onko uusiutuminen todennäköistä?
+Tom ja Mary eivät ole oikein varmoja mitä tehdä tästä.
+Kidnappaajat saattavat olla aseistettuja ja vaarallisia.
+Mitä kävi?
+Tom leuhki uudella puhelimellaan.
+Antaisin mitä tahansa pizzasta.
+Niin söpöä!
+Mukava tavata sinut.
+Vastaan kirjaosastosta.
+Haluan vain olla varma.
+Tom on ruma.
+Naiset pitävät miehistä, jotka saavat heidät tuntemaan itsensä erityisiksi.
+He valvovat sinua.
+Tämä on hyvin tuore.
+Sinun pitäisi mennä kotiin.
+Menin kaljalle kavereideni kanssa?
+Tom opettaa ranskaa.
+Olen sairaalassa.
+Onko hän ystäväni?
+Riitelin Tomin kanssa eilen.
+Hänen laukkunsa oli painava, ja mikä vielä pahempaa, hänellä oli rakko toisessa kantapäässään.
+Monet ihmiset eivät ole onnellisia.
+Kun sinä ajat, sinun pitäisi keskittyä tiehen.
+Aiotko mennä vai et?
+Kaiken täytyy olla täydellisessä järjestyksessä häitä varten.
+Varas naamioitui vanhaksi naiseksi.
+Tomilla ja Marilla ei ole melkein mitään yhteistä.
+Minun ei olisi pitänyt valvoa myöhään eilen.
+Ohi ajava auto ajoi vesilätäkköön ja läiskytti vettä päälleni.
+Hyvä Jumala!
+Paniko Tom pahakseen?
+Lintu liiteli yläpuolella.
+Lupasin hänelle.
+Kun löysin todellisen identiteettini, elämäni alkoi olla mielekästä.
+Hän juoksi niin nopeasti kuin pystyi.
+Hän ei uskaltanut hypätä puron yli.
+Minulla on asioita mielessä.
+Monet ystävistäni osaavat puhua ranskaa.
+Kuinka myöhään se pankki on auki?
+Haluan päästä täältä niin kauas kuin vain voin.
+Lehdet putoavat syksyllä.
+Tom käänsi asiakirjan ranskasta englanniksi.
+Olet juovuksissa, Tomi. Tule taksiin. Lähdemme kotiin.
+Naisen vastausta ei voinut ymmärtää.
+Järjestämme Tomille syntymäpäiväjuhlat.
+Jääthän.
+En ole aamuvirkku.
+Mikään ei ole muuttunut vielä.
+Mitä minä oikein voin tehdä?
+Tomi yritti itsemurhaa.
+Moniko kieli häviää vuosittain koska nuoret puhujat pitävät toista kieltä "siistimpänä"?
+Miten paljon tämä sateenvarjo maksaa?
+Asuimme aseman edessä olevassa hotellissa.
+On sinun velvollisuutesi saada luokka yhtenäiseksi.
+Minä juopottelen liian paljon!
+Missä on se asema?
+Aiomme antaa poikamme nimeksi Tomi.
+Oletko harkinnut Bostoniin muuttamista?
+Hän lähestyi setäänsä lainatakseen tältä vähän rahaa.
+Ole kiltti ja kouri tissejäni todella kovaa
+Vaihtaisitko kanavaa — musiikki on sietämättömän kuuloista.
+Tom ei ota, jos hän ajaa.
+Nyt se on teidän ongelmanne.
+Mä tykkään kalastaa.
+Minä tulen lääkäriperheestä.
+Vanhat ihmiset ansaitsevat kunnioitusta.
+Nämä banaanit eivät ole kypsiä.
+Miten sinun äitisi voi?
+Miksi Tom olisi vaikeuksissa?
+Tomi nukkuu olohuoneessa.
+Olet ollut äidillesi melkoinen pettymys.
+Tiedän että sinä yhä syytät Tomia Maryn kuolemasta.
+Tom sanoi että oli vaikeata valita.
+Tomi näytti naurettavalta.
+Rikoitko sinä ikkunan tarkoituksella vai vahingossa?
+Lääkäri tutki potilaat.
+Tomi alkoi tulemaan vihaiseksi.
+En halua nähdä sinua enää koskaan uudestaan.
+Tiedän, että valehtelit minulle hiljattain.
+Tom on tupakoija.
+Tomi varasti pyöräsi.
+Kun sade loppuu, me lähdemme.
+Varo! Auto tulee!
+Lujempaa, kiitos.
+Tom näytti hyvin tyytyväiseltä.
+Tomi lainasi minulle rahat, joita tarvitsin.
+Brasilia isännöi olympialaisia.
+Minulla ei ole neljää siskoa.
+Ensimmäinen lapseni syntyi viime vuonna.
+Naamiaisasusi on todella vakuuttava.
+En tiedä mitä sanoa.
+Tyko Brahe syntyi Tanskassa vuonna 1546.
+Kuulen vain muminaa.
+Niin oli meillekin käydä.
+Tom ei asu enää Bostonissa.
+Se oli vain unta.
+Menettekö siihen juhlaan?
+Hän ei ole muusikkona mistään kotoisin.
+Koko hänen perheensä voi oikein hyvin.
+Näyttää siltä, että Tom on ollut kiireinen mies.
+Valheen toistaminen ei tee siitä totta.
+Tom on hyvä työntekijä.
+Kuinka lauseeseen lisätään tunnisteita?
+Tom ei aloittanut ranskan opiskelemista kuin vasta kolmekymppisenä.
+Tom puhuu sujuvaa japania.
+Emme ikimaailmassa!
+Tom tietää jo totuuden.
+Minulla on Facebook-tili.
+Siitä hetkestä kun tiesin, että yliopisto on olemassa, olen halunnut mennä sinne.
+Hän teki sen vanhanaikaisella tavalla.
+Tässä on ongelma.
+Kokemani perusteella kestää vuoden oppia ranskan kielioppi.
+Hän ei ole köyhä.
+Meidän koulun kirjastossamme on paljon kirjoja.
+Paljon on tapahtunut sen jälkeen.
+Ongelma ratkaistu!
+Elinkustannukset nousevat.
+Katso kaivoon.
+He panivat koko yön.
+Tulevaisuus kuuluu niille, jotka uskovat unelmiensa kauneuteen.
+Tom opiskelee ranskaa.
+Tämä banaani on ruskea.
+Sinua kaivattiin eilen illalla.
+Jaa tämä suora kahteenkymmeneen samanlaiseen osaan.
+Tom on epäsosiaalinen.
+Minun nimeni on Henri.
+Tom on naistennaurattaja.
+Aja varovaisesti.
+Luulen että olet hieman liian varovainen.
+Hän oli hyvin tunnettu koko maassa.
+Itsensä epäileminen on ensimmäinen älykkyyden merkki.
+Hän käytti tilaisuutta hyväkseen.
+Se on ensimmäisessä kerroksessa.
+Syömme illallista.
+Leiki siellä.
+Hän rakensi hänelle kirjahyllyn.
+Hän toi omenoita, appelsiineja ja niin edelleen.
+Komitea on asetettu tutkimaan ongelmaa.
+Turvamiehenne ei suostunut päästämään minua sisälle.
+Minä tarvitsen apuasi.
+Tom tosiaankin tykkää antiikkiesineistä.
+Se on vanhan naisen ääni.
+Täällä on todella hienoa työskennellä.
+Tom on johdossa.
+Tomi laittoi avaimen taskuunsa.
+Olen veroista samaa mieltä kuin sinä.
+Hän tuli uudestaan viikon päästä.
+Tom on terapeutti.
+Tom sai aivoinfarktin.
+Mitä sä naurat? Mä olen tosissani.
+Yritin suostutella Tomin tulemaan Bostoniin kanssamme, mutta hän sanoi, että hänellä on muuta tekemistä.
+Oletko varma, että et haluat tehdä sitä?
+Menemme jalan.
+Tom toivoi, että Mari kertoisi Tomille, missä Mari on ollut.
+Käykö, että sammutan valot?
+Vihreä valo palaa.
+Maili vastaa noin 1 600 metriä.
+Yksi minun suurimmista iPhoneen liittyvistä valituksen aiheistani on se, ettei se tue Flashia.
+Todennäköisesti.
+Ota kakkua, jos maistuu.
+Oletko nyt tyytyväinen, Tom?
+Minun pitää pyytää sinulta palvelusta.
+Voi hitto!
+Tomin olisi pitänyt mennä naimisiin Marin kanssa.
+Hän käyttää nimeä Yotchan.
+Tom ei ole toiveikas.
+En pidä surullisista elokuvista.
+Mä tiiän, et se ei o kiinnostunu musta.
+Ovetko he nukkumassa?
+Kuulin vaimean äänen lähistöiltä.
+Kuinka kauan sinulla kesti tämän raportin kirjoittamisessa?
+Seuraa niitä sääntöjä!
+Onko Tomi yhä laivasi kapteeni?
+Tämä on painavaa kuin lyijy.
+Jim käyttäytyi todella oudosti koko päivän.
+Eläkää!
+Tom näytti, että hän oli purskahtamaisillaan itkuun hetkellä millä hyvänsä.
+No, voit olla oikeassa.
+Tom sanoi, ettei hän nähnyt Maria.
+Minun täytyy antaa Tomille mahdollisuus.
+Puhuitko lakimiehesi kanssa tästä ongelmasta?
+Meitä on jo 7 miljardia.
+Tom on raivoissaan.
+Lähiaikoina.
+Tulevaisuus on lähempänä kuin luulet.
+Hän tapasi kehuskella talonsa loisteliailla kattokruunuilla.
+Mikä on Tomin kansalaisuus?
+Tom piti kovasti ranskanopettamisesta.
+Tom on ypöyksin eikä hänellä ole ketään, kelle puhua.
+Lopeta jo!
+Miksei hän soittanut koskaan?
+Sinä et ole lihava.
+Tomi ei suostunut auttamaan minua.
+Ihmiset viittaavat usein itseensä kolmannessa persooonassa, kun he puhuvat lapsille.
+Isäni tulee kotiin seitsemältä.
+Tatoebaa käyttämällä opit kieliä.
+He olisivat voineet tappaa sinut.
+Olemme tulossa hakemaan Tomia.
+Koska Tom ei pystynyt ansaitsemaan kunnollista elantoa yökerhomuusikkona, hänen täytyi hankkia päivätyö.
+Totesimme vuoteet aika mukaviksi.
+Alushousuni ovat märät.
+Koska π on transkendenttinen, on ympyrän neliöiminen - eräs klassinen geometrian ongelma - mahdotonta.
+Et ole muuttunut yhtään.
+Se on siistiä.
+Toivon, että olisin ollut ystävällisempi tytölle.
+Tiedätkö sinä kuka se oli?
+Olin vähän nälkäinen.
+Hän kysyi minulta, että kuinka monta kieltä puhun.
+Tallenna se ulkoiselle kovalevylle.
+Sinä näytät aivan näyttelijältä.
+Isälläni on sini-harmaa solmio.
+Tämä väliseinä erottaa kaksi huonetta toisistaan.
+Ilman teidän apuanne minä olisin saattanut epäonnistua.
+Tulen pian takaisin.
+Ei ihme että he ovat valinneet hänet puheenjohtajaksi.
+Oletteko te japanilaisia?
+Vai mitä?
+Tom on pakolainen.
+Autoin heitä eilen.
+En tule vihollisena vaan ystävänä.
+Mikä on matkasi tarkoitus?
+Kenelle sinä puhuit?
+Kukakohan hän oli?
+On terveellisempää käyttää portaita.
+Tom suuttui kovin.
+Sinulla on surkea käsiala.
+Luuletko, että se toimii?
+Hallitus on reformoimassa koulutusta.
+Oletko varma, että tämä on Tomin matkalaukku?
+Voi kuinka kauniita kukkia!
+Minulta vei useita tunteja korjata se.
+Isi on työskentelemässä.
+Näytät pahalta.
+Olen naapurisi.
+He eivät halua sinun tietävän.
+Tom löytää heidät.
+Tutkittuaan Marin läpikotaisin, lääkäri ei löytänyt fyysistä selitystä Marin sairaudelle ja päätteli, että syy oli psykosomaattinen.
+Pystyt hoitamaan tämän.
+Minulla on muutamia ranskalaisia kirjoja.
+Tässä on iso ongelma.
+Aiotko mennä nyt?
+"The Three Forks" on olutbaari, jonka kohderyhmä on matkailijat.
+Tämä on minun suosikkiaiheeni.
+Olen pitkään etsinyt työtä.
+Minulla on vain yksi ehdotus.
+Tom kertoi Marille, ettei hän voisi elää ilman häntä.
+Tomi pahensi tilannetta.
+Onpa minulla huono onni!
+Kuinka kauan jouduit odottamaan?
+Minä pelkäsin Tomia.
+Oletko ollut täällä kaiken yötä?
+Et voi kääntää pois lämmitystä niin kauan kuin järjestelmä on toiminnassa.
+Tomi ei ole erityisen sosiaalinen.
+Tomin ei tehnyt mieli syödä.
+Henkilökohtainen vapaus on vähentynyt viime aikoina.
+”Kuinka vanha olet?” ”Kuusitoista vuotta.”
+Tom itkee.
+Tom on tällä saarella ainoa, joka osaa puhua ranskaa.
+Jos tämä toistuu, soita minulle.
+Siinähän se on.
+Tomin vastaus yllätti minut.
+Osaan kävellä.
+Hän on täysin pihkassa.
+Sinun täytyy auttaa meitä.
+Tomille tulee kiireitä.
+Petturilta riistettiin kansalaisuus.
+Milloin Tom syö aamupalaa?
+Raha ei aina tuo onnea.
+Tiedän sinun haluavan auttaa häntä.
+Se jää nähtäväksi.
+Täällä myydään kaikkea.
+Tätä argumenttia ei voi kumota.
+Meillä on valkea kissa.
+Olen aivan varma, että Tom osaa puhua ranskaa.
+Ensimmäinen kapina on teologian mielivaltaa, Jumalan aavetta vastaan. Niin pitkään kuin taivaissa on Herra, olemme orjia maassa.
+Opiskelin englantia, ranskaa ja kiinaa.
+Luolassa asuu lohikäärme.
+Tomilla on tuplasti enemmän kirjoja kuin minulla.
+Suuri laiva törmäsi kalastusveneeseen.
+Hänestä on ihanaa kirjoittaa artikkeleita Wikipediaan.
+Takaovi on auki.
+Näytät todella hurmaavalta tänään.
+Ranskasi tulee koko ajan paremmaksi.
+Hän jäi yksin.
+Tom uskoo sen.
+Todella paha asia tapahtui hänelle.
+Ihanko niin?
+Tom ostaa usein kalliita vaatteita.
+Minun on uusittava englannin kokeeni ensi viikolla.
+Tom ei ollut kuullut mitään onnettomuudesta.
+Piste.
+En voi lähteä elokuviin.
+Kenelle Tom kertoi?
+Muiriel on ny kaksikymppinen.
+Emme nähneet yhtään lasta.
+En ole vielä kuullut hänestä sanaakaan.
+Irrota virtajohto modeemista, odota noin minuutti ja sitten yhdistä kaapeli uudelleen.
+Äitini antoi minulle helmikaulanauhan.
+Tomi on valehtelija.
+Menen vain tarkistamaan.
+Tom arvosti Marin ystävällisyyttä.
+Tom ei ole kovin hyvä kiipeämään.
+Hiero tahraa etikalla.
+Tomi ei pystynyt keskittyä.
+Kysymykseesi ei ole vastausta.
+Milloin aloit opiskella ranskaa?
+Eipäs vedetä liian hätäisiä johtopäätöksiä, jooko?
+Ei ole helppoa löytää tietä puistoon.
+Tomi ei koskaan auta minua.
+Olen todella yksinäinen.
+Olet vätys.
+En tiennyt, että te olisitte täällä.
+Hän tulee kotiin vähän ennen viittä.
+Hän sanoi, "Voin pahoin, mutta nyt olen kunnossa."
+Kiitos kun teit töitä niin kovasti.
+Missä ulkomaissa haluaisit käydä?
+Van Hornin perhe oli varakas.
+Paljonko on neliöjuuri sadasta?
+Mitä väliä!
+Pidättekö te mustista kissoista?
+Tomilla on ongelmia.
+Hän myy kukkia.
+Kerroin jo Tomille kaiken.
+Tomi ei ole läsnä.
+Aurinko nousee.
+Minulle ei ole väliä kuka voittaa.
+Tämä lause ei ole käännös. Se on alkuperäisversio.
+Huomasiko hän jotain epäilyttävää?
+Uuden mallin vähittäishinta on 30000 jeniä.
+Jos hän vain olisi täällä, hän kertoisi minulle mitä tehdä.
+Sinä tiedät, että vihaan sitä.
+Tiedän sen tarpeeksi hyvin.
+Uskon sinua.
+Olen iloinen kun saan tavata sinut taas.
+Hänellä on kuivat hiukset.
+Tämä on Maryn itse tekemä puku.
+Satoi lunta.
+Hevonen ei ole valkoinen.
+Eräs herra Miller haluaa tavata sinut.
+Tarvitsetko juristia?
+Näky oli virkistävä, eloisa, luonnollinen; kaunis päivä, syrjäinen soppi ja kaksi tyttöä, vapaina ja huolettomina, pistivät tanssien vapauttaan ja hilpeyttään juhlistaen.
+Voisitko ripustaa pyykit kuivumaan?
+Tom meni huvipuistoon.
+Savua nousi mökkien piipuista — kirkonkellot moikasivat tyynesti — vanhukset elivät ja kuolivat.
+Orava kiipesi puuhun.
+Sateenvarjot käyvät hyvin kaupaksi.
+En usko, että Tom haluaa nähdä sinua enää.
+Se on helppo sanoa.
+Sinun on jäätävä.
+Rakkaudella, Joni.
+Macintosh on eräs tietokoneen käyttöjärjestelmätyyppi.
+Minä en näe poikaanne.
+Ehkä voin auttaa.
+Minä olin lukemassa uudestaan kirjeitä, jotka lähetit minulle.
+Kohtele muita niin kuin toivoisit itseäsi kohdeltavan.
+Huomenna on vapaapäivä.
+Sinä joit liikaa.
+Tiedätkö mistä löydän hänet?
+Tulen pian takaisin.
+Syötkö kalaa?
+Olin varma että se oli Tom.
+Sinä torkahdit.
+Mikä on niin kivaa?
+Seis! Varas!
+Kiireesti!
+En minä tiedä, että pystynkö siihen, mutta yritän.
+Sade kesti läpi yön.
+Kuningatarehdokkaita oli kuusi.
+Tomi on vanhempi kuin hänen vaimonsa.
+Lähe menee!
+Tomi puhuu Marista koko ajan.
+Sinun täytyy lopettaa uhkapelaaminen.
+Se on lyhyen kävelymatkan päässä.
+Vektorien ei tarvitse vastata fyysisiä suureita; mikä tahansa voi olla lineaariavaruus, kunhan vektoreiden yhteenlasku ja skalaareilla kertominen on määritelty.
+Vittu turpa kiinni!
+Tom ei tiennyt, että Mari pitää ruoanlaittamisesta.
+En halua kuulla enempää typeriä vitsejäsi.
+Me olemme valinneet hotellin läheltä niitä museoita.
+Tom ei katsonut minne meni.
+Ketä me odotamme?
+Minulla on aivan mahtava olo.
+Tomi humaltui ja muuttui hyvin puheliaaksi.
+Pyhissä kirjoituksissa oli sanaleikkejä ja ne menetettiin käännöksessä.
+Haluaisitko vielä yhden palan kakkua?
+Tarvitsetko apua?
+Saatan kokeilla sitä.
+Toivottavasti emme häiritse sinua.
+Hänellä on silmää taiteelle.
+Se tulee olemaan helppoa.
+Olet tullut hulluksi.
+Tom ei osannut kelloa kuin vasta kolmetoistavuotiaana.
+Pesto on Jumalan lahja kansalle.
+Tomia alkoi huolestuttamaan.
+Tie on märkä ja se on liukas.
+Etkö tiedä, mitä eilen tapahtui?
+Olenko minä typerä?
+”Kiitti.” ”Ei mitään.”
+Mitä ”Tatoeba” tarkoittaa?
+Veljeni ei ole koskaan noussut Fuji-vuorelle.
+Tänään oli pahin päivä Sarajevossa.
+Luitko sen?
+Meillä on vielä tunti aikaa jäljellä.
+Isäni oli jo 40-vuotiaana täysin kalju.
+Odotamme enomme vierailua.
+Ajakaa!
+En pysty tähän tehtävään yksin.
+Biologia.
+Tyttäreni menee naimisiin kesäkuussa.
+Minulla on vaikeuksia ranskassa.
+Tom löysi lopultakin työpaikan.
+Menen Bostoniin huomenna.
+Tulen tekemään mitä tahansa miellyttääkseni häntä.
+Tapaus esti häntä menemästä Amerikkaan.
+Juokset.
+Juna oli niin täynnä, että meidän piti seistä koko matka Osakaan.
+Tomi on introvertti.
+Tomia karkoitetaan.
+Opiskelin ranskaa lukiossa.
+En tunne heistä kumpaakaan.
+Minä en puhu melkein yhtään ranskaa.
+Tom on hyvin utelias.
+Tom sai tietää totuuden Marilta.
+Toisinaan kuuntelen jazzia.
+Ostin vaimolleni älypuhelimen.
+Lausuin šahadaa.
+Antaisit jo olla!
+Pihlaja kukkii. On aika istuttaa pellava.
+Veljeni loukkaantui auto-onnettomuudessa.
+Majoituimme siellä häämatkallamme.
+Se on osittain sinun syysi.
+Voin suositella hyvää hotellia.
+Ärsyttikö Tomia?
+Minä otan keltaisen.
+Kenellä voi olla varaa ostaa niin kallis talo?
+Äitini on aina menossa.
+Selvästikään Tom ei ole vielä vakuuttunut.
+Rummut on tässä videossa ihan vitun ärsyttävät.
+Tiedätkö kuinka paljon kello?
+Tuo ei voi olla totta.
+Olitteko te hänen kanssaan sinä yönä?
+Nyt kun minulla on tarpeeksi rahaa, voin hankkia sen kameran.
+Nauroin niin kovaa, että melkein leukani menivät sijoiltaan.
+Tom istui kuljettajan paikalle ja ajoi pois.
+Tom sanoi olevansa kiireinen.
+Miksi teet noin?
+Käytkö sinä kirkossa joka sunnuntai?
+Häivy!
+Tomi juotti vartijat humalaan ja onnistui paeta linnasta.
+Tom pukeutui.
+Maailmassa on enemmän kuin 4000 kieltä.
+Tom ei mielellään ole yksin.
+Teidän veneenne ei ole iso.
+Mielestäni sinun pitäisi ajatella tulevaisuutta.
+Hieno puku.
+Pulssini on nopea.
+Milloin sinä tulet takaisin?
+Meg ja Ken istuivat penkillä.
+En ymmärrä tämän romaanin juonta.
+Terveys on minulle kaikki kaikessa.
+Minä todella rakastan teitä.
+Aion kirjoittaa heille viestin.
+Soittakaa minulle huomenna.
+Saisinko nimesi, kiitos.
+Hän opiskelee aina ahkerasti.
+Pitkällä urallaan hän ei koskaan ole nähnyt markkinoita niin korkealla.
+Minä puhuin vain saksaa.
+Kuulin huudon.
+Onko hän tulossa?
+Tomi näyttää todella hämmentyneeltä.
+Plagiointi on vakava yliopistoetiikan rikkomus.
+Tom otto avioeron Marista viime vuonna.
+Tom on saatettu murhata.
+Tervetuloa kotiini!
+Padon alapuolella oli vesimylly.
+Tapasimme yksinäisen puun alla.
+Suuri muutos on tapahtunut sodan jälkeen.
+Et ole vielä tavannut perhettäni.
+Käy istumaan, ole hyvä.
+Tom ei hengitä.
+Tom tunnusti tappionsa.
+Niin ei aina ole.
+Tom ei käytä huumeita.
+Tom toivoi, että Mari harkitsisi käyvänsä muutamissa taidemuseiossa Tomin kanssa.
+Avatkaa lukko.
+Sinä voit poistaa muutaman rajoitteen optimointiongelmastasi, jos sinä parametrisoit muuttujasi pallokoordinaateilla.
+Tomilla on tatuointi vasemmassa kädessään.
+Tomi oli äärimmäisen sairas.
+Myyttekö ranskalaisia sanomalehtiä?
+Euroopassa ja Amerikassa täsmällisyyttä pidetään itsestään selvyytenä.
+Mä en oo ylpee siitä.
+Minä en halua, että Tom kärsii.
+Sun hiukset on sekaisin.
+Teidän pitää työskennellä paljon.
+Olen keveä kuin höyhen, onnellinen kuin enkeli, riemukas kuin koulupoika. Olen pyörryksissä kuin humalainen mies. Hyvää joulua kaikille ja onnellista uutta vuotta koko maailmalle!
+Tuuletathan huoneeni sillä aikaa, kun olen poissa.
+Me ei tarvita sitä.
+Mä asun Bostonis.
+Minä rakastan sinua.
+Mukavaa koulupäivää.
+Jatkoin lukemista.
+En tiedä mitä sanoisin.
+Saimme lämpimän vastaanoton.
+Olen suuttunut Tomille.
+Olin juuri lähtemäisilläni.
+Mä en haluu puhuu Tomin kaa.
+Kukaan ei kävele Los Angelsissa.
+Hänen täytyy olla kiltti poika.
+Hän joutui vakavaan onnettomuuteen.
+Miksi sinä edes siitä välität?
+Jää tänne!
+Noudatamme vain käskyjä.
+Minkä kirjan te ostitte?
+Manny haluaa olla yksisarvinen, niin että tytöt ratsastaisivat hänellä.
+Tom auttoi Marya siirtämään huonekalut.
+Oletko ihan vakavissasi?
+Millainen on paras hallinto? Sellainen, joka opettaa meitä hallitsemaan itseämme.
+Tomi on typerä.
+Olen vapaana tänään.
+Jopa Tom pelkää Maria.
+Uskon sinuun.
+Mitenköhän Tomi mahtaa reagoida?
+Jos teet vaatteet omin käsin, säästät rahaa.
+Sinulla ei ole suuntavaistoa.
+Pidän hänestä kaikista opettajista eniten.
+Tom puisti päätään käsittämättä.
+Onko totta, että "kiitos" vietnamiksi kuulostaa samalta kuin "come on"?
+Katsotaanpa sitten henkkarit.
+Hau, hau, hau!
+Se, mitä Tomille kävi, oli yhtä painajaista.
+Hän käyttäytyy kuin lapsi.
+Lainasin tämän sarjakuvan hänen siskoltaan.
+Kuunnellaan nauha.
+Sipulit ovat jo alkaneet itää.
+Kissat näkevät pimeässä.
+Luuletko olevasi fiksumpi kuin Tom?
+Menen mieluummin jalan kuin bussilla.
+En osannut odottaa sitä.
+Älä huoli.
+Ne ovat melko uusia.
+Minua tanssittaa.
+Tom ei saanut autoaan käynnistymään.
+Hän on täydellinen mies.
+Mikä juna menee kaupungin keskustaan?
+Missä vaarisi asuu?
+Katson, hankin kukkatatuoinnin tähän vatsalleni.
+Meidän olisi pitänyt ostaa vielä yksi pullo viiniä.
+Tämä orava on allerginen pähkinöille.
+Olin niin onneton.
+Täydellinen yksityisyys Facebookissa on harhaa. Sitä ei ole todellisuudessa olemassa.
+Oliko se sinulle vain peliä?
+Mari on vakooja.
+He ovat myöhässä.
+Mitä teit eilen?
+Tomi ei ollut siitä tietenkään iloinen.
+Sinä olet edelleen vihreä.
+Haluaisin, että keittäisit minulle teetä.
+Et saa häntä ikinä myöntymään.
+Hän tuli.
+Minua pelottaa hypätä ojan yli.
+Ajattelin, että saattaisit haluta Tomin pelaavan golfia kanssasi.
+He eivät puhuneet.
+Se, onnistutko vai et, riippuu ponnisteluistasi.
+Tomi pelkää.
+Tom ja hänen isänsä rakensivat tämän.
+Hän sanoi tytölle, että rakasti tätä.
+Tomi löysi uusia todisteita.
+Saat siitä sanani.
+Olimme onnekkaita.
+Olisi ollut kiva, jos olisit vähän varoittanut.
+Juttelin Tomin kanssa yli tunnin ennen kun hän sanoi jotain, joka sai minut tajuamaan, että hän ei puhunut äidinkieltään.
+Olet niin säälittävä.
+Teidän pitäisi lähteä niin nopeasti kuin mahdollista.
+Pukeuduimme.
+Kerroitko hänelle, että se oli vitsi?
+Miksette te kysy teidän opettajaltanne neuvoa?
+Tämä on niin helppo harjoitus, että kuka tahansa oppilas voi ratkaista sen.
+He eivät tule olemaan kylmissään.
+Olisit turvassa siellä.
+Kissa raapaisi minua.
+En ole varma siitä, mitä ajattelin.
+Minun pitää mennä nyt.
+Missä sinä yövyt?
+Suunnittelen yöpyväni hotellissa.
+Miten te käytätte tätä konetta?
+Nyt on parempi.
+Minulle maistuisi toinen olut.
+Tom on luokan huonoin oppilas.
+Ketkä voittivat?
+Koulu oli suljettu taifuunin takia.
+Tunnen oloni niin yksinäiseksi joskus.
+Minä myös haluan tulla.
+Todellisuudessa on liberalistinen vääristymä.
+Tomi on ainoa, joka osaa korjata tämän.
+Sinähän uskot mitä minä kerron, eikö niin?
+Hän on onnellisin ollessaan lastenlastensa kanssa.
+Tom on todella hyvä ranskassa.
+Minusta sinusta tulee hyvä isä.
+Onko tämä sinun kuvasi?
+Mä näytin sille keskaria.
+Sitä en usko.
+Poika ja mies ovat juomassa vettä.
+Olen ostanut uuden paletin ja muutamia maalipensseleitä.
+Miten sinä opit ranskaa?
+Sen jälkeen hän meni kotiinsa.
+Voisitko ikinä harkita meneväsi ulos jonkun minunlaiseni kanssa?
+Kuolisin ennemmin kuin tekisin jotain sellaista.
+Kuinka ihania vanhat, hyvät päivät olivatkaan.
+Tom vapautti linnun.
+Tomia huolettaa.
+Sinun täytyy lopettaa se.
+Tomi puhuu entisestä tyttöystävästään paljon.
+Yövyttekö tässä hotellissa?
+Minulla on paljon tekemistä tänään.
+Tom ei varmaankaan olisi tyytyväinen, jos Mary menisi treffeille Johnin kanssa.
+Tom pitää minua nössönä.
+Hän on professorini.
+Kusipää!
+Mandariineissa on paljon C-vitamiinia.
+Herätä heidät.
+Miten hänen nimensä sanotaan?
+Anna kaikkien pitää huoli omista asioistaan.
+Me saimme anonyymin puhelun.
+Vähäiset tienaamansa rahat hän käytti kirjoihin.
+Tom puhuu paremmin ranskaa kuin Mari.
+Rakastan sitä miten Tom nauraa.
+Sateenvarjot myyvät hyvin.
+Sinä haluat salaisesti.
+Ymmärrän, mitä sinä ajat takaa.
+Tunnen oloni jossain määrin epämukavaksi, kun istun tuolilla japanilaisissa vaatteissa. Tuntuu kuin tuuli puhaltaisi lahkeensuusta sisään.
+Yritin arvata Tomin ikää.
+Ajatteletteko te vakavasti menemistä?
+Kuinka paljon jalkapallo painaa?
+Muuttakaa.
+Karukka on mustaherukan ynnä karviaisen risteymä ja erittäin maukas, kuten myös vähän tunnettu.
+Siirretään sohvaa.
+Se on hyvä.
+Kaikkihan me tiedämme, että kukaan ei ole täydellinen.
+Hän on hulluna sinuun.
+”Kuinka monta kertaa pystyt punnertamaan, Tom?” ”Pystyin aikaisemmin tekemään helposti sata punnerrusta, mutta kuinkahan monta pystyn tekemään nyt? Ehkä viisikymmentä tai jotain sinne päin?”
+Haluan oppia ruotsia.
+Älä käännä tätä lausetta.
+Hän syö.
+Eilen hän näki suuren miehen.
+Tomi on mennyt pois.
+Tom opiskeli musiikkiteoriaa.
+Lapset, kuunnelkaa!
+Saisinko lisää teetä?
+Ei ole Tomi eikä Mari ollut minulle kiltti.
+Meillä on hommia.
+Haluatko sinä koettaa?
+Tomi istui lempituolissaan.
+Työ edeltää pääomaa ja on siitä riippumaton. Pääoma on vain työn hedelmä eikä sitä olisi voinut olla ikinä olemassa, jos työtä ei olisi ollut olemassa ensin. Työ on pääomaa ylempiarvoisempi ja se ansaitsee paljon korkeamman korvauksen.
+Te sanoitte, että te auttaisitte häntä.
+Annetaan Tomin puhua.
+Tomi liittyi armeijaan.
+Milloin juhlat ovat?
+Kaikki mitä hän sanoi oli totta.
+Kenellä on nälkä?
+Rasia on kyllin kevyt lapsen kantaa.
+Tom oli haluton menemään yksin.
+Miltä sinusta tuntuisi tässä tilanteessa, jos olisit Tom?
+Tomi haluaa tappaa meidät.
+Minun kelloni täytyy korjata.
+Isi ei oo kotona.
+Toimintaa!
+Löydät kyllä työpaikan.
+On taottava kun rauta on kuumaa.
+Köln on Reinin varrella.
+Japanissa ihmisistä tulee laillisesti täysi-ikäisiä kaksikymmentävuotiaina.
+Valistunein tapa elää on halveksua vakiintuneita tapoja, kuitenkin samalla elää niihin sopeutuen.
+Te voitte poistaa muutaman rajoitteen optimointiongelmastanne, jos parametrisoitte muuttujanne pallokoordinaateilla.
+Tom väitti että se oli onnettomuus.
+Perkele.
+Tom oli toiveikas.
+Auto törmäsi seinään.
+Saitko työt valmiiksi?
+Tom nousee ylös joka aamu kuudelta.
+En tiennyt, että jalkapallo on niin vaarallinen urheilulaji.
+Käräytin Tomin flirttailemassa vaimoni kanssa.
+Kukkulan takana on kaunis laakso.
+Astu jeeppiin.
+Vastanaineet.
+Minun olisi pitänyt mennä eiliseen kokoukseen.
+Se auto on keltainen.
+Venäjällä on näkyvissa suuria taloudellisia vaikeuksia.
+Tom pakotti itsensä hymyilemään.
+Minusta on vain vaikea uskoa, että Tom todellakin uskoo niin.
+Naiskolmikko hymyili.
+Tervetuloa Australiaan!
+Eipä kestä kiittää!
+Tom töin tuskin hipaisikaan vastustajaansa.
+Tumma leipä on suosittua Saksassa.
+Klikkaa kuvaa kuullaksesi eläimen äänen.
+Moi!
+Yritätkö ostaa minut hiljaiseksi?
+Marraskuun lopulla he hyökkäsivät Suomeen.
+Minua huijattiin.
+Kyllä, minä itken.
+Hiiriä pidetään lemmikkeinä.
+Älä itke.
+Haluan katsoa televisiota.
+Minä vein Tomin sairaalaan.
+Nouse ylös, Tom!
+Olen väsynyt!
+Tomi kertoi minulle, että te olette täällä.
+Figaro kutsui meidät häihinsä, mutta kun saavuimme paikalle, kaikki olivat jo lähteneet.
+Tom istui alas kivelle ja otti pikkukiven pois kengästään.
+En käske sinua menemään yksin.
+Lasku, kiitos.
+Häiritseekö se sinua?
+Tom on levoton.
+Laula!
+Hän ei juonut maitoa.
+Hän on apulaisjohtaja.
+Jätä minut.
+Hän puhui sujuvasti ranskaa.
+Mennään sisään ennen kuin lumisade alkaa.
+Meidän täytyy jäädä tänne haluamme tai emme.
+Harrastukseni on golfin pelaaminen.
+Minulla oli todella hauskaa juhlissa.
+Kuinka paljon rahaa sinä haluat?
+Poika teki pilaa tytöstä.
+Potku!
+En halua menettää poikaystävääni.
+Hiihdän usein.
+Yleensä me syömme ennen seitsemää.
+Ostin uuden auton.
+Äitini pitää teestä todella paljon.
+Ethän jätä minua yksin?
+Nyt tajuan miksi hän oli minulle vihainen.
+Laitoitko sinä sen nyt johonkin Facebookiin?
+Tykkäätkö Tomin tatskasta?
+Kaikki toimii juuri kuten Tom ennustikin.
+Tom pysyi vahvana.
+Muisto ei ole vakaa.
+Se tuntuu appelsiinilta.
+Teen keittoa suuressa kattilassa.
+Hän ahdisteli häntä niin kauan kunnes hän kertoi hänelle sen, mitä hän halusi tietää.
+Koko luokan täytyi opetella runo ulkoa.
+Minäkään en pidä siitä.
+Hän kuoli siihen sairauteen.
+Miten käytätte tätä konetta?
+Kuvaus, joka on kaikkialla differentioituva, on jatkuva.
+Pyykit voivat odottaa.
+Tyttäreni menee naimisiin kesäkuussa.
+Voisitko siivota pöydän?
+Jounin kaltainen rehellinen mies ei ole voinut valehdella.
+Ottaen tämän asian huomioon, minusta tuntuu, että roskamedia uutisoi vain vääristynyttä tietoa.
+Se on monimutkainen ongelma.
+Hän on rumilus.
+Neljän prosentin inflaatio on tämän vuoden ennuste.
+Näytät nuorelta.
+Minun olisi pitänyt noudattaa Tomin ohjeita.
+Minun täytyi auttaa Tomia.
+Haulikkoni on tyhjä.
+Tiedätkö mikä hänen nimensä on?
+Ei ikinä.
+Tuo neglige saa hänellä sukat pyörimään jaloissa!
+Menet kanssamme.
+Olen nyt kiireinen enkä voi mennä ulos.
+Hänen puhelimensa oli kiinni.
+Tomia ei voi pysäyttää.
+Me käytämme ranskaa vain kotona.
+Hän onnistuu varmasti.
+Minun täytyy lähteä.
+En tiennyt, että te tulisitte olemaan täällä.
+Nämä rauniot ovat ikivanhoja.
+En avaa ovea Tomille.
+He kiduttivat Tomia.
+Tom oli uteleva.
+Puhumme myöhemmin.
+Herjat ovat argumentittomien argumentteja.
+Minut on haastettu oikeuteen.
+Odotan innolla ensi viikonloppua.
+Tom on nukkumassa.
+Me haluamme käydä tämäniltaisessa konsertissa.
+He tuhosivat vihollisen.
+Haluaisin tulla sinun mukaasi, mutta minulla ei ole yhtään rahaa.
+En nähnyt häntä koskaan farkuissa.
+Meillä on ne.
+Luonnollisten lukujen käsite on kenties matematiikan perustavanlaatuisin käsite.
+Anteeksi, että olen myöhässä.
+Suunnitelmani oli erittäin vaikuttava.
+Hän nukkuu jo.
+Potilas oli vaarassa.
+Rakastatko sinä Tatoebaa?
+Laita televisio kovemmalle.
+Hän ei osannut ilmaista itseään.
+Oletko varma, että olemme menossa oikeaan suuntaan?
+Koputa puuta!
+Opettaja havainnollisti ajatusta kokeella.
+Rouva Woods oli erinomainen ruoanlaittaja.
+Me ei olla ees suudeltu.
+Mitä minun pitäisi tehdä seuraavaksi?
+Missä ravintola on?
+Minä yövyin mukavassa hotellissa.
+Sieluni ei ole inhimillinen, sillä se on toisesta ulottuvuudesta.
+Näin Tomin katsovan itseään peilistä.
+Mistä siinä oli oikein kyse?
+Presidentti luopui aikeestaan, koska se ei ollut käytännöllinen.
+Selitän sen yksityiskohtaisesti ensi viikolla.
+Tällä hetkellä kun taloutemme on kasvussa, yrityksemme luovat työpaikkoja nopeimpaan tahtiin sitten 1990-luvun ja palkat ovat taas lähdössä nousuun, meidän täytyy tehdä valintoja siitä, millainen maa me haluamme olla.
+He kerääntyivät leiritulen ympärille.
+Mihin olet matkalla, Tom?
+On vaarallista kiivetä tuolle vuorelle.
+Minun kelloni mukaan kello on nyt neljä.
+Jos islanninkielisellä lauseella on englanninkielinen käännös ja tämä englanninkielinen lause on käännetty swahiliksi, niin näin tarjotaan epäsuorasti swahilinkielinen käännös islanninkieliselle lauseelle.
+Harva ihminen osaa puhua vierasta kieltä täydellisesti.
+Tomilla on kiire.
+En usko Tomin haluavan vanhaa pyöräänne.
+Saavuit liian aikaisin.
+Minulla ei ole aavistustakaan miten tämä tapahtui.
+Tämä yritys epäonnistui.
+Hän pisti tyttöystävänsä paksuksi, joten heidän piti mennä naimisiin.
+Tarvitsen apua kipeästi.
+Toivon sinun olevan ikuisesti onnellinen.
+Syö vain ihan vapaasti, mitä jääkaapista löytyy.
+Tomi osti jotain Marille.
+Hän on vähän mustasukkainen.
+Yritän vältellä hautausmaan läheltä kulkemista pimeän tulon jälkeen.
+Tomi on juonikas.
+Se hevonen hyppää.
+Haluaisin kokeilla tätä uutta mallia ennen kuin ostan sen.
+Ilman teidän apuanne en olisi voinut tehdä sitä.
+Hän päätti pitää päiväkirjaa.
+Haluatko sinä yrittää?
+Eikö se ole sinulle tarpeeksi?
+Minulla on ollut vatsakipuja.
+Vastaa minun kysymykseeni.
+He ovat todella fiksuja.
+En usko, että sellaisia asioita on olemassa.
+Minulla oli ihan hyvä olo.
+Monet Tomin asiakkaista ovat miljonäärejä.
+Tule pian takaisin.
+Olemme tottuneet odottamaan.
+Hän muutti Tokioon.
+Päästäkää hänestä irti!
+Pidän hänen tyylistään: hän on aggressiivinen ja määrätietoinen nainen.
+Haluan puhua Tomille ensin.
+Tomi ei ottanut sitä mukaan.
+Voin tänään paljon paremmin.
+Opin vähän ranskaa.
+Voisitko kertoa langattoman verkon salasanan?
+Ongelma oli niin vaikea, että en voinut ratkaista sitä.
+Täytyykö minun vaihtaa junaa?
+Hän ei voi juosta kovin nopeasti.
+Tom haluaa talon, jossa on suuri piha ja valkoinen paaluaita.
+Kuka sanoi, että voisit tehdä sen?
+Minä en voi mitään sille, että pidän vieläkin Tommista.
+Suihkulähde on tuolla.
+Jos minun veljeni ei olisi auttanut minua, olisin hukkunut.
+Minulla oli kiire eilen.
+Hän myöhästyi 8:30 junasta.
+Tom kieltäytyi kertomasta meille mitä oli tapahtunut.
+Tom ei ole koskaan tuottanut minulle pettymystä.
+Tarvitsen vapaaehtoisia.
+Mää oon laiska.
+Tom ei ole kipeä.
+Miten sanotaan XXX portugaliksi?
+Minä tulen juomaan kahvin.
+Mistä löytäisin puhelinkopin?
+Jatka.
+Tämä nojatuoli on mukava.
+Kirjoitan päiväkirjaa joka päivä.
+Taloni takana oli ennen iso kirsikkapuu.
+Kuussa on salainen tukikohta.
+Jos ei olisi aurinkoa, emme voisi elää.
+Tasa-arvoisessa yhteiskunnassa ei ole sijaa sovinismille.
+Tom on asunut täällä lapsesta saakka.
+Minulla on oikeastaan melko kiire.
+Tulipalo alkoi Tomin huoneesta.
+Voinko minä istua tähän?
+Tom on tiukka.
+Asun Taškentissa.
+Hän vihasi aviomiestään.
+Meidän on aika mennä.
+Räppäri ilman blingiä on kuin paavi ilman krusifiksiä.
+Hän on kaunis, mutta ylimielinen.
+Alkoholin käyttö lisääntyy joka vuosi.
+Hän tappoi itsensä ottamalla myrkkyä.
+Voisitko kertoa minulle mitä odotat?
+Voi kun olisin pannut päälleni lyhythihaisen.
+Se oli loistava kokous.
+Tom laitettiin vankilaan.
+Pystyt parempaan.
+Seurusteletteko te kaksi?
+Tämä on todella tärkeä näkökohta.
+Mahdat olla väsynyt. Käy ihmeessä nukkumaan.
+Tom ei kuuntele mitä Mary sanoo.
+Sillä välin voin tehdä itseni ymmärretyiksi.
+Sini- ja kosinifunktiot saavuttavat arvoja miinus yhden ja yhden väliltä, miinus yksi ja yksi mukaanlukien.
+Rakastatko sinä Tomia?
+Olen vilustunut.
+Koulutus alkaa kotona.
+Nolasinko sinut?
+En aikonut sanoa niin.
+Ne linnut laulavat.
+Tomi ei huomannut mitään epäilyttävää.
+Tomi on hassu.
+Tomi sanoo, että hän käy lenkillä vähintään kolme kertaa viikossa.
+Rakastan molempia niistä.
+Tomi oli surullinen.
+Ennen minä kunnioitin Tomia.
+Tomia pelotti.
+Nauran tuskin koskaan.
+Kuuntelen Espanjan radiota.
+Löysimme sen.
+Kiipeä.
+Unohdin, ettei Tom puhunut ranskaa.
+Te pärjäätte paremmin ilman Tomia.
+Hän yksi pelkuri.
+Juodaan teetä.
+Sammuta radio ole kiltti.
+Se oli vaan yks pusu.
+En voinut muuta kuin nauraa.
+Hän ei voinut olla ajattelematta häntä.
+Kylmät, kosteat päivät ovat pahaksi terveydelle.
+Minulla on sinulle pieni lahja.
+En vain pysty ymmärtämään mitä pyörii niiden ihmisten mielissä, jotka trollaavat foorumeilla.
+Onko meillä varaa tähän?
+Oli kauhea ilma.
+Hansikkaat ovat mukava lahja.
+Kolme kertaa viisi on viisitoista.
+Hän haluaa tulla simultaanitulkiksi.
+Tomin kimppuun hyökkäsi Marin sisko.
+Olemme samaa mieltä.
+Haluan viettää koko elämäni kanssasi.
+Voit toteuttaa unelmasi kovalla työllä.
+Mä sairastuin, joten en päässyt paikalle.
+Mari tarvitsee uudet kengät.
+Sanotaan hänen olleen muusikko nuorena.
+Kuunnelkaa.
+Yövyin eilen kaverini luona.
+Otin kirjan hyllyltä.
+Tom on juuri saanut päivällisen syötyä.
+Lähe lätkimään siitä.
+Kysymykseesi on helppoa vastata.
+Tankissa on vain vähän vettä, jos yhtään.
+Pääsen sinusta yli.
+Onko sinulla kaksoissiskoa?
+Me ollaan valmiita taistelemaa.
+Nepalia kutsutaan nimellä ”Nepal” nepaliksi.
+Auta meitä.
+Minä en tykkää pizzasta enää.
+Tom ei välitä huomisesta.
+Yrität liikaa.
+Luovuttakaa!
+Mikä oli teidän pääaineenne yliopistossa?
+Olen korjaamassa sitä taloa.
+Sinulla on kauniit huulet.
+Hän on vain kateellinen nuoruudestasi.
+Heidän asuinkaupungissaan on iso espanjankielinen yhteisö.
+Millä nimellä haluat, että sinua kutsutaan?
+Minä pääsen sinne jotenkin.
+Kaikella kunnioituksella, se on minusta paskaa.
+Lasken minuutteja siihen kunnes näen sinut uudestaan.
+Meni syteen tai saveen, meidän on tehtävä parhaamme.
+Yhä usemmat parit käyvät häämatkoilla ulkomailla.
+Tim ei saanut moottoripyöräänsä käynnistymään.
+Japani on omituinen maa.
+Tom on luultavasti kuollakseen pelästynyt.
+En vieläkään pysty saamaan päähäni minkä sortin neropatti ajatteli, että tämä olisi hyvä idea.
+Kokeilu onnistui.
+Kuinka paljon tämä maksoi?
+Tom peitti suunsa.
+Meidän täytyi hyväksyä täysi salassapitovelvollisuus ja allekirjoittaa salassapitosopimus.
+Olen kuullut sen laulun laulettuna ranskaksi.
+Oletko tulossa konserttiini?
+Me olemme aina varovaisia.
+Tom omaksui tuon tavan isältään.
+Hän ei ole sellainen ihminen kuin luulet hänen olevan.
+Uima-allas on avoinna yleisölle.
+Tomin äiti kuoli nuorena, koska hän joi ja tupakoi liikaa.
+Hän tulee hyvin toimeen työntekijöidensä kanssa.
+Minä en olisi antanut Tomille tapahtua mitään.
+Onko ranska vaikea kieli?
+Pysäyttäkää Tom.
+Olin ennen poliisi.
+Oletteko te kaikki tulleet hulluiksi?
+Ei ole mitään pahempaa kuin sota.
+Haluaisitko katsoa peliä kanssani?
+Mene asiaan.
+Sekoitan majoneesin ketsuppiin.
+Minä viihdyn seurassasi.
+Tomilla oli vain yksi sukkapari ja niissäkin oli reikiä.
+Kaikki ovat niin ylpeitä sinusta.
+No, kerro!
+Halusin tavata Tomin.
+Tiedän, että Tom pelkää potkuja.
+Milloin menit Roomaan?
+Mistä kirja kertoo?
+Voinko minä käyttää sinun lyijykynääsi?
+Maaliskuu on vuoden kolmas kuukausi.
+Tomi on todella hyvä juoksija.
+Hän on jatkanut pitkään.
+Tehdään se minun tavallani.
+Voisitko kenties kääntää sen minulle?
+Isäni käy töiden takia usein Amerikassa.
+Tom kysyi tarvitsenko taksia.
+Tom kävi eilen Marin luona kylässä.
+Hän järjestää juhlat ensi viikolla.
+Tomilla ei ollut mitään tekemistä, niinpä hän meni kotiin.
+Olet isoissa vaikeuksissa.
+Tomi on jatko-opiskelija.
+He ovat suloisia.
+Kuinka pitkään aiot olla kirjastossa?
+Tärkeintä ei ole mitä teet vaan miten teet.
+Perheellä oli kovat ajat sodan jälkeen.
+Useimmat ihmiset eivät ajattele niin.
+Olet nyt mies.
+En tosiaankaan ymmärrä tätä ongelmaa.
+Olemme tuoneet teille lahjan.
+Vaikka nukuinkin viime yönä 12 tuntia putkeen, olen yhä melko väsynyt.
+Miksi me juhlimme?
+Haluan katsoa televisiota.
+Tomi kysyi Marilta, että aikooko hän tehdä noin.
+Tekisitkö sen mieluummin tänään?
+Se oli vitsi.
+Tomilla on iso talo.
+Raskas lumisade tukki tiet.
+Hän on ylpeä, koska oli ollut kaunis nuoruudessaan.
+Mikä sinun pääaineesi oli yliopistossa?
+Kiitos vinkistä.
+Siinä on jalanjälki.
+Kaikki kolme miestä hymyilivät.
+Palvelin ei ollut toiminnassa.
+Se ei ole juttu eikä mikään.
+Mikä se on?
+Hän ei ikinä nähnyt Tomia sen jälkeen.
+Brownin ainutlaatuinen tyyli opettaa jätti lähtemättömän merkin opiskelijasukupolviin.
+Minä asuin Tokiossa muutama vuosi sitten, mutta nyt asun Kiotossa.
+Tom tulkkasi Marin puheen ranskaksi.
+Tomilla on heikko sydän.
+Hän ei pysty pysäyttämään häntä.
+Näen sinut hyvin pian.
+Haluan nähdä enemmän.
+Mistä televisio-ohjelmasta pidät eniten?
+Tom istui kyydissä takapenkillä.
+Kaipaatko Tomia?
+Tänään minä käyn äidinisäni haudalla.
+Aliarvioit Tomin.
+Minulla on tässä vaarallinen tilanne.
+Tomi ja Mari ovat tulleet tänne auttamaan meitä.
+Ehkä minä voin tehdä sen uudestaan.
+Todiste siitä että välimerkeillä on väliä, on lauseet "syödään isoisä" ja "syödään, isoisä".
+Hän kieltäytyi sanomasta asiasta enempää.
+Valitsin nämän kenkien sijaan.
+Minne olet menossa?
+Nykyään harvat kärsivät tuberkuloosista.
+Voit ottaa mitä tarvitset.
+Kiitos kun autoit minua läksyissä.
+Pankki sulkeutuu kello 15.
+Minä vain haluan mennä takaisin.
+Tom ei satuta sinua.
+Emme ole vanhoja.
+Olen saanut sinulta flunssan.
+Minä haluaisin pyytää sinulta palvelusta.
+Tommi sanoo, että hän suunnittelee lahjan ostamista Marille.
+Minulla ei ole mitään sinulle sanottavaa.
+Tulemme olemaan onnellisia.
+Palautitko Tomin kirjan?
+Koska vain.
+Hän on isäni äiti. Hän on isänpuoleinen isoäitini.
+Sano terveisiä vanhemmillesi.
+Laita ovi kiinni lähtiessäsi.
+Kuuntele tarkkaan.
+Mua janottaa.
+Ovatko he Tomin veljiä?
+Kone on valmiina.
+Ette saa koskaan tietää, ellette te yritä.
+Sinun neuvostasi on ollut minulle todella paljon apua.
+Sinun pitäisi kiinnittää enemmän huomiota omaan turvallisuuteesi.
+Twitterin motto on ”paras tapa saada tietää mitä uutta maailmassa tapahtuu”.
+Tomi on kadonnut.
+Hän oli omahyväinen luonnostaan.
+Tomi ei tehnyt yhtäkään virhettä.
+Tomi suuteli Maria intohimoisesti.
+Olipa kerran kuningas, jolla oli kaunis tytär.
+Olen opettaja.
+Tulin tapaamaan Tomia.
+Miten teijän reissu meni?
+Uudet turkistakit olivat nähtävillä ikkunassa.
+Mitä sinä harrastat?
+Minä osaan puhua ranskaa.
+Sinun täytyy työskennellä enemmän.
+Sinä et tee kuolemaa.
+Annatko minulle hiukan?
+Tämä on omena.
+Se on surullista mutta totta.
+Anteeksi se parin päivän takainen.
+Mitä mieltä te olette Tomin nenärenkaasta?
+Unohtakaa kaikki, mitä kerroin teille!
+Olet tarkka.
+Laskekaa ankkuri!
+Hän huusi apua.
+Viime yönä tässä lähistöllä oli suuri tulipalo.
+Tämä ei ole hauskaa.
+Antaisitko minulle tämän kynän lainaan?
+Tatoebassa se on tärkeämpää, että käännös kuulostaa luonnolliselta, kuin että se on täysin uskollinen alkuperäiselle lauseelle.
+Tom tosiaankin vaikuttaa ottaneen varaslähdön.
+Minulla on vähän rahaa mukanani.
+Haluan veneen, joka veisi minut kauas pois täältä.
+Tom tiesi mitä tulisi tapahtumaan.
+Hän sanoi minulle, "Älä pidä sellaista melua."
+Miten kamalaa!
+Menen seuraavalla bussilla.
+Miten se äännetään?
+Oletteko te kiinalaisia?
+Sinä osaat vähän ranskaa, eikö niin?
+Luen sitä kirjaa.
+Hyvästi.
+Olet kaunis ja älykäs. Miten on mahdollista, että kukaan mies ei jahtaa sinua?
+Ei vielä.
+Millaista ruokaa haluat minun tuovan?
+Ymmärrättekö?
+Totuuden nimessä, hän teki parhaansa.
+Menemmekö kahville?
+Matemaatikot ovat kuin ranskalaiset ihmiset: mitä tahansa kerrotkin heille, he kääntävät sen omalle kielelleen ja muuttavat sen joksikin aivan muuksi.
+Olisinpa Suomessa.
+Tom on Marin lankomies.
+Ja sillo hän alko pussaileen mua uusiks.
+En jaksa malttaa odottaa, että saan halata sinua taas.
+Onko pääsi kipeä?
+Kyllä sillon ku ajaa niin pitäis tiätä kattoo.
+Tomi yritti uudelleen.
+Voinko minä kysyä tyhmän kysymyksen?
+Äitien pitäisi rakastaa kaikkia lapsiaan tasapuolisesti.
+Anteeksi, unohdin sen.
+Moi tytöt!
+Onko Tomilla kokemusta?
+Tom on ollut paljon onnellisempi sen jälkeen kun hän vaihtoi työpaikkaa.
+Painu vittuun siitä!
+En aio olla hiljaa.
+Tomi tykkää ideasta.
+Tom ei tiedä mitä sanoisi saadakseen Maryn paremmalle tuulelle.
+Pidähän kivaa!
+Voi olla, että et halua tietää.
+Hänen apunsa tuli viime tingassa.
+Kerro minulle miksi hän itkee.
+Tomi osti lahjan tyttärelleen.
+Tomin talo on helppo löytää.
+Tomi haluaa nukkua sillä rannalla.
+No mitäs tuumit?
+Ole hiljaa.
+Tom on kuuluisa kokki.
+Ole varovainen tuon veitsen kanssa.
+Missä pomo on?
+Minä luin väärin.
+Onko kaikki kunnossa?
+Tomin uusi tyttöystävä on todella nuori.
+En pidä liiketoimien ja huvin sekoittamisesta.
+Pahastutko, jos istun tähän?
+Maistuisiko sinulle lasillinen?
+Oletko varma tiedoistasi?
+Tapetaan täällä vain vähän aikaa.
+En aio lopettaa nyt.
+Kaksi kertaa kaksi on yhtä kuin neljä.
+Naapurini on kleptomaani.
+Olen varma, että hän tulee.
+En ymmärtänyt kysymystäsi.
+Puhun ranskaa ainoastaan Tomin kanssa.
+Se on täysin minun syytäni.
+En tule kotiin.
+Hän on mustasukkainen ja järjetön.
+Minä olen geenimuunneltu olio.
+Jonain päivänä sinä tiedät totuuden.
+Haluatko kertoa minulle jotain Tomista?
+Tuo kuulostaa mahtavalta.
+Murheenmurtamien pakolaisten kasvoille nousi hienoinen hymy.
+Asuuko hän täällä?
+Tomilla on iso koira.
+Mietitkö sinä vakavissasi lähtemistä?
+Onko täällä jokin hätänä?
+Vastaa minulle!
+Ajat muuttuvat.
+Onko sinulla edelleen avain Tomin asuntoon?
+Hän osaa puhua sujuvasti ranskaa.
+Tom kysyi Marilta auttaisiko hän häntä.
+Ymmärrän nyt.
+Tomilla on varaus tässä hotellissa.
+Unohdit jakaa X:llä tässä.
+Häät ovat kalliita.
+Toivon, että pystymme pysymään yhteyksissä.
+Tom otti iPhonensa ulos takintaskustaan.
+Se ei koitunut ongelmaksi.
+Vastauksesi oli hämmentävä.
+Tomin operoinut kirurgi on hyvin kokenut ja erittäin arvostettu.
+Tom sanoo, että hän haluaa puhua sinulle.
+Tomi on fiksumpi kuin minä.
+Minua haluttaa ottaa yhdet.
+Tyttö osti huulikiiltoa lähikaupasta.
+Tom on huolissaan.
+Tiedätkö miksi käyrätorvea sanotaan ranskaksi?
+En ole koskaan nähnyt niin hirveää onnettomuutta.
+Olen varma, että hän on oikeassa.
+Kenen kanssa minä puhun?
+Hän keskeytti heidät, kun he olivat syömässä aamiaista.
+Olen iloinen siitä, että haluat tukea tätä hanketta.
+Juokse.
+Minulta vaaditaan, että opiskelen hyvin.
+Olen ranskalainen lääkäri.
+Tom sanoi ei.
+Sinun ei tarvitse sanoa sitä noin väheksyvin sanoin.
+Osta valkovenäläistä!
+Tomilla oli vain vähän muodollista koulutusta.
+Tein sen alusta alkaen.
+Tomia haastatellaan TV:ssä.
+Ajatteletteko vakavissanne menemistä?
+Tom ei syö paljon lihaa.
+Olet edelleen kokematon.
+Toivon, että Tom kiirehtisi.
+Tomista tulee pian isä.
+Tom piipahti kylässä.
+Hän liikkui hitaasti eteenpäin.
+Hän saapuu aina myöhässä kouluun.
+Jos hän opiskelisi kovasti, hän voisi päästä tutkinnosta.
+Tykkään katsoa telkkaria.
+Minä tiedän, että voimme voittaa.
+Tomin oli pakko kertoa Marille totuus.
+Et voi estää Tomia menemästä töihin tänään.
+Yritin seurata ohjeistasi.
+Minä rakastan minun vaimoani.
+Tom piiloutui lohkareen alle.
+”Ottaisitko toisen kupin kahvia?” ”Ei kiitos.”
+Kaikki näytti normaalilta.
+Se kuulostaa oudolta.
+Hän ei sydämeltään ole valehtelija.
+Tom ei odottanut.
+Täällä on mukavan hiljaista.
+Koulutus on avain menestykseen.
+Sain Tomin tekemään sen puolestani.
+Mitä sä höpiset?
+Kunpa en olisi naimisissa.
+Näytät eurooppalaiselta.
+Älä fuskaa.
+Ei meillä ole mitään salattavaa.
+Mahani murisee.
+Pidä se lämpimänä.
+Tomi oli surullinen.
+Tomia kauhistutti.
+Kuinka paljon on nollan kertoma?
+Parillisen ja parittoman luvun tulo on parillinen ja kahden parittoman luvun tulo on pariton.
+Tom on nyt aikuinen mies.
+Meidän olisi pitänyt mennä viileämpänä päivänä.
+Hän on ollut pitkään sairaana.
+Haluaisin sinun maksavan rahan etukäteen.
+Voimme tehdä sen.
+Lopeta uikuttaminen.
+Onko teillä myynnissä ranskalaisia sanomalehtiä?
+Me kaikki pidämme pyörällä ajamisesta.
+Te olette tehneet sen taas.
+Lepo, sotilaat.
+Tomi puhuu eksästään paljon.
+Tatoeba on tosi nopea.
+Tarvitsetko vielä minun apuani?
+Miksi et halua tulla kanssani elokuviin?
+Tomi rupesi suuttumaan.
+Mari on surffaaja.
+Hän oli ennen mukava poika.
+Minun mielestäni hän on oikeassa.
+Molemmat selvisivät.
+Minä en tiennyt, että tulisit olemaan täällä.
+”Miksi kana ylitti tien?” on todella tunnettu englanninkielinen arvoitus, johon on useita vastauksia.
+Tomilla ei ollut mitään epäilyksiä niin ison yleisön edessä puhumisesta.
+Ottaisin vain lasillisen vettä.
+On todella vaikeaa nähdä itsensä toisten silmin.
+Miesten WC on oikealla ja naisten WC on vasemmalla.
+Kiirehdi, auta.
+Laatikot ovat suorakulmaisia, eivät neliöitä.
+Rauhaa.
+Tommi olisi voinut auttaa minua, mutta hän ei tehnyt niin.
+Sinä et voi tehdä enää noin.
+Haluan jutella kanssasi Tomista.
+Hän lukee paljon kirjoja.
+Tuo on se talo, jossa majoitun.
+Autamme sinua mielellämme.
+Mikä nyt hätänä, Tom?
+Pystyisin helposti korjaamaan tuon.
+Tomi ajoi 50 km/h ylinopeutta poliisin pysäyttäessä hänet.
+Sinä opetit minulle paljon.
+Tomi ja mää ollaan hyviä ystäviä.
+Tässä tulee hyviä uutisia.
+Näimme kaiken.
+Säähän se ope oot.
+Edith Piaf oli ranskalainen laulaja.
+Kirkasvetinen joki virtaa kaupunkimme lävitse, ja voimme nähdä monia karppeja uivan siinä.
+Lehtimiehen tehtävä on tuhota totuus, valehdella, vääristää, kiemurrella Mammonan jaloissa sekä myydä kotimaansa ja rotunsa ansaitakseen jokapäiväisen leipänsä.
+Tom kieltäytyi kohteliaasti.
+Hän asuu kuin prinsessa.
+Kukaan ei pidä Tomista.
+Miten hikan saa loppumaan?
+Toinen maailmansota alkoi 1939.
+Tomi tiesi sen.
+Minä en tiedä mitä ”tverkkaaminen” on, enkä välitäkään tietää.
+Ihmisen voi alistaa pelolla.
+Täytä kylpyamme puoliksi täyteen.
+Tykkääk sä bilettää?
+Hän suuntasi maaseudulle.
+En anna hänen manipuloida minua.
+Nukun yleensä todella sikeästi.
+Homeopatiaa pidetään pseudutieteenä ja se ei ole sen tehokkaampaa kuin placebo.
+Mikä on sinun neuvosi?
+En ole täällä mielelläni.
+Luulen, että tarvitsemme enemmän kahvia.
+Mikä harmi!
+Perusteellinen aseistariisuntasopimus kieltää kaikki aseistukset ja asevoimat.
+Ei se ollut Tom joka jätti veden valumaan.
+Minusta oli outoa, että hän oli hereillä niin myöhään.
+Lähdön voittanut hevonen oli Johnsonin omistama.
+Olemme erittäin tunnettuja.
+Tahdoin vain kuulla Tomin äänen.
+Saisinko laskun.
+Varas pidätettiin rysän päältä.
+Siivoa tuo sotku.
+Tomi on laihtunut.
+Kuinka kaukana se on?
+Haluatko todella, että Tom tekee tämän puolestasi?
+Tuo poika näyttää Tomilta.
+En minä tiedä, että pystynkö siihen, mutta koetan.
+Palomiehet rikkoivat oven kirveellä.
+En osaa ratkaista tätä osaa palapelistä.
+Olen haluton auttamaan häntä.
+Emme tiedä missä me olemme.
+Tomi hukkuu.
+Kutsumme opettajaamme "Doraemoniksi", koska hän on lihava.
+Valehtelet!
+Viime kerralla kun näin Tomin, hänellä oli parta.
+Korvakorut ovat hänelle kiva lahja.
+Teiän pitäis keskittyy tiehen kun te ajatte.
+Kipu on hellittänyt.
+Hyvää kekrijuhlaa!
+Hän on tehnyt kotiläksynsä.
+Hän koki poliisin kidutusta.
+Poliisi sai murtovarkaan kiinni rysän päältä.
+Mitä jos vanhempasi saavat tietää?
+Kukaan ei saa tietää.
+Nuo ovat kaikki tärkeitä.
+Hän päätti yrittää uudelleen.
+Tom on hyvä piirtämään.
+Tom kertoi minulle, että hänestä siinä ei ole ongelmaa.
+Tom tietää, että Mari tykkää hänestä.
+Löysitkö sen?
+Minun olisi pitänyt pitää suuni kiinni.
+Haluan tavata isosiskosi.
+Urheasti hän kieltäytyi antamasta periksi.
+Tomi vois kertoo sulle.
+Kutsu poliisi!
+Tom laittoi valot päälle.
+Kositko Maria?
+Isäni oli puu.
+Sinä et taida uskoa että minä olen oikeassa, vai mitä?
+Kokous järjestetään ensin maanantaina.
+Me emme anna sinun kuolla.
+Missä kerroksessa sinä asut?
+Tomilla oli lammashakkelusta, perunoita ja sienikeittoa päivälliseksi.
+Olen parannellut lausetta.
+Lennän huomenna Hanoihin.
+Vähä vähältä vesi madaltuu.
+Minun kelloni on korjattava.
+Tomi näyttää vanhalta mieheltä.
+Kauanko Tom on ollut poikaystäväsi?
+Käy hakemassa Tom tänne takaisin.
+En voi odottaa enää pidempään.
+Minulla on flunssa ja olen väsynyt.
+Olen nuori.
+Sinivalas on maailman kaikkien aikojen suurin eläinlaji.
+Peitin hänet suudelmiin ja kyyneliin.
+Me olimme odottamassa.
+Teidän tulisi keskittyä tiehen kun olette ajamassa.
+Hän lupasi minulle tulla aikaisin.
+He ovat apeita.
+Etkö olekaan naimisissa?
+Harkitsetko vakavasti lähtemistä?
+Rakastatteks te mua?
+Ymmärrän näkökulmasi.
+Me tiesimme sen koko ajan.
+Ajaessanne pitäisi teidän keskittyä tiehen.
+Mistä tulet?
+Saisinko kahvia?
+Olet saattanut kuulla siitä.
+Minun tekee mieli vain ottaa rennosti.
+Emme tiedä, mitä huominen tuo tykönään.
+Tom heitti kamansa takapenkille.
+Sinä ammuit Tomia.
+Kuka syyttää sinua?
+Kadun sitä.
+Laitoin takkini pöydälle.
+Ikkunan rikkoja oli Tomi.
+Olet luennoitsija.
+Mitä jos lopettaisit sen tekemisen?
+Tom ei osaa puhua ranskaa lainkaan.
+Olen hukannut hänen numeronsa.
+Minä tarvitsen avaimet.
+Te saavuitte juuri sillä hetkellä kun minä lähdin.
+Tämä on kaikkein rumin lumiukko, jonka minä olen koskaan nähnyt!
+Hän haluaa olla itsenäisempi.
+Älä huoli. En ole menossa mihinkään.
+Antaisit jo olla!
+Sinä et auta.
+Kumman sinä luulet, että Tom haluaa?
+Ei! Minä vihaan parsakaalia!
+Mikä elämän tarkoitus on?
+Olen varma, että hän ottaa osaa kilpailuun.
+On mahdollista, että Tom saattaa yrittää tappaa itsensä uudestaan.
+Anna rahat!
+Älä unohda kirjoittaa.
+Mikä vittu se on?
+Ennemmin tai myöhemmin hän taitaa ranskan kielen.
+Vauvat ovat palasia tähtisumusta, jonka Jumala puhalsi kämmeneltään. Onnekas on synnytyksen tuskan kokenut nainen, sillä hän on pidellyt tähteä.
+Ovikello soi.
+Laillista se!
+Hm...olenko jotenkin erehtynyt?
+Toivon, että Tom sanoo kyllä.
+Emme tule toimeen ilman häntä.
+Näytät juristilta.
+Ne on kaikki seonnut.
+Heksadesimaali F on yhtä suuri kuin viisitoista.
+Älä lainaa mun vaatteita ilman mun lupaa.
+Ota selvää mikä on ongelma.
+Tom on sinun hyvä kaverisi, eikö niin?
+Vasemmalla puolellasi on ikkuna.
+Musiikki piristää elämäämme.
+Minä vihaan tätä kapistusta.
+Tomia ei huvita opiskella.
+Varastaminen on rikos.
+Olen tuntenut teidät vuosia.
+Poistin linkityksen japaninkieliseen lauseeseen, koska se ei tarkoittanut samaa asiaa kuin tämä lause.
+Hänen olisi pitänyt pitää turpansa tukossa.
+Miten myöhään pankki on auki?
+Tuoreessa artikkelissa, joka käsittelee aivojen säilyttämistä nuorina, mainitaan esperanto sudokujen ohessa, mikä osoittaa esperanton tulevan osaksi populaarikulttuuria.
+Ihmisiä on kaikkialla.
+Valtimot, laskimot ja hiussuonet ovat kolme verisuonten päätyyppiä.
+Ota minut mukaasi.
+Tomi yritti muistella, mitä Mari oli sanonut hänelle.
+Sinun pitää lopettaa tupakointi.
+En ole ikinä kohdannut suoraa rotusortoa.
+Se on ajanhukkaa.
+Sinua seurataan.
+Hän pelkää kuolemaa.
+Tom puhuu vain vähän ranskaa.
+Koira kuolaa.
+Mehukannu murskasi kakun.
+Ajatteletko Tomia?
+Hänen elämänsä on huolesta vapaa.
+Tomi katosi pimeyteen.
+Kaikki pitävät oravista.
+Jos et tuntenut minua tällä tavalla, et yksinkertaisesti tuntenut minua.
+Laita televisio päälle.
+Tomi on huonolla tuulella.
+Jaa pizza kolmeen osaan.
+Hän on albiino.
+Tarvitsen neuvojasi.
+Hyvää iltaa, mitä kuuluu?
+Ranska ei ole ensikieleni.
+Tom oli järkyttynyt kuullessaan, että Mari oli loukkaantunut liikenneonnettomuudessa.
+Oli mukavaa tavata sinut.
+Tämä ei ole sinun.
+Tom ei tajua mitä Mary tarkoittaa.
+Tekeekö sinun mielesi syödä jotain?
+Rakennus, jonka katto näkyy tuolla, on meidän kirkkomme.
+Kerro Tomille, että haluat hänen lähtevän.
+Tomilla oli sydänkohtaus viime vuonna.
+Tomin auto takavarikoitiin.
+Toivottavasti sää on hyvä.
+Muotoilen kysymyksen uudelleen.
+Mistä sinä ostit sen kirjan?
+Miehistö valmistautui matkaansa ulkoavaruuteen.
+Etkö sinä tiedä?
+Ihailen syvästi Frida Kahlon elämää ja työtä.
+En ollut varma selviänkö.
+”Ihmisen tyhmyys on loputon”, sanon, ja tämän itsekritiikin ansiosta katson olevani poikkeus.
+Vaikka osaan ranskaa sujuvasti, en ymmärrä lainkaan herra Smithin ranskaa.
+Banaanit ovat herkullisia.
+Tomi opetti minulle sen, että miten se tehdään.
+Taksini pitäisi olla täällä pian.
+Atomipommi on valtava uhka ihmiskunnalle.
+Kaikki menee varmasti hyvin.
+Silloin on taottava kun rauta on kuuma.
+Tomi opiskeli ranskaa.
+Kirjoita!
+Mitä Tomille kuuluu?
+Taidat luulla, että tunnet minut aika hyvin, vai mitä?
+Tom tekee ahkerasti töitä.
+Sami on kauniissa asunnossa.
+Sinä tuhlaat rahasi.
+Kuinkakohan pitkään se kestää.
+Voin hyvin, kiitos!
+Marokon pääkaupunki on Rabat.
+Pidän kävelytyylistäsi.
+Tomi tarvitsi kolmekymmentä tikkiä.
+On vielä yksi kysymys, johon et ole vielä vastannut.
+Pappi piirsi taitavasti sermiin kuvan papista.
+Sinulla on aina räikeä solmio ylläsi.
+Hän on nuori opiskelija.
+Epäilen yhä sitä.
+Sinun täytyy tehdä niin kuin minä käsken.
+Me asumme lähellä koulua.
+Ette saa ikinä tietää, jollette te koeta.
+Tyttöä pelotti katolta alas hyppääminen.
+Se oli aluksi vähän kiusallista.
+Kirjoitan päiväkirjaa joka päivä.
+Ole kiltti ja avaa silmät.
+Huone on täynnä kukkia.
+Te tytöt näytätte ällistyttäviltä.
+Olen tottunut siihen.
+Laita se pöydälle.
+Missä sinä piileskelet?
+Aloittakaa.
+Kukaan ei ole kiireinen.
+Tom irtisanottiin.
+Tom tahtoi kohdata Marin.
+Ehdin juuri ja juuri.
+Jonkun täytyy kertoa Tomille, mitä tapahtui.
+Ota minun autoni.
+Hän jää Tokioon useiksi viikoiksi.
+Olet lisännyt kommentin, et käännöstä. Lisätäksesi käännöksen, klikkaa lauseen yläpuolelle olevaa ”あ→а”-kuvaketta.
+Onko sinulla herätyskello huoneessasi?
+Minä vihaan hyttysiä.
+Matkustin mielelläni ennen ja matkustaisin yhä, mutta matkat maksavat paljon ja en enää tienaa yhtä paljon kuin ennen.
+Saisinko laskun.
+Tomi on riippuvainen sosiaalisesta mediasta.
+Tilanne on nyt täysin erilainen.
+Tommi sanoi, että nollan kertoman arvoksi määritellään yksi.
+Vaikka saatan olla onneton, en tee itsemurhaa.
+Kerroin Tomille lopettavani täällä.
+Ottaisin mieluummin listan sellaisista italiankielisistä sanoista, jotka eivät ole korpuksessa.
+Missä leikkautit hiuksesi?
+Sami luuli minun olevan hänen äitinsä.
+Anna Tomille vähän aikaa.
+Olen kyvykäs tekemään omat päätökseni.
+Ensi kuussa hän tulee olemaan todella kiireinen.
+Paina mitä vain näppäintä jatkaaksesi.
+Kaipaan jännitystä.
+Näen leijonan.
+Minun tekee mieli pizzaa.
+Rakastavaiset suutelivat.
+Metsä oli hyvin hiljainen.
+Olipa kerran kuningas, jolla oli kolme tytärtä.
+Tom on täällä ainoa, joka osaa puhua ranskaa.
+Minä söin tonnikalasalaattia.
+Sinun pitäisi lopettaa tuon tekeminen.
+Tässä kaupassa ei myydä alkoholia.
+Tom haluaa puhua sinulle siitä mitä tapahtui.
+Hän ei voinut jättää huolestumatta tyttärestään.
+Tietääkö Tom mitä Mari teki?
+Tein hänelle nuken.
+Miten on mahdollista, että et muista?
+Miten se äännetään?
+Hän näytti rikkaalta mieheltä.
+Jokainen meistä on kuin kuu: meissä on pimeä puolemme, jota emme anna muiden nähdä.
+Hän petti minua.
+Yritin avata oven, ja ovenkahva irtosi.
+Ihmettelin mihin Tom meni.
+Poika avasi ikkunan, vaikka hänen äitinsä kielsi.
+Kertoks Tomi sulle siitä, mitä tapahtui?
+Anteeksi kun keskeytän sinut.
+Onko sinulla esitettävänä valitus?
+Lääke ei auttanut sitten yhtään.
+Minä syön leipää.
+Älä unohda lähettää kirjettä.
+Tomi suree.
+Bostonissa on kivaa.
+Mene pois. Minä olin täällä ensin.
+Se on täydellinen.
+Toki. Tiedätkö hyvää paikkaa?
+Jäljellä on vain yksi säilykepurkki lihaa.
+Anna sokeri, Tomi.
+Tomilla on orava lemmikkinä.
+Sinä juot kirsikkamehua.
+Tomi oli yksi uhreista.
+Viisi gallonaa ysivitosta, kiitos.
+Tom on kielinero, joka puhuu kymmentä kieltä sujuvasti, mutta hän on todella huono matematiikassa ja hän ei osaa ratkaista edes yksinkertaista ensimmäisen asteen yhtälöä.
+Pikkupoika tunsi olonsa turvalliseksi isänsä sylissä.
+Jäätkö sinä kotiin?
+Anteeksi. Uskoisin, että se on minun paikkani.
+Oli kylmä ja sen lisäksi vielä tuulista.
+Ikävä kuulla.
+Toivon, että Tomi pysyy Australiassa.
+Kerta kerran jälkeen olet kutsunut heidät kylään luoksemme, mutta kerta kerran jälkeen he jättävät tulematta.
+Yhden dollarin setelissä näkyy vapaamuurarien symboleita.
+Tänä aamuna lähdin kouluun pesemättä naamaani.
+Voit aivan hyvin jäädä.
+Tomin puhetyyli ärsytti minua.
+Lopeta iniseminen.
+Kenen pizza se on?
+Älä yritä tehdä kahta asiaa samalla kertaa.
+Markku kuluttaa paljon aikaa television katselemiseen.
+Älä sure.
+En olisi saanut työtä, jos sinä et olisi suositellut minua.
+Minua ei huvita mikään.
+Tom kuoli kaksi vuotta sitten lentokoneen maahansyöksyssä.
+Tom ei sitä tule myöntämään, mutta hän on suurissa vaikeuksissa.
+Luulin, että me emme ikinä pääsisi palavasta rakennuksesta ulos elävinä.
+Mikä on minimipalkka Australiassa?
+Pysy paikoillasi.
+Laskettelen usein.
+Painu vittuun täältä.
+Tom pitää kovasti klassisesta musiikista.
+Hän ei puhu sujuvasti ranskaa.
+Tomi näyttää surulliselta.
+Sinun pitäisi lopettaa romantiikkaromaanien lukeminen.
+Hän on vaaleahiuksinen.
+Olen heikkona onnellisiin loppuihin.
+Tom sai haavan jalkaansa.
+Hän joskus unohtaa viedä kirjat takaisin kirjastoon.
+Täällä oli joskus vanha pyhäkkö,
+Mitä te aiotte valmistaa?
+Olisipa minulla uusi auto.
+Sinun täytyy lopettaa savukkeitten polttaminen.
+Ajattelin että kuolemanrangaistus pitäisi poistaa.
+Asiat eivät ole selkeästi määriteltyjä.
+En usko, että se on totta.
+Tom kuuli sinut.
+Keuhkokuume aiheuttaa hengitysvaikeuksia.
+Suihku on rikki.
+Koska π on transsendenttiluku, on ympyrän neliöiminen - eräs klassinen geometrian ongelma - mahdotonta.
+Mary halasi tytärtään lohduttaakseen tätä.
+Tom toipui lähellä merta sairautensa jälkeen.
+Mistä sait tuon naarmun poskeesi?
+Sen tekeminen ei ole vaikeaa.
+Tomin ja Marin pitäisi kertoa Jonille, että he aikovat tehdä noin.
+Sain töitä.
+Otan pari kolme päivää vapaata.
+Ajattelen sinua usein.
+Katsoin laatikkoon.
+Päheetä!
+Se on tosi ärsyttävää.
+Miksei kukaan varoittanut minua?
+Minä luen kirjaa.
+"Sinä olet Israelin opettaja," sanoi Jeesus.
+Tom pyysi minua kanssaan naimisiin.
+Oletteko te kaksi nyt kiireisiä?
+Se ei ollut mitään muuta kuin yhteensattuma.
+Älä huoli. Tällä kertaa me emme epäonnistu.
+Kysymyksien esittämisen taitoa tulee matematiikassa arvostaa enemmän kuin kykyä ratkaista niitä.
+Tomi kysyi minun äidistäni.
+Tom on ollut siellä kolme vuotta.
+Oppilas vastasi: ”Kahdensadanviidenkymmenenkuuden neliöjuuri on kuusitoista.”
+Tomi ja Mari pelaavat videopeliä.
+Hän on heräämässä.
+Tom pystyy kävelemään käsillään.
+Et saa koskaan tietää, ellet sinä koeta.
+Paljonko tämä solmio maksaa?
+Elämme erittäin turvallisessa maassa.
+Onko Tomilla nälkä?
+Puhutteko italiaa?
+Tomi laski lusikkansa pöydälle ja otti haarukan käteensä.
+Tomi oli raivoissaan Marille.
+Sinä ansaitset sen.
+Syö ja juo.
+Tom pyörtyi.
+Häntä ei ole näkynyt viime aikoina.
+Fréchet-avaruudessa avointen, tiheiden joukkojen numeroituva leikkaus pysyy tiheänä.
+Lopultakin Oidipus vastasi.
+Aamu sarastaa.
+Olin tietoinen siitä, että jotain puuttui.
+Toiset naiset eivät ajele säärikarvojaan.
+Tekisikö sinun mieli lähteä uimaan?
+He ovat vauvoja.
+He ihailivat kukkulan laelta upeita maisemia.
+Vatsani alkoi kurista kesken kokouksen. Se oli noloa.
+On Tomin syntymäpäivä.
+Yhdysvaltalaiset syövät paljon lihaa.
+Asuin kymmenen vuotta ulkomailla.
+Tom on ulkona heittelemässä frisbeetä koiransa kanssa.
+Tom lukee paljon kirjoja.
+Tule ja kerro minulle kaikki itsestäsi.
+Äiti meni juuri shoppailemaan.
+Mene nyt ja pidä hauskaa.
+Viime yönä katselimme tähtiä katolta.
+Voisitko soittaa myöhemmin uudestaan, kiitos?
+Miksi on välttämätöntä ratkaista konfliktit?
+En ole juonut kuukausiin.
+Luulen, että lukitsin avaimeni sisälle autoon.
+En aio mennä takaisin.
+Onpa söpö vauva! Saanko ottaa hänet syliin?
+Tom odotti henkeään pidätellen.
+Yksi 455:stä naisesta ei tajua olevansa raskaana ennen kuin kahdennellakymmenennellä raskausviikolla.
+Älä sinä minua syytä.
+Mitä sinä vihjailet?
+Voimakas tuuli puhaltaa, enkä saa käveltyä kovaa.
+Gary Ewing tuomittiin elinkautiseen Three strikes -lain mukaisesti kolmen golfmailan varastamisesta.
+Harvat ihmiset osaavat puhua vierasta kieltä täydellisesti.
+Hän kastelee kukat joka päivä kesällä.
+Isäni käy usein liikeasioilla Amerikassa.
+Tämä on todella poikkeuksellista.
+Hänen poikansa on kahdeksan vuotta vanha.
+Onko kaikki kunnossa?
+Älä näytä minulle enää hänen kuvaansa.
+Millä mantereella on joki nimeltään Niili?
+Et sinä voi tehdä noin enää.
+Emme ole varmoja, mutta hän on oikeassa.
+Oletko varma, että et halua mennä lääkäriin?
+Tämä on heidän talonsa.
+Hevonen pystyy juosta todella nopeasti.
+En ole antanut kenenkään muun vielä nähdä tätä.
+Tomilla on ollut vuosia tarkoituksena siivota todella sotkuinen autotallinsa.
+En tarkoittanut herättää sinua.
+Ovatko sukkani jo kuivat?
+En ole koskaan kuullut tästä näyttelijästä.
+Tuo on vähän liioittelua.
+Nyt olette turvassa.
+Hän hyväksyi tarjouksemme.
+Näytänkö minä sinusta Tomilta?
+En ole koskaan syönyt kiinalaista ruokaa.
+Hänellä on paljon luovia ideoita.
+Olimme menneet katsomaan varjoteatteria tuona iltana.
+Onko sinulla rahaa?
+Hän tuli tapansa mukaan myöhässä.
+Sinä pidät sateesta, eikö vain?
+Oveni on aina avoinna.
+Mä olin just illallisella joittenki Tomin kavereitten kans.
+Pysykää täällä luonamme.
+Jos olisit ollut kokouksessa, niin olisit voinut äänestää.
+En tule koskaan antamaan sinulle anteeksi.
+Toi on mun lempituoli.
+Robotin tulee totella ihmisen antamia käskyjä, paitsi jos käskyt risteävät ensimmäisen lain kanssa,
+Pyöräilyryhmät lobbasivat, jotta koko maahan saataisiin sileät tiet.
+Hänen vaikutuksensa valiokunnassa heikentyi heikentymistään.
+Tuomas sai kympin kokeesta.
+Haluatko katsoa elokuvan?
+Tomi pidätteli kyyneliä.
+Harvat osaavat puhua vierasta kieltä täydellisesti.
+Mä meen Tomille opiskelemaan.
+Se ei ole vain tarpeeksi.
+Pidin häntä kaupungin parhaana tohtorina.
+Tule meidän kanssamme.
+Päivällinen on valmis.
+Annoin sen hänelle.
+Sinun ei tulisi syödä tässä.
+Saisit hävetä, Tomi.
+Tomi on arkkitehti.
+Autan sinua mielelläni.
+Vihdoinkin hänen unelmansa on toteutunut.
+Varo kuule suutasi!
+”Tom!” ”Mary!”
+Tom kertoi minulle, ettei hän pystynyt oikeastaan luottamaan Microsoftiin.
+Lasi rikkoutuu helposti.
+Näytänks mä khuulilta?
+Et sinä kirjoittanut mitään.
+Monella henkilöllä on ollut sama kokemus.
+Minulla ei ole nyt aikaa.
+Tom sanoi sen.
+No, leiki mun kanssa! Mulla on niin tylsää!
+Oletan sinun pitävän Tomia todella typeränä.
+En ole nähnyt sinua aikoihin.
+Voimme tulla toimeen oikein hyvin ilman sinua.
+Tom käveli alakertaan.
+Tom veti Maria hiuksista.
+Olen vähän ujo.
+Sinä olit unessa.
+Véronique rakastaa kukkakimppuja.
+En enää opiskele ranskaa.
+Aterian jälkeen pyysin laskun.
+He menivät yläkertaan.
+Tom pyysi voita hovimestarilta.
+Olitteko sinä ja Tom yhdessä pitkään?
+Tomilla ei ole suuntavaistoa.
+Tomi jää.
+Hän tarttui käteeni ja sanoi olevansa iloinen minut nähdessään.
+Tom ei ollut hämmästynyt siitä, mistä hän löysi eksyneen lapsen.
+Tom putosi katolta ja hänellä murtui kolme kylkiluuta.
+Myrkytitkö Tomin?
+Kuinka kauan sinä aioit pitää tämän salassa minulta?
+Hän syö kahden edestä.
+Tom lähti kotiin reilu tunti sitten.
+Hän särki pähkinöitä.
+Sinun on tultava keskustelemaan kanssamme.
+Tomin koira vihaa kissoja.
+Väsyttää!
+Onko tuo teidän koiranne?
+Tomi on outo.
+Kuinka monta vuotta olet opiskellut ranskaa?
+Olin toivonut näkeväni Tomin Bostonissa.
+He ovat molemmat kauniita.
+"Katso! Punavalkoinen sieni! Se näyttää niin maukkaalta!" "Ei, älä syö sitä. Se on myrkyllinen."
+Tämä ei ole niin hullua kuin, miltä se vaikuttaa.
+Heillä tosiaan oli hauskaa.
+Tom pitää golfista puhumisesta.
+Tiedätkö jo sen uuden laulun?
+Allekirjoita sopimus.
+Kuinka paljon tämä radio maksaa?
+Sydämeni on särkynyt.
+Sellaista sattuu joskus.
+Se menee vanhaksi huomenna.
+Sanomalehti julkaisi huvittavan parodian presidentin puheesta.
+Se ei ole mitään tärkeää.
+En halua lapsia.
+Lyön vetoa että Tom ei tehnyt sitä ensimmäistä kertaa.
+Tom ei kuollut yksin.
+Minäkin.
+Vihreä on toivon väri.
+En pystynyt pidättämään kyyneleitäni.
+Ota lounasta mukaan.
+Jos voisin olla kuin tuo...
+Miten sait tuon mustan silmän?
+Tomi avasi ovet.
+Tuuli kuulostaa pelottavalta kuin kirkuvat haamut.
+Mitä puuttuu?
+Ihmiset saavuttavat hämmästyttäviä asioita, sillä he kykenevät välittämään tietojaan ja aikeitaan puheen kautta.
+Tom ei pidä ranskan puhumisesta.
+Tom ampui yhtä sotilaista.
+Olemme Ranskasta.
+Alkoi sataa suuria pisaroita. Olisi pitänyt tuoda sateenvarjo.
+Kaikki hymyilivät Tomille.
+Näytät niin erilaiselta.
+He sanoivat, että he tuntevat sinut.
+Pelatkaa siellä.
+Hän ei pitänyt koulusta.
+He halasivat Tomia.
+Pitäisikö Yhdistyneen kuningaskunnan pysyä Euroopan unionin jäsenenä vai jättää se?
+Tom oli tuolloin vielä poikamies.
+Ota torkut.
+Olemme valmiita toistaiseksi.
+He soittelevat lähes joka päivä.
+Opiskeletko?
+Onko Tomilla tyttöystävää?
+Hän teki vakavan virheen.
+Voit poistaa muutaman rajoitteen optimointiongelmastasi, jos sinä parametrisoit muuttujasi pallokoordinaateilla.
+Luulen, että Tom ei tehnyt niin.
+Tom otti esiin kännykkänsä, että hän voisi ottaa selfien.
+Tomi todella pitää väittelystä.
+Osaatko puhua ranskaa niin kuin Tom?
+Te olette kirjoittaneet väärin minun nimeni.
+Meidän täytyy suojella Tomia.
+Teidän kuunne palaa.
+Tämä on minun paikkani.
+Muistinkohan sammuttaa kahvinkeittimen?
+Tarkoitan sitä tosissani.
+Minun jalkaani sattuu.
+Olen juuri käynyt pankissa.
+Tänään on 18. kuudetta ja Muirielin syntymäpäivä!
+”Ethän kerro hänelle.” ”En sano mitään.”
+Mulla menee järki.
+Kun opettaa toista ajamaan, täytyy olla melko kärsivällinen.
+Peking on Kiinan pääkaupunki.
+Rakastan seljanmarjoja.
+Emme päässeet vuorenhuipulle saakka.
+Kiitos!
+Jos en voi luottaa sinuun, niin keneen voin sitten luottaa?
+En aja usein.
+Tomi menetti tajuntansa.
+Hammaskivi on plakin kovettunut muoto.
+Isäni ajaa partaansa kylpyhuoneessa.
+Minä puhun aina ranskaa Tomin kanssa.
+Pidimme tulta palamassa.
+Voisitko pistää tämän kassin jonnekin muualle?
+Tekikö Tom tämän sinulle?
+Mistä me puhummekaan?
+Heitä oli kolme ja heillä oli aseet.
+Kannatatko uutta lakia?
+Tom ei osaa puhua ranskaakaan.
+Unissasi vain!
+Kotisi tuhoutui myrskyssä.
+Hän kirjoittaa kauniisti.
+Pystyn hädintuskin uida.
+Tomi hukkuu!
+Hän on lähdössä.
+Tom ei enää ole nuori mies.
+On vaikea syyttää Tomia.
+Hyvä huomio.
+Laskekaa kolmeenkymppiin.
+Tom osaa puhua ranskaa.
+Tomi kirjoitti kepillä nimensä hiekkaan.
+Minulla on nyt kaksi mikrofonia.
+En pystynyt pidättämään itkuani.
+Missä se asema on?
+Hän ei voinut muuta kuin itkeä.
+Tomi on kovapäinen.
+Tomilla oli yritys johdettavana.
+Minut erottaa mielipuolesta vain siitä, etten ole hullu.
+En halunnut loukata sinua.
+Tomi voi olla helposti kutiava.
+Kukapa ei olisi ihastuksissaan löytäessään tällaisen kuusen alta jouluaamuna?
+Hän syntyi Amerikassa.
+Jäljellä on vain yksi säilyketölkki lihaa.
+Hän on rikas kun taas hänen vanhempi veljensä on köyhä.
+Kuinka monta äänikirjaa sinulla on iPodillasi?
+Tomia ei huvittanut harrastaa liikuntaa.
+Teen töitä kaikkina päivinä, paitsi sunnuntaisin.
+Olen iloinen, että et kertonut Tomille. Se olisi pilannut yllätyksen.
+Pärjäämme paremmin ilman teitä.
+Hän söi lakkahilloa.
+Juodaan kahvia tauolla.
+Hänen tapansa eivät olleet herrasmiehen.
+Luulin, että olisit innoissasi siitä, että olen menossa naimisiin.
+On viilentynyt.
+Minun oli saatava jotain autosta.
+"Minun olisi pitänyt käyttää kondomia", valitti Tomi.
+Miten sinä voi olla noin kyyninen?
+Sinulla ei ole mahdollisuuttakaan.
+Kulutimme paljon aikaa parkkipaikan etsimiseen.
+Nukuin hyvät yöunet.
+Minä tulin.
+Mari syntyi keskosena 16-tuntisen mannertenvälisen lennon aikana.
+Pakene ennen kuin on liian myöhäistä.
+Onko Tomilla avain Maryn huoneistoon?
+Et ehkä ymmärrä minua, mutta minä sanon varmasti jotain tärkeää, eikö niin?
+Laskut kasautuvat.
+Ajathan varovaisesti.
+Sinulla on kaksi vaihtoehtoa.
+Onko Tomi vielä sinkku?
+Kylpy on valmiina.
+”Kiitti.” ”Ei mitään.”
+Se on osittain minun syyni.
+Rakastan koiraani.
+Koulu on ohi... toistaiseksi.
+Minulla on oikeasti aika kiire.
+Milloin matkasi alkaa?
+En saa mieleeni hänen nimeään.
+Hän avaa oven.
+Tee se mikä on oikein.
+Mutta minä en ollut peloissani.
+Tässä on upeaa työskennellä.
+Kaikki nauroivat Jaakolle.
+Luulin, että Tom vihasi minua.
+Anteeksi kun tulen myöhässä.
+Piru pakotti minut tekemään sen.
+Haluatko oikeasti mennä juhliin Tomin kanssa?
+Menetkö nukkumaan?
+Kenen kanssa minä olen puhumassa?
+Kun yritin selittää syitäni, hän yksinkertaisesti tuli vielä vihaisemmaksi.
+Hän kuoli 70-vuotiaana.
+Onko se oikeasti totta?
+Näytät väsyneeltä.
+Poista tämä tiedosto.
+Tom ei metsästänyt.
+Tomi on paras rumpali, jonka tiedän.
+Tomi ei selvästikään ollut iloinen.
+En ole koskaan nähnyt sellaista lintua, ennen sitä tai sen jälkeen.
+Kuuletteko jotakin?
+Nyt en ole kiireinen.
+Mitä täällä oikeasti tapahtuu?
+Tom halusi tanssia.
+Tomi tulee aina kouluun myöhässä.
+Minun mielestäni sinä olet väärässä.
+Tomi on varovainen.
+Hyvää matkaa!
+On vain kaksi asiaa, joiden puolesta meidän pitää taistella. Yksi on kotiemme puolustus ja toinen on kansalaisten perusoikeudet.
+Koira puraisi minun kättäni.
+Ei ollut tarkoitus antaa sellaista käsitystä.
+Halaan sinut kuoliaaksi.
+Me olemme varakkaita.
+Tomi heitti kirjan tuleen.
+Isäni on hyvin vihainen minulle.
+Nukkuminen on parasta meditaatiota.
+Ethän sinä kertonut hänelle mitään?
+Teidän olisi syytä lähteä nyt.
+Korkeimman oikeuden ratkaisun mukaan laki oli laiton.
+Kaunis myyjätär odotti minua kaupassa.
+Roomalaiset vainosivat kristittyjä.
+Luulen, että hän on tulossa sairaaksi.
+Tomin vaimo menehtyi.
+Täällä on täysi kaaos.
+Tämä kahvi ei ole tarpeeksi kuumaa.
+Et taidakaan uskoa että minä olen oikeassa.
+Haittaako sinua, jos kysyn sinulta muutamia kysymyksiä?
+Tykkään paljon semantiikasta; haluan aina ymmärtää niin paljon nyansseja kuin mahdollita!
+Olet yhä hyvin viehättävä nainen.
+Oi! Tuo näyttää herkulliselta.
+Sitä saa mitä tilaa.
+Tom halusi saada selville.
+Milloin kesälomanne alkaa?
+Mihin vittuun aurinko katos?
+Tällä on minun hyväksyntäni.
+Huomaa, että suurinta arvoa ei ole aina olemassa.
+Se on aikamoinen saavutus.
+He vihasivat Tomia.
+Mä oon lukenu sun kirjan. Se oli tosi mielenkiintoinen.
+Tämä on jopa pahempaa!
+Tomi on ärsyyntynyt.
+Ostitteko minkä kirjan?
+Sinun sinnikkyyttäsi ei arvosteta.
+Nimeni on Tom.
+Hän ei ole mikään tavallinen laulajatar.
+Tässä hississä on tilaa kahdeksalle hengelle.
+Onpa mielenkiintoista!
+Hän käytti vaalean sinistä kravattia.
+Onko kaikki OK?
+Monica ei opiskellut paljoa.
+Tom antoi jotakin Marille.
+En ole huolissani heistä.
+Koalat ovat söpöjä.
+Onko aaveita oikeasti olemassa?
+Marin kännykästä loppui virta.
+Ette taida uskoa että minä olen oikeassa, vai uskotteko?
+Voinko pyytää palvelusta.
+Asiaan liittyy kieliopillisia periaatteita.
+Noin sen tekisin.
+Tiedän, että asut täällä.
+Pubi on suosittu kokoontumispaikka, jossa juoda olutta.
+Vauva on hurmaava.
+Mytologian mukaan Prometheus varasti pyhän tulen jumalilta.
+Jonkun pitää tehdä se.
+Tomi asui isossa talossa yksinään.
+Ostitko tämän kirjan?
+Synnyitkö sinä Bostonissa?
+Älä syö niin nopeasti.
+Tomi istui kolmekymmentä vuotta linnassa.
+Itse asiassa todella tahdoin kysyä sinulta erästä asiaa.
+Tänä iltana menemme kirkkoon.
+Tomilla oli todella tärkeä päätös tehtävänään.
+Olin leipomossa.
+Minä en ole kovin onnekas.
+Minulla ei ole sitä.
+Tomilla oli vuokrarahansa kadottamassaan lompakossa.
+Joni on lihonnut paljon viime aikoina.
+Kerroin Tomille, että minulla oli aivan liian kova kiire.
+Voisitko linkittää tämän lauseen espanjankieliseen lauseeseen?
+Ei ole väliä, voin tehdä sen itse.
+Olet hämmästyttänyt monia ihmisiä.
+Tom haastettiin sotaoikeuteen.
+Yritin tehdä vaikutuksen Tomiin.
+Pidä Tomia silmällä. Pidä huoli, ettei Tomi tee mitään muita ihmisiä häiritsevää.
+Voisitko viedä tämän paketin postitoimistoon?
+Tomi näytti Marille uuden kännykkänsä.
+Meidän pitäisi aina olla täysin valmistautuneita maanjäristykseen.
+Mari antoi Tomille ison halauksen ja pusun.
+Tämähän on hänen sateenvarjonsa?
+Milloin viimeksi itkit?
+Tomi pitää huolta Marista.
+Minä opetan kiinaa.
+Tom ei pystynyt hallitsemaan tunteitaan.
+Tomi katsoo televisiota koko ajan.
+Ajattelitko sitä?
+Ryhmä poikia oli tulossa minun suuntaani.
+Häkellyin.
+Maa pyörii Auringon ympäri.
+Hän ei ole mikään tavallinen laulaja.
+Mistä voin hankkia kaupunkioppaan?
+Olen aina optimistinen.
+Mikä on hänen etunimensä?
+Mikään ei ole tärkeämpää kuin myötätunto.
+En ole koskaan aikaisemmin pelannut jalkapalloa.
+Tomi ei ollut kauhean humalassa.
+Pyydä, niin saat.
+Haluatko mennä johonkin?
+Sopimus teki Teksasista itsenäisen.
+Tiedätkö mitä mietin?
+Poliisi rynnäköi paikalle vihjeestä, että aikapommi oli asetettu.
+Tomi ei ole yhtä lahjakas kuin sinä.
+Tykkäätteks te, sinä ja Tomi, toisistanne?
+Ollaanpa optimistisia.
+Mitä lehteä tilaat?
+Kissa on jumissa puussa.
+Aurinko painui taivaanrannan alle, ja saapui pimeys.
+Lakkaa jo puhumasta töistä.
+Syötkö lihaa vai oletko vegetariaani?
+Oletko Pariisissa?
+Olette hukanneet marmorikuulanne.
+Pysytään liikkellä.
+Lääkärit sanovat, että Tomi oli todella onnekas.
+Tänään minua ei huvita tehdä mitään.
+Mitä markkinoilta voi ostaa?
+Yrität liikaa.
+Emme koskaan lukitse tuota ovea.
+Olet sinä, tiedätkös, melkoinen.
+Minuun iski salama.
+Napoleon Bonaparte oli syntynyt Korsikalla.
+Liisa tuli liian myöhään
+Huolehdi sinä omista asioistasi!
+Sijaitseeko elokuvateatteri lähellä asemaa?
+Farkkujen kuivuminen kestää ikuisuuden.
+Jos minulla olisi enemmän rahaa, voisin ostaa tämän.
+Tiedän että sinun on mentävä takaisin Bostoniin.
+Miten meni matka?
+En puhu yhtään ranskaa.
+Peter tekee aina kärpäsestä härkäsen.
+Puhdistettuani ikkunan voin nähdä selvästi sen läpi.
+Tom on koomassa ja lääkärit eivät ole varmoja jääkö hän henkiin.
+En usko kummituksiin.
+En ole vieläkään varma mistä tämä kertoo.
+Tom on tehnyt meidän hyväksemme jo paljon.
+Globaali kriisi on käsillä.
+Tom on opiskelemassa.
+Tämä on paras.
+Voi ei!
+Nautin todella vierailustani Suomessa, ja toivon että voisin palata sinne niin pian kuin mahdollista
+He yllättivät minut.
+Olin vuorilla.
+Minne sinä menet?
+Katsotko tätä showta?
+Helvetti pääsi valloilleen.
+Yhteiskunta on jakautunut.
+Mua väsyttää!
+Minne laitoin takkini.
+En oikein saanut kiinni siitä.
+Sinun pitäisi pelätä. Pelätä todella paljon.
+Syön illallista vartin yli seitsemän.
+Ei mitään.
+Toivon että autatte minua.
+Tarkkaavainen lukija olisi huomannut virheen.
+Et voi enää tehdä noin.
+Naapurissa asuva mies on Maryn rakastaja.
+Tää on mun sateenvarjo.
+Menen mieluummin kävellen kuin bussilla.
+Myyty!
+Minä vain haluan auttaa ongelman korjaamisessa.
+Menetkö kävellen kouluun joka päivä?
+Pelkäätkö korkeita paikkoja?
+Tomi selitti tilanteen.
+Tatoeba ei edes ole henkilö.
+Yhtäkkiä lamput sammuivat.
+Tom pysähtyi yhtäkkiä hymyillen.
+Lopeta juoruilu.
+Itävalta ei ole Australia.
+Vain koska et tiennyt siitä, niin se ei tarkoita, että se olisi valetta.
+Teidän ei tarvitse puhua siitä, jollette halua.
+Sinä olet viisas.
+Toukokuun 24. on slaavikirjoituksen ja -kulttuurin päivä.
+Anna kun minä kokeilen sitä.
+Tomi kamppailee syövän kanssa.
+Aluksi minulla oli suuria vaikeuksia.
+Hän on paljon älykkäämpi kuin minä.
+Tuo on mahtava elokuva.
+Sinä olet väärässä.
+Kukaan hänen oppilaistaan ei osannut ratkaista tehtävää.
+Kävele!
+Tuo viiniä.
+Mikseivät Australian asukkaat ole pää alaspäin?
+Tomi ampui minua jalkaan.
+Istukaa, olkaa hyvä.
+Sinun täytyy käyttäytyä niin kuin aikuinen.
+Asiat ovat aina olleet näin.
+Tiedän hänestä kaiken.
+Sinun täytyy kävellä ennen kuin voit juosta.
+Tupakoitteko?
+Tomi vaikutti onnelliselta.
+Oliko Marikalla kirjekavereita Japanista?
+Hän on laihtunut.
+Tom oli mennyt vain viideksitoista minuutiksi.
+Tykkään juustopizzasta.
+Hän ei pysty pysäyttämään häntä.
+"Menen hänen kanssaan naimisiin." "Et mene," sanoi hänen isänsä.
+Pelkään putoavani.
+Puhuitko siitä Tomille?
+Vakaumukset ovat vankiloita.
+Minulla on monta pelia Xboxille.
+Tiedätkö sinä mitä Tomille tapahtui?
+Onko se sinun?
+Pois edestä tai ammun.
+Vitut puolueettomuudesta!
+Älkää puhuko.
+Pelottaako sinua, Tom?
+Sain juuri hyviä uutisia.
+Joku yski.
+Vaivaiset 529 katsojaa katsoivat ottelun.
+Tomi oli hassu.
+Hiljaa hyvä tulee.
+Hän puhuu ranskaa äidinkielenään.
+Irrota hänet!
+Se oli rankka.
+Ette saa koskaan tietää, jos ette kokeile.
+Se kolibri on maailman pienin lintu.
+Miksi Tom on tänään niin hyvällä tuulella?
+Tomi on isä.
+Hän on japanilainen.
+Puuvilla imee vettä.
+Tomi tuhlaa resursseja.
+Tomi puhuu täydellistä italiaa.
+Jos kellään on mitään kysyttävää, nostakaa oikea kätenne ylös.
+Tomin juominen on aiheuttanut paljon ongelmia hänen avioliitossaan.
+Tom suuttui.
+Sinä se olet rikkonut sopimuksemme.
+Päivitin nettisivun.
+Meillä ei ole aikaa tuohon.
+Tomi on täysi ääliö.
+Minulla on velka maksettavana.
+Haluamme rauhaa maailmaan.
+Ravintolassa olisi voinut kuulla neulan putoavan lattialle sen jälkeen kun Mari läimäytti Tomia naamaan, heitti lasillisen viiniä hänen päälleen ja tömisteli ulos.
+En ajatellut, että siinä kestäisi näin kauan.
+Tule lähemmäksi, että näen sinun naamasi.
+Se on outoa, mutta totta.
+Varmista, että juomavesi on puhdasta.
+Sinuun ei saanut yhteyttä.
+Minä tykkään Tatoebasta tosi paljon!
+Tom ei työskentele täällä.
+Tom on atleettinen.
+Puhelin soi!
+Tomi ei enää halua asua täällä.
+Tomi on kummallinen.
+Mummini puhuu hitaasti.
+Halusin vain, että tiedät, että minulla on treffit.
+Milloin hän pelaa tennistä?
+Mistä lajista sinä pidät eniten?
+Tom oli täsmällinen.
+Tom oli narkkari.
+Yritä hypätä niin korkealle kuin mahdollista.
+Etkö huomannut, että Tom katsoi sinua?
+Missä se uloskäynti on?
+Sinä olet juovuksissa, Tomi. Mene taksiin. Me lähdemme kotiin.
+Homomorfismia ei pidä sekoittaa homeomorfismiin.
+Tomi on ollut minulle kiltti.
+Onko teillä lapsia?
+Tomi tahtoo viettää aikaa Marin kanssa.
+Olen kutsunut kaikki ystäväni.
+Älä soita minulle.
+Jäljellä on ainoastaan yksi säilykepurkki lihaa.
+Suomi tarvitsee teitä.
+Mitä sinä kerroit hänelle minusta?
+Sinä olet todellakin täysi idiootti!
+Minä vain mietiskelin onko Tom käynyt koskaan teillä päivällisellä.
+On suuri kunnia tutustua häneen.
+Tietokoneeni on todella hidas.
+Olit hurmaava.
+Norsut eivät osaa pyöräillä.
+Mississippi on Yhdysvaltojen köyhin osavaltio.
+Elämä on pelkkä häilyvä varjo, kehno näyttelijä, joka käyskentelee ja tuskailee hetkensä lavalla; lopulta vaikenee. Elämä on ääliön kertoma taru, täynnä melua ja tappuraa, vaan merkitystä vailla.
+Miksi et ole näyttäytynyt töissä viime aikoina?
+Tomi poisti Facebook-tilinsä.
+Jos sinua väsyttää, mene nukkumaan.
+Tom ja Mary ovat yhä toimistoillaan. He molemmat aikovat tehdä tänään töitä myöhään.
+Tomi ei osaa ranskaa niin hyvin kuin luulee osaavansa.
+En koskaan pitänyt biologiasta.
+Ala kalppia!
+Haluaisin osoittaa muutamia mahdollisia ongelmia.
+Hyvin, kiitos.
+Tom ei ollut varma ehtiikö hän.
+Äiskä tekee töitä.
+Soitan nyt kitaraa.
+Ymmärrän sitä vähän, mutta en osaa puhua sitä.
+Enää et sinä voi tehdä tuota.
+Se on salaisuus. Mä en voi kertoo sitä sulle.
+Tänään voin huonommin kuin eilen.
+Todellako? Minkä takia?
+En se ollut minä, joka aloitti.
+Nyt olen todella väsynyt.
+Atomifysiikan tarkkailun prosessin läpikotainen analyysi osoittaa, että aliatomisilla hiukkasilla ei ole tarkoitusta eristettyinä olioina, vaan ne voidaan ymmärtää vain kytkentänä kokeen valmistelun ja lopullisen mittaamisen välillä.
+En ole hyvä tenniksessä.
+En tiedä, kuka teki kakun.
+Minä kunnioitan suuresti Tomia.
+Tom, Mari ja Joni leikkivät hippaa leikkikentällä.
+Minusta on mukavampaa mennä ulos kuin viettää aikaa Facebookissa.
+Pitääkö meidän odottaa Tomia?
+Tomi sanoo, että hän ei ole edes koskaan puhunut Marin kanssa.
+Oliko siellä huoneessa ketään muuta?
+Tom päätti päästä eroon kaljamahastaan.
+Maistettuaan kerran mustetta, hän tuli janoiseksi siinä mielessä kuin kesyjen tiikereiden sanotaan tulevan maistettuaan toisenlaista nestettä, ja hän halusi allkirjoittaa kaiken ja kirjoittaa nimensä joka paikkaan.
+Äitini laittaa ruokaa minun puolestani.
+”Ikä?” ”Kuusitoista.”
+Haluan tulla hellityksi.
+Tom halusi tietää kuinka paljon kello on.
+Me pystymme!
+Mitä tarkalleen ottaen sanoit?
+Miksi joku ei kertonut Tomille?
+Mun kengät kastui.
+Hän kävelee nopeasti.
+Luulin häntä veljekseni.
+Millaista sampoota käytät?
+Tom ei naura koskaan.
+Uskotko yhä tuohon?
+Alkaa tulla kuuma.
+Minä en juo tänä iltana.
+Olen kuullut sanottavan, että englanti on rahan ansaitsemista varten, ranska rakastelua varten ja espanja rukoilua varten.
+On todella hienoa työskennellä tässä.
+Olin aivan Tomin takana.
+Ei ole pulaa kandidaateista.
+Hän on parhaillaan piirtämässä kuvaa.
+Sinun on uskottava itseesi.
+Etsi joku toinen.
+Mari meni yliopistoon, koska hän oli fiksu, mutta Tom meni yliopistoon, koska hän pelasi ykkösdivarissa.
+Pois tieltä!
+Tiedän kokemuksesta; jalkapallon pelaaminen paljain jaloin on huono ajatus. Voit helposti rikkoa varpaasi.
+Haluan lopettaa tämän.
+Kuka opetti Tomia puhumaan ranskaa?
+Tomilla on yllään valkoinen paita.
+Enollani on liike kadun varrella.
+Tuo lapsi tuijotti minua suu ammollaan.
+Taidan haluta syödä ulkona tänä iltana.
+Mene etsimään se.
+Tom ei saa sormustaan pois sormesta.
+Häntä ujostuttaa tanssia.
+Hänellä ei ole lapsia.
+Petit Tomin.
+Laitoin meille naposteltavaa.
+Tom ja Mari lähettävät toisilleen yli 200 tekstiviestiä päivässä.
+Valtameri on todella suuri.
+Se on söpöä.
+Et voi kertoa kenellekään.
+Tom soitti Marille pyytääkseen anteeksi, mutta Mari löi hänelle luurin korvaan.
+Me kaikki teemme liian kovasti töitä.
+Anteeksi että olen myöhässä.
+Totuus selviää pian.
+Kerro minulle milloin hän tulee.
+Haluan televisovastaanottimen, mutta minulla ei ole varaa ostaa sitä.
+Miksi näin kävi minulle?
+Tomi johdatti meidät ansaan.
+Englannissa on hyvin epävakaa sää.
+Kuinka paljon se maksaa?
+Isi on työskentelemässä.
+Tiedät mistä pidän.
+Minusta se ei ole ollenkaan outoa.
+Meillä on tylsää.
+Olet viimeinen henkilö jonka odotin tapaavani.
+Sinä et voi tehdä tuota enää.
+Olin tarpeeksi typerä uskoakseni Tomia.
+Onko täällä joku ongelma?
+Haittaako, jos istun kanssasi?
+Missä se iso tyyppi on?
+Onpa kylmä. Haluan käydä talviunille.
+Rikkaat ovat erilaisia kuin sinä ja minä.
+Tomi ei pysty auttaa teitä.
+Perheeni koostuu isästäni, äidistäni ja siskostani.
+Tom sanoo, ettei ole vielä nähnyt tuota elokuvaa.
+Pidäthän yhteyttä.
+Onko tuo musta laukku sinun?
+Olen hirveän lihava.
+Tomi on sinua kolme vuotta vanhempi.
+Ethän sano tästä mitään Tomille.
+Lasketaanko 1 alkuluvuksi?
+Kävin ala- ja yläasteen Japanissa.
+Olen lesbo.
+Minä käyn uimassa joka päivä.
+Voisin tehdä sinut onnelliseksi.
+Tom ei ollut kotona.
+Pysykää rauhallisena.
+Tulokset olivat ennustamattomia.
+Häh?
+Tomi odottaa hissien luona.
+Tomi jäi melkein auton alle.
+Muutat mieltäsi.
+Passi on yleensä välttämätön, kun matkustaa ulkomaille.
+Olen menossa konserttiin ensi viikkona.
+En ole perfektionisti.
+Unohda kaikki mitä kerroin sinulle!
+Sini- ja kosinifunktiot ottavat arvoja lukujen -1 ja 1 väliltä, mukaanlukien päätepisteet.
+Mää!
+Tom on hyvä oppilas.
+Menen kirkkoon.
+Olen pahoillani.
+Näen sinua silloin tällöin.
+Hän voitti sen kisan helposti.
+Söin juuri aamiaiseni loppuun.
+Kuinka vanhoja lapsenne olivat, kun muutit Bostoniin?
+On melkein aika aloittaa.
+Joo!
+Teen sinun takiasi ilomielin mitä tahansa.
+Mies käyttäytyi hyvin merkillisesti.
+Käskin hänen pysähtyä.
+Mä tykkään käydä leffassa.
+Tom osaa hädin tuskin puhua ranskaa.
+Kun on sairaana, vierailijat voivat olla melko kiusallisia.
+Se oli tosi pieni.
+Huhu on täysin perusteeton.
+Sadut alkavat yleensä ”olipa kerran kauan kauan sitten...” ja loppuvat ”...ja he elivät onnellisina elämänsä loppuun saakka”.
+Tomilla oli joitakin Maryä koskevia ongelmia.
+Et voinut mitenkään tietää, että niin tapahtuisi.
+Hän on hyvä ihminen.
+Me ei haluta sitä.
+Minun poikani valehteli minulle.
+Mitä olet tekemässä?
+Minä kuolen nälkään!
+Etsi sen ympyrän ympärysmitta, jonka pinta-ala on kaksitoista neliösenttimetriä.
+Suudelkaa Tomia.
+Tom oli aikaisemmin mammanpoika.
+Mitä sinä olet tehnyt Tomille?
+Odotan matkaa innolla.
+Rakastan elokuvia.
+Näin unta sinusta.
+Kyltti on kiinnitetty laatikkoon.
+Toivon olevani väärässä.
+Olen aina ollut tällainen.
+Minulla ei ole aikaa laittaa ruokaa.
+Chiqui on papukaija, joka puhuu esperantoa.
+Anna minulle vielä yksi mahdollisuus!
+Koska valkoihoisuuden geenit ovat mutaatioita alkuperäisistä perintötekijöistä — ja miehet mutaatioita alkuperäisistä naisista — voimmeko viimeinkin vastata kysymykseen: onko Jumala musta? Vastaus on kyllä, Jumalatar on musta.
+Mä luulen, että meillä on tarpeeksi rahaa.
+En tajunnut ettei Tom koskaan ollut käynyt lukiota.
+Tom saattaisi auttaa sinua.
+Hän on majoittunut naapurihotelliin toistaiseksi.
+Sait mitä tulit hakemaan.
+Hän on ylimielinen ja itsekäs.
+Ajattelen asiaa.
+Kuka haluaa keksejä?
+Tom antoi Marylle jotakin juotavaa.
+Tom valitti opettajalle.
+Tom ei käytä alusvaatteita tänään.
+Sademetsät ovat yksi maapallon mahtavimmista biologisista aarteista.
+Odotan innolla huomista.
+Junalaiturilla käveleminen samalla kun käytät kännykkääsi on todella vaarallista.
+Tomi on sekopää.
+Älä ole niin vahingoniloinen!
+Sillä kissalla on kaksi korvaa.
+Voisitko lainata sanakirjaasi minulle?
+Minun täytyy kiittää häntä.
+Olemme onnekkaita, että Tomi on meillä täällä.
+Minä olen sanaton.
+Tomi höpötti minulle outoja juttuja.
+Minä tarvitsen teidän mielipiteitänne.
+Tapasin hänet sattumalta junassa toissapäivänä.
+Heistä tullaan pitämään hyvää huolta.
+Nyt vain rentoudu.
+Tämä on niin hyvää.
+Voitko puhua kovempaa?
+Tomi avasi jääkaapin ja otti sen maidon sieltä.
+Teillä ei ole vaihtoehtoa.
+Ranskasi on parantunut paljon.
+Lapio, sitä minä tarvitsen.
+Hän eli seitsemänkymmentä vuotta vanhaksi.
+Rakastit Tomia, vai kuinka?
+Raskas lumisade esti junaa lähtemästä.
+Minä haluan vesihiihtää.
+Lopeta laiskottelu ja keksi jotakin tekemistä.
+Liikkumatta!
+Hän nukahti välittömästi.
+He ovat puhumassa.
+Minä vain inhoan nähdä Tomin häviävän.
+Emme myy geneerisiä tuotteita tässä apteekissa.
+Voinko mennä sinne nyt?
+Äitini valittaa tuskin koskaan.
+Haluatko vieläkin mennä majakalle?
+Tom puhuu aina itsestään.
+Meillä on pieni ongelma.
+Rannekelloni on tarkempi kuin sinun.
+Olen uskoakseni kertonut sinulle nyt kaiken.
+Voimmeko me tulla myös?
+Monet haluaisivat tulla kuuluisiksi. Monet kuuluisat ihmiset kuitenkin toivovat, etteivät he olisi niin kuuluisia.
+Vedä suora viiva.
+Tom oli myöhässä kokouksesta.
+Emme pysty tekemään tätä ilman heitä.
+Ettekö te olekaan naimisissa?
+Kirjoitin sen ylös.
+Oliko siellä tilassa joku muu?
+Minun tietääkseni huhu ei ole totta.
+Tom ei ole kovinkaan kummoinen herrasmies.
+En halua mennä kouluun.
+Minulla on koe parin minuutin päästä ja minä mokaan sen varmasti.
+Voi vitsi tää on noloo.
+Voit mennä ulos kunhan tulet pian takaisin.
+Tuo on taloni.
+Olen onnellinen nähdessäni vihreän lippumme hulmuavan tuulessa.
+Kinaasi on entsyymi, joka fosforyloi toisia valkuaisaineita.
+En ole niin yksinkertainen, että uskoisin sinua.
+Taidat tykätä englannista?
+En käy kirkossa.
+Kiinnostaako sen tekeminen yhä sinua?
+Minun olisi pitänyt käyttää lyhythihaista paitaa.
+Olen juomassa kahvia.
+Tämä on Tomin likainen pikku salaisuus.
+Lopettakaa ampuminen!
+Atlantin valtameri on suolaisempi kuin Tyynimeri
+En ole nukkunut päiviin.
+Tom peri suuren omaisuuden.
+Tomi vaikuttaa aika kiireiseltä.
+Pystyykö kukaan ajamaan?
+Tom ei ole aivan noin rehellinen.
+Minulla on paljon kuumetta.
+Hei, ota ihan rennosti.
+Antaisit jo olla!
+Hän muutti nimensä.
+Otan mukaan sateenvarjoni.
+Hävytön portto!
+Menin katsomaan Tomia.
+Minä vain vitsailin.
+Unohtakaa kaikki, mitä minä sanoin teille!
+Hän kuoli keuhkosyöpään.
+Oletteko nälkäisiä?
+Työvuoroni on melkein lopussa.
+Tomi hermostuu niin herkästi, että kaikki välttelevät häntä.
+Hän on jo lähtenyt ulos lounaalle.
+Muista tämä sääntö.
+Tom poltti kaikki vanhat kirjansa.
+Pois tieltä.
+Täytyy myöntää, että se on todella houkuttelevaa.
+Japanissa ihmisistä tulee laillisesti täysi-ikäisiä, kun he täyttävät kaksikymmentä.
+Mistä sinä tulet?
+Rakkaus on kultaa arvokkaampaa.
+Vihdoinkin lumi suli.
+Tomi ei kerro meille mitään itsestään.
+Tomi on surkea suutelija.
+Tutkimme sitä nyt.
+Bussipysäkki on lähellä meidän kouluamme.
+Koneemme lensi pilvien yläpuolella.
+Kuinka korkealle pystytte hyppäämään?
+Hän teki sen itse.
+Mari pitää kovasti kelttiläisestä musiikista.
+Kokoushuoneessa ei ole riittävästi tuoleja.
+Uskottiin, että hirviö asui siinä luolassa.
+Tunnen heidän tuskansa.
+Olin varovainen tehdessäni tuon.
+Se oli täysin hänen vikansa.
+Hän asuu minun yläpuolellani.
+Keskustelumme kesti tunteja.
+Tom ei ole täällä.
+Se on pahin asia, joka voisi mahdollisesti tapahtua.
+Lopeta Tomin hakkuminen.
+Kun sinä ajat, pitäisi sinun keskittyä tiehen.
+Siellä on jäljellä vain yksi lihapurkki.
+Tom jäi tuonne.
+Sinun oma isäsi ei luota sinuun.
+Jos filosofilla ei ole pitkää, valkoista partaa, niin minä en luota häneen.
+Hän rakastaa shoppailua.
+Tom ei tullut kotiin viime yönä.
+Nicki, sinä et edes pidä kalasta!
+Uskon että minun on aika keskustella asiasta hänen kanssaan.
+Pitäisikö meidän koettaa sitä?
+Nousin sängystä, kun oli vielä pimeää.
+Hän ei ole puhunut minulle vielä.
+Et kyllä usko, mitä löysin.
+He ovat aina varovaisia.
+Tomi ei pystynyt estää sitä.
+Huilatkaa.
+Ei koske sinua millään tavoin.
+Tykkään tosi paljon leffassa käymisestä.
+Hänet on leikattu vasemmasta jalasta.
+En ole yhtä luova kuin Tom.
+Minä olen laittamassa ruokaa.
+Voitko toimittaa sen perille?
+Olen autossa.
+Teiän pitää tulla äkkiä.
+Tiedän miten suostuttelevainen Tom voi olla.
+Älä anna meidän estää sinua.
+Alkoi sataa aivan hetki sitten.
+Tomi kertoo aina vitsejä.
+Alkakaa.
+Mitä minä kerron Tomille?
+Voin kuulla Tomin laulavan.
+Se on vitsi.
+Tule lähemmäksi, jotta näen naamasi.
+Sinun pitäisi tehdä läksysi nyt.
+Voin kuulla Tomin soittavan kitaraa makuuhuoneessaan.
+Keskeytät oppitunnin.
+Se joka tietää eniten puhuu vähiten.
+Tomi antoi Marin maksaa laskun.
+Tomi ei anna meidän tehdä sitä.
+Hän on nokkela.
+Asun Miamissa.
+En ole rakastunut häneen. Me olemme vain hyviä ystäviä.
+Mitä sinä oikeasti teet täällä?
+Tämä elämä kultakalamaljassa on kaikki mitä tarvitsen.
+Tom kantoi kahta matkalaukkua.
+Miten omituista!
+En usko!
+Hän on runoilija.
+Ei tuo olekin opettaja sinun koulustasi?
+Toivotan tervetulleiksi juhlaan kaikki, jotka haluavat tulla.
+Sinä olet hukannut sinun marmorikuulasi.
+Vierailemme ystäviemme luona.
+Tom oli täysin ilkosillaan.
+Me kävelimme paljon.
+Sinun ei tarvitse syödä.
+Harjoittelin ranskan puhumista Tomin kanssa.
+Perhe söi lounasta.
+Tom toivoi että hänellä olisi joku jolle puhua.
+Hänen tyttöystävänsä ei tukenut häntä.
+Alku on työn tärkein osa.
+Mitäs tuosta.
+Tom rakastaa häntä.
+Lähden Australiasta huomenna.
+Mihin aikaan minun pitäisi kirjautua sisään?
+Keitä he oikeasti ovat?
+Tuo sinä bagelit.
+Me olemme opiskelijoita.
+Tom joi shotin.
+En laulanut.
+Hän kykenee opettamaan ranskaa.
+Tomi oli taidekilpailun tuomari.
+Katso.
+Minusta Tom on heikko.
+Kuu loisti kirkkaana ja selkeänä.
+Minä ajattelen sinua.
+En muista tarkalleen.
+En puhu ranskaa sujuvasti.
+Ranskalaisia perunoita, kiitos.
+Tunnen oloni mukavaksi kiusallisissa tilanteissa.
+Hei kaikki, olen Tomi.
+Tomi katosi.
+Mikä hänen ryhmittymisensä on?
+Olen salapoliisi.
+Verenpaineesi on korkea.
+Onpa kummallista!
+Olen onnellinen Tomin puolesta.
+Missä sinä olet ollut viime päivinä?
+Ole minuun postitse yhteydessä.
+Lainaan sinulle niin paljon rahaa kuin haluat.
+Se oli täydellinen.
+Sinun ei tarvitse sanoa mitään, jos sinusta ei tunnu siltä.
+Veikkaan, että Tomi unohti.
+Näin Tomin miesryhmässä.
+Hän on sveitsiläinen.
+Tom tykkää jazzista.
+Saanko avata purkin?
+Me uimme toisinaan järvessä.
+Viini täydensi ateriaa loistavasti.
+Pian on sadekausi.
+Tom teki päätöksensä.
+Hyvää yötä!
+Ketään ei huvita tapella.
+Haluaisin päästä tuntemaan Tomin.
+Onko totta, että te ette olleet täällä eilen?
+Ei sitä saa koskaan tietää, jos ei koeta.
+Meidän täytyy kunnioittaa muita.
+Voit pelata ihmistä, haltiaa tai kääpiötä.
+Haluan vain sinun parastasi.
+Pöydällä on yksi omena.
+Onpa omituista!
+Minä en sitä usko.
+Tom oli liikenneonnettomuudessa.
+Ette saa ikinä tietää, jos te ette kokeile.
+Söin graavikalaa ensimmäisen kerran vasta kun tulin Japaniin.
+Jupiter on aurinkokuntamme suurin planeetta.
+Tomi piileskeli ladossa.
+Haluan syödä jotain korealaista ruokaa, joka ei ole mausteista.
+Miks Tomi ei tykkää asua Australiassa?
+Naiset ensin.
+Olen koditon.
+Mihin aikaan?
+Tom on pösilö.
+Tom esti minua menemästä sisälle pankkiin.
+Suutele minua!
+Tomi vaikutti tavallista kiireisemmältä.
+Toivon, että Tom ei pety.
+Se on riski, joka meidän pitää ottaa.
+Tomilla on sisko, joka pitää tenniksen pelaamisesta.
+Vanha mies pakeni mutta vaikeuksin.
+Kuinka kaun olet istunut siinä?
+Ryöstö tallentui valvontakameraan.
+Onko hän aito blondi?
+Se sijaitsee Fujin juurella.
+Kevät tuli.
+Lue tämä ensin.
+Kerron, kun tulen takaisin.
+Mr. Bush sai hieman enemmän ääniä kuin Mr. Gore.
+Hän ei osaa englantia ja vielä vähemmän saksaa ja ranskaa.
+Se on sekä hyvä että halpa.
+Älä pelkää lääkärillä käymistä.
+Oli pienestä kiinni, etten jäänyt auton alle.
+Se on harppu.
+On mahdollista, että Tom ei tule.
+Hän on sen arvoinen, että hänestä tulee joukkueemme kapteeni.
+Oletko huonolla tuulella?
+Mitä ikinä teetkin, tee se niin hyvin kuin mahdollista.
+Onko se vakavaa?
+Tom on sähköinsinööri.
+Kuvittelenko minä tämän?
+Ampukaa!
+Minä olen yllättynyt, että te olette niin naiiveja.
+Olemme äärettömän onnellisia.
+He ovat onnellisia.
+Se ei ole hyvä idea.
+Suojaamaton seksi on vaarallista.
+Tomi sanoi, että hänellä ei ole jano.
+Hae minulle juotavaa.
+Istuhan alas.
+Olemme juuri saaneet tiedustelun Kansasista koskien veljeäsi.
+Hänen kysymyksensä osoittavat, että hän tuntee aihepiirin erittäin hyvin.
+Voinko lähettää sinulle kaveripyynnön Facebookissa?
+Elämä on matka, ei määränpää.
+Tomi onnistui pelastamaan Marin.
+Koe tehtiin sadalle naimattomalle miehelle.
+Käydään asiaan.
+Minua itkettää nyt.
+Ullakolla on runsaasti varastotilaa.
+Mitä tähtitiede on?
+Älä yritä tehdä kahta asiaa kerralla.
+Sinun täytyy alkaa mennä.
+Mitä jos sulkisit leipäläpesi?
+Älä ole tyhmä.
+Ranskan presidentti vierailee Japanissa ensi kuussa.
+Hän menetti kaiken.
+Tämä on todella inhottavaa.
+Mitä hän tekee täällä?
+Tom sanoi, että puhut ranskaa.
+Onko kyydissä lääkäriä?
+Hän rakastaa uutta taloa.
+”Saisinko herra Nakagawan puhelimeen?” ”Täällä puhuu Nakagawa.”
+Tom on selvänäköinen.
+Kotini katto on punainen.
+Paahtoleipä on palanut mustaksi.
+Koska näytös alkaa?
+Se paita on hyvin likainen. Se on pestävä ennen kuin te menette kouluun.
+Rakastan tätä yhtyettä.
+Toki.
+Hän on todella kuumaverinen ja minä olen vilukissa. Mitä meidän pitäisi tehdä makuuhuoneellemme?
+Haluaisin pyytää palvelusta.
+Oletko ikinä lukenut kirjaa, joka kertoo Japanista?
+Lääkäri teki väärän diagnoosin.
+Voitko mahdollisesti auttaa minua?
+Tomi katosi ihmispaljouteen.
+Menen nukkumaan aikaisin.
+Kumarruin kohteliaasti.
+Siksi tätä ei tule enää koskaan tapahtumaan uudelleen.
+Meidän ei pitäisi vetää liian hätäisiä johtopäätöksiä.
+He kohtelevat työntekjöitään hyvin.
+Tom pelkäsi voivansa kuolla kuiviin verta valumalla.
+En ole koskaan kuullut hänen puhuvan pahaa kenestäkään.
+Kakun leikkaaminen yhtä suuriin paloihin on melko hankalaa.
+Olen ollut viime aikoina todella kiireinen.
+Onko ymmärretty?
+Syön täällä.
+Israel on hebreaksi "Yisrael".
+Olenko minä niin erilainen?
+Tuo ei ole kovin hauskaa.
+Universumin laajeneminen kiihtyy.
+Tom kysyi suuntaa lähimpään sairaalaan.
+Sinä olet kotoisin Bostonista, eikö niin?
+Ensi viikkoon!
+Tommi tietää, että ei ole hyvä ajatus tehdä mitään tuollaista.
+Hän huusi apua suureen ääneen.
+Niin, kuinka minun pitäisi käyttäytyä?
+En halua mennä ostoksille yksinäni.
+Hän on kotoisin Saksasta.
+Tuo kirja on virheitä täynnä.
+Tämä on melko normaalia.
+Et ollut hauska.
+Tom valahti valkoiseksi.
+Hän joi kolme lasia vettä.
+Hänen talonsa on hyvin uudenaikainen.
+Hän jatkoi kävelyään herukoiden, karviaismarjojen, hedelmäpuiden ja pensasaitojen ohi.
+Selvitä mitä Tom on tekemässä täällä.
+Miksi soitit minulle tähän jumalattomaan aikaan?
+Haluan ostaa lahjan Tomille.
+Olkoon kuka on, emme voi muuta, kuin luottaa häneen
+Elämä Japanissa on kallista.
+Suora on triviaali esimerkki käyrästä.
+Nauroimme.
+Näyttää sitä, että meillä on kaikki.
+Tom ei vihaa teitä.
+Hän teki tehtävän loppuun pelkällä tahdonvoimalla.
+En pysty odottaa enää.
+Anteeksi, mitä sanoit?
+Tom ei voinut olla ajattelematta Maria.
+Onko se kaukana täältä?
+Tom ojensi Marylle manilakuoren.
+Tom hyppäsi hevosensa selkään ja ratsasti pois.
+Myös Tomilla on hauskaa.
+On sanomattakin selvää, ettei Roomaa rakennettu päivässä.
+Olen Farshad.
+Oletteko te tekemässä töitä?
+Kätesi ovat pidemmät kuin minun.
+Mikä on elämän päämäärä?
+Hiukseni ovat liian pitkät.
+Pidä huolta itsestäsi.
+Syntymäpäiväkuvat ovat todella teräviä
+Tomilla on kolme ranskan sanakirjaa
+Älä naura hänelle siksi, että hän teki virheen.
+Norja on maailman rikkain maa.
+He työskentelivät yhdessä sammuttaakseen tulen.
+En enää kestä tätä kuumuutta.
+Olen nainen.
+Paljonko sinulla on ikää?
+Tätä sanaa ei ole olemassa ranskan kielessä.
+Älä luovuta ilman taistelua.
+Tomilla on teille yllätys.
+On liian aikaista lähteä.
+Pöyristyttävää!
+Hän on paljon minua nokkelampi.
+Älä jätä etuovea auki.
+Kiiruhdin asemalle vain huomatakseni, että juna oli jo lähtenyt.
+Marylla on mielikuvitusystävä.
+Sinun pitää keskittyä tiehen kun sinä olet ajamassa.
+Luulin, että hän oli vihainen.
+Kello käy hitaasti.
+Tämä on tarina kissasta.
+Minäpä kerron sinulle miksi en pidä Tomista.
+Nussi mutsiis.
+Olen siviili.
+Tomin vitsit ovat ratkiriemukkaita ja ne vain paranevat, kun Tom on juonot pari olutta.
+Kuinka paljon se on myöhässä?
+Minusta lasagne on ihanaa.
+Mitä useampia ihmisiä tunnet, sitä vähemmän aikaa sinulla on heidän tapaamiseen.
+Se ei näytä hyvältä, eikö vaan?
+Satutko sinä pelkäämään minua?
+Minun käsittääkseni Tomi on kotoisin Australiasta.
+Puhumme ranskaa kotona.
+Painu vittuun!
+Synnyin Venäjällä.
+Koko talossa ei ollut sitten yhtään ketään.
+Se oli kummaa.
+Tässä, sovita päällesi.
+Me emme tee mitään.
+Hän pitää aina sinisiä paitoja.
+Ei ole parempaa tapaa aloittaa päivää.
+Tom toivoi että olisi yhä naimaton.
+Tom on erittäin luova.
+Tomi teki tämän virheen tahallaan.
+Näytä mulle sun kädet.
+Huolettomuus voi johtaa vakavaan onnettomuuteen.
+Unelmani on olla presidentin vaimo.
+Tatoeba syytää minulle loukkauksia!
+Minä luen tätä lausetta.
+Tomi oli aluksi hämmentynyt.
+Leikatkaa!
+Maailmassa on enemmän kuin 4000 kieltä.
+Älä viitsi!
+Olen jo sanonut Tomille, että hän voi lähteä aikaisin.
+Se on minun käyttööni.
+Mitä haluat tehdä?
+Yleisyydestä tinkimättä voimme sanoa jonon suppenevan nollaan.
+Sonia näytti hyvin huvittuneelta.
+Pitäisikö meidän yrittää sitä uudelleen?
+Mun keittiössä on tulipalo.
+Sinun olisi parempi lähteä nyt.
+Minun pitää olla varovainen.
+Nautitteko vierailustanne täällä?
+Haluan kuulla lisää Tomista.
+Hankkiudu eroon aseesta.
+Ole hyvä ja lähde.
+Se ja sama.
+Tom laittoi takkinsa päälleen ja lähti.
+Onpa kaunis nainen!
+Hänellä on salaperäinen silmän muotoinen taikakalu.
+Muistan, että kävit usein Eliisalla teellä, kun olit pieni tyttö.
+Tomin oli saatava kolerarokotus.
+Tomilla on epämiellyttävä, kova ääni.
+Se on liian ruma.
+Tomilla on homeallergia.
+Rakennuksen edessä on auto.
+Rauhoittukaa!
+Mitä Tomille tapahtui Bostonissa?
+Tomi on suremassa.
+Teidän täytyy vain odottaa.
+Mitä sinä teet?
+Hän asuu vielä vanhempiensa kanssa.
+Myöhästyin sinun vuoksesi.
+Tomi on todella arvaamaton.
+Me syömme kotona.
+Sini- ja kosinifunktiot saavuttavat arvoja lukujen miinus yksi ja yksi väliltä (-1 ja 1 mukaanlukien).
+Hän puhui hitaasti.
+Minun täytyy käydä suihkussa.
+Tom on ammatiltaan rekkamies.
+Hän keitti munat.
+Minusta tuntuu kuin olisin orja.
+Häivy!
+Ostitko sen mustasta pörssistä?
+Haluatko sinä jutella?
+Anna minulle havaintoesitys.
+Tomin vaimo menehtyi viime viikolla.
+Tomilla on kolme alle kouluikäistä lasta.
+Ovatko he opiskelijoita?
+Onko tämä teidän lentonne?
+Olemme vankeja.
+Haluan, että Tom voittaa vaalit.
+Tomi huusi apua.
+Tom yritti tappaa itsensä.
+Pitääkö Tomin olla läsnä?
+Ilta on vielä nuori.
+Tuo kirjailija käänsi ne sadut meidän kielellemme.
+Tarina oli tosi.
+Alkaako koulu puoli yhdeksältä?
+Hänet erotettiin virastaan, koska hän oli laiskuri.
+Tomilla on kaksi poikaa. Molemmat asuvat Bostonissa.
+Vaikutat kiireiseltä.
+Tämä on hänen likainen salaisuutensa.
+Uudet työntekijät, jotka ovat juuri aloittaneet työskentelynsä yrityksessä, tekevät kaiken tähän arkaan tapaan.
+En itse asiassa koskaan käynyt korkeakoulua.
+Sini- ja kosinifunktiot ottavat arvoja miinus yhden ja yhden väliltä, miinus yksi ja yksi mukaanlukien.
+Kaikki ongelmani ovat ohitse.
+Tomi on lopettanut.
+Jep!
+Meiltä loppui ruoka.
+Mehiläiset tekevät hunajaa.
+Tom on hyvä päästään.
+Miksette kysy opettajaltanne neuvoa?
+Jumituimme ruuhkaan, minkä takia myöhästyimme kaksikymmentä minuuttia.
+Onko totta että halusit asua Saksassa?
+Lopeta tupakointi.
+Katso tuota junaa, joka ylittää sillan.
+Saisinko pizzan, kiitos.
+Maisema on henkeäsalpaava.
+Missä sinä olet?
+Jumituimme ruuhkaan, jonka takia myöhästyimme kaksikymmentä minuuttia.
+Olympialaiset järjestetään joka neljäs vuosi.
+Hedelmällistä puolikuuta pidetään sivistyksen kehtona.
+Näin miehen menevän huoneeseen.
+Et koskaan kertonut miksi viivästys tapahtui.
+Tomi kuoli tulipalossa.
+Tomi ja Joni ovat kaksosia.
+Tom teeskentelee, ettei hän ymmärrä ranskaa.
+Mieleeni tuli hyvä idea.
+Tunne itsesi.
+Tom tahtoi saada rahoilleen vastinetta.
+Se oli kotoisa, hyvin kalustettu asunto, jossa paloi kaksi kynttilää pöydällä ja kaksi takanreunuksella.
+Jalkani alkavat puutua.
+Setäni asuu Saksassa.
+Onko kaikki ihan hyvin?
+Me emme pidä Tomista.
+Tomilla ei ollut muutakaan tekemistä.
+Teen paljon tyhmiä ratkaisuja.
+Yritätkö pilata elämäni?
+Tämä on vastoin lakia.
+En tiedä.
+Verenpainemittari on tärkeä dignostinen väline.
+Tom söi aamupalaa.
+Mä en haluu olla sun kaveri.
+Viime viikon taifuuni oli äärimmäisen kuolettava.
+Pullonokkadelfiinit ovat Maapallon älykkäimpien eläinlajien joukossa.
+En ole kiireinen.
+Tomi ei ollut perillä tilanteen vakavuudesta.
+Tatoeba: Saitko yksityisviestin? Olet todennäköisesti pulassa...
+Älä ruoki eläimiä.
+Uusi tuote tuotti minulle pettymyksen.
+Haluan asua Curaçaossa.
+Häivy!
+En ole kertonut tätä ikinä kenellekään.
+Nimeni on Farshad.
+Lisätkää majoneesi.
+Söin aamiaiseksi kolme munaa ja kaksi paahtoleipää.
+Osaak sä sitoa sun kengännauhat?
+Kuulen että olet pokerinpelaaja.
+Kaksisataa dollaria on minulle paljon.
+Sillä on väliä.
+Tupakoiminen on täällä kielletty.
+Tomi on pahalla tuulella.
+Tiedän, että Tom ei puhu ranskaa.
+Hän on kahdentoista. Hän on ikäisekseen pitkä.
+Hänellä on hyvä muisti.
+En vain ole pystynyt saamaan Tomia kiinni.
+He pitivät suhteensa salassa.
+Kaivosmiehet työskentelevät vaarallisissa olosuhteissa.
+Ehkä hän tulee huomenna.
+Olet minun maassani.
+Tunsin olevani hukassa ilman sinua.
+He näkivät laivan.
+Tom teki niin kuin hän sanoi tekevänsä.
+Ole varovainen, ettet saa flunssaa.
+Oletko käynyt milloinkaan Ranskassa?
+Meidän pitäisi tehdä näin joka maanantai.
+Tämä on hieno asunto.
+En tee sitä.
+Hän on vasta lapsi.
+Kissa kyyristyi alas valmiina hyppyyn.
+Sataa.
+Missä lautaset ovat?
+Tom on jo mennyt nukkumaan.
+Hänen äänensä alkoi nousta hänen puhuessaan.
+Haluaisin puhua sen ylihoitajan kanssa.
+Olen saanut tarpeekseni sarkastisista huomautuksistasi.
+Ovatko kätesi puhtaat?
+Mä oon cool.
+Sinun ei tarvitse tulla jos et halua.
+Hänen mahtava sinfoniansa esitettiin.
+Mikään ei ole niin miellyttävää kuin käydä kävelyllä kauniina kevätpäivänä.
+Tom tajusi nopeasti, että hän oli erilainen kuin muut lapset.
+Saattaa olla, että Tom ei ole tietoinen vaarasta.
+Nämä kengät valmistetaan Italiassa.
+Tomi myönsi ottaneensa vastaan lahjuksen.
+Ihailen kunnianhimoasi.
+Tom jätti suuren omaisuuden pojalleen.
+Älä katso lahjahevosen suuhun.
+Miten saan tytön rakastumaan itseeni?
+Tom auttaa minua ranskassa.
+Tomi ei ole sisällä juuri nyt.
+Soitan Tomille.
+Haluaisitko auttaa minua maanantaina?
+Sanotaan, että hän on kuollut.
+Sinä päätät.
+Apinat kiipeävät puihin.
+Tom pitää vara-avainta kätkettynä puutarhaansa.
+Kotiin jääminen ei ole kivaa.
+Olkaa hiljaa molemmat.
+Tappaja on juuri vaatinut neljännentoista uhrinsa eikä meillä ole vieläkään tietoa hänen henkilöllisyydestään.
+Heidän keskuudessaan vallitsee harmonia.
+Pitääkö Tom ranskasta?
+Tomi antoi Marille palan suklaata.
+Koirani haukkuu koko ajan.
+Tomi tuntee paljon ihmisiä.
+Hän ei ole voinut tietää siitä.
+Hyväsydämiset naiset ovat aina kauniita, mutta kauniit naiset eivät aina ole hyväsydämisiä.
+Herra Morikawa valittaa jatkuvasti jostakin.
+Hän on addiktoitunut.
+Tom sujautti rahat taskuunsa.
+Se on bisnestä.
+Ystäväni on hiljaittain eronnut sulhasestaan.
+Muistan, että tapasin kuningattaren.
+Onpa kaunis paikka!
+Minulla ei ollut aikaa.
+Tom pitää pavuista.
+Kuunne palaa.
+Jos myöhästymme junasta, menemme bussilla.
+Ymmärrätkö tätä kieltä?
+Kaukana havupuiden takana on pieni puutarha. Siellä ruoho kasvaa pitkänä ja syvänä, siellä on myrkkykatkon kukkien valkoisia tähtiä, siellä satakieli laulaa koko yön. Koko yön hän laulaa, ja kylmä kristallikuu katsoo alas, ja havupuu levittää suuret kätensä nukkujien ylle.
+En ole vieläkään varma mistä tässä on kyse.
+Mari pyysi Tomia halimaan häntä.
+Menen, jos keli on hyvä.
+Jos sää sallii, niin me saavumme sinne huomenna.
+Olet minun istumapaikallani.
+Soitan sopiakseni tapaamisesta kanssasi.
+Milloin sinä pelaat tennistä?
+Millainen nainen minä sinun mielestäsi olen?
+Meidän täytyy aloittaa nollasta.
+Tämä laki koskee vain ulkomaalaisia.
+Puiset tuolit ovat kalliita.
+Tajuatteko?
+Sinne, korkean vuoren huipulle, he rakensivat itselleen pienen kaupungin ja elivät rauhassa.
+Valitse hyveistä hiljaisuus, sillä sillä kuulet muiden viat ja peität omasi.
+Minä itkin.
+Sinä olet kirjoittanut minun nimeni väärin.
+Tom ei puhunut ranskaa kovin hyvin.
+Kukaan ei ota meitä vakavasti.
+Tomilla on ihottumaa.
+Älä unohda lisätä tunnistetta "@change" virheellisiin lauseisiin.
+Me söimme miekkakalaa.
+Voin tuskin nähdä sen.
+Pidän jazzista. Millaisesta musiikista sinä pidät?
+Uskomme että kuolinaika oli 14:20.
+En ole epäjärjestelmällinen.
+Pohjanmaalainen maajussi astui työpäivän päätteeksi ojasta allikkoon.
+Miljoonat ihmiset ymmärtävät interlinguaa ensisilmäyksellä.
+Tom voi tulla mihin aikaan tahansa.
+Mitä tahansa tapahtuukin, sinun täytyy pysyä rauhallisena.
+Joni ei osaa soittaa kitaraa.
+Minulla on hyvä syy olla huolestunut.
+Tom suuttui.
+Ne vihaa hämppyjä.
+Tiedän, että hän salaa jotakin minulta.
+Voimme jokainen ilmentää tietoisuuden kentän ominaisuuksia tavalla, joka ylittää paikan, ajan ja lineaarisen kausaliteetin.
+Otitko vaatteet pois pyykkikoneesta?
+Onko sinulla tämän päivän liput?
+En tiedä miten, mutta tein sen.
+Lopeta jo!
+Cornellin yliopiston tutkimuksen mukaan, epäviehättävät vastaajat saavat tuomion 22 prosenttia todennäköisemmin kuin hyvännäköiset.
+Tomi tykkää käyttää tiukkoja vaatteita.
+Minulla on kaveri, joka syöttää koiralleen mansikoita.
+Tomin nurmikko kaipaa leikkaamista.
+Menikö hän Hangzhouhun isänsä kanssa?
+Tuota minä en tiedä.
+Haluaisin mennä elokuviin.
+Hän on opettaja.
+Mennään puutarhaan.
+Hei, älkää koskeko mitään!
+Tämä on Tomin.
+Katsoin kaappiin.
+Onko Sisilia hyvinkin lähellä Maltaa?
+Tom on todennäköisesti unessa.
+Tämä piirros on tyypillinen Tomin tyylille.
+Emili on sievä.
+Kerro minulle mitä oikeasti tapahtui.
+Kirsikankukat ovat parhaimmillaan huhtikuussa.
+Missä he ovat?
+Ei väliä kuka tämän kirjan kirjoitti, mutta hän on todella fiksu.
+Olen käynyt kolme kertaa Australiassa.
+Suutari etsii uutta alasinta.
+Meillä ei ollut eilen koulua.
+Kiina on kenties maailman ainoa maa, jossa lämpötilaa kontrolloi hallitus.
+Ajattelin, että saattaisit olla kiinnostunut.
+Hänen ystävänsä odottivat häntä portin pielessä.
+Minä olen yllättynyt, että olette niin naiiveja.
+He laskivat hänen edukseen salaisen hyväntekeväisyyden.
+Sinun pyöräsi on parempi kuin minun.
+Minä jään.
+Käyn hakemassa vähän kahvia. Haluatko sinäkin?
+En halua tanssia.
+Tom oli suunnitellut olevansa ensimmäinen paikalla, mutta Mari ehti ensin.
+Olen valmis.
+Tom puhuu ranskaa vain vanhemmilleen.
+Hän on koulutettu tyttö.
+Eikö päivä ollutkin pettymys!
+Menen nukkumaan yhdeltätoista.
+Työntäkää.
+Minun täytyy mennä sairaalaan.
+En muista onnettomuudesta mitään.
+Oscar oli äitini koira.
+Avaisitko ikkunan?
+Hän asuu korttelin päässä ja hänen nimensä on Susan.
+”A ja B ovat ekvivalentteja” tarkoittaa samaa kuin ”A on tosi jos ja vain jos B on tosi”.
+Mieti.
+He ovat tosi viileitä.
+Tämä lause on tylsä.
+Minä en usko, että Tomi haluaa sinun vanhan polkupyöräsi.
+Minusta sinun pitäisi sanoa se Tomille.
+Elämä on liian lyhyt halvan viinin juomiseen.
+En enää halua ajatella mitään.
+Tom joutui sateeseen ja hänen uusi pukunsa meni pilalle.
+Mary muutti Yhdysvaltoihin myöhäisteini-iässään.
+Kuulin nimeäni kutsuttavan.
+Opiskelijat eivät saa mennä opettajainhuoneeseen.
+Mitä he aikovat tehdä meille?
+Tom tahtoi kiittää sinua.
+Minun täytyy tuoda skettini huomenna.
+Sodat tuovat arpia.
+Onko ranska vaikea oppia?
+Aion mennä leffaan.
+Katsokaa, mitä tein.
+Apinalle puuhun kiipeäminen on helppoa.
+Minä kaipaan jännitystä.
+Vapauttakaa hänet.
+En osaa luetella tätä sanaa kirjain kirjaimelta.
+Tomin auto meni rikki.
+Tom tiesi ettei hänellä ollut tarpeeksi rahaa.
+Tomi piirsi suuren neliön.
+Älä puhu minulle uskonnosta.
+En tuntenut heitä kovin hyvin.
+Tom ei osaa ranskaa.
+Haluan kuulla sinun mielipidettäsi.
+Viime talvena oli paljon lunta.
+Te ette saa koskaan tietää, jos te ette kokeile.
+Hänellä ei ole hattua päässään.
+Olen vaihtanut kotisivujeni ulkoasua.
+Minne pysäköit auton?
+Olet ollut todella ystävällinen.
+Tom kuulostaa olevan poissa tolaltaan.
+Tuhansia kuolleita kaloja löytyi kellumasta järvessä.
+Minun pitäisi ottaa tämä.
+Tomi käy Bostonissa kahdesti tai kolmesti vuodessa.
+Tatoeba-projekti on virtuaalinen kotimme.
+Minun täytyi jäädä kotiin.
+Tom luovutti sopimuksen Marylle.
+Anteeksi, mutta voisinko lainata puhelintasi?
+En tiedä onko tästä sinulle mitään hyötyä.
+Yksipuolisin Grand Slam -loppuottelu koskaan käytiin vuoden 1988 Ranskan avoimissa, kun Länsi-Saksan Steffi Graf jyräsi Neuvostoliiton Nataša Zverevan 6-0, 6-0. Ottelu kesti vaivaiset 34 minuuttia.
+Se on niin puhdas.
+Voimmeko sulkea television?
+Emme riidelleet!
+Olen kahdeksantoista.
+Sinä olet saattanut olla oikeassa.
+He työskentelevät yläkerrassa.
+Ihanko totta?
+Mitä tulee rakkauteen: naiset ovat asiantuntijoita ja miehet ikuisia aloittelijoita.
+Tom on kova työmies.
+En yksinkertaisesti ymmärrä mitä foorumeilla riitaa haastavien ihmisten mielissä liikkuu.
+Jonain päivänä löydän sinut
+Mul on auto.
+Tuntuu kuin olisin orja.
+Jos kaikki huutavat yhtäaikaa, emme pysty kuulemaan mitä sanottavaa pääministerillä on.
+Lauseiden lisääminen Tatoebaan on raskasta puuhaa.
+Oletko tulossa takaisin sisään?
+Ajokorttisi on mennyt vanhaksi.
+Asia on niin kuin aina sanon: makuasioista ei sovi kiistellä.
+Hänen talonsa on sillan toisella puolella.
+Tomi meni sohvalle pitkälleen ja nukahti.
+Minulla oli tapana syödä pizzaa.
+Haluan syödä jotain, joka ei ole tulista.
+Tom ja Mari ovat huonoissa väleissä.
+Minulla on vähän ostoksia tehtävänä.
+Minulla on lemmikkijuna, jota välillä käytän toimistolla. Se saa tosin toimiston aivan nokiseksi.
+Sen jälkeen kun Tom oli syönyt lautasensa tyhjäksi, hän kysyi Marilta voisiko hän syödä Marin salaatin.
+Alkaa sataa lunta.
+Nautin unelmiesi lukemisesta.
+Tomi haluaa antaa vanhan autonsa Marille.
+Japanissa ei ole enää yhtäkään turvallista paikkaa.
+Kaikki lähtivät paitsi Tomi.
+Isoäitini äitini puolelta asuu Osakassa.
+Olen varma, että sinä onnistut.
+Kovalle työlle ei ole korviketta.
+Minä sain tietää totuuden kirjeestä.
+Minä etsin Tomia.
+Herätin heidät.
+Soita lääkärille.
+Kone lähtee klo 17.30.
+Me kaikki nauroimme hänen vaaleanpunaista smokkiaan.
+Onko tämä lause järkeenkäypä?
+Emme halunneet aloittaa ilman sinua.
+Juo teetä.
+Hän kuvasi lennon yksityiskohtaisesti.
+Jäniksellä on pitkät korvat ja lyhyt häntä.
+Tomin kengät ovat liian suuret hänelle.
+Mikä ratkaisu on paras?
+Tom on Australiasta.
+Olemme suorittaneet varotoimenpiteitä.
+Tom torjui Maryn avuntarjouksen.
+Terroristit kaappasivat toimittajan.
+Olit charmantti.
+Yritimme varoittaa heitä.
+Mikä sinun tavoitteesi Tatoebassa on?
+Tom sanoi: "Voit suudella tyttöystävääsi hyvästiksi, jos et suutele häntä hyvästiksi", mikä tarkoitti "Jos et suutele tyttöystävääsi hyvästiksi, niin et näe häntä enää koskaan".
+Hän meni Shanghaihin junalla.
+Joskus minä yhä kaipaan häntä.
+Mun elämä on tylsää.
+Pidän kalastamisesta.
+Tämä on tiekartta.
+Minä pystyn hyväksymään sen.
+Mitä muuta voisin tehdä?
+Anna asian olla toistaiseksi.
+Tomi luki sarjakuvaa.
+Olen odottanut tätä vuosia.
+Haluaisin mennä naimisiin hänen kanssaan.
+Säikäytit meidät.
+Myöhään valvominen tekee huonoa iholle.
+Tulen ostamaan uuden auton.
+Teidät on kaikki pidätetty.
+Hänen käyttäytymisensä on vierasta yleisölle.
+Minun täytyy laittaa takin napit kiinni.
+Pysytään vain rauhallisina.
+Tietoisuus on olemisen edellytys.
+Keitä ovat nuo kolme miestä?
+Auttaako Tatoeba todella kääntäjiä?
+Isä tulee harvoin kotiin ennen kahdeksaa.
+Menen sinne nyt.
+Maa on Aurinkoon verrattuna pieni.
+Hän on tavallaan taiteilija.
+Fysiikka on minulle hepreaa.
+Pitäisi keskittyä tiehen kun ajaa.
+Te olette kännissä!
+Luen kirjan.
+Japanissa ihmisistä tulee lain mukaan täysi-ikäisiä, kun he täyttävät kaksikymmentä.
+En voisi ikinä pettää sinua!
+Vauva lie niellyt tutin.
+Sinun täytyy pitää aina kätesi puhtaina.
+Vasaralliselle miehelle kaikki näyttää naulalta.
+En ole enää lapsi.
+Vain Tom ei halunnut mennä.
+En tiennyt, että olisit täällä.
+Toimiiko kellosi?
+Hän kääntyi kristityksi.
+Nousin kyytiin Lontooseen menevään junaan.
+Pankki menee kiinni kolmelta iltapäivällä.
+Menen suoraan kotiin.
+Minä odotan hänen paluutaan.
+Se on niin suuri!
+Vauva oppii varmaankin kävelemään muutaman päivän sisällä.
+Salli minun mennä.
+Minun mielestäni se ei ole niin.
+Minä menin sanattomaksi.
+Tykkään tehdä ostoksia eBayssä.
+Katulamput eivät valaise tarpeeksi.
+Tomin mukaan Mari on vain ahne guru, joka lupailee voittoja.
+Toivon, etten tapaa häntä enää ikinä.
+Tomi antoi Marille sydämen muotoisen ilmapallon.
+Mari on nyt äitiyslomalla.
+Yleensä minulla ei ole tällaisia vaatteita.
+Miksi minun täytyy opetella ranskaa?
+Maksoin kymmenen dollaria juustohampurilaisesta, jossa ei ole juustoa.
+Hankkeemme epäonnistui.
+Voi olla, että Tomi osaa korjata sen.
+Minulla ei koskaan ennen ole ollut tuota ongelmaa.
+Hän pysähtyi laittaakseen kengät jalkaansa.
+Jumala meitä auttakoon!
+Sinä yrität myös!
+En ymmärrä tätä ollenkaan.
+Ole hiljaa äläkä hankaloita työtäni.
+Monet kodittomat ihmiset asuvat puistoissa.
+Valamiehistö vetäytyi pohtimaan päätöstään maanantaina.
+Huonot vastaukset näyttävät tietä oikeiden luokse.
+He ovat kelvottomia.
+Tom, oletko täällä?
+Jos minä olisin sinä, niin minä varaisin tapaamisen kielenopettajasi kanssa.
+Se on hirveää.
+Melkein jäin auton alle.
+Se mitä olemme tekemässä nyt on todella vaarallista.
+Voinko kysyä typerän kysymyksen?
+Tom saattaa osata vähän ranskaa.
+Työskentelen hotellissa Bostonissa.
+Hän on tunnettu sekä Japanissa että Amerikassa.
+Hän poltti sikarin lounaan jälkeen.
+Jää syömään.
+Voisitko auttaa hetken?
+Tämä saattaa auttaa sinua.
+Oma tupa, oma lupa.
+Miksi sinä puhut ranskaksi?
+Yritä sinäkin vähän!
+Se on huono nimi laivalle.
+Kuinka myöhään valvot iltaisin?
+En tiedä vielä mitään.
+Tomi lukee sarjakuvaa.
+Hänen talonsa on erittäin moderni.
+Kuinka monta kuppia kahvia joit tänään?
+En usko Jumalan olemassaoloon.
+Käveleminen on parasta liikuntaa.
+Onko se jo korjattu?
+Tule likemmäksi, että näen naamasi.
+Tiedän sen jo.
+Tom lähti sanomatta sanaakaan.
+Mikään ei voi pakottaa minua antamaan periksi.
+Tomi painoi nappia.
+Tom tosissaan ryssi asiat.
+Pidätkö enemmän omenoista vai banaaneista?
+Tomi ei löydä ketään, joka tekee noin Marin tähden.
+Hän ei juo edes olutta ja vielä vähemmän viskiä.
+Odota!
+Varopa suutasi!
+Lopeta ruikuttaminen.
+Tarviitko apua?
+Minulla ei ole aikomustakaan mennä naimisiin.
+Äitini laittaa ruokaa minulle.
+Haluaisin tietää syyn.
+Herra Jaakkola on ranskanopettajamme.
+En ole itse asiassa yrittänyt tätä aiemmin.
+Pidä ovi suljettuna.
+He tarkkailevat minua.
+En halua nähdä sinua enää koskaan uudestaan.
+Minä korjaan sitä taloa.
+Mitä olette tehneet Tomille?
+Hän on konferenssissa.
+Avoin lähdekoodi on moottori, joka ajaa teknologista innovointia eteenpäin.
+Tein vähän kaikkea.
+Tuo paita sopii sinulle hyvin.
+Sain päähäni hyvä ajatuksen.
+Sinun tähtesi, isä, silppuaisin itse paholaisen paloiksi tai muuttuisin itse paholaiseksi.
+Dan vakuutti Lindan palaamaan kanssaan Lontooseen.
+Hahahaa!
+Pelaisimmeko šakkia tänä iltana?
+”Kiitos.” ”Ole hyvä.”
+Heräsitkö sinä juuri?
+Mihin aikaan saavut huomenna?
+Haluatko tavata hänet?
+He eivät pysy mukana.
+Hän ei ole vanha.
+Olisit voinut pilata kaiken.
+Minne Tom menisi?
+Olen kuullut sen laulun ranskaksi laulettuna.
+Alan vähitellen tottua tämän paikan kosteaan ilmastoon.
+Se oli tosi helppoa!
+Jokaisella säännöllä on poikkeuksensa.
+Mikä häpeä!
+Bacchus on hukuttanut useamman kuin Neptunus.
+Tom on paljon vanhempi kuin Mary.
+En tiedä isäni vuosituloja.
+Puhutteko te meistä?
+Joka tapauksessa olen lopettanut artikkelin kirjoittamisen.
+Anna Tomille vähän yksityisyyttä.
+Helppo suunnitella, vaikea toteuttaa.
+Hän on onnellinen.
+Näetkö unta ranskaksi?
+Se on varmaan OK.
+Äsken ostamani paita on oikein sievä.
+Liikenne meni tukkoon maanvyöryn takia.
+Silloin mieleeni tuli hyvä ajatus.
+Olisin voinut tehdä saman asian.
+Tilasin tämän uimapuvun Ranskasta.
+iPhone 5 julkaistiin eilen.
+Hän pitää jalkapallon pelaamisesta.
+Ystäväni ovat minulle todella tärkeitä.
+Jos et ole varma sanan merkityksestä, katso se sankirjastasi.
+Tuo on veronmaksajien rahojen tuhlaamista.
+Olisinpa pannut päälleni lyhythihaisen.
+Murehtiminen ei auta.
+”Kerro minulle sitten kaikki”, minä sanoin. ”Minä en voi, Jack, minä en voi”, hän parahti.
+Mistä voin saada taksin?
+Et voi paeta.
+Kerro Marille, että rakastan häntä.
+Ei unohdeta tämän kokouksen päätarkoitusta.
+En muista, et olisin lähettäny ton tekstarin.
+Olen pahoillani tästä.
+Te pysytte paikallanne.
+Ne olivat pienet häät.
+Minä haastan sinut oikeuteen.
+Kuinka hyvin Tomi osaa uida?
+Sinun täytyy ottaa hänen ikänsä huomioon.
+Kiersin talolta toiselle.
+Toivon Tomin pitävän minusta.
+Eksponentiaalifunktiolla on vaakasuora asymptootti.
+Minulla oli oudoin ajatus koskaan.
+Tomi käyskentelee usein ympäri taloa ilman vaatteita.
+Ymmärrätkö, mitä minä puhun?
+Hän torjui tarjoamani avustuksen.
+Mitä mieltä sinä olet siitä?
+Onko tämä hänen itse piirtämänsä kuva?
+Hitto.
+Tiedän tarkalleen, missä Tom on.
+Kuinka kauan Tom oli siellä sisällä?
+Sinä pyörryit.
+Tinkimättä yleisyydestä voimme sanoa, että jono suppenee kohti nollaa.
+Tomi siivoaa huonettaan.
+Tom ei ilmestynyt töihin tänään.
+Tomi on kutsuttu juhlaan.
+Hän kuvaili mielessään kuviteltua kaupunkielämää.
+Isäni lopetti tupakoimisen.
+Hänen ranskansa oli sujuvaa.
+Tomilla on tarpeeksi rahaa ostaa mikä tahansa tietokone tässä liikkeessä. Hänen tarvitsee vain päättää minkä.
+Ollessani pieni lapsi oli minulla tapana pelata baseballia koulun jälkeen.
+Se oli rakkautta ensi silmäyksellä.
+Saavuit juuri sillä hetkellä kuin minä lähdin.
+Miksi minä en kuollut?
+Minä vasta juuri saavuin.
+Kenen tämä matkalaukku on?
+Kangastuksen sanotaan olevan harhakuva.
+Hän oli pitkään sairas.
+Asun kotona vanhempieni kanssa.
+Mä söin aamiaisen mun parvekkeella.
+Älä välitä.
+Voisitko tuoda minulle japanilaisen sanomalehden?
+Joulu lähestyy nopeasti.
+En halua viettää koko elämääni täällä.
+Palasin koulusta.
+Minulla ei ollut aavistustakaan, että sellaisia henkilöitä olisi olemassa muualla kuin tarinoissa.
+Kenen kanssa sinä asut?
+Pelataan videopelejä ajankuluksi.
+Tommilla ei oo mitään mahiksii.
+Tom kysyin Marilta ja hänen ystäviltään haluaisivatko he pelata räsypokkaa, mutta he kieltäytyivät.
+Tomi vaikutti todella kiireiseltä.
+Hän paiskasi oven kiinni.
+Tomin piti mennä käymään lääkärissä.
+Meillä on pikku ongelma.
+Mitä olet kertonut hänelle?
+Kun nousen, minua pyörryttää.
+En pysy mukana uuden brittiläisen musiikkiskenen tahdissa.
+Katsokaa, mitä minä tein.
+Iskä työskentelee.
+Hänellä ei ole tietoa kokemuksesta puhumattakaan.
+Ympäri maailman on miljoonia ihmisiä, jotka katsovat juuri nyt maailmanmestaruuskilpailuita.
+Täällä me nousimme Alaskaan lähtevään laivaan.
+Japani ei ole luonnonvaroiltaan runsas.
+Jemen on valtio Lähi-Idässä.
+Palaan asiaan parin tunnin kuluttua.
+Onko kaikki okei?
+Minulla on puinen kampa.
+Kaikki muut nukkuvat.
+Hänellä on upea vartalo.
+Tomin on palattava hommiin.
+Oletko ikinä kyntänyt peltoa hevosen kanssa?
+Mennäänpä sitten asiaan.
+Osoita, että P on osittain järjestetty joukko.
+Tomi osoitti kattoa.
+Tiedän, että se kuulostaa hölmöltä.
+Hän on isäni.
+Se ei ole oikein.
+Oliko keitto maukasta?
+Onko koulussa kivaa?
+Hän on luonnonkaunis.
+Hän ei ole minun poikaystäväni. Hän on vain ystävä.
+Sinun pitäisi viedä autosi Tomin korjaamolle. Hän tekee varsin hyvää jälkeä.
+Te kaksi näytätte samalta.
+Minä en kuule teitä kauhean hyvin.
+Ehkä sinä luovutit liian aikaisin.
+Haluan, että Tom on onnellinen.
+Eivätkö he osaa puhua ranskaa?
+Täällä on grilli kielletty.
+Teetpä sinä kovasti töitä. Mutta älä rasita itseäsi liikaa.
+Tom hukkasi avaimensa.
+Odota hetkinen.
+Koristelen mieluusti huoneeni kukkaisin.
+Bussi oli melkein täysin tyhjä.
+Olen todella pettynyt.
+Hän on hyvällä tuulella.
+Hänen työnsä oli valvoa työmaan työntekijöitä.
+He vastustavat eläinrääkkäystä.
+Hän ei ole tyytyväinen koskaan.
+Tom sanoo, ettei häntä ole koskaan pidätetty.
+Nyt Tomi asuu setänsä kanssa.
+Hän ei ole tarpeeksi fiksu laskeakseen päässään.
+Tomin olisi ehkä pitänyt syödä ennen tuloaan.
+Hän löi häntä.
+Valmentaja antoi minulle joitakin neuvoja.
+Sinun täytyy auttaa häntä ja nopeasti kanssa!
+Annahan meille nyt hetki.
+Bensa on melkein loppu.
+En puhunut kenellekään.
+Tomilla on suunnitteilla jotain erityistä Marin syntymäpäiväksi.
+Onks sulla kavereit teidän luokal?
+Mua ei kiinnosta vittuakaan.
+Tom näyttää onnellisemmalta kuin ennen.
+Viikset kasvavat ylähuulella.
+Oletko rakastunut?
+Osoittautui ettei ollut kovin helppoa elää hänen kanssaan.
+Tomi tahtoo jäädä.
+Tomi pitää kalliista asioista.
+Haluan jäätelön.
+Tänään Fuji-vuori näkyy selvästi.
+Tomi yritti tappaa Marin.
+Tämä on vanha kirja.
+Mitä haaskausta!
+Ostin voileivän.
+Haluatko kahvia?
+Pidätkö koulussa käymisestä?
+Robertilla oli tapana auttaa isäänsä kaupassa viikonloppuisin.
+Yritä vielä kerran.
+Tom antoi taskulampun Marille.
+Tom halusi antaa itsensä ilmi poliisille.
+Tarvitsen sakset tämän paperin leikkaamiseen.
+Tämä sana tulee latinasta.
+Millä persoonapronomineillä haluat viitattavan itseesi?
+Sinä et valittanut, eikö niin?
+Keskittykää.
+Tom ei alkanut opiskella ranskaa kuin vasta 30-vuotiaana.
+Me kaikki tykkäsimme Tomista.
+Hän laittaa syrjään vähän rahaa joka kuukausi.
+Kunhan huijasin.
+Hän varoi häiritsemästä kokousta.
+Hän kuiskasi šahadan.
+Minä en usko tuohon.
+Tom puhuu ennemmin nyrkeillään kuin suullaan.
+Tomi on asunut kanssamme vuodesta 2013.
+Ystävyydessä on kyse luottamuksesta.
+Meidän galaksimme nimi on Linnunrata.
+Olen yhä aika melko janoinen.
+En kulunut jo jonkin aikaa, eikä minua vaivaava hikka ole vieläkään loppunut.
+Ristikolla kasvaa murattia.
+Lause on lyhyt ja yksinkertainen, mutta ilman kontekstiä siitä ei ole hyötyä oikeastaan kenellekään.
+Me olemme uteliaita.
+Tom tiesi kaiken Marystä.
+Tom katsoi ikkunan läpi.
+Olet saanut ryppyjä.
+Hän koikkelehtii kuin päätön kana.
+Se on OK, mutta ajattelen että voit tehdä sen paremmin.
+Onko leipää?
+Tuo mekko sopii hyvin sinulle.
+Tule takaisin nyt.
+En yleensä kuorsaa.
+Valititko siitä?
+Saksaa ei puhuta pelkästään Saksassa.
+Kerro Tomin spostiosoite.
+Se ei ole enää tarpeen.
+Olen varma, että sinulla olisi hauskaa juhlassa.
+Puhutte.
+Vaikka sataa, minä menen.
+Olen tehnyt vähän tutkimusta.
+Minä huomasin, että Tomilla on oikeassa jalassaan pieni tatuointi.
+Onko se normaalia?
+Voinko tavata sinut kymmeneltä huomenna?
+Minulla on ollut tämä vuosia.
+Lapset oli jätetty oman onnensa nojaan.
+Minä ostan.
+Mikä tahansa ongelma on ratkaistavissa.
+Miksi niin monet ihmiset pitävät John Lennonista niin paljon?
+Tom ja Mari eivät vaan luota Joniin.
+Tänään on kuuma.
+Sinä et auta.
+Minä annan rahat sinulle.
+En voi pakottaa sinua tekemään mitään.
+Minä yskin.
+Asiat hajoavat.
+Tom tahtoi käydä Pohjois-Amerikassa.
+Tomi on luovuttanut.
+Meidän täytyy odottaa pahinta.
+Tässä on hyvä.
+Onko tämä Tomin huone?
+Tom osaa puhua ranskaa.
+Isäni on opettaja.
+Voisinko ottaa kylvyn?
+Ostitko koiran?
+Olkapäähäni sattuu.
+Nämä geenimuunnellut banaanit ovat täynnänsä A-vitamiinia.
+Huone oli täynnä tietokoneita.
+Nousin ylös tuntia aikaisemmin kuin tavallisesti.
+Tom ilahtuu kuullessaan tuon.
+Tomi on hermostunut.
+Minä vihaan tuollaisia ihmisiä.
+Jokin huolestuttaa häntä.
+Aivan kuin hän kantaisi ristään vain yksin.
+Oletko eteisaulassa?
+Silloin kun sinä ajat, sinun pitäisi keskittyä tiehen.
+Olen melkein 180 senttimetriä pitkä.
+Tom rapsutti koiraansa oikein huolella korvien takaa.
+Oisitko vittu hiljaa?
+Huoneenne on 504: viisi nolla neljä.
+Sinun täytyy vain käskeä Tomia lähtemään.
+Milloin olet menossa Eurooppaan?
+Tyttäreni menetys on vienyt minulta elämänilon.
+Projekti täytyy saada valmiiksi viimeistään viikon loppuun mennessä.
+En pitänyt ensimmäisestä työpaikastani.
+Kuori perunat ja porkkanat.
+Unohdin tehdä yhden asian.
+Kuinka monennella kuulla olet raskaana?
+Se saattaa olla ongelma.
+Onko kaikki OK?
+Tämä kenttä kuuluu koululle.
+Rämenainen on sukua haltijaneidoille, jotka ovat tunnettuja, sillä heistä lauletaan lauluja ja maalataan kuvia.
+Itsehän sinä sitä ehdotit.
+He ovat ystäviäni.
+Joidenkin saarten vuoret ovat hyvin korkeita.
+Tomi on kauhuissaan.
+Taitava kultaseppä valmisti vihkisormukseni.
+En huolehtisi siitä liikaa.
+Onko se salaisuus?
+Tomi on huippu pomo.
+Ottakaa hänet kiinni.
+Tomi oli vähällä jäädä auton alle.
+Ojenna minulle tuo miekka.
+Sinun pitää syödä enemmän vihanneksia.
+Tämä saattaa olla vaarallista aluetta.
+Minä asun Japanissa.
+Jos tänään olisi sunnuntai, menisin kalastamaan.
+Uusi fakta on tullut päivänvaloon.
+Sota syttyi vuonna 1941.
+Spinoza oli panteisti.
+Oli todistettu, että hän oli varas.
+Missä olet ollut?
+Hän myönsi virheensä.
+Toivon sinulle kaikkea hyvää!
+Minun pitää löytää Tom nyt.
+Tomil on ihan ookoo olo nyt.
+Osaan huolehtia itsestäni.
+Hänen ulkomuotonsa ja käytöksensä saivat minun häpeämään häntä.
+Luemme kirjaa.
+Mitä tämä maksaa?
+Hän ei pystynyt pidättämään itkuaan.
+"Avusta minua." "En." "Auta minua." "En." "Pelasta minut!" "En."
+Olen äärimmäisen kiireinen.
+Ongelma on se, ettei meillä ole majapaikkaa täksi yöksi.
+Tarvitsen uudet saappaat.
+Älä syö omenan karoja.
+Luulen, että olet oikeassa.
+Tom näyttää uupuneelta.
+He ovat nyt naimisssa.
+Tiedän, että Tom on ystäväsi, mutta en silti pidä hänestä.
+Lyhyet hiukset sopivat todella hänelle.
+Olen jo kurkkuani myöten täynnä tätä sateista säätä.
+En tippunut.
+Ota minuun yhteyttä kirjeitse.
+Minä en tiennyt, että te tulisitte olemaan täällä.
+Katsokaa ympärillenne.
+Mene suojaan!
+Tiesit sen koko ajan.
+Tomi lopetti.
+Tomi lausuu sanoja toisinaan väärin.
+Tomi harjoittelee pianoa kolme tuntia päivässä.
+Minä olen Jorge.
+Olemme kaikki peloissamme.
+Olen huomannut, että Tom ei yleensä lukitse oveaan.
+Te olette täällä nyt.
+Kaikki pitävät Tomista.
+Tomin murhasta epäilty mies on nyt poliisin huostassa.
+Me jopa kuulimme lentokoneiden äänet.
+Rooman historia on todella mielenkiintoista.
+Kuinka vanhoja lapsenne olivat, kun muutitte Bostoniin?
+Minä en voi mitään sille, että pidän yhä Tommista.
+Onko ranska hankalampaa kuin englanti?
+Ehdottaisin pilkkua.
+Hän voitti yllätyksekseni palkinnon.
+Et tule löytämään kiireessä parempaa työtä.
+Tällä hetkellä tavalliset käyttäjät eivät voi poistaa lauseita, ainostaan korpuksen huoltajat voivat. Lisäämme jonain päivänä käyttäjille mahdollisuuden poistaa omia lauseitaan. Sitä odotellessa, jos haluat lauseen poistettavan, kirjoita lauseeseen kommentti, jossa pyydät poistoa ja selitä miksi haluat poistaa lauseen.
+Kerro minulle miksi hän on itkemässä.
+Minä menen.
+Tomi hörppäsi kaakaotansa.
+Selvä, tajusin ajatuksen.
+Hän tai minä.
+Aikuisten värityskirjat ovat saavuttaneet hiljattain suosiota.
+Mitä riemua siitä on?
+Oletko sinä harkinnut Bostoniin muuttamista?
+Jos englanti kelpasi Jeesukselle, kelpaa se minullekin.
+En syyttäisi Tomia.
+Tässä on vielä parempi.
+Sain Tomin maalaamaan aidan.
+Pysy pöksyissäsi.
+On ihanaa katsoa sinun ruoanlaittoasi.
+On liian paljon tekemistä.
+Ei mitään uutta Auringon alla.
+Tämä ei ole minun.
+Tomilla on korvalävistys.
+Onko Tomilla kissaa?
+Kerro minulle työstäsi.
+Kello joka minulla on, on tehty kullasta.
+En enää pidä sinusta.
+Kongressi hyväksyi täpärästi liittovaltion budjetin.
+Saisinko toisenkin esitteen?
+Viisaampia sanoja ei koskaan ollut puhuttu.
+Kelpaa!
+Nasan Mars-mönkijä on löytänyt muinaisen joenpohjan.
+Toisinaan en voi luottaa häneen.
+Me olemme olleet ystäviä jo kolmekymmentä vuotta.
+Odotapa sekunti.
+Onko sinulla mitään hajua, kuka voisi olla tämän takana?
+Kenen vihko tuo on?
+Tässä takissa ei ole taskuja.
+He antoivat pojalle nimeksi Tom.
+Tom ei ole kummoinenkaan kokki, mutta hän sentään yrittää.
+Miksiköhän naiset eivät kaljuunnu.
+Eilen ei ollut kovin kylmä.
+He tuijottivat toisiaan.
+Kukaan ei uskonut minua.
+Voin auttaa useampaa ihmistä.
+Se on kaunis maa.
+Asuuko Tomi Bostonissa?
+Sinun ei pitäisi polttaa kun teet töitä.
+Minä hoidan sen!
+Olen tottunut siitä puhumiseen.
+Tomi tunsi itsensä yksinäiseksi.
+Hän todennäköisesti saa työn loppuun huomiseen mennessä.
+He eivät kuule sinua.
+Meillä on seuraa.
+Vilkaiskaahan tätä.
+Koira juoksi.
+En ole vielä ajanut partaa.
+Jokainen omena on punainen.
+Ei olisi pitänyt kirjautua ulos.
+Tom näyttää äidiltään.
+Meidän tulisi kunnioittaa esivanhempiamme.
+Mä revin sulta kulkuset irti, jos ees ikinä vilkasetkaan sen suuntaan.
+Tom on miljardööri, ei miljonääri.
+Nouse ylös ja esittele itsesi.
+Minä muistan kun olit vielä pieni lapsi.
+Mari on minun vaimoni.
+Mää kävin just postissa.
+Kuinka pitkä Niili on?
+Kuuliksä saiko Tomi sen työn?
+Minä soitan seitsemältä.
+Lähetin sinulle kirjeen.
+Poliisi etsi talosta ja takavarikoi kaksi kiloa heroiinia.
+Hän on nuori opiskelija.
+Miksi et kertonut aiemmin?
+Jaska on yksi ystävistäni.
+Minä haluan yksityiskäynnin.
+Olet sievin olento, jonka koskaan olen nähnyt.
+Viisikymppinen eikä yhtään hiljaisempi.
+Tom heitti Marin kirjeen roskiin.
+Sinä olet niin kaunis, että sait minut unohtamaan minun iskurepliikkini.
+Näen tähden.
+Sinä et tiedä missä Tomin koti on, vai kuinka?
+Hiuksesi ovat täydelliset.
+Opiskelen ranskaa kotona.
+Tuo ei ole yhtään hauskaa.
+Puhu hänelle.
+Tomi menee kouluun polkupyörällä.
+Tää biisi on ihana.
+Tom ei saanut autoaan käyntiin.
+Missä Tom ja hänen perheensä asuvat nyt?
+Hän asuu yksin.
+Pysy siellä.
+Missä Tom syö aamiaisen?
+Sinä vaikutat masentuneelta. Onko jotakin tapahtunut?
+Purkka takertui kengänpohjaan.
+Avaa se ikkuna!
+Se oli viimeinen kerta kun näin Tomin.
+Tom kielsi olevansa osallinen murhaan.
+Minua ei kiristetä.
+Haluan hänen apuaan.
+Tom puhuu ranskaa yhtä hyvin kuin sinä.
+Osaatko käyttää sanakirjaa?
+Valosaaste on täällä niin järkyttävällä tasolla, että yöllä täällä ei näy yhden yhtä tähteä.
+Minä tiedän, että sinä et valehtele.
+Hän on vihollinen. Etkö ymmärrä?
+No entä sitten?
+Se huone oli niin valoisa, että hän pystyi lukemaan kirjeen.
+Tomi on pakokauhun vallassa.
+Mitä hän sanoi Tomille?
+Se oli virhe.
+Meidän täytyy paiskia töitä kovasti.
+Jotkut väittävät, että kokovartaloläpivalaisimet rikkovat neljättä lainlisäystä.
+Te ette taidakaan uskoa että minä olen oikeassa.
+Skandaali on vahingoittanut pahasti hänen puhdasta imagoaan.
+Tulkaa sisään.
+Tule pois vedestä.
+Tom, joka on englantilainen, puhui täydellistä, korostuksetonta saksaa. Jos en olisi tiennyt toisin, olisin voinut luulla häntä saksalaiseksi, jolla on hyvä perhetausta.
+Tomi ajaa partansa joka aamu.
+Pekingissä on yhdeksän miljoonaa polkupyörää.
+Hän oli päättänyt uusista toimintaperiaatteista.
+Näkeekö Supermies vaatteiden läpi?
+Kuolema muistuttaa unta.
+Se ylitti odotukseni.
+En usko, että Atlantis on ollut ikinä olemassa.
+Tomilla on ongelmia.
+Lause näyttää minusta ongelmattomalta.
+Sinun takiasi minä myöhästyin.
+Keskustelu perustuu molemminpuoliseen kunnioitukseen.
+Sano hänelle terveiset minulta.
+Pieni lihava mies ei nauranut.
+Tule toimistolleni tämän kuun lopussa.
+Onpa söpö pikku tyttö!
+Kiitän sinua sydämeni pohjasta.
+Luulen että pidät siitä.
+Hänet vangittiin ja tapettiin vallankumouksen aikana.
+Kiista on sovittu lopullisesti.
+Tomin ei olisi pitänyt kertoa siitä Marille.
+Älä ole niin ankara itsellesi!
+Ranskahan on vaikeaa, eikö niin?
+Olet ollut minulle niin ystävällinen.
+Hän oli hyvä opiskelija ja hyvä urheilija.
+Tomi joutui myymään talonsa.
+"Jos et ole tyytyväinen ostokseesi, voit palauttaa sen milloin tahansa." "Saisinko sen kirjallisesti?"
+Taivas on täynnä tähtiä.
+Tilataan pienempi pitsa seuraavalla kerralla.
+Kadotin teidän numeronne.
+On kevätsiivouksen aika.
+Puutarha tuoksuu ruusuilta.
+Olen aina pitänyt sinusta, Tom.
+Mitä teet tänään?
+Sepä vasta pelottavaa!
+Koe oli tosi vaikee.
+Me suljimme matkalaukun.
+Tom sanoo, ettei hän tee sitä ikinä uudelleen.
+Me olemme kotona.
+Hyvää hyvyyttämme autoimme! Olisit kiitollinen!
+Miksi minun pitäisi maksaa?
+Älä jätä sitä sattuman varaan.
+Tommi sanoo, että hän suunnittelee ostavansa lahjan Marille.
+Tomin pitäisi auttaa Maria.
+Oletko saanut shekin?
+Sinun talosi on hyvin uudenaikainen.
+Tom kiitti Marya koiransa kaitsemisesta.
+Tämä on sinun omaa syytäsi.
+Luulin sinun sanoneen Tomin olevan kuollut.
+Tom palasi ulos.
+Haluaisin varata tapaamisen.
+Oliko hän Tom?
+Tomi on luovuttanut.
+Tavataan vakiopaikassa.
+Jätitkö ikkunan auki?
+Mutta miksi?
+Anna minulle voileipäsi.
+Minä tulen vielä hulluksi.
+Lunta vasten valkoinen jänis oli näkymätön.
+Tomi on vakuuttunut siitä, että yhdessä edellisistä elämistään hän oli orava.
+Minä etsin ihmistä, joka ymmärtäisi ranskaa.
+Tom puhuu ranskaa melko hyvin.
+Sopiiko liittyä seuraan?
+Hän kuoli eilen.
+Se on sangen vakavaa.
+Sen tekeminen ei ollut minulle mikään ongelma.
+Veljeni on asunut Lontoossa monta vuotta.
+Minä olen naimisissa.
+Tom nälkiintyi kuoliaaksi.
+Olen aina halunnut kirjoittaa lastenkirjan.
+Kissa hyppäsi tuolille ja makasi liikkumatta.
+Tarvitsisin vähän apua.
+Lopetetaan tämä keskustelu.
+Tom on tottunut puhumaan julkisesti.
+Olenko minä sinun mielestäsi Tomin näköinen?
+Tunnen itseni vähän väsyneeksi.
+Tomi on lähettänyt irtisanoutumisensa.
+Kuulin kun Tom puhui ranskaa.
+Missä hotellissa asut?
+Viivyttely on kuin masturbointia: se on hauskaa kunnes tajuat, että panet siinä vain itseäsi halvalla.
+”Mitä pidätte teestä, nuoriherra?” ”Eri hyvää, arvon Jeeves, eri hyvää.”
+Teidän täytyy tehdä yhteistyötä.
+Älä laita niitä nojaamaan seinää vasten.
+Jos hän olisi mennyt lääkäriin hän ei ehkä olisi kuollut.
+Tykkään vaikeiden verbien taivuttamisesta.
+Tom myi autonsa Marille kolmella sadalla dollarilla.
+Tom sai ilmaisen upgreidauksen ykkösluokkaan.
+Sun kirja on tässä.
+Luulin, että Tom varasti meiltä.
+Mitäpä jos menisimme kävelylle lounaan jälkeen?
+Mihin aikaan se tapahtui?
+Sinähän sanoit, että osaisit puhua ranskaa.
+Nukun alasti.
+Kaikki puhuvat sinusta.
+Suokaa anteeksi. Minun täytyy puuteroida nenänpäätäni.
+Kuka muu oli paikalla?
+Tomi puhuu puhelimessa äitinsä kanssa.
+Tom meni sairaalaan eilen.
+Nyt teidän olisi parempi mennä.
+Olen jotakuinkin valmis.
+Menen sokkotreffeille perjantai-iltana.
+Haluatko tulla kanssani?
+Yleensä juomme teetä aterian jälkeen.
+Tomi jättää usein tiskialtaaseen likaisia tiskejä.
+Vastaa.
+Kuka sinne menee ei ole vielä päätetty.
+Rakastan tytärtäni.
+Sinulla on vain vähän koti-ikävä.
+Opiskeleeko Tom myös ranskaa?
+Hän tulee olemaan uneissa.
+Luulenpa tarvitsevani vähän unta.
+Kuinka monta kanadalaista ystävää sinulla on?
+Sunnuntaina olimme rannalla lennättämässä leijaa.
+Se on ensimmäisessä kerroksessa.
+Sinun tulee saada palanen piirakkaa.
+Tuota en usko.
+Tom on täysin sekaisin.
+Elämme.
+Minun täytyy mennä.
+Hän oli mustasukkainen vaimostaan.
+Tom ja Mari puhuivat ranskaksi, joten minulla ei ollut minkäänlaista käsitystä siitä, mistä he puhuivat.
+Tom käveli sisään Marin makuuhuoneeseen.
+Se on auringonkukka.
+Miten sanotaan 97 eri kielillä?
+Sinäkin, Brutukseni?
+Emme peräänny koskaan.
+En ole filologi.
+Mari on todella kaunis tyttö.
+Niin ne ajat muuttuvat.
+Onko sinulla kipuja?
+Tommi ei pelkää käsiensä likaamista.
+Tämä on Maryn itse tekemä puku.
+Jos mul ois siivet, ni mä lentäisin sun luokse.
+En ole koskaan nähnyt mitään tällaista.
+Seuraa minua.
+Lapsia ei pidä lelliä piloille.
+Olen tehnyt virheen.
+Ymmärrätköhän sinä.
+Tuo mekko sopii sinulle hyvin.
+En pidä tästä yhtään enempää kuin sinäkään.
+Laula, ole hyvä.
+Koska minun veljenpoikani oli vielä nuori, annettiin hänelle anteeksi.
+Venäläinen salaatti on tehty perunoista, oliiveista, tonnikalasta ja vihanneksista.
+Enää te ette voi tehdä noin.
+Sä oot tosi ärsyttävä.
+Kuuletko koskaan mitään Misakosta?
+Mua ei kiinnosta vitun vertaa mitä mieltä sä oot.
+Osaako Tom soittaa pianoa?
+Tässä saattaa olla ongelmia.
+Minä en ollut koulussa eilen.
+Kun aurinko nousi, sumu katosi.
+Olet väsynyt tänä iltana.
+Se on hänen, eikö olekin?
+Raha on vähissä tässä kuussa.
+Meidän täytyy suojella saaren ainutlaatuista ja herkkää luontoa.
+Lainaan sinulle yhden, jos niin haluat.
+Tämä kirje on sinulle.
+Anna puhelin minulle, Tom.
+Tomilla oli iso mustelma otsassaan sen jälkeen kun hän käveli päin ovea.
+Luulen, että ymmärrän.
+Se maistui makealta.
+Tom hävisi vedon.
+Toki. Lykkyä tykö!
+Tomi syö vielä aamupalaa.
+Ajattelin että Tom vain tarvitsi vähän enemmän aikaa.
+Älä suotta pyydä anteeksi, Tom.
+Tuo tyttö joka pitää huivia on neitsyt.
+Ihmiset ovat tyhmiä.
+Asianajaja löysi porsaanreiän laissa.
+Häiritsenkö minä sinua?
+Paikallanne!
+”Minä en ole hyvä uimaan.” ”En minäkään.”
+Hänellä on monia ystäviä eduskunnassa.
+Sinä et saa ikinä tietää, jos et koeta.
+Luulen niin.
+"A" on aakkosten ensimmäinen kirjain.
+Jätimme Tomin huomiotta.
+Hän ei vielä ole puhunut minulle.
+Oletteko te käyneet ikinä Ranskassa?
+Teit sen helpoksi.
+Tom kävi satunnaisesti tapaamassa Marya tämän vanhempien talossa.
+Mari ei oo oikeesti kipee. Se vaan esittää.
+Tämä sähköauto saa energiansa paristoista.
+Höm.
+Hän suostui hoitamaan homman.
+Olipa kerran keisari, suuri valloittaja, joka hallitsi useampia maita, kuin kukaan muu.
+Milloin olen käynyt luonasi viimeksi kylässä?
+Tomi uudelleensyntyy luultavasti oravana.
+Se ei vain ole tarpeeksi.
+Taivas on tänään pilvien peitossa.
+Haluan todella nähdä Pisan kaltevan tornin.
+Ei, en minä. Se on minun nuorempi veljeni.
+Olen aloittelija ranskassa.
+Sepä kummallinen nimi.
+Työskennelkää.
+En ymmärrä miksi kaikki tytöt eivät ole lesboja.
+Lomaliikenne ryömi moottoritietä pitkin.
+Nuorena yritin lukea niin paljon kirjoja kuin voin.
+Nykyään yhä useammat ihmiset ovat alkaneet pitää enemmän maalaiselämästä kuin kaupunkielämästä.
+Sinulla on aikamoinen mielikuvitus.
+Hän pukeutui Halloweenina palomieheksi.
+Jalastani vetää suonta.
+Rikkoiko Tom taas jotain?
+Me haluamme vangita kunkin kielen ainutlaatuisuuden. Ja me haluamme myös vangita niiden ajanmyötä tapahtuvan kehityksen.
+Tom on toiveikas tämän vuoden sadon suhteen.
+Hän menee tavallisesti kouluun linja-autolla.
+Miltä avaruudessa oleminen tuntuu?
+Minun oli varattava lento Tomille.
+Teidän pitäisi lähteä liikkeelle.
+Tiedän hänestä kaiken.
+Tom nukkui yli kolme tuntia tänään iltapäivällä.
+Lomailen täällä.
+Pidätkö minua typeränä?
+Bayaa kiinnostaa rintaliivien ostaminen.
+Satoiko täällä eilen?
+Aina hän lukee sarjakuvia.
+Tom kysyi päätään raapien: ”Oletko nähnyt kirjoituspöydällä olleita papereita, Mari? Ne ovat aika tärkeitä.” ”Ai, minä heitin sen roskan pois viime viikolla, Tom”, Mari vastasi huolettomasti.
+Kissa kiipesi siihen puuhun.
+Olen ympärikännissä.
+Aion ajaa partani.
+Pidän kissoista.
+Tom utelee liikaa.
+Koettamatta et saa ikinä tietää.
+Etkö pelkää kuolemaa?
+Haluan suudella teitä.
+Nyt sinun olisi parempi lähteä.
+Saatko viestisi perille ranskaksi?
+Hyi!
+Milloin on Tomin syntymäpäivä?
+Kuinka monta kitaratuntia sinulla on ollut toistaiseksi?
+Muistin juuri jotain, joka minun pitää tehdä ennen huomisaamua.
+Anteeksi myöhästyminen.
+Kymmenen minuuttia sen jälkeen, kun he olivat ohittaneet Naran, bensa loppui autosta.
+Mari ei rakasta mua.
+Sini- ja kosinifunktiot ottavat arvoja lukujen -1 ja 1 väliltä (mukaanlukien -1 ja 1).
+Sinun ei tulisi syödä täällä.
+Kuinka voin kääntää sanat, joita ei ole muissa kielissä kuin omassani?
+Miksi tätä lintua kutsutaan punarinnaksi?
+Hän, joka kuolee suurimman lelumäärän kanssa, voittaa.
+Ole rakastettu.
+Lehtemme tarvitsee parempia kirjoittajia.
+Samoin kuin isänsä, Tomi on taiteilija.
+En tarvitse kehujasi.
+Tom heristeli nyrkkiään Marille.
+”Rukoilen, että et tee sitä, Jack”, hän huudahti.
+Voisitko kantaa tämän puolestani toiseen kerrokseen?
+Homomorfismia ei tule sekoittaa homeomorfismiin.
+Tom on vahvin.
+Rakastatko veljeäni enemmän kuin minua?
+Tomi vastas mun kysymykseen.
+Tämä on aikamoinen paikka.
+Tomilla on uniongelmia.
+Kun lähdin talosta, muistin avaimen.
+Jos ei olisi aurinkoa, niin me emme voisi elää.
+Kun minä lähdin talosta, minä muistin avaimen.
+Tomi ja Joni ovat hyviä ystäviä.
+Tom nousi ylös 7:00.
+En tunne häntä kovin hyvin.
+Hukkasin avaimeni.
+Puhelin soi!
+Vihaan naapuriani.
+Voisimmeko puhua vähän aikaa kahden?
+Valitettavasti Tom on varattuna tällä hetkellä.
+Soittakaa minulle, kun olette valmiita lähtemään.
+Asun talossa.
+Minä puhun vähän skottigaelia.
+Tomi on opiskellut ranskaa muutaman vuoden ajan.
+Katsotaan, miten Tomi reagoi siihen.
+Pikkuveljeni katsoo telkkaria.
+Pidä sinä vaan huoli omista asioistasi!
+Palauta kirja kun olet lukenut sen.
+Tom aina tahtoi opiskella ranskaa.
+Olen varma, että keksimme tavan, jolla saamme tämän tehtyä.
+Hevonen on musta.
+Mene itse sanomaan hänelle.
+En ole niin kuin kaikki muut.
+Anteeksi, Tom. Onko sinulla kiire?
+Allekirjoita tähän.
+Mitä sinä kerroit hänelle minusta?
+Otan kamerani mukaani kaikkialle minne menen.
+En ole tyytyväinen selitykseesi.
+Se näyttää ruokahalua kiihottavalta.
+Sinä et auta.
+Hei, vanha ystävä!
+Tämä ei tule koskaan loppumaan.
+Kenelle tuli pizza?
+Nainen lukee.
+Vyö estää sen, että housusi tippuvat.
+Kiitos kun olet olemassa.
+Ole hiljaa!
+Sinä sanoit, että se oli liian helppoa.
+Ette vaikuta kovin kiireisiltä.
+Paljonko aikaa kulutat haluamasi ruoan valitsemiseen?
+Sinun kaltaisesi ihmiset pilaavat asiat kaikilta.
+Tomi hirnui naurusta.
+Mun ei ois pitäny suudella häntä.
+Kanat kuopsuttelivat ruokaa maasta.
+Kala oli todella hyvää.
+Yritä hillitä itseäsi.
+Katso kuuta.
+Tomi oli typerä.
+Voisitko antaa minulle tyynyn?
+Mää kirjotan lauseen saksaks.
+Olemme paljon edellä aikataulua.
+Kissani rakastaa katkarapuja.
+São Paulolla on maailman toiseksi suurin helikopterilaivasto New Yorkin jälkeen, jolla on neljäsataakaksikymmentä helikopteria koko kaupungissa.
+Kunpa vain osaisin puhua englantia yhtä sujuvasti kuin sinä!
+Tomi yritti elvyttää Maria.
+Aloimme purjehtia satamaa kohti.
+Minä yövyn tuossa hotellissa.
+Miltä luulet että näyttäisit pitämällä tuota mekkoa.
+Kysy häneltä milloin hän tulee takaisin.
+Halusin kysyä Tomilta, onko hän ikinä harkinnut työpaikan vaihtamista.
+”Miten menee?” ”Kiitos hyvin.”
+Sudet saalistavat poroja.
+Minun olisi pitänyt panna takki päälle.
+Se oli ympäristöopin opettajani.
+Tunsimme kuinka maa järisi.
+Ajatteletko vakavissasi menemistä?
+Tom lukee parhaillaan kirjaa.
+Tomi katsoo televisiota.
+Joulun pitäisi olla onnellista, perheen yhteistä aikaa. Kuitenkin niille, jotka eivät ole yhteyksissä sukuunsa tai joilla ei sellaista ole, joulu voi olla erittäin onneton ajanjakso.
+Upea idea!
+Kuulin, että olisit menossa naimisiin.
+Voin kuvitella joitain tilanteita, joissa veitsestä voisi olla hyötyä.
+Olen täydellinen idiootti.
+Upeaa!
+Älä päästä irti kädestäni.
+Maankuoren jäähdyttyä veden kiehumispisteen alapuolelle, alkoi sataa — ja sade jatkui vuosisatojen ajan. Vesi täytti maankuoren laajat syvänteet, ja näin syntyi alkumeri.
+Olemme täysin hukassa.
+Haittaako sinua, jos liityn seuraasi ensi kerran kun menet kävelylle?
+Minulla ei ole aikaa nyt.
+Maailma ei pyöri sinun napasi ympärillä.
+Mitä olette oikeasti tekemässä täällä?
+Tomi ja Mari olivat molemmat hämmentyneitä.
+Harjoitelkaa.
+Tom luki viestin ja hymyili.
+Kiitos, että pelastit henkeni.
+Mikä minua vaivaa?
+Keittiön ovi avautui.
+Tomi mieluummin antaisi Marin pitää päänsä kuin riitelisi.
+Hän kirjoittaa koneella hyvin.
+Minulla on ollut infarkti aikaisemmin.
+Meidän jääkaappimme on rikki.
+Tämä ei hetkauta asiantilaa hitustakaan.
+Vihollinen kärsi järisyttäviä menetyksiä.
+Hän kertoi äidilleen opiskelevansa seuraavana päivänä.
+Ette te voi tehdä enää noin.
+Tomi ei pysty auttaa meitä.
+Voisitko avata matkalaukkusi.
+Pärjäsit vallan mainiosti.
+Rakkaus on teini-ikäisiä varten.
+Olen huolissani Tomin terveydestä.
+Hawaijia kutsutaan usein "Tyynenmeren helmeksi".
+Olipa kerran kana, jolla oli näkkileipä.
+Kaikkialla oli verta.
+Onko tämä sinun sateenvarjosi?
+Varkaat jakavat saaliinsa.
+Minun täytyy varmaankin miettiä sitä uudelleen.
+Ole kiltti.
+Luulen, että ymmärrän.
+Tästä tulee fantastista.
+Tämä ei ole kalaa.
+Tom tahtoi tehdä muutoksen.
+Tomi tietää olevansa surkea tanssija.
+Puu palaa.
+Olet todella hyvä tässä.
+Minä pidän vieraista kielistä!
+Tykkääk sä sun uudesta työstä?
+Se oli Tomin.
+Olin niin onnellinen, että en pystynyt nukkua.
+Mitä sinä annoit Tomille?
+Äänesi kuulostaa minusta hyvin tutulta.
+Tom kuoli syöpään.
+Täällä on pimeää.
+Täytyy pestä pyykit, kun vielä on aurinkoista.
+Huone oli tupaten täynnä.
+Minun täytyy mennä kiireesti pankkiin.
+Lopeta tuo elämöinti.
+Hänellä sattui olemaan se päivä vapaana.
+Poikien kerho, tytöt ULOS!
+Nauti työstäsi!
+Kaikki olivat aivan ällikällä lyötyjä, kun hän onnistui tulemaan raskaaksi 48-vuotiaana.
+Menettämättä yleisyyttä voimme sanoa jonon suppenevan kohti nollaa.
+Maailma ympärilläsi on... vähän ystävällisempi... jopa enemmän kuin luulet.
+Missä Tom syö aamupalaa?
+Minä yritän.
+Tomi on hyvin hajamielinen.
+Tom syö parhaillaan pientä naposteltavaa.
+Olen poliisi.
+Menisin mieluummin uimaan.
+Jumalan silmä valvoo pienokaisia.
+En ole lukenut sitä vielä.
+Me voimme tilata pizzan.
+Syön mielelläni omenoita.
+Pitele sitä molemmin käsin.
+Tom odotti, mutta Mary ei koskaan tullut takaisin.
+Olen lukenut kaksi kertaa enemmän kirjoja kuin hän.
+Puhuin hänen kanssaan tunnin.
+Jokainen katsoja ostaa lipun.
+Kissa raapi kättäni.
+Valkoinen pallo painaa yhtä paljon kuin punainen.
+En tunne hyvin ranskalaisia runoilijoita.
+Tom vei Marin ja tämän tyttären kotiinsa.
+Minä asuin halvassa hotellissa.
+Se on suuri sairaala.
+Veistokset ovat todella arvokkaita.
+Hän kävi talon takana kusella.
+Sinun tulisi keskittyä tiehen kun sinä olet ajamassa.
+Sanotaan että hän tulee asettumaan ehdolle kaupunginjohtajaksi.
+Vilustuin ja minulla on kuumetta.
+Kerro minulle!
+Kirjauduimme sisään Hiltoniin kello kolmelta.
+Tomi hämmentyi.
+Opettaminen on oppimista.
+Voisiko joku herättää minut puoli kolmelta?
+Ja Jumala sanoi: "Tulkoon valkeus". Ja valkeus tuli.
+Kaikki nauroivat, myös Tom.
+Viisitoista ei ole alkuluku.
+He jäivät kiinni itse teossa.
+Anna minun olla nyt rauhassa.
+Tämän takia hän menestyi pop-laulajana.
+Pesethän kätesi WC:ssä käynnin jälkeen.
+Tom pärjäilee mainiosti.
+Toivon, että et ymmärtänyt minua väärin.
+Jookos?
+Hän on uimassa.
+Tappele!
+Tämä on minun elämäni.
+Auton renkaisiin olivat kuivuneen mudan peitossa.
+"K", kuten "W" ja "Y", eivät alunperin kuulu Portugalin kielen aakkosiin.
+Tomi oli todella jännittynyt.
+Hänen matala palkkansa estää häntä ostamasta sitä taloa.
+Tämä ei koske Tomia millään tapaa.
+Hän ei ole julma eläimille.
+Se oli yksi minun elämäni kauheimmista kokemuksista.
+Älkää olko niin uteliaita!
+Voit mennä ihan mihin vain haluat.
+Syön tässä.
+Hän pukeutuu kuin herrasmies, mutta hän puhuu ja käyttäytyy kuin pelle.
+Minun nimeni pitäisi olla sillä listalla.
+Kuka on tuo ruskeatakkinen nainen?
+Hän vaikuttaa varakkaalta monine taloineen.
+Aloittakaa nyt.
+Tomin kirjoitelmassa oli useita lyöntivirheitä.
+Älä sekoita sanoja ”dare” ja ”dear”.
+Onko tämä poikasi, Betty?
+Sharon huomasi odottavansa lasta.
+Luulen, että Tom voittaa.
+Meidän täytyy löytää Tom ennen kuin hän tekee jotakin typerää.
+Kuitenkaan buddhalaisia lukuun ottamatta tuskin kukaan johdonmukaisesti seuraa tätä periaatetta.
+Tomi ei ole kovin urheilullinen.
+Tom joi oluen.
+Teen töitä kahdeksan tuntia päivässä.
+Mistä tiesit, että haluat mennä hänen kanssaan naimisiin?
+Asuin aikoinaan Pekingissä, mutta tätä nykyä asustan Sŏulissa.
+Ihminen on vastuussa teoistaan.
+Tiedätkö sinä siitä jotain?
+George-niminen mies asui hotellissa.
+Haluan Tomin voittavan vaalit.
+Voin ymmärtää tämän ongelman jossain määrin.
+Minä en tiennyt, minne mennä.
+Eikö sinusta tämä kašmirkuviotu solmio näyttäisi hyvältä sinulla?
+Olet kiltti, kun sanot noin.
+Etsitkö tätä?
+Tuo tietokoneesi.
+Mistä alkaen?
+Te tarvitsette erityisen työkalun tehdäksenne sen.
+Sinä et saa koskaan tietää, ellet sinä yritä.
+Miten pärjään ilman sinua?
+Palaan luoksesi niin pian kuin voin.
+Olitko heidän kanssaan sinä yönä?
+Taloni oli tulessa.
+Onko teillä viiniä myynnissä?
+Milloin ovat häät?
+Meillä on paljon ajateltavaa.
+Ruhtinas on komea.
+Lopulta hän huomasi virheensä.
+Lähdemme aikaisin huomenna aamulla.
+Unohdin, että Tom osaisi lukea ranskaa.
+Voi jättää sen minun huolekseni.
+Onnea syntymäpäivääsi.
+Heille syntyi poikavauva.
+Mistä päin tulet?
+Me olemme odottaneet.
+Tämä on puhelimeni.
+Joskus halusin olla astrofyysikko.
+Tom pyysi Maria lähtemään kanssaan illalliselle.
+Luulen päässeeni selville, miksei Tom koskaan oppinut puhumaan ranskaa kovin hyvin.
+Nopeimmin matkustaa lentäen.
+Mitä jos antaisit Tomille vähän liikkumatilaa?
+Jotkut ihmiset pitävät kissoista ja jotkut taas koirista.
+Tom on sinun hyvä ystäväsi, vai mitä?
+Mitä he toivat minulle?
+Tällä alkaa tulla pimeää aikaisin. Aurinko tuntuu tippuvan niin kuin kivi, kun tulee syksy.
+Suojele minua!
+Saako täällä tupakoida?
+Tom ja Mari lähtivät Bostonista lokakuun lopulla.
+Tomi ja Mari rakensivat lumilinnan takapihalle.
+Hän on työskennellyt koko päivän.
+Hurrikaani on jo aiheuttanut tuhoa Karibialla.
+Minä pidän tästä koulusta.
+Oksensin viime yönä.
+Se ei ole ollenkaan harvinaista.
+Tomille ja Marille syntyy vauva ensi kuussa.
+Töin tuskin pidättäydyin oksentamasta.
+Soita minulle, jos tarvitset apua.
+Minä tulen häviämään.
+Kerro äidillesi terveisiä.
+Haluan tehdä hyvän vaikutuksen.
+Mihin sinua sattui?
+Älä huoli. Se on täysin normaalia.
+Olen kurkkuani myöten täynnä ranskaa.
+Hän yöpyi edullisessa hotellissa.
+Minä löydän heidät.
+Kehittyneiden maiden pitää antaa apua kehitysmaille.
+On ollut rankka viikko.
+Hävisin sen vedon.
+Hänellä leikkaa hyvin.
+Tom on pakkaamassa matkalaukkuaan.
+Älä yritä tehdä tätä ilman apuani.
+Haluan olla kanssasi aina kuin vain mahdollista.
+Toki. Tiedätkö hyvän paikan?
+Löysin kenkäni.
+Meidän lapset ovat lihavia.
+Onko sinulla kiire?
+Se oli minun matkalaukkuni.
+Tom saattaa olla unessa.
+Kukaan ei aio satuttaa sinua.
+Pane minua juurta jaksain
+Tom ja minä asumme samassa hotellissa.
+En usko, että Tom pystyi oikeasti rakentamaan talonsa alle kolmella tuhannella dollarilla.
+Tom vietti koko päivän yksin huoneessaan.
+Odottakaa!
+Haluaisin laulaa laulun.
+Älä myöhästy koulusta huomenna.
+Se tuntuu oudolta.
+Tomi alkoi suuttumaan.
+Olen todella lyhyt.
+Hän näytti minulle kuvansa.
+Jos olet vapaa, niin auta minua vähän.
+Muistan hänen kasvonsa, mutta en saa hänen nimeään mieleeni.
+Tämä kello tarvitsee korjausta. Se edistää 20 minuuttia päivässä.
+Se on tarina miehestä, joka kuolee löytämättä ikinä tosirakkautta.
+Tom oli vakooja.
+On yksi asia hankkia tietoa; on aivan toinen sitä soveltaa.
+Esitä voittaneesi.
+Haluan viettää enemmän aikaa minun perheeni kanssa.
+He istuivat puoliympyrässä.
+Viheliäisten tappioiden sarja nujersi meidät.
+Pystyykö Tom kävelemään?
+Tom ei kertonut kenellekään, että hän oli jättänyt koulun kesken.
+Tomi perääntyi.
+En usko sitä.
+Tom ei edelleenkään ota meitä tosissaan.
+Minulla on selän kanssa ongelmia.
+En ole töissä täällä.
+Sinun täytyy vain harjoitella.
+Arvelin, että sinä saattaisit tietää miksi Tom lähti aikaisin.
+Kirjoittakaa!
+Hiljaisuus on kultaa.
+Tom halusi mennä kotiin.
+Osaatko latinaa?
+En ole Bostonista.
+Viime yönä mä nukuin kaheksan tuntii.
+Tom on aika itsepäinen.
+Haluan olla näyttelijä.
+Sinä et saa koskaan tietää, ellet yritä.
+Tomilla on taipumusta hävittää tavaroita.
+Tomilla on huonot pöytätavat.
+Muistatko yhtään suomenkielistä sanaa?
+Hänen on helppo kantaa kivi.
+Ota mansikkahilloa, jos maistuu.
+Kaunis päivä.
+Haluan lisää ruokaa.
+Tomilla ei ole koskaan tylsää. Hän käyttää kaiken vapaa-aikansa kääntämällä virkkeitä.
+Tomilla on salaisuus.
+Tom löi Marille luurin korvaan.
+Saksa oli liitossa Italian kanssa Toisessa maailmansodassa.
+Voimmeko unohtaa juuri tapahtuneen?
+Puhut.
+Et sinä niin huono ollut.
+Minun olisi pitänyt ottaa kamera mukaan.
+Ook sä kertonu sun vanhemmille?
+Tom ei pidä opiskelusta.
+Olen juuri lopettelemassa.
+Kilpikonnilla ei ole hampaita.
+Sain hänet lopettamaan tupakoinnin.
+Anna kun selitän.
+Miksi et kerro suoraan mitä päässäsi liikkuu.
+Olen nälkäinen sillä en ole syönyt lounasta.
+Haluan ostaa tusinan banaaneja.
+Minä en usko Tomin haluavan teidän vanhaa polkupyöräänne.
+Me otamme riskin.
+Tom pitäisi pyytää Marilta anteeksi sitä, ettei hän saapunut ajoissa.
+Kreikkalaiset patsaat ovat melkein aina alastomia.
+Eivät kaikki pitäneet häntä suurena näyttelijättärenä.
+En halua, että tapailet Tomia enää.
+Tom avasi turvavyönsä.
+Ostin puolenkymmentä munaa.
+Voi kunpa olisin kuollut.
+Olisin samaa mieltä.
+Siristä silmäkulmiasi!
+Hän laittoi kirjan pöydälle.
+Onko tämä sinun talosi?
+Kuu tuli esiin pilven takaa.
+Hän vain nauroi sitä.
+Puhu!
+Mikä on kauhein asia, joka voi mahdollisesti tapahtua?
+Tom nyökkäsi hyväksyvästi.
+Tomi paljasti salaisuuden Marille.
+Tom irrotti tekopartansa.
+Olen kadottanut avaimeni.
+Minä hykertelin.
+He ovat paikantaneet Tomin.
+Se on juuri sitä, mitä halusin.
+Turvavyö: turvavyö kiinnitetään, kiristetään ja avataan näin.
+Tom oli ennakkoluuloinen.
+Olen samaa mieltä.
+Olen yksinäinen.
+Olet hyvin karkea.
+Hänen huolimattomuutensa johti onnettomuuteen.
+Kannettavani käyttöjärjestelmä on Linux.
+Isoveljeni on todella pitkä: suurinpiirtein 1,8 m.
+Tämä nainen ei ole soma.
+Tom on vakavissa ongelmissa.
+Pidätkö enemmän uudesta koulusta?
+Kaikki heistä puhuvat ranskaa.
+Harva asia vetää vertoja ilolle lapsesi kasvoilla, kun hän avaa joululahjojaan.
+Voit mennä minne vain haluat.
+"Mihin hän suuteli sinua?" "Huulille."
+Tietysti elämäntyylimme on eri kuin Amerikassa.
+Yksi, kolme ja viisi ovat parittomia lukuja.
+Tom on asunut Bostonissa viime kesästä lähtien.
+Tom sanoo, että hän nautti konsertista.
+Oletko olemassa?
+Tämä homma on melko ikävää.
+Mä ostin tän kirjan Bostonissa viime kuus.
+Hän kuitenkin juoksi.
+Et ole viaton tyttö, vai?
+Sinä lukitsit oven, etkö lukinnutkin?
+Tulen taatusti kaipaamaan häntä.
+Hän antoi koiran ystävilleen.
+Tom ei ole mikään penaalin terävin kynä.
+Tämä kirja on hyvin uusi.
+He kiistelevät sangen usein.
+Minua ei huvita lähteä, koska istun tässä varsin mukavasti.
+Me emme olleet vain nälkäisiä, mutta myös janoisia.
+Voiko kukaan uskoa sinua?
+Onko näkymätön peili peili ollenkaan?
+Lääkäri käski minun laittaa silmätippoja kolmesti päivässä.
+Hän menetti kaikkensa.
+Meillä on kovasti kiireitä vuoden lopussa.
+Ranska ei ole minun äidinkieleni.
+Vaistosi oli väärässä.
+Hän tulee hetken kuluttua.
+Suoristakaa teidän selkänne!
+Meidän pitäisi auttaa toinen toisiamme.
+Olen tavannut tuon tytön aikaisemmin.
+Tom ei ollut nukkumassa, kun tulin kotiin.
+Nussi äitiis, mulkku.
+Sinä olet idiootti.
+Minulla ei ole nyt mitään tekemistä.
+Mary hermostui kun hän näki Tomin lompakossa kuvan hänen ex-tyttöystävästään.
+Tomin täytyy olla lähes kolmekymmentä.
+Nielaisin ylpeyteni.
+Tom ja Mari eivät käy elokuvissa kovin usein.
+Marista ja minusta tuli hyviä ystäviä.
+Monet ihmiset eivät ole koskaan nähneet Linnunrataa.
+Onko jotain mitä voimme tehdä?
+Voi olla, että Tomi on vähän ylipainoinen.
+Se oli vähän pelottavaa aluksi.
+Vanha rouva asui kolmen huoneen asunnossa yksinään.
+Nähdään myöhemmin, Tom.
+Viranomaiset onnistuivat vakauttamaan valuutan.
+Se merkitsee minulle paljon.
+Kiitos samoin, hauska tavata.
+Minun tyttäreni ei halua kuunnella minua.
+Pystytkö kuvittelemaan millaista elämämme olisi ilman sähköä?
+Hän ei ymmärrä sarkasmia.
+Mene penkille.
+Tomin täytyy olla raivoissaan Marylle.
+Tekiköhän Tom oikeasti sen, mitä Mari sanoi hänen tehneen?
+Seis.
+Minun täytyy korjata pyykinpesukone.
+Minkä kirjan te ostitte?
+Te olette aivan seonneet.
+Saitteko tuota?
+Onko sinulla yskänpastilleja?
+Tom ajaa hitaammin kuin Mary.
+Tom kieltäytyi menemästä.
+Päämieheni haluaa sopia.
+Matkija!
+Isäni auttaa minua.
+Tämä on iso juttu.
+Tomi ei koskaan puhu sen eksistä.
+Älä päästä hyvää mahdollisuutta menemään.
+Meidän olisi parempi mennä hieman taaksepäin.
+Tarkista vastauksesi hänen kanssaan.
+Sain ajatuksen.
+Tom eläköityi kuusikymmentäviisivuotiaana.
+Tomi kaatui, ja hänen polveensa tuli haava.
+Minulla ei ole pankkitiliä euroille.
+Mihin aikaan hän herää?
+Hän pitää lukemisesta.
+”Miksi sinun huoneesi on vaaleanpunainen, Tom?” ”Ai, tämä oli aikaisemmin siskoni huone.”
+En tunne sinua enää.
+Kuuntele Tomia.
+Se ei ole odottamisen arvoista.
+Sinun ei tarvitse olla siitä huolestunut.
+Tämä ei ole enää hauskaa.
+Onko tämä kohteliaisuus?
+Minä tulen pian takaisin.
+Hah hah haa!
+Näytin Tomille kuka täällä määrää.
+Homma itsellesi töitä.
+Mitä Walt Disney piirsi?
+Mennään koisimaan.
+Hän lukee.
+Sinä luet liikaa.
+Miten Tom aikoo löytää Marin?
+Minkä ikäisiä lapsenne ovat?
+Pidän riisistä curryn kera.
+Hän löytää aina virheitä.
+Tämä ei ole turvallinen.
+Keittiönovi avautui.
+He ovat verisukulaisia.
+Joku varasti passini.
+Tämä on viimeinen mahdollisuutesi viettää aikaa Tomin kanssa.
+Tässä huoneessa on tyttö.
+Teidän on parempi tulla sisään.
+Ihmeiden ihme: kukaan matkustajista ei loukkaantunut.
+Kaikki hymyilevät kuvassa.
+Unohdin kartan.
+Mary järkyttyi kun hän näki Tomin lompakossa valokuvan hänen entisestä tyttöystävästään.
+Minun täytyy pysyä rauhallisena.
+En tykkää yhtään vuohenjuustosta.
+Perheeni menee hiihtämään joka talvi.
+Isoäitini kasvatti kymmenen lasta.
+Sano, että rakastat minua.
+Hän ajaa vanhaa Yugoa.
+Tiedätkö sinä hänestä mitään?
+Olen oikeastaan hyvin onnellinen.
+Japaniin iskee 8,9 richterin maanjäristys, joka aiheuttaa valtavan tsunamin.
+Sinä väärinkäytät asemaasi.
+Onko sinulla hyvä olo?
+Olen menossa katsomaan kauhuelokuvan.
+Miksi minun pitäisi opiskella ranskaa?
+Sen arvoa ei voi mitata rahassa.
+Minun täytyy olla töissä viikonloppuna.
+En usko, että Tomi haluaa sinun vanhan pyöräsi.
+Voinko pyytää sinulta isoa palvelusta?
+Tom ei aio jäädä.
+Jonilla ja Marilla oli erilaiset mielipiteet siitä tärkeästä asiasta.
+Haaveeni on puhua sujuvaa kiinaa.
+Minä hoidan hänet henkilökohtaisesti.
+Hän tykkää hänestä.
+Disney käyttää maailman lastensatuja avokaivoksenaan ja sitten haastaa ihmisiä oikeuteen immateriaalioikeuksiensa loukkaamisesta.
+Jos ihmiselämä on kupera, voimme optimoida sitä.
+Käyn kirkossa sunnuntaisin.
+Puhu Tomille ranskaa.
+Sain flunssan, ja minulla on kuumetta.
+Lentoyhtiö lähettää matkatavaranne määränpäähänne joko välittömästi tai myöhemmin, mikäli asiakas niin haluaa.
+Anteeksi että olen myöhässä.
+Tom avasi läppärinsä.
+Onko kymmenentuhatta jeniä riittävästi?
+Jopa japanilaiset voivat tehdä virheitä kun he puhuvat japania.
+Nauttikaa vierailustanne!
+Hauska tavata.
+Asun nyt Helsingissä, mutta olen kotoisin Kuopiosta.
+Kirja putosi kirjahyllystä.
+Tom ei pystynyt puolustautumaan.
+Minä syön.
+Tom ei tuohon aikaan ollut edes kuullut siitä yhtyeestä.
+Minä aion jäädä.
+Yksi heppu kiilasi Tomin auton eteen, ja Tom näytti hänelle keskaria.
+Hänen paperissaan oli kaksi huolimattomuusvirhettä.
+Olen lukemassa kirjaa.
+Minulla ei ole mitään suunnitelmaanne vastaan.
+Lohikäärmeet syntyvät tulessa.
+Vesi on miellyttävän viileää.
+Tomi haluaa tietää lisää Marin menneisyydestä.
+Oliko joku muu siellä tilassa?
+Etsin tähän kynsilakkaan sopivaa huulipunaa.
+Paranenko pian?
+Päästäkää hänet irti!
+Sisareni vaati päästä minun mukaani.
+Seitsemän lasta kuoli tulipalossa Brooklynissa.
+Se ei ole minun vikani.
+Voisit myydä sen.
+Sanoiko Tom sinulle, että voisit ottaa sen.
+Hän on tyyni sekaannuksen keskellä.
+Hän koetti hypätä toisen kerran.
+Tom käänsi sopimuksen ranskaksi.
+Tomi jätti vaatteensa lojumaan ympäri lattiaa.
+Tässä ravintolassa ei saa tupakoida.
+Ala painella!
+Tom ja minä pelasimme lapsina baseballia yhdessä.
+Se oli minun virheeni.
+Jaana oli pukeutuneena mieheksi.
+Minun tekee mieli vielä yhtä olutta.
+Japanilainen anime kiehtoo Tomia ja Maria.
+Toinen ongelma koskee kuntosalin varustusta.
+Tämä ohut kirja on minun.
+Onko meillä tässä jokin ongelma?
+Tomi käy lukiossa Bostonissa.
+Minulla ei ollut aavistustakaan, että olit niin tyhmä.
+Mul on kauhee päänsärky.
+Hän on aina täynnä ideoita.
+Uskon häneen.
+Kuusi heistä ovat palamassa.
+Joulu lähestyy.
+Selvästi!
+Päätin kertoa hänelle, että rakastan häntä.
+Herra Harrisonin kalju pää oli hänelle hyvin herkkä asia.
+Sä voit luottaa niihin.
+Nämä vehkeet vaikuttavat hyödyttömiltä.
+Olen täällä kun tulet takaisin.
+Hän on Ranskan Portugalin-suurlähettiläs.
+Olen ylpeä lapsistani.
+Lapseni eivät kuuntele minua.
+Minä asun kaupungissa, mutta minun vanhempani asuvat maaseudulla.
+Tomilla ei ollut pienintäkään aavistusta siitä, mistä Mari puhui.
+En pese tukkaani aamulla.
+Mennään haukkaamaan happea.
+Sinä muistutat minua itsestäni.
+Eksyin kun yritin löytää kirjaston.
+Kuinka pitkään olit siellä?
+Saisinko lasin valkoviiniä?
+Tom ei ole suosikkihenkilöni.
+Kolumnisti haravoi esiin joitakin vanhoja juoruja.
+Aiemmin.
+Sen takia palasin niin aikaisin.
+Hänen silmänsä olivat kyyneleitä täynnä.
+Mitä perheellesi kuuluu?
+Mietiskelenpä vaan mitä ihmettä Tomille tapahtui.
+Ota tämä.
+Minun tyttöystäväni ei ole vielä tavannut minun vanhempiani.
+Olen pelannut jalkapalloa kolmentoista ikäisestä asti.
+Pysy juuri siinä.
+Tom tunsi mahanpohjassaan tukalaa tunnetta.
+Hän on kohta menossa.
+Kahvi, kiitos.
+Auto ajoi melkein päälleni.
+Isäni laittoi minut vastaamaan sisareni hoidosta.
+Hän syö.
+Missä kaikki ovat?
+Silloin kun sinä ajat, pitäisi sinun keskittyä tiehen.
+Pidän kaikista kielistä.
+Sinä tiedät, että olen vanhempi kuin sinä.
+Miksi olit sitä mieltä?
+Valitan mutta tuo ei ole sitä mitä tilasin.
+Voinko ottaa Tomin mukaan?
+Tomilla on aivovaurio.
+Odota ihan vaan hetki.
+Tomilla oli naamallaan pelästynyt ilme.
+Televisio on rikki.
+Olen pahoillani. En tiennyt, että tämä on Teidän paikkanne.
+Mitä sinä halusit hänen tekevän?
+Minun täytyy auttaa häntä.
+Onko äiti täällä?
+Hän vaikuttaa terveeltä.
+En tiennyt, että pidät baseballista.
+Poika heittää kiven.
+Olet menettänyt järkesi.
+Miksei minulle koskaan kerrottu tästä?
+En osaa puhua yhtään ranskaa.
+Sanos muuta.
+Jos tulet kanssani kotiin, kaikki käy parhain päin. Jos menet väkisin sisään tuohon mökkiin, kaikki on ohi meidän kahden välillä.
+Mitä te olette aikeissa tehdä?
+Tom itketti siskoaan.
+Minä myös.
+Kuulin, että sinulla on uusi tyttöystävä.
+Monelta tulisin hakemaan sinua huomenna?
+Jokin pelästytti Tomin.
+Joku kutsuu ulkopuolelta.
+Hän otti taskustaan jotain.
+En voisi mitenkään tehdä mitään sellaista ihmisten edessä.
+Tom ei tiennyt, että Mari oli päättänyt irtisanoutua töistä.
+Älä kerro kenellekään, että tiedän.
+Kukaan ei satuttanut minua.
+Enää en tykkää sinusta.
+Hän on asunut tuossa hotellissa viimeiset viisi päivää.
+En voi auttaakaan.
+Hän pesi huoneen.
+Haluaisin antaa hänelle jonkin syntymäpäivälahjan.
+Oletko lukenut koko tutkimuksen alusta loppuun?
+Saatan tarvita asianajajaa.
+Lapsia ei pidä hemmotella.
+Yliarvostettu juu mutta kyllä se hyvä manga on.
+Sanakirja on käden ulottuvilla.
+Minun mielestäni ei ole epäilystäkään, etteikö Tom voittaisi vaaleja.
+En tajua tästä mitään.
+Poikamme kuoli sodassa.
+Usko totuutta etsiviin, ja epäile heitä, jotka ovat sen löytänyt.
+Siilit ovat söpöjä.
+Kuinka monta kuuta Marsilla on?
+Kartta on seinällä.
+Ei ole kuule sinun asiasi.
+En ole aina sunnuntaisin vapaalla.
+Tuo pelottaa sinua, eikö vain?
+Portimot ovat Uudessa-Seelannissa lintujen isoimpia vihollisia.
+Ilmastointi on rikki.
+Voisitko kertoa minulle miten pääsen asemalle?
+Olet erityinen, Tom.
+Mikä aika päivästä nyt on?
+Nouse ylös aikaisin aamulla.
+Hän puhuu paljon.
+Missä on sinun pomosi.
+Onko eläimillä sieluja?
+Tom osti lahjan Marille.
+Kaikkea sanomaasi voidaan käyttää todisteena sinua vastaan.
+Se ei ollut uhkaus.
+Yritin avata sitä, mutta turhaan.
+Rakas Joulupukki, haluan tyttöystävän joululahjaksi.
+Hänen silmänsä alkoivat vetistää.
+Tomilla leikkaa hyvin.
+Tomi ihmetteli, mikä oli saanut Marin niin happamaksi.
+Se on täysin laillista.
+Minä en tiedä pystynkö minä siihen, mutta koetan.
+En osaa selittää niiden kahden eroa.
+Tom auttoi Marin ja Jonin kasvattamisessa.
+Hän on minun veljeni.
+En halua sormusta.
+Olemme epätavallisia.
+Minun pitäisi mennä nyt takaisin töihin.
+Fyysikko on vain atomin tapa katsoa itseään.
+En koske mihinkään.
+On sääli että Tom ei voi tulla.
+Meidän ei tarvitse lähteä vielä.
+Mikrobiologia kiinnostaa Samia.
+Joku soitti 911:een.
+Isäni pyysi minua avaamaan oven.
+Olen Tomin näköinen.
+Voinko ottaa kuvan?
+Tää ruusu on tosi kaunis.
+Käytän piilolinssejä.
+Se oli hirveän hauskaa.
+Ton etsi kaikkialta kameraansa.
+Sinun ei pitäisi menettää sitä.
+Mistä tuo musta silmä on tullut?
+Tomi on lääkäri.
+Hän rakensi uuden talon.
+Hän julistaa, ettei hänellä ole yhteyksiä siihen sattumukseen.
+Tomi on vielä aloittelija.
+Tomi meni tuohon suuntaan.
+Sinuna en välittäisi siitä.
+Älä pysähdy.
+Älkää tuoko enempää häpeää.
+Tomi perusti parin kaverin kanssa bändin.
+Useat tuhannet ihmiset joutuivat ilman kuljetusta onnettomuuden johdosta.
+Luulen, että tiedän tästä kaiken, mikä minun tarvitsee tietää.
+Oletko todella sitä mieltä, että Mari flirttaili minulle?
+Minä tiedän, että luulet ymmärtäneesi, mitä sinä luulet minun sanoneeni, mutta en ole varma tajusitko, että se mitä kuulit, ei ole sitä, mitä tarkoitin.
+Todellinen skandaali on se mikä on laillista.
+Miksi planeetat ovat pyöreitä? Miksi ne eivät ole kuution, pyramidin tai levyn muotoisia?
+Mä oon jo pakannu mun kamat.
+He ovat kuin tulisilla hiilillä.
+En polta enkä juo.
+Tom on jo palannut kotiin.
+Sinä olet ainoa, jota rakastan.
+Mutta sinun funktiosi ei ole Lipschitz-jatkuva!
+Kauan eläköön kuningas!
+Ruuhka-aikaan pitäisi olla enemmän busseja.
+Katsokaa!
+Hän puhui musiikista.
+En ymmärrä pelin sääntöjä.
+Tarkoittaako nimi Herbert McAdams sinulle mitään?
+Pidätkö savustetuista ostereista?
+Tomin mielestä vastaus on ei.
+Hän nukkui.
+Tomi ei ollut halukas tapaamaan lääkäriä.
+Hän pyysi opettajaltaan neuvoa.
+Emme ole huvittuneita.
+On vaarallista nojautua ulos ikkunasta.
+Tomi on hemmetinmoinen kiusankappale.
+Olemme nelihenkinen perhe.
+Lähtiessäni talosta minä muistin avaimen.
+Minä otan sen keltaisen.
+Sinun kuusi palaa.
+Menen mieluummin junalla kuin bussilla.
+Tom tykkää kuunnella musiikkia opiskellessaan.
+Hän pääsi Kiotoon lauantaina.
+Tämä menetelmä toimii varmasti.
+Uusi pomo on ruoskinut yhtiön kuosiin.
+Minulla on seuraavat kolme päivää vapaana.
+Pidän huolta isoisästäni.
+Löysin lopultakin töitä.
+Tomi toipui.
+Fréchet-avaruudessa avointen, tiheiden joukkojen numeroituva leikkaus on myöskin tiheä.
+Oletko sitä linjausta vastaan vai sen puolesta?
+Ensi kerralla älä pudota sitä.
+Pyhäinhäväistys!
+Taktiikka toimi täydellisesti.
+He ovat syömässä leipää.
+Koska olin tavannut hänet kerran aikaisemmin, tunnistin hänet heti.
+Tom odotti tunnin aulassa Marin asunnon ulkopuolella.
+Jaatko samat huolet?
+Viesti puhelinvastaajassa: ”Soita minulle takaisin! Kello kahdeksaantoista saakka tavoitat minut matkapuhelimestani ja sen jälkeen lankapuhelimesta.”
+Päätin mennä ulkomaille opiskelemaan.
+Tuossa tietokoneessa on neliydinprosessori.
+Juodaan toinen kalja.
+Hän kertoi minulle monia juttua elämästään.
+Pysytään ystävinä aina.
+Yliopistoelämä on merkityksellistä.
+Kirsikankukat kestävät vain muutaman päivän, korkeintaan viikon.
+Poliitikko ei pitänyt lupaustaan.
+Tomi osti pyssyn.
+Miksi olet niin väsynyt tänään?
+Tom on ainoa henkilö, joka tietää tästä.
+Tom oli ensimmäinen, joka tunnisti Marin musiikillisen lahjakkuuden.
+Olen aikeissa asua setäni luona.
+Joku tuli.
+Voitteko te kirjoittaa?
+En halua ottaa varaslähtöä.
+Onko Tom jo tullut?
+Minä en pysty tekemään tätä ilman heitä.
+Olette väärässä.
+Haluaako joku kävelylle rannalle?
+Menen kysymään Tomilta.
+Kolmen kuutio on kaksikymmentäseitsemän.
+Tomi osaa tanssia hyvin.
+Yleisesti ottaen hallitsemisen taito koostuu rahan ottamisesta kansanosalta, jotta rahan voisi antaa toiselle osalle.
+Sinulla ei ole vaihtoehtoja.
+Emme pysty tekemään tätä ilman häntä.
+Brian osti huulipunan Katelle.
+Olet ihastunut häneen, eikö niin?
+Todellisuus muuttuu jatkuvasti.
+Käytitkö sitä?
+Tom sanoi, että hänen täytyi saada muutama asia järjestykseen.
+Guineaa kusutaan nimellä ”Guinée” ranskaksi.
+Pue yöpuku päälle.
+Olutpullot valmistetaan lasista.
+Voit mennä mihin tahansa haluat.
+Haluan, että isäni näkee sen leffan.
+Tom osti pullon oliiviöljyä.
+En kadu sitä.
+Tomilla on monia vaikutusvaltaisia ystäviä Washingtonissa.
+Lasi vettä, kiitos.
+En ole nähnyt ketään paitsi sinut.
+Tämä on minun ongelmani.
+Meillä ei ole paljoa aikaa.
+Jos et syö vihanneksiasi, niin et saa jälkiruokaa.
+Tönäisikö Tom sinua?
+Minun täytyy lähteä nyt.
+Tomi hihitti kuin koulutyttö.
+Mä oon aina tykänny susta.
+Saisinko nenäliinan?
+Minulla on Ranskan kansalaisuus, mutta olen kotoisin Vietnamista.
+Hei.
+Anna kun kerron sinulle kaiken minkä tiedän.
+Olin terve lapsi.
+Menen Australiaan ensi vuonna.
+Minulla on Linux kannettavassani.
+Tämä rakennus näyttää todella futuristiselta.
+Tom ei koskaan suostuisi sellaiseen.
+Muista pitää hyvää huolta itsestäsi!
+Hän on paljon sinua pitempi.
+Onhan kuitenkin mahdollista, että Tomi ja Mari tekevät tuota?
+Onko sinulla tylsää tässä?
+Tomi ei ole täällä.
+Olen jo kokeillut sitä.
+Tom tunsi jet lagia.
+Missä minun kelloni on?
+Etsikää sellaisen puolisuunnikkaan ala, jonka yhdensuuntaiset sivut ovat 9 ja 12 senttimetrin pituiset.
+Tomi sai juuri potkut.
+Tom vaikuttaa nukkuvan.
+Puhuisin mieluummin ranskaa.
+Hän tulee tavallisesti ajallaan.
+Minulla on musta koira nimeltä Tiki.
+Moderni tiede on tehnyt monista mahdottomista asioista mahdollisia.
+Tom on nero.
+Voit jättää sen minulle.
+Sitä täytyy sekoittaa kun se kypsyy.
+Tiedätkö mitä hän sanoi?
+Yhdysvaltain liittovaltion telehallintovirasto arvioi, että noin 19 miljoonaa amerikkalaista ei edelleenkään voi saada laajakaistaistaista Internet-yhteyttä.
+Tom meni takaisin yläkertaan.
+Hymyile nyt, itke myöhemmin!
+Sinä kävelet liian nopeasti.
+Sanon vain, että se on mahdollista.
+Tomin piti mennä töihin.
+Sinun pitää pitää kätesi puhtaina.
+Hän on naimisissa hammaslääkärin kanssa.
+Olen iloinen että se toimi.
+Tomi ei pysty auttaa sinua.
+Ranska on hänen ensikielensä.
+Minä aion odottaa.
+Kokeile sambaa!
+Minä en tiennyt, että tulisitte olemaan täällä.
+Jos haluat, että jotain tehdään oikein, sinun täytyy tehdä se itse.
+Uudestaan.
+Oletko vielä löytänyt prinssi Uljasta?
+Tomi ja Mari sanoivat, että he suostuisivat tuon tekemiseen.
+Kaikki vaivannäköni oli turhaa.
+Lakkaa kutittamasta minua!
+He ovat yhtä vahvoja kuin me.
+Posti on myöhässä lakon takia.
+Hän suuteli minua kaikkien edessä.
+Japanilaisessa puutarhassa on yleensä lampi.
+Tämä tuoli on epämukava.
+Minun pitää ottaa muutama rokotusta ennen matkaa.
+Saisinko keksin?
+Tomi ei juuri nyt ole täällä.
+Olettepa keksineet melkoisen tarinan.
+Jaska on eräs ystävistäni.
+Useat jälkijäristykset seurasivat maanjäristystä.
+Tom kieltäytyi vastaamasta mihinkään kysymykseeni.
+Hän ei lue paljoa kirjoja.
+Tehtävämme on ollut helppo tähän mennessä, mutta se tulee vaikeutumaan tästä lähtien.
+Tämä uusi kone on paljon parempi kuin se vanha rakkine, joka meillä oli.
+Puhelimesi soi, vastaisitko siihen?
+Tarvitset ajokortin.
+Onko totta, että Tom ei näe hyvin vasemmalla silmällään?
+Isosiskoni on hyvä laulamaan.
+Näin hänestä vilauksen.
+Pidäthän huolta itsestäsi?
+Pellet!
+Terveydeksi!
+Myrsky teki pahaa vahinkoa viljalle.
+Hiukan onnettomuuden jälkeen saapui poliisi.
+Et taida uskoa että olen oikeassa, vai mitä?
+Minä teen, mitä minä haluan.
+Et ole minkäänlaisessa vaarassa.
+Oli myös toinen ongelma.
+Mikä on minimipalkka Ukrainassa?
+Kirjahyllyssä on vain kirjoja.
+Tom on Marin aviomies.
+Muiriel on ny kakskytvuotias.
+Ymmärrätkö mitä sanon?
+Tämä on hänen sateenvarjonsa, vai kuinka?
+Odota tässä, kunnes tulen takaisin.
+Pysytäänpä aiheessa.
+Olen onnekas.
+Myyjäisillä oli suuri menestys.
+Jos vettä ei olisi, niin yksikään elollinen olento ei voisi elää.
+Voimakas tuuli puhaltaa, enkä voi kävellä kovaa.
+Pysy nyt vain paikallasi.
+Jotkut jopa syyttivät häntä maanpetoksesta.
+Puhutko sinä suomea?
+En tarvitse tuota.
+Hän tarvitsi omaa tilaa.
+Hän antoi suukon hyvästiksi ja lähti eikä häntä koskaan nähty.
+Mä en tykkää opiskella tässä kuumuudessa.
+Nouse ylös.
+Saisinko laskun, kiitos!
+Tiedän, mitä Tomi sanoisi.
+Kannattaa käydä New Yorkissa.
+Juna koostuu viidestätoista vaunusta.
+Kone toisensa jälkeen nousi ilmaan.
+Lääkärit sanoivat, että jos yhä kuolemaa uhmaava mies olisi ollut tavallinen ihminen, olisi lusikka lentänyt nurkkaan jo tunteja aiemmin.
+Minä en usko, että Tomi haluaa teidän vanhan polkupyöränne.
+Onko tämä sinun mielenkiintoinen kirjasi?
+Vitut siitä!
+Kuinka moni valtio alkaa y-kirjaimella?
+Tom on kahdeksankymppinen.
+Lopeta kutittaminen!
+He ostivat vähän sokeria.
+Olin Tomin luona hänen kuolemaansa edeltävänä iltana.
+Hopi-kielessä on kiinnostavia esimerkkejä onomatopoeettisista ilmauksista.
+Mitä olette aikeissa tehdä?
+Minun sisareni halusi välttämättä tulla minun mukaani.
+Haluan kuulla Tomin äänen.
+Useita kieliä soljuvasti puhuvat äimistyttävät minua.
+Mul on kissa.
+Hän nojasi seinää vasten.
+Maalaus esittää nuorta naista kampaamassa hiuksiaan peilin edessä.
+Olen kateellinen siitä, että sinulla on hyvä pomo.
+Minä yleensä kävelen.
+Se on täysin laillista.
+Uuden tuotteen myynti ylitti odotukset.
+Kenkäni ovat liian pienet. Tarvitsen uudet.
+Tom luki viestin.
+En ole upseeri.
+Minun lapsiveteni poistui.
+Kuinka kauan siitä on, kun viimeksi kuulimme hänestä?
+En pelaa tennistä.
+Ylihuomiseen.
+Juo enemmän vettä.
+Voisin tehdä tätä koko päivän.
+Hänellä on enemmän kuin viisi sanakirjaa.
+On kolmas lokakuuta.
+Spenserin sarkastiset ja vitsailevat huomautukset tulkitaan usein virheellisesti merkeiksi epävarmuudesta ja ne otetaan usein liian vakavasti.
+Hän puhuu hyvin hilpeästi.
+Tom osaa puhua vain vähän ranskaa.
+Mitä sinä haluat tehdä Saksassa?
+Autistilapsilla ei koskaan ole tylsää.
+Hänen uudet ideansa saattavat aika ajoin hänet vaikeuksiin vanhoillisempien kollegojen kanssa.
+Et näe sitä täältä.
+Mene veneeseen, ole hyvä.
+Tom oli hiljainen.
+Annan sinulle kyydin.
+En koskaan jätä sinua.
+Se koira haukkuu.
+Pysy täällä kanssamme.
+Tom ei ole paikalla.
+Tuon sen takaisin.
+Voisitko vaihtaa lipun, kiitos.
+Voisitko kertoa minulle mihin olet menossa?
+Tämä on kiinnostavin tarina, minkä olen koskaan lukenut.
+Lopetta valittaminen.
+Olemme valmiita taistelemaan.
+Tulen varmaankin tänne takaisin taas huomenna.
+Olen odottanut yli tunnin ajan.
+Jos jokin kuulostaa liian hyvältä ollakseen totta, niin luultavasti se on.
+Poika koski tulikuumaa hellaa ja poltti kätensä.
+Sami puhui Laylan serkulle.
+Ei ole pakko ymmärtää kaikkea juuri nyt.
+Haluaisin puhua ranskaa sujuvasti.
+Jok'ikiselle mieshahmolle on oma naisvastineensa.
+Kirjoittajat käsittelivät fossiililöytöjä kahdesta erilaisesta sopeutumislevittäytymisestä.
+Kiristä remmi matkalaukun ympärille.
+Meillä ei ollut pienintäkään mahdollisuutta.
+Olen asunut täällä pitkään.
+Miten haluat pihvisi?
+Kaksi lasta istuu aidalla.
+John käynnisti auton.
+Ovatko he oikeasti ystäviä?
+Ken tahtoo pyörän.
+Missä on juna-asema?
+Toivon, että nautit vierailustasi luonamme.
+Jää ihan vapaasti.
+Miten vaimollasi menee?
+Näytät upealta.
+Ook sä pakannu sun laukun?
+Jää ihan rauhassa.
+En usko, että hänen tarinansa on totta.
+Osallistu!
+Tässä kalassa on paljon pieniä ruotoja.
+Minä kadun sitä.
+Jokainen lausumani virke ymmärrettäköön ei vahvistuksena väitteelle, vaan kysymyksenä.
+Voitko esitellä itsesi parilla sanalla?
+Tom on täysin pakkomielteinen ruoasta. Ei ole mikään ihme, että Mari jätti hänet!
+Kuulostaa hauskalta.
+Minkä takia?
+Mun kurkku on kipee.
+Hän lopetti kilpailun.
+Mari asui muutama kuukautta luostarissa.
+En ole menossa, koska, muiden syiden muassa, minulla ei ole rahaa.
+En itse asiassa koskaan tavannut häntä.
+Sain kirjeitä eräältä henkilöltä jota en ole koskaan tavannut.
+Se oli meille takaisku.
+Nyt teidän olisi parempi lähteä.
+Kerron heille, että soitit.
+Ammun hänet.
+Se ei ole rikos.
+Muistan antaneeni hänelle avaimen.
+Se nainen opettaa meille ranskaa.
+Tom uskoo sinua.
+Et voi voittaa, Tom.
+Tomilla ei ollut aikaa saada tarinaa päätökseen.
+Tom näyttää kalpealta.
+Olemmeko me aikataulussa?
+Minä en ole koskaan käynyt Amerikassa.
+Jos Taivaassa ei ole koiria, niin minä haluan mennä sinne, minne ne menevät.
+Ajattelin tulevaisuutta.
+Perheessäsi on sattunut kuolemantapaus.
+Tom halusi nähdä sen.
+Päästäkää irti hänestä!
+Hänen aivotoimintonsa olivat hyvin aktiivisia.
+Onko tämä mielestäsi liian iso?
+Tennismailassani oli halkeama, joten lähetin sen korjattavaksi.
+Kyseenalaistatko suoraselkäisyyteni?
+Kaipaan kaikkia.
+Anna Tomin nukkua vähän kauemmin.
+Minä käytän joskus saksia tölkinavaajana.
+Sinun on vaikea ymmärtää tämä, eikö niin?
+Viime yönä katsoin todella kiinnostavan elokuvan toisesta maailmansodasta.
+Saavuitte juuri sillä hetkellä kun minä lähdin.
+Kuinka paljon rahaa me tarvitsemme?
+Näyttää siltä, että tuuli voimistuu.
+Rappaaja on käsityöläinen, joka rappaa seiniä.
+Opiskellessani kuuntelen musiikkia korvakuulokkeilla.
+Voinko nähdä ajokorttinne, herra?
+Kasvoin Bostonissa.
+Halusin vain kertoa sinulle, että olen todella pahoillani siitä, mitä sanoin.
+Herra Wang oppi saksaa, koska hän halusi mennä Saksaan.
+En syönyt mitään eilen.
+Emme voi puhua nyt.
+He rantautuivat turvallisesti eräälle saarelle eilen.
+Hän vaikuttaa pettyneeltä poikaansa.
+Minun pitää odottaa.
+Haluan tehdä hyvän ensivaikutelman.
+Kuusi tulee palamaan.
+Uskonlahkojen välinen väkivalta on ei-tervetullutta todellisuutta kaupungin väestölle.
+Tomi muutti.
+Hän puhuu sujuvasti englantia ja ranskaa.
+Etsi sen ympyrän ympärysmitta, jonka ala on kaksitoista neliösenttimetriä.
+Voit etsiä tietyn sanan sisältäviä lauseita ja saada käännökset näihin lauseisiin.
+Samaa mieltä.
+Tänään on vähän kylmä.
+Hän oli uimassa.
+Hermostutat minua.
+Tom on hullu.
+Kuinka monta voileipää on jäljellä?
+Näytät kytältä.
+Tomi pyrki tappamaan meidät.
+Asuin täällä ennen.
+Marilla ei ole puolisoa.
+Söin sashimia ensimmäisen kerran vasta kun tulin Japaniin.
+En osaa sanoa vitsaileeko Tom vai ei.
+Sulje televisio.
+Tom ei pidä julkisesti puhumisesta.
+Tuo oli typerää.
+Olen töistä vapaalla.
+En ole vielä valmis sinun kanssasi!
+Ota tätä lääkettä kolme kertaa päivässä.
+Tomi on aika humalassa.
+Tom ei naura ikinä.
+Tom luottaa minuun.
+Minä en kuule sinua kovin hyvin.
+Hän huolehti äidistään isänsä kuoleman jälkeen.
+Hän käytti nimeä Bess.
+"Siis oletteko samaa mieltä, rouva pormestari?", apotti takelteli hädin tuskin iloaan peitellen.
+Entäpä tänä iltana?
+Taidemaalarista tulee todellinen taidemaalari vain harjoittamalla taitojaan.
+Pidähän hauskaa!
+Siksi et ole täällä.
+Mikä on sinun nimesi?
+Missä se uloskäynti on?
+En mieluummin haluaisi keskustella siitä juuri nyt.
+Missä Marika asuu nyt?
+Käyttääkö Tomi mitään lääkkeitä?
+Olet aivan pöhkö.
+Näin outoa unta viime yönä.
+Sanoin sinulle, että minulle ei voi kertoa salaisuuksia.
+Et voi olla tosissasi!
+Tom kastelee puutarhaansa.
+Ismo, ei!
+On aina mukava tavata toinen aseksuaali.
+Minun täytyy oppia nämä taidot.
+Katso, tähdenlento!
+Todennäköisesti Tomi jää vielä kiinni.
+Tykkääk sä mun uusist kengist?
+Kuin korttitalo Tomin unelmat ja suunnitelmat romahtivat hänen ympärillään.
+Onko tilaa vielä yhdelle?
+Tuomitsemme itsemme aikeidemme perusteella ja muut heidän tekojensa perusteella.
+He pysyivät ystävinä.
+Minulta kysytään usein kuinka pystyin lopettamaan polttamisen. Uskomatonta, mutta totta, en vain enää työntänyt savukkeita suuhuni ja sytyttänyt niitä. Kyllä toimii!
+Kolme on kaikki mitä tarvitsemme.
+Haluan matkustaa Saksaan.
+Mitäs sun veljelles kuuluu?
+Miestä ei huvittanut kävellä koko matkaa, joten hän meni bussilla.
+Sinun olisi parempi mennä nyt.
+Tomi ei tiennyt, että Mari oli päättänyt irtisanoutua.
+Mitä enemmän hän imartelee sitä vähemmän pidän hänestä.
+Tom halusi kiillottaa kenkänsä.
+Huone haisi pahalle.
+Voisin jatkaa siitä loputtomiin, mutta en jatka.
+Haluaisin jäädä niin pitkäksi aikaa kuin vain mahdollista.
+Vain taitelijat ja lapset näkevät elämän sellaisena kuin se on.
+Tomi osti Marille timanttisormuksen.
+Miksiköhän tunnen itseni niin yksinäiseksi, kun tulee kylmä.
+Hän on luultavasti yhä sängyssä.
+Mitä sinun isällesi kuuluu?
+Tämä on hänen mielipiteensä.
+Tom oli läsnä.
+Saksalaisen ystäväni nimi on Hans.
+Voinko jäädä yöksi?
+Sinun täytyy noudattaa sääntöjä.
+Milloin viimeksi sivelit salvaa tähän haavaan?
+Tehdään tämä loppuun ja lähdetään täältä.
+Kun sanon sanan "orava", mikä on ensimmäinen mieleesi tuleva asia?
+Neljännessä kerroksessakin on WC.
+On mahdollista, että Tomi pitää siitä, mutta enpä usko.
+Tuo minulle kuiva pyyhe.
+Hän vaikuttaa kiltiltä.
+Tomin lompakko oli hieman kulunut, ja Mary sanoi, että hänen pitäisi hankkia uusi.
+Sinun pitäisi pystyä taas kävelemään parissa päivässä.
+Tomi tykkää katsoa toimintaelokuvia.
+Voisin määrätä sinut jäämään.
+Otapa salaattia, jos maistuu.
+Olen muuttunut.
+Se lapsi nukkuu.
+Se sattui tosi pahasti.
+Nyt on huono hetki.
+Minä maksoin näistä lipuista.
+Me syöpöttelimme pizzaa ja juopottelimme olutta.
+Napakymppi!
+Olet narri.
+Tomi on epäsuosittu.
+Koska veljenpoikani oli vielä nuori, hänelle annettiin anteeksi.
+Demokratia on huonoin hallintomuoto, paitsi jos lasketaan kaikki muut tähän asti kokeillut.
+En aio antaa periksi!
+Onko tämä pyöräsi?
+Näenkö minä unta?
+Haluan oikeasti tietää hänen nimensä.
+Tomi osti oravaa esittävän magneetin ja laittoi sen jääkaapin oveen.
+Elokuussa lähden Japaniin ystävieni kanssa.
+Teemme kovasti työtä.
+Sisäpiirikaupat ovat laittomia.
+Särkeekö sinun päätäsi vielä?
+Lupasin.
+Ken yhtä ihmistä rakastaa,// se kaikkia rakastaapi.// Ken kerran voi itsensä unhoittaa,// se unten onnen saapi.// Ken kerran itse on onnellinen,// se tahtois onnehen jokaisen// ja antaa ja antaa ja antaa vaan// oman onnensa aarteistaan.
+Olen lukenut sen kirjan.
+Hänellä ei ole lainkaan kykyä ajatella loogisesti.
+No milloin suuri päivä on?
+Sinun täytyy murtautua ulos noidankehästä.
+Olet häpeäpilkku.
+Arpa on heitetty.
+Hän kiitti isäntää hyvin nautittavasta juhlasta.
+Kiitos kun autoit minut tien yli.
+Tule tänne sieltä.
+Tiedän, että luulet tämän olevan liian kallis.
+Ny Muiriel on kakskyt.
+Ei tarvitse olla epäkohtelias.
+Hänen veljensä on ollut kateissa jo jonkin aikaa.
+Älä puhu äidillesi noin.
+Me olemme kaikki valmiina.
+Voinkohan kysyä sinulta muutaman kysymyksen Tomista?
+Soita apua.
+Mitä haluat syödä tänään?
+Kuule...
+Nyt minä muistan!
+Osaatteks te ottaa pois kuuden kymmenestä?
+Tomilla kesti kolme tuntia koota trampoliini, jonka ohjeiden mukaan kokoamiseen kuluu tunti.
+Tommi työskentelee yövuorossa.
+Siitäkö haluat puhua kanssani?
+Tomi on aina ollut itsepäinen.
+Se on minun CD-levyni.
+Tom kertoi Marylle huonot uutiset.
+Kaikki lopettivat puhumisen ja tuijottivat minua.
+Tom on saapunut.
+Ei kestä enää kauan kun kirsikankukat alkavat kukkia kampuksellamme.
+Sinun täytyy kertoa minulle.
+Sepä kummallista.
+Pystyyköhän Tomi voittaa.
+Tom söi itsensä kylläiseksi.
+Ette ole muuta kuin moukkia.
+Yritetäänpäs jotakin.
+Mennään piiloon verhon taakse.
+Minulla ei ole kotiintuloaikaa.
+Jos meidän käy hyvä onni, tuplaamme rahamme.
+Oletko kunnossa?
+En löydä mitä haluan.
+Tom oli erittäin kiltti.
+Kuolleen ruumiini yli.
+Tomin piti olla täällä kolme tuntia sitten.
+Autan sinua kernaasti.
+Miksi miehet käyttäytyvät kuin apinat ja päinvastoin?
+Hän hylkäsi tarjouksemme.
+Tom ei ollut siellä eilen.
+Minun olisi pitänyt suudella sinua.
+Pimeys peitti yhä laaksoa.
+Tomilla on kolme serkkua.
+Tämä on hänen kynänsä.
+Hän lähetti sinulle terveisensä.
+Se ei ole tietokoneongelma.
+Se on helpommin sanottu kuin tehty.
+Toivotaan, että se on tarpeeksi.
+Mikään ei ole inhimillisiä asioita filosofisella mielellä pohtiville yllätyksellisempää, kuin se, kuinka helposti valtaväestöä hallitsee muutama, ja ihmisten epäsuora alistuminen, jossa he luopuvat omista aatteistaaan ja intohimoistaan ja korvaavat ne hallitsijoidensa vastaavilla.
+Vanhempi veli asui kylässä eikä ollut tullut rikkaaksi eikä köyhäksi.
+En voi silittää tätä koiraa. Pelkään, että se saattaa purra minua.
+Oho!
+Hän potkaisi häntä munille.
+Rakkauden nimeen, Fadil pakotti Laylan tekemään vaikeimman päätöksen, mitä hän koskaan oli tehnyt.
+Koska minä pidän haisemisesta!
+Hävisin paljon rahaa.
+En ole pitkään aikaan käynyt mummoni luona.
+Tomi kasvatti viikset.
+Oletpa hiljainen tänään.
+Sinun on pakko pitää lupauksesi.
+Käske Tomin nostaa puhelin.
+Turhauttavin asia, joka voi tapahtua Tatoebassa, on se kun raportoit jollekulle virheestä, ja hän ei vain jätä lausetta korjaamatta vaan hän luo myös lauseesta ehdottamasi korjauksen mukaisen muunnelman, sinua kiittämättä.
+Haluan pitää hauskaa.
+Minä soitan.
+Ota hedelmiä, jos maistuu.
+Älä unohda opiskelijakorttiasi.
+Kello on varttia vaille kahdeksan.
+Onko teillä kiire, kaverit?
+Tomi alkoi muuttaa.
+Jos aiot palata maisemiin myöhemmin, anna minulle ensin sormus, että olen varmasti kotona.
+Vaasa-laivan rakentamiseen käytettiin noin tuhat tammea.
+Hän ei näytä onnelliselta.
+Hän pitää vain parhaasta.
+Olen Tatoeba-riippuvainen.
+Minun kotini lähellä on koulu.
+Päätös oli helppo.
+Vessa on tukossa.
+Kolmen kuutio on kaksikymmentäseitsemän.
+Vain noin 15 prosenttia autisteista on työelämässä, lähinnä ihmisten ennakkoluulojen takia.
+Vaikuttaa siltä, että olet humalassa.
+Mary ja minä suunnittelemme hankkivamme kaksi lasta.
+Tomi on järkevä.
+Laittaisitko oven kiinni.
+Sylkisitkö?
+Tiedän, että Tommi ei tiennyt, kuinka paljon aikaa hän tarvitsisi tuon tekemiseen.
+Tuolin päällä on kissa.
+Voin hoitaa tuon välittömästi.
+Minä odotan, että hän tulee takaisin.
+Toivon, että olisit voinut nähdä Tomin juoksevan.
+Et saa antaa periksi kiusaukselle.
+Hänen hattunsa näytti todella hassulta.
+En tiedä mitä me teemme.
+Hän jatkoi eläintarinoiden kirjoittamista.
+Katso tähtiä.
+Haluan muuttaa elämääni.
+Juhlistetaan voittoamme.
+Onko tuo musta pussi teidän?
+Älä luota häneen.
+Tom sanoi, että on ollut sairaana.
+Tom osaa puhua ranskaa yhtä hyvin kuin sinä osaat.
+Tomi ei huomioinut varoitustarraa.
+Painava kivenlohkare laskettiin haudan päälle.
+Missä voimme ylittää joen?
+Tom on oikeassa.
+Tykkään katsoa telkkaria.
+”Tomi ei rakasta minua”. ”Jaahas, yhyy”.
+Hänellä on hyvä vapa.
+Onko vielä olutta jäljellä?
+Miksi valtio haluaa lukea minun sähköpostejani?
+Tomin vanhemmat ovat todella ylpeitä hänestä ja kaikesta mitä hän on saavuttanut.
+Tomi ei tule hyväksymään tätä.
+Tom halusi yllättää Maryn.
+Se on sika halpa.
+Kerro Tomille henkilökohtaisesti.
+Sydämeni on särkynyt.
+Mä unohdin mun lompakon.
+Tom läikytti maidon.
+Annoin Tomille lainaksi kaikki rahani.
+Vastaanajavan auton kuski väläytti valojaan varoittaaksen Tomia edellä olevasta liikuteltavasta nopeusvalvontakamerasta. Ylinopeutta ajanut Tom hidasti välittömästi ohittaen kameran nipin napin alle rajoituksen.
+Älä syö niin kuin porsas.
+Ei ole hiekanjyvääkään, ei atomiakaan, joka voisi muuttua olemattomaksi, ja silti ihminen uskoo kuoleman olevan olevaisuutensa tuho.
+Metsästäminen ei ollut niin hauskaa kuin mitä luulin sen olevan.
+Tom itkee nyt.
+Leikkaanko sipulin?
+Hän tuli juuri takaisin Pariisista.
+Olen tavallaan onnellinen puolestasi.
+Tom ei pääse ulos makuupussistaan. Vetoketju on jumissa.
+Uusi verolaki on täynnä porsaanreikiä.
+Ketä kiinnosti?
+Olen elätellyt toiveita siitä, että joku pistäytyisi kylässä.
+Perheeni asuu tuossa talossa.
+Tämä kirja on kirjoitettu ranskaksi.
+Monet sanovat, että Tom on joukkueemme paras pelaaja.
+Puolustakaa itseänne.
+Tom vaikutti menestyksemättömältä.
+Näin unta, että olin metsässä.
+Eikö Tomin olisi pitänyt jo palata?
+Olen juuri aikeissa ripustaa pyykit kuivumaan.
+Lääkärit katsovat röntgenkuvaa.
+Suomi tarvitsee sinua.
+Onko teillä halvempia paikkoja?
+Minä olen tullut pyytämään anteeksi.
+Minun veljeni ei tule olemaan huomenna kotona.
+Se on täydellinen sekasotku ja se alkaa käydä hermoilleni.
+Taivaan vallat!
+Minä en kaatunut.
+Jos teen poikkeuksen kohdallasi, kaikki muut odottavat samanlaista kohtelua.
+Häivy tästä autosta!
+Tiedän, ettette valehtele.
+En tunne heitä.
+Älä tee vielä mitään!
+Susi on Italian epävirallinen kansalliseläin.
+Tomi sekosi.
+Voisitpa jäädä pidemmäksi aikaa.
+Olen varmaankin pyörtynyt.
+En kadu elämässäni mitään.
+Hänen nimensä on tunnettu joka puolella maailmaa.
+Tomi on fiksu poika.
+Tomi pyyhki hiekan pois jaloistaan.
+Osanotto uskonnollisiin menoihin hyökkää yleistä moraalia vastaan. Protestantteja on kohdeltava ankarammin kuin katolisia ja vapaamielisiä ankarammin kuin vanhoillisia. Kristillisyys on sitä rikollisempaa, mitä enemmän se lähenee tiedettä. Rikollisista pahin on siis filosofi.
+Se ei ole oikein minun makuuni.
+Tom nappasi kiinni oikean vonkaleen.
+Minun nimeni on Jack.
+Miten olisi vähän lisää kahvia?
+Minä todella tahdon sinun puhuvan Tomille.
+Tomi on yhä vihainen.
+Valitse.
+Minulla ei ole tietokonetta.
+Hänellä on seksisuhde pomoonsa.
+Hän on käytännössä tehnyt muotiruokavaliotörmäyttimen. Ja joskus siitä kimpoilevat hiukkaset ovat gluonittomia neutriinopurilaisia.
+Tomi on aivan yksin.
+Kiinassa oli monissa paikoissa lohikäärmekuninkaan temppeleitä.
+Minä juon kahvin.
+Magneetit päähän istutettuina ne eivät kyenneet löytämään tietään kotiin.
+Tom kolautti päänsä seinään.
+Tom tahtoi tietää mitä sattui.
+Hän on blondi.
+He muhinoivat autossa.
+Tee on suosittu juoma ympäri maailman.
+Luen kirjan syödessäni.
+Älä tee sitä enää, jooko?
+Oletko ikinä lisännyt artikkelia Wikipediaan?
+Lähdimme kello 2:30.
+Pysy poissa.
+Tomi ei halua auttaa.
+Onkohan muilla planeetoilla elämää?
+Katso tätä kuvaa.
+Miten viikonloppu meni?
+Tom ei ole kiinnostunut.
+Onko turvallista uida tässä joessa?
+Mistä Tom ja Mari riitelivät?
+Vahtisitko lapsia sillä aikaa kun käyn ulkona?
+No, mitä sinä ehdotat?
+Ajan huomenna Bostoniin.
+Varasitko huoneen hotellista?
+Me opiskelemme ranskaa.
+Tom ihmetteli mitä Marille tapahtui.
+Tom kertoi Marylle Johnista.
+Minun nimeni on Tom ja olen alkoholisti.
+Syljehän.
+Tapasin hänet kolme vuotta sitten.
+On kaunis päivä.
+Myrskyisää säätä ennustetaan tänään alueellemme.
+Hänestä tulee hyvä lääkäri.
+Tomi näytti tyhmältä.
+Tomi kertoi minulle, että hän ei pidä Marista.
+Mikä sinun etunimesi on?
+En voinut tehdä läksyjäni valmiiksi.
+Vesi siinä järvessä on hyvin kylmää.
+Hän on tänään todella kiltti.
+Tom oli kohtelias.
+Tom jäi junan kyytiin.
+Minun tyttäreni rakastaa hyppynarulla leikkimistä.
+Me tapaamme tällä viikolla Bostonissa.
+Se on toinen ongelma.
+Koiraamme kutsutaan Johnnyksi.
+Mä haluun suudella sua.
+Kerrotko minulle tien kirjastoon?
+Tom osti auton säästöillään.
+Onko sinulla koulua tänä perjantaina?
+Anteeksi, missä on WC?
+Tomi katosi vuosi sitten.
+Ole kiltti ja lopeta laulaminen.
+Olen vapaa.
+Minulla on varaus tästä illasta eteenpäin kolmeksi yöksi.
+Tom ei osannut lukea kuin vasta kolmetoistavuotiaana.
+Hän teeskentelee nukkuvansa. Siksi hän ei kuorsaa.
+Syön usein kanaa.
+Mary sijoitti kuvan seinälleen.
+Hän tuli alakertaan kirje kädessään.
+Älä käytä sitä kravattia enää ikinä.
+Tomi on nuori.
+Pidä kuule huolta ihan vaan omista asioistasi!
+Tarvitsen palkankorotuksen.
+Tomi tietää kaupungin kaikki siistit paikat.
+Tom tahtoi laihtua.
+Putsasin tämän juuri.
+Tom pystyy ymmärtämään Marin ranskaa.
+Minulla ei ole latin latia.
+En pidä alkoholin mausta.
+Joni ja Mari ovat tunteneet toisensa jo vuodesta 1976.
+Olen kipeä.
+Tom ojensi luottokorttinsa.
+Keitetty riisi on saastunut, paistettu syöty.
+Hän on kiltti ihminen.
+Hän puhui.
+Voisitko laittaa radion päälle?
+En pystynyt olla katsomatta.
+Järkevä ihminen ei olisi tehnyt tuota.
+Jos huomaat olevasi kuopassa, lopeta kaivaminen.
+Teen munakokkelia.
+Tom ei kyllä halua sitä.
+Helmisato oli pieni.
+Sinun olisi paljon parempi jäädä tänne.
+Minulla on Tomin avaimet.
+Miksi tarvitsen asianajajan?
+Se ei ole Tom.
+Hän on vaaleahiuksinen.
+Se on varsin puhdas.
+Tämä kirja on suosittu opiskelijoiden keskuudessa.
+Hän asuu yksin isossa talossa.
+Minneköhän Joe on mennyt?
+Mitä haluat antaa hänelle?
+Menimme teatteriin.
+Isi työskentelee.
+Tietysti!
+Nettiyhteyteni on hidas.
+Hyvin, kiitos!
+Sinun pitäisi ilmoittaa poliisille heti.
+Paikallisjuna ei ole yhtä mukava kuin pikajuna.
+Olen täysin rahaton.
+Hän sepitti kertomuksen kuninkaasta.
+Aloin kirjoittaa kirjaa.
+En tiedä tarkalleen.
+Hän oli tottunut elämään pienillä tuloilla.
+Mihin aikaan menit nukkumaan eilen?
+Minkä lehden tilaatte?
+Hän teki itsemurhan ottamalla myrkkyä.
+Olen ollut aika kiireinen.
+Minusta olisi ihanaa tehdä niin uudestaan.
+Tomi koputti oveen.
+Tukkasi on pidempi kuin minun.
+Älä huuda.
+Sinun täytyy asettua aloillesi.
+Tomin pitäisi maksaa velkansa.
+Kokouksen puheenjohtaja sairastui.
+Me olemme menossa tähän suuntaan.
+Olisinpa ollut siellä sinun kanssasi.
+Ihmettelen mikä on Tomin mieliruoka.
+Onko tuo totta?
+Hän tekee saksanläksyjään.
+Viime aikoina monet ihmiset ovat alkaneet kärsiä allergioista.
+Minulla ei ole siskoja.
+Kerro meille lapsuudestasi.
+Äitini ei osaa ajaa autoa.
+Tom käveli niin nopeasti kuin voi saadakseen hänet kiinni.
+Jos olisin sinä, pysyisin hiljaa.
+Nopea kävelijä voi kävellä kuusi kilometria tunnissa.
+Tom tykkää uida.
+Herää huomenna aamulla kuudelta.
+Te ootte hukannu teiän marmorikuulat.
+Olen yllättynyt, että sinä olet niin naiivi.
+Voisinko saada kuvan takaisin?
+Se on todella vakava syytös.
+Koala on Australialle tyypillinen eläin.
+Serkkuni kuljetti minua ympäri kaupunkia.
+En ole koskaan aikaisemmin tavannut Tomia.
+Todennäköisesti en lue Tomin raporttia.
+Harkitsin työpaikan vaihtoa, mutta loppujen lopuksi päätin, etten vaihda.
+Tomi tarvitsee ajokortin.
+Oikeastaan ​​halusimme mennä elokuviin lauantaina, mutta muutimme mielemme ja jäimme kotiin.
+Miten haluat pysäyttää minut?
+Tom ja Mari adoptoivat Jonin.
+Näyttää siltä, että monet eivät tiedä mitä eroa on sanoilla ”loose” ja ”lose”.
+Ehkä hän on italialainen tai espanjalainen.
+Pysykää erossa Tomista.
+Martin Luther King jr. - rauhan mies - kuoli salamurhaajan luotiin.
+Tomi katsoi kenkiään.
+Mitä näit?
+Oletko jo lähdössä?
+Pysytelkää kaikki rauhallisina.
+Kun tulet, pelaan go:ta kanssasi.
+Tom valittaa aina vaimostaan.
+Onpas typerää!
+Hän valitsi hyvän vaimon.
+Tulen hinnalla millä hyvänsä.
+Hän juo ainoastaan juopuakseen.
+Tom kuoli yhdestä ampumahaavasta.
+Haluan sinun tekevän sen heti.
+Olin lukemassa uudestaan kirjeitä, jotka sinä lähetit minulle.
+Hän ei nähnyt Tomia koskaan sen jälkeen.
+Syö jotakin.
+Avatkaa ovet.
+Kuulostaa todella mielenkiintoiselta.
+Pidän sinua parhaana ystävänäni.
+Tom kävi Georgian teknistä korkeakoulua.
+Tomi on sinua nuorempi.
+Mari on Tomin äiti.
+Miten koe meni?
+Siinä on oikeastaan kaikki, mitä haluan sinulle sanoa.
+Kuinka vaihdan lauseen kielen?
+Miltä minä näytin?
+Nyt olet turvassa.
+Kaikki eliöt Maassa sisältävät hiiltä.
+Tom meni syvemmälle luolaan.
+Tuo teetä.
+Jonkun on tehtävä se.
+Minä en usko, että Tomi haluaa sinun vanhan pyöräsi.
+Tässä pitäisi olla enemmän kuin riittävästi.
+On mahdollista, että ikkunan rikkoi joku muu kuin Tomi.
+Minun täytyy mennä nyt.
+Tomi on toisen maailmansodan veteraani.
+Epäilin, että hän oli vaarallinen.
+Minulla ei ole aikaa lukea.
+Hänen sairautensa murskasi kaikki hänen toiveensa.
+Minun nimeni on Omid.
+En osaa tanssia.
+Sinulla on vapaus matkustaa minne haluat.
+Hän ylireagoi.
+Eipä aleta nyt ylimielisiksi.
+Laiva törmäsi jäävuoreen.
+Missä on taikasauvasi?
+Käärme nielaisi sammakon.
+Se oli tajunnanräjäyttävää.
+Tehdään ratkaisu heittämällä kolikkoa.
+Tom meni takaisin toimistolleen.
+Tämä on todella huonoa tuuria!
+Tom meni aikaisin töihin.
+Nautin kauniista keväästä.
+Tomi selvisi hengissä kolarista.
+Hän kirjoitti kirjeen mustekynällä.
+Tajusin pointtisi.
+Tom pysähtyi puhumaan Marille.
+Tom ja Mari opettavat molemmat ranskaa.
+Olen tehnyt parhaani.
+Se ei vain tunnu oikeanlaiselta.
+Kuinka kauan sinä olet opiskellut unkaria?
+Omituista ettei hän ole vielä tullut.
+Torni on shakkinappula.
+Se ei ole enää ongelma.
+Tomin ei tarvitse tehdä töitä sunnuntaisin.
+Tom ei koskaan juo olutta, kun Mary on läsnä.
+Mikä tämä ääni on?
+Hiuksesi näyttävät upeilta.
+Tomi on todella tärkeä meille.
+Hän saattaa pelätä tulosten saamista.
+Mitä vanhat silmäni näkevät?!
+Kärsimättömyys on ainoa huono puoli hänen luonteessaan.
+En pitänyt elokuvan juonesta.
+Kuunnelkaa lapset!
+Olen taloudellisesti riippumaton vanhemmistani.
+Jumalan voi löytää mistä tahansa.
+Milloin olet edellisen kerran syönyt ulkona?
+Osaat uida hyvin, eikö niin?
+Opiskeleeko Tom ranskaa joka päivä?
+En voi uskoa tämän tapahtuneen.
+Voinko sulkea ikkunan?
+Twitter on yksi islamin suurimmista vihollisista.
+Miten sinä voit tehdä tämän minulle?
+Minä opiskelen monia kieliä.
+Olen lukemassa kirjan.
+Näytät paremmalta tänään.
+On mahdotonta, että hän olisi tiennyt siitä.
+Tatoeba ei edes ole tyttö.
+Älkää tappako sananviejää.
+Meille tulee kiireitä.
+Jos sinusta tulisi yhtäkkiä sokea, mitä tekisit?
+Tom ei ollut ensimmäinen poliisin pidättämä henkilö.
+Mitä oikeasti teet täällä?
+Hei, isoisä.
+Nousin Lontoon junaan.
+Lääkäri otti pulssini.
+Minä olen korjaamassa sitä taloa.
+Tomi ei hengitä.
+Teidän ei tarvitse kiirehtiä.
+On aika että lähetät lapset vuoteeseen.
+En keksi mitään vaihtoehtoja.
+Ulkona oli purevan kylmää.
+Tomilla on synkkä menneisyys.
+Luulen, että niiden salaliittoa juonivien ihmisten yliarviointi on juuri sitä mitä he haluavat.
+Meidän täytyy estää nopea väestönkasvu.
+Ymmärrän mitä sanotte.
+Minä tein tämään tuolin.
+Jääthän tänne.
+Tomi luuli, että olin Mari.
+Miksi sinä otat kuvia?
+Sitten pieni Gerda itki kuumia kyyneliä, jotka putoilivat hänen rinnalleen, ja porautuivat hänen sydämeen, ja sulattivat jääkimpaleen, ja huuhtelivat pois pienen lasisirpaleen, joka oli sinne kiinnittynyt.
+Tietenkin autan sinua.
+Hyvästi, Kuuba.
+Toivotaan, että kaikki menee hyvin.
+Hän ryösti minulta kukkaron.
+Se vauva on nukkumassa.
+Tom on yhtä komea kuin aina ennenkin.
+Tom osaa uida nopeasti.
+Tomia ei haluta syödä.
+Sinun ei tarvitse tehdä töitä sunnuntaisin.
+Tässä ovat kaikki rahat, jotka minulla on nyt.
+Kutsu ystäväsi syömään.
+Mihin olet menossa lomalle?
+Olen tuntenut hänet yli kaksikymmentä vuotta.
+En yleensä tee tuota.
+Mun kaveri kopsas mun läksyt ja ope huomas sen.
+Tuo ei ole meidän tehtävämme.
+Outoa kyllä, ovi avautui itsestään.
+Oletko lukenut viime aikoina mitään mielenkiintoisia kirjoja?
+Jos totta puhutaan, niin en mennyt sinne.
+Tomi osaa korjata mitä tahansa.
+On vaarallista leikkiä tulella.
+Nämä ovat hyvät bileet.
+Jalkani!
+Pidin hiuksistasi enemmän silloin kun pidit jakaustasi oikealla.
+Se on menneen talven lumia.
+No, millaista se oli?
+Koettelet kärsivällisyyttäni.
+Jospa puhuisimme siitä kahvin ääressä.
+Tunsin olevani hukassa ilman teitä.
+Noiden eläinten käytös on mieletöntä.
+Tomi on fiksu.
+Olen hyvä siinä, mitä teen.
+Tom avasi kassakaapin.
+Kerron sinulle siitä kaiken myöhemmin.
+Hän on edelleen töissä.
+Soititko hänelle eilen?
+Voi hyvä Jumala!
+Hän ei ole uskonmiehiä.
+Se ei ole hänen asiansa.
+Tomi siivosi olohuoneen.
+Hän on nyt mies.
+Miksi kilpikonnalla on kilpi?
+He tyrkkäsivät hänen ruumiinsa sillalta alas veteen.
+Se on laitonta.
+Tom soitti Marille tänä aamuna.
+Tomi meni pyörällä kotiin.
+He ovat ystäviä.
+Tämä muna on tuore.
+Oletteko te ainoat, jotka ovat jäljellä?
+Minä olin kiireinen eilen.
+Vihaan ihmisiä, joilla on tunteet.
+Ajattelin heittää sen pois, mutta päätin pitää sen.
+On hyvin tärkeää pitää päänsä, jos on hätätilanne.
+Äitini veljen vaimo on tätini.
+Tomi on epäileväinen.
+Voisitko fiksata tämän puhjenneen renkaan.
+Miksi sinua kutsutaan?
+Miten tiedät nämä asiat?
+Sanoutukaa irti.
+Yritin kertoa Tomille mitä täytyy tehdä, mutta hän ei vaikuttanut kiinnittävän siihen huomiota.
+Tomi ja Mari sanoivat, että he suostuisivat tekemään tuon.
+Tommilla ei tuu oleen mitään mahiksii.
+Totuus on asioissa, ei sanoissa.
+Vihaan pitkiä puheita.
+Tom vaikutti olevan kauhistunut jostakin.
+Miten vastuutonta!
+Tomi on hukkumaisillaan!
+Oletteko te kotoisin Bostonista?
+Me emme syytä Tomia.
+Tom tahtoi lähettää viestin.
+Räätälin mielestä pukine istui täydellisesti, mutta asiakas valitti ja sanoi, että se oli liian lyhyt ja kangas oli huonolaatuista ja karkeaa.
+Sinun pitää pysyä kaukana tuosta jengistä.
+En tiedä mihin uskoa.
+Se että se on Tatoeba.orgin tietokannassa ei tarkoita sitä, että se on lause.
+”Avain on lukossa”, mies lisäsi.
+Voinko sovittaa tätä?
+Tomilla oli henkivakuutussopimus.
+Ulkona on ukkosta. Minua pelottaa tosi paljon!
+He matkustivat pääkaupunkiin.
+Jotkut ihmiset ovat sitä mieltä, ettei lasta voi ylistää liikaa.
+Hän koristeli seinän kuvin.
+Kiellätkö sen?
+Muutin vain mieltäni. Siinä kaikki.
+Osaatko kävellä?
+En tunne ketään Bostonista.
+Rakastaakohan hän minua.
+Tom tietää mistä siinä on oikein kyse.
+Hän valehteli minulle.
+Kuningatar ei kyennyt antamaan kuninkaalle miespuolista perijää.
+Tosi on.
+Koska oli hieno päivä, menin kävelylle.
+Sinä halusit tämän, eikö niin?
+Tom nauroi niin että alkoi itkeä.
+Nukkuminen on hyvä idea.
+Hän huiskutti hänelle hyvästejä.
+Tomi siirtyi lähemmäksi.
+Tomi pesi perunat.
+Sinun täytyy oppia ranskaa.
+Se ei tapahdu usein.
+Olen hyvin ujo.
+Hän jätti valituksen.
+Tomista tuntui, että hän oli Marille selityksen velkaa.
+Miksi minä opiskelen islanninkieltä?
+En ymmärrä lainkaan englantia enkä saksaa senkään vertaa.
+En päästä Tomia lasteni lähelle.
+Älä unohda ladata kännykkääsi.
+Minun tekee mieli ottaa lepotauko.
+Tietokone on uusi.
+Kenen pizza tuo on?
+Kaikki asiantuntijat eivät ole sama mieltä.
+Mä osallistuin siihen seminaariin.
+Pöydällä oleva sanakirja on Tomin.
+Puolustaudu.
+He juonivat kuninkaan salamurhaamista.
+Tom sanoi enemmän kuin Mari halusi hänen sanovan.
+Myös äitini on opettaja.
+Vain muutama ymmärsi hänen sanomisensa.
+Myrskyn jälkeen tulee tyven.
+Onnee!
+Tom ei puhu paljon.
+Hän myös puhuu ranskaa.
+Menkää tuonne.
+Tom kieltäytyi maksamasta laskujaan.
+Sisältyykö se hintaan?
+Järki käteen.
+Minä juon sitä kahvia.
+Tämä laatikko sisältää viisi omenaa.
+Minä tulen ajamaan Detroitiin.
+Ruoho oli pehmeää.
+Jos haluat kultaisen säännön, joka sopii kaikille, niin se on tässä: ”Älä pidä kotonasi mitään, mille et tiedä käyttöä, tai et pidä sitä kauniina.”
+Japanilaiset tuhosivat Pearl Harborin.
+Yleisyydestä tinkimättä voimme sanoa jonon suppenevan kohti nollaa.
+Mikä Tom on ammatiltaan?
+Minä käännän.
+Enää ei Tommi käy täällä.
+Vielä jokin päivä ajokorttisi otetaan pois.
+Mitä minun pitäisi tehdä?
+Olette selkeästi erehtyneet.
+"Olen hyvin iloinen", hän sanoi.
+Minä en kerro sinusta kenellekään.
+En tiedä mitään Japanista.
+Oppikaa.
+Hän osaa saksaa ja ranskaa, puhumattakaan englannista.
+Arvasit oikein.
+Mitä se sanoo?
+Kaikki puiston kirsikkapuut ovat täydessä kukassa.
+Olin lounaalla Tomin kanssa eilen.
+Tiedätkö mistä hänet löytäisi?
+Tämä on hänen vikansa.
+Rikkaat rikastuvat ja köyhät köyhtyvät.
+Älä sinä minua määräile.
+Älä tuhlaa aikaa merkityksettömiin asioihin.
+Tämän on ajanhukkaa.
+Kaikki tietävät, että Tom osaa puhua ranskaa hyvin.
+Jästihuispauksesta on urheilulajina tulossa yhä suositumpi ympäri maailman, erityisesti yliopistokampuksilla.
+Hän kuin kaksi vuotta häntä vanhempi.
+Tomi ihmetteli, mikä oli tehnyt Marin niin surulliseksi.
+Lamppu on palanut.
+Televisio on poissa päältä.
+Mitäköhän Tomille on tapahtunut?
+Jotkut ihmiset puhuvat liikaa ja tekevät liian vähän.
+Teillä on paljon kirjoja.
+Älä kerro Tomille. Se pilaisi yllätyksen.
+He tekevät sen nopeammin kuin me.
+Puhuin Tomin kanssa.
+Hänen hiuksensa ovat kuivat.
+Sinä sanot, että Nessie on mielikuvitusolento, mutta minä uskon, että se on olemassa.
+Rakastan Tomia enemmän kuin mitään muuta.
+Menin naimisiin liian nuorena.
+Tomi sanoi minulle, että hän tekisi sen huomenna.
+Edward on nuorempi kuin Robert.
+Otapa palanen kakkua, jos vain mielesi tekee.
+Ehkä olen ollut liian ankara Tomille.
+Eilen sattui surullinen onnettomuus.
+Aluksi vierastimme toisiamme. Ajan myötä opimme tuntemaan toisemme.
+Mies kantoi hänen matkatavaransa junaan.
+Etkö sinä tiennyt sitä, että Tomi on Marin poika?
+Hän sai vastuuaseman yrityksessä.
+Onko kaikki kunnossa?
+En tule ikävöimään Tomia.
+Kertokaa minulle nimenne.
+Hän kielsi olevansa varas.
+Miehet kilpailivat nuoren neidon sydämestä.
+Maistapa tätä karkkia.
+Älä itke. Rakastan sinua.
+Voi olla, ettei Tom pidä meksikolaisesta ruoasta.
+Älä koske siihen ovenkahvaan.
+Pitkästä aikaa!
+Sunnuntaita seuraa maanantai.
+Tom opiskeli ranskan omatoimisesti.
+Oppilaan täytyy parantaa.
+Avaisitko ikkunan?
+Sinun kuusi on palaamassa.
+Minun ei tee mieli tehdä töitä tänään.
+Näen, että et nauti olostasi täällä.
+Ymmärsittekö te tuon?
+Oppikaa nöyryyttä.
+Hyveellinen henkilö ei valehtele, petä tai varasta.
+Oravat oppivat nopeasti.
+Jos ei ois aurinkoo, niin ei mekään kyllä pysyttäis elossa.
+Tarkista se nyt.
+En oikeastaan välitä siitä mitä ajattelet.
+Nyt voit päästää irti.
+Hän on baseballinpelaaja.
+Hän meni kalastusmatkalle.
+Tom pukeutuu aina mustaan.
+Ehkä sinä voit auttaa.
+He olivat serkuksia.
+Joulu on pian, vai mitä?
+Halveksit Tomia, eikö niin?
+Lopeta jo!
+En tiedä, mitä Tomi tekee nykyään.
+Tämän kirjan aihe on Kiina.
+Tom ymmärtää ongelman.
+Ootsä ihan tosissas?
+Etsin lahjaa ystävälleni.
+Kannettavani on varastettu.
+Olen nähnyt sen omin silmin.
+Ryhmä aloitti kampanjan sademetsien suojelemiseksi.
+Hänen talonsa on erittäin moderni.
+Täytin viime viikolla 30 vuotta.
+Voin tehdä sen jos annat minun.
+Istu paikallasi.
+Minun vaimoni on kasvissyöjä.
+Kansalaiset osoittivat mieltään vastustaakseen uutta projektia.
+Tutkimus on osoittanut liian nopean syömisen lisäävän ylipainon todennäköisyyttä.
+Oletko sinä harkinnut sitä, että kertoisit totuuden?
+Häntä syytettiin harhaoppisuudesta.
+Tatoeban suosio on kasvanut eksponentaalisesti sen alkupäivästä lähtien.
+Voi kunpa olisin luonasi.
+Minä en puhunut.
+Jos voisimme levätä hieman, virkistyisimme varmasti paljon.
+Tom sai Marin ja Jonin kiinni.
+Voisitko sinä kertoa minulle mitä tapahtuu?
+Me tarvitaan musaa.
+Tom ei halunnut tuottaa pettymystä Marylle.
+Otan sen mukaan kotiin.
+Nyt se on valmis.
+Tom tuppaa hävittelemään tavaroitaan.
+Koristellaan joulukuusi.
+En usko sen olevan välttämätöntä.
+Etkö sinä ole enää rakastunut minuun?
+Se ei ollut totta.
+George W. Bush syntyi Connecticutin osavaltiossa vuonna 1946.
+Ajattelit että olet ehkä vihainen minulle.
+Me olemme vielä ystäviä.
+Kuuntele tarkkaan mitä sanon.
+Minulla ei ole sisaruksia.
+Millainen oli iltapäiväsi?
+Olen aika varma siitä, että Tomi ei osaa uida.
+Olit oikeassa Tomista.
+Eikö se ole totta?
+Hän antoi meille lahjan.
+Minä näin miten Tom teki sen.
+Hän oli kulkemassa tungoksen läpi.
+Näytä minulle missä Puerto Rico sijaitsee kartalla.
+Anna minun auttaa sinua, jos se on tarpeen.
+Tom osaa puhua ranskaa ja englantia.
+Isäni on mennyt Yhdysvaltoihin.
+Hän tuli New Yorkiin etsimään työtä.
+Tunnetko sinä tuon miehen, joka seisoo sillalla?
+Hän lopetti.
+Kaikki ihmiset syntyvät vapaina ja tasavertaisina arvoltaan ja oikeuksiltaan. Heille on annettu järki ja omatunto, ja heidän on toimittava toisiaan kohtaan veljeyden hengessä.
+1920-luvulla Saksassa inflaatio oli niin korkea, että oli ihan tavallista polttaa rahaa pysyäkseen lämpimänä.
+Mitkä ovat tämän paraabelin nollakohdat?
+Yritän pitää tuon mielessä.
+Norsut juovat vettä.
+Harrastan muun muassa tähtitiedettä.
+Samilla oli suuri musta silmä.
+Hän teki nuorena paljon syntiä.
+Näytät terveeltä.
+Onko se totta?
+Haluaisin käydä joskus Ranskassa.
+Tom ei ole niin kuin muut pojat.
+On todella vaikeaa nähdä itsensä muiden silmin.
+Haluaisitko hieman lisää kastiketta?
+En ole lukenut vielä uutta muistiota sisäisestä turvallisuudesta.
+Tom itkee vieläkin.
+Tuo oli liian helppoa.
+En ole nukkunut kovin hyvin kuukausiin.
+En ole vielä valmis saamaan lapsia.
+Minulla ei ole englanninkielistä näppäimistöä.
+Tom on onnenpoika.
+Tajuatko?
+Tomi on luova kaveri.
+Tom on nyt mies.
+Etkö tiedä hänen nimeään?
+Tom tuuppasi Marin ulos ovesta.
+Jätän sinut rauhaan.
+Tomilla on yksityislentokone.
+Lohikäärmeet ovat kuvitteellisia eläimiä.
+Tahdon pois täältä!
+Ketä muuta haluaisit syyttää?
+Hän asuu maalla.
+En aio syödä tätä.
+Tyttö lakkasi puhumasta ja hymyili, nuori mies lakkasi puhumasta ja huokaisi.
+Te olette minun ystäviäni.
+Hän nukkuu.
+Viimeisin sulhaseni oli varsinainen ääliö.
+Totta puhuakseni, en tykkää hänen tavastaan puhua.
+Tomi sai kuolemanrangaistuksen.
+Ystäväni on puhelias henkilö.
+Nähdään taas!
+Tomi on heidän ainoa lapsensa.
+Miksi se on täällä?
+Asutko Tokiossa?
+Pythagoraan lauseen mukaan hypotenuusan neliö on yhtä suuri kuin kahden toisen sivun neliöiden summa.
+Todennäköisesti Tomi on yhä toimistolla.
+En kuule sinua kovin hyvin.
+Haluaisitteko toisen kupillisen teetä?
+Käpälät irti tyttärestäni!
+Pysy juuri sellaisena kuin olet.
+Miksi käskit heitä tekemään niin?
+Sinä olet kajahtanut.
+Siispä älä epäröi.
+Sinun täytyy painaa mieleesi tämä lause.
+Tom sanoi, että hän tarvitsee lisää rahaa.
+Tämä on niin hyvää. Se on kuin seksiä suussani.
+Sinä et pärjää kovin hyvin.
+Minä olen geenimuunneltu organismi.
+Harmi että et pääse tulemaan.
+Oletko koskaan kuullut jonkun puhuvan ranskaa?
+Tomi on erittäin vaarallinen mies.
+Vauhti ei ole kaikki kaikessa.
+Varkaat yrittivät varastaa naisen auton, mutta he eivät voineet, koska he eivät osanneet ajaa manuaalivaihteisella autolla.
+Jumala, anna minulle kärsivällisyyttä.
+Sekoitin sinut veljeesi.
+Minulla on klaustrofobia.
+Minä olen lukemassa kirjan.
+Tämä on vaimoni.
+Tässä metsässä kummittelee.
+Mistä sinä tulet?
+Tom tahtoi istua alas pariksi sekunniksi.
+Kiroilkaa!
+Nukuin pommiin, koska valvoin myöhään.
+Tomi haukkuu, mutta ei pure.
+Hän yleensä käyttää kynsisaksia.
+Jarruttakaa.
+Tomi on tolkullinen.
+Hän odotti tunti tolkulla.
+Kuinka te käytätte tätä konetta?
+Tomi huusi.
+Älä puhu minulle tuolla tavalla.
+Kun hän oli nuori, hän meni mielellään pyörällä.
+Hallinto päätti siirtää yrityksen pääkonttorin Hawaijille.
+En minä tätä tilannut.
+Virginia, vaimon ei pitäisi salata mieheltään asioita.
+Oletko koskaan grillannut kalaa?
+Voisitko herättää minut seitsemältä?
+Kellossa on kaksi viisaria.
+Minun olisi pitänyt ottaa silmätipat mukaani.
+Olen kiireinen mies.
+Kuulimme oven aukeavan.
+Tom tahtoi ostaa matkamuistoja.
+Auto on autotallissa.
+Hän lopetti puhumisen.
+Molemmat ovat kollegojani.
+En usko, että Jumala on olemassa.
+Tomi oli kiukkuinen viime yönä.
+Jos tahdot olla vapaa, tuhoa televisiosi.
+Tom on nälkäinen.
+Käydään sisään.
+Olen varma, että tarkoitit hyvää.
+Minulla on muutamia ranskalaisia kirjoja.
+Vaikka hän on vanha, hän on yhä tehtävänsä veroinen.
+Hei, katso minua.
+Tämä on meidän ongelmamme.
+En voi juoda maitoa.
+Me tarvitsemme vähän lisää kahvia.
+Se päättyy huomenna.
+Miksi se on niin iso juttu?
+Kahdestakymmenestä oppilaasta vain yksi on lukenut kirjan.
+Tiedätkö onko Tom kokouksessa vai ei?
+Se on hyvin kallis.
+Minulla on kipeä kurkku ja nenäni vuotaa.
+Sinä voisit auttaa meitä.
+Tomi on menettänyt tajuntansa.
+Vieläkin?
+Tom on muuttanut mieltään.
+Tom puolusti itseään.
+En voi uskoa, että hän luopui Yhdysvaltojen kansalaisuudestaan.
+En halua tietää mitään Tomista.
+Tykkään kielistä.
+Tommi huusi.
+Tomi teeskenteli olevansa kiinnostunut.
+Paskapuhetta!
+Kukaan ei välitä, mitä Tomille tapahtuu.
+Hän ui.
+Jousi tuli.
+Näyttää siltä, että japaninvaahtera vihdoinkin oksii.
+Sinä näytät vihaiselta.
+En osaa uida yhtään.
+Tom ojensi Marylle lasillisen punaviiniä.
+Minulla on ne kaikki.
+Tomi on hämmästynyt.
+Tomi on poissa tolaltaan.
+Oletko varma, että tämä on oikea tapa tehdä se?
+Sinun pitää pitää vähän hauskaa myös.
+Se ei vain vaikuta todennäköiseltä.
+Heidän piti rakentaa siltoja monien purojen yli.
+Tatoeba: Lauseita, lauseita ja lisää lauseita.
+Hauskaa kekrijuhlaa!
+Tämä suklaa maistuu todella hyvältä.
+Koulutin koirani tuomaan minulle sanomalehden aamuisin.
+Hän teki tärkeän löydön.
+Kumpi on isompi, Tokio vai Kobe?
+Hän on laiska.
+Miten tiedät niin paljon Japanin historiasta?
+Tom ei koskaan valittanut.
+Kuinka usein Tom käy ranskantunneilla?
+Minä en ollut kuullut hänestä pitkään aikaan.
+Mitä tykkäät tästä villapaidasta?
+Synnytin identtiset kaksoset.
+Talo on valkoinen.
+Pojat ovat menneet pohjoiseen.
+Vähitellen huomaat edistymistä kirjoituksissasi.
+Hän tulee sinne, satoi tai paistoi.
+Se on osa työtäni.
+Älä anna sitä kellekään.
+Pöllöillä on suuret silmät.
+Onko totta, että ette olleet täällä eilen?
+Teit sen, mikä oli välttämätöntä.
+Kuinka kaunista!
+Miksi ihmeessä sinä teit niin?
+Oletko ikinä ollut Amerikassa?
+Me tilaamme pizzan.
+En olisi osannut sanoa sitä itse paremmin.
+Olipa kerran äärimmäisen turhamainen keisari, joka välitti vaatteistaan, mutta ei kansastaan.
+Onko sinulla kannettavasi mukana?
+Haluan tehdä Tomin onnelliseksi.
+Tommi hyväksyi kalliin lahjan Marilta.
+Kaksi ynnä kaksi on neljä.
+Italialaisessa ravintolassa oli romanttinen tunnelma.
+Pitää keskittyä tiehen kun on ajamassa.
+Leivon kakkuja melkein joka päivä.
+Olen kiitollisuuden velassa hänelle.
+Toivon, että pysyt vankilassa kuolemaasi saakka.
+Hän istui viereeni.
+Me todella tarvitsemme Tomin takaisin.
+Haluan lähteä ulkomaille.
+Minä unohdin, mitä minä olin sanomassa.
+Äänestyksen tulos oli liberaalien voitto.
+Kerro tuolle naiselle että hänen poikansa on kunnossa.
+En anna kenenkään tehdä sitä.
+Kone törmäsi maahan.
+Tom sytytti pöytälampun.
+Tom ei ole mikään typerys.
+Meidän on puolustettava vähemmistöjen oikeuksia.
+Oliko neiti Kato opettajasi viime vuonna?
+Elämä imitoi taidetta enemmän kuin taide elämää.
+Kolmen 3. potenssi on 27.
+Etsin asuntoa.
+Hän oli usein myöhässä koulusta.
+Haluaisin kävellä vähän hitaammin.
+Älä puhu paskaa!
+Voitte mennä mihin vain te haluatte.
+Tämä on ensimmäinen kerta ikinä kun olen veneessä.
+Suosittelen tätä kirjaa.
+Tom istui auton konepellillä.
+En halunnut huolestuttaa teitä.
+Minä menen kysymään Tomilta.
+Heidän täytyi vain pysähtyä.
+Missä sinun luottokorttisi ovat?
+Tom ojensi tyhjän pizzalaatikon Marille.
+Meidän on löydettävä hänet ennen kuin hän tekee jotakin typerää.
+Tämä kirja kuuluu minulle.
+Haluan syödä jotain, mikä ei ole makeaa.
+Tomi on älykäs ja kunnianhimoinen.
+Hän lainasi isältään vähän rahaa viimeisenä hätäkeinona.
+Hyvää halloweenia!
+Täältä on kauniit näkymät kun sää on hyvä.
+Säästöporsas oli niin täyteen ahdettu, ettei se enää pystynyt kilisemään. Sen täydellisempään elämäntilanteeseen ei säästöporsas pysty.
+Ajattelinkin, koska palaisit.
+Alkoholi ei ratkaise mitään ongelmia, mutta sitä ei tee myöskään maito.
+Hän oli häpeissään ettei ollut työskennellyt kovasti.
+En rakasta Tomia enää.
+Pyysin Tomia tekemään sen, mutta hän kieltäytyi.
+Hän täytti pullon vedellä.
+Olen tuhmalla tuulella nyt
+Emmä tiiä.
+Se alkoi uudelleen!
+Tämä ei näytä hyvältä.
+Miksi olet vihainen hänelle?
+Sini- ja kosinifunktiot ottavat arvoja miinus yhden ja yhden väliltä, mukaanlukien miinus yksi ja yksi.
+Olen tullut tänne opiskelemaan kiinaa.
+Olen varma, että Tom laskee juuri sen varaan.
+Olen sarjakuvapiirtäjä.
+Haloo, haluaisin vähän tuoretta appelsiinimehua.
+Haluan sen osoitteen.
+En usko, että Tomi haluaa vanhan pyöränne.
+"Näin on", Joni sanoi.
+Haluan tavata Tomin.
+Tänään on sinun onnenpäiväsi.
+Saksa on liittotasavalta.
+Alex viettää lomansa usein Espanjassa.
+Tomi on harmistunut.
+Meidän kaikki ruuat olivat homeessa.
+Tiedän, että jopa kaikista kauneimman suudelman on päätyttävä.
+Wäääh...
+Tomi osti aivan liikaa maitoa.
+Tommilla ei ole mitään mahdollisuuksia.
+Hän pelaa Super Mariota.
+Kaikissa sanakirjoissa on virheitä.
+Filosofia on oikeastaan koti-ikävää – halua olla kaikkialla kotonaan.
+Tomilla on kala-allergia.
+Tämä lääke helpottaa kramppejasi.
+Minun täytyy lähteä.
+Hän on huonolla tuulella.
+En ole yhtä köyhä kuin mitä olin aikaisemmin.
+Me tarvitsemme musiikkia.
+Menin rannalle.
+Auttaisin jos voisin, mutta se on kykyjeni tavoittamattomissa
+Jää luokseni.
+Toivon sinun menestyvän.
+Tom työskenteli sisällä.
+Yksi hänen kollegoistaan kuiskasi.
+Emme ole saaneet kehenkään listallamme olevaan yhteyttä.
+Haluatko, että soitan ambulanssin?
+Tämä on kultakaivos.
+Vanhempani eivät arvosta tyttöystävääni.
+Tiedän, että Tommi on aika hyvä pelaamaan basketballia.
+Kävin aikaisemmin kirkossa sunnuntaina.
+Suuri maanjäristys sattui Meksikossa tänä syksynä.
+Tomi juo kahvia.
+Minulla on vähän asioita Tomin kanssa.
+Hän on boheemi.
+Siat eivät osaa lentää.
+Tomi aloitti muuttamisen.
+Hän rakastaa häntä, mutta hän yrittää piilottaa tunteensa.
+Haluatko lähteä syömään aamiaista ulos?
+Sinun täytyy ehdottomasti katsoa se.
+Käytkö usein tässä ravintolassa?
+Tomia ei huvita laittaa ruokaa.
+Koska hän teki minulle ruman tempun, aion päästä tasoihin.
+Tomi kurkkasi kulman taakse.
+He olivat vapaana sillä hetkellä.
+Hän ei laiskottele ikinä.
+Tom ja Mari menivät kahden viikon kuherroskuulle Havaijille.
+Sinun pitää olla vain kärsivällinen.
+En varautunut mihinkään.
+Mikä pointti tämän tekemisessä on?
+Seuraa sitä vitun valkoista jänistä, Neo.
+Kenelläkään pojista ei ollut kitaraa.
+Tomi piileskeli pusikossa.
+Te ette saa koskaan tietää, ellette te koeta.
+Työkalupakkini sisältää ainoastaan pihdit, vasaran ja ruuvimeisselin.
+Tom tinkasi kovasti.
+Loppuiko sade?
+Voinko saada hyvityksen?
+Sinä tarvitset lisää harjoitusta.
+Nyt minun täytyy lähteä.
+Kun puhelin soi, olin kylvyssä.
+Olemme menossa etelään.
+Bill onnistui läpäisemään kokeen.
+Sinä teroitit puukot.
+He ovat serkkujani.
+Hän näytti todella nuorelta.
+Markku on auttanut minua monella tavalla.
+Autossa on yksi ohjauspyörä.
+Toisitko minulle yleisavaimen.
+Purskahdin itkuun.
+Onko se edistystä, että ihmissyöjä käyttää veistä ja haarukkaa?
+Meillä on suuri työ edessämme.
+Koettakaa taas.
+Tomi pussasi Marin poskea.
+Armi yritti nousta seisomaan.
+Kaikkien punaisella alleviivattujen sanojen oikeinkirjoitus pitäisi tarkistaa.
+Onko teillä iso koti?
+Hän ei uskaltanut hypätä puron yli.
+Ohjelma alkaa kello yhdeksän.
+Pelkäät totuutta.
+Tilanne on hyvin monimutkainen.
+Luulin, että olisit jo kuollut.
+Tomi pureskelee purukumia.
+Se poika hyppää.
+Se on juuttunut kiinni.
+Sinun täytyy rauhoittua.
+Hei.
+Minä uskon siihen.
+Kasvoin köyhässä perheessä.
+Odotas vähän.
+Suomessa on 187 888 järveä.
+Tomin kaltainen hyvä oppilas tuo luokallemme kunniaa.
+Me satuimme vain olemaan siellä.
+Tom tietää.
+Olet juovuksissa, Tomi. Tule taksiin. Me lähdemme kotiin.
+Kokaiinin ostaminen on laitonta.
+Tom on jo alkanut opiskella ranskaa.
+Pidä silmällä tätä matkalaukkua.
+Lainasin Tomille minun sateenvarjoni.
+Näen mikä on ongelmasi.
+Minun täytyy auttaa Tomia.
+Toisessa kerroksessa syttyi tulipalo.
+Tuskailimme tämän päätöksen takia.
+En voinut muuta kuin itkeä.
+Tom on itsepäinen.
+Voinko istua tähän?
+Tom haluaa ostaa japanilaisen auton.
+Tomilla on kanadalainen tyttöystävä.
+Ydinsota saa aikaan ihmiskunnan tuhon.
+Tom lähetti YouTubeen itsestään videon tanssimassa ja laulamassa ja se alkoi levitä nopeasti.
+Hän itki.
+Kävin elokuvissa.
+Hän menetti yhtäkkiä tajuntansa.
+Minulle on hän täydellinen aviomies.
+Kummallista.
+Tiedättekö mitään tähtitieteestä?
+Kello on edellä.
+Mitä teet, jos kirjoitutat itseesi asioita joita et ymmärrä ja saat odottamattomia tuloksia.
+Me haluamme saada vauvan.
+Wikipedia täyttää tänään 15 vuotta.
+Ei unohdeta todellisia syitä siihen miksi olemme täällä.
+Joulukuun 24. päivä on jouluaatto.
+Tämä lasi on likainen.
+Suolaa lisätään moniin ruoka-aineisiin, kuten leipään, makua tuomaan ja tekemään koostumuksesta syötämämmän.
+Minä jään tähän.
+Postitoimisto on suljettu joulupäivänä ja postia ei toimiteta.
+Ootko ihan tosissas?
+Käytkö tässä kaupugissa ensimmäistä kertaa?
+Tomi ei ole teidän vihollisenne.
+Tomi todettiin syylliseksi.
+Tom on oikea komistus.
+Kieltäydyn kertomasta Tomille totuutta.
+Tomi astui pois.
+Tom on todella reilu tyyppi.
+Tomi ja Mari ovat kivoja.
+Saatan olla poissa hetken aikaa.
+Mitä aiot sanoa?
+Syön omenan.
+Ei hän ole puhunut vielä minulle.
+Olen menossa.
+Mä annoin Tomille mun taskulampun.
+Tapasin ystäväsi.
+Hän tuli ulos bussista.
+– Kansainvälisessä TV:ssä? kysyi Dima. – Mitä sinä tarkoitat, Al-Sayib?
+Tulen saamaan potkut.
+Tuo pianisti on tunnetu taidoistaan.
+Klikkaa "tallenna" aloittaaksesi latauksen.
+Ihmisen haluilla ei ole rajaa.
+Paljonko rahaa kulutit viime viikolla?
+Hän ojensi minulle postikortin.
+Hän on köyhä.
+Komoreita kutsutaan nimellä ”Comores” ranskaksi.
+Tänään on sumuista.
+Nettiyhteyteni on hidas.
+En näe, kuka se on.
+Rahoitus on edelleen ongelma.
+Tomi sanoi, että hän ei voi hyvin.
+Tämä ei ole monimutkaista.
+Tom nukkui.
+Kuinka pitkälle voit mennä?
+Olet kaunis tyttö.
+Tom sanoi, että hänellä oli ongelmia Marin kanssa.
+Polta kaikki hänen kuvansa!
+Tomi yritti avata ikkunaa.
+Olen kuullut että Tom osaa kokata yhtä hyvin tai paremmin kuin hänen vaimonsa.
+Roolit ovat vaihtuneet.
+Tämä kirja on nyt käännetty ranskaksi.
+Pari nahkahansikkaita on välttämättömyys, kun työskentelee näillä koneilla.
+Oletko hullu?
+Tomi näytti hieman ärsyyntyneeltä.
+Tom sanoi olevansa väsynyt ja lähti nukkumaan.
+Bussi tulee.
+On–off-suhteet voivat olla tunnetasolla kuluttavia.
+Jos hän olisi totellut lääkäriä, hän olisi ehkä vielä elossa.
+Tom tuskin koskaan kuuntelee radiota.
+En aio lähteä ilman heitä.
+Varmasti.
+Suuri auto pysähtyi ja siitä astui ulos pitkä nainen.
+En halua keinuttaa venettä.
+Kokeile sitä puseroa.
+Vittu sä oot nero!
+Näyttäydy.
+Tomilla oli vaikeuksia saada matkalaukkunsa auki.
+Tom on lukutoukka.
+Hän on lumoutunut ranskalaisesta ruoasta.
+Sähköt ovat olleet poikki tästä aamusta lähtien.
+Täyskäännös vasempaan PÄIN!
+Hän ei tykkää meistä.
+Olkaa ystävällisiä ja palaatka paikoillenne.
+Nimeni on Dilshad.
+Onko Saksassa maanjäristyksiä?
+Hän on palannut kotiin Ranskasta.
+Tomin olisi pitänyt kertoa totuus.
+Minulla on sakset laukussani.
+Voisitko antaa minulle vähän lisää teetä?
+Tomi puhuu mielellään Marista.
+Kauppa menee kiinni seitsemältä.
+Missä sinä olet hyvä?
+Onko hän yhtään parempi tänään?
+Onko Tomilla vieläkin tunteita Maria kohtaan?
+Tom osaa puhua ranskaa vähän.
+Tomi on säikähtänyt.
+Kannan pussillista riisiä.
+Tom on Marin isäpuoli.
+Voisinko saada pari juustovoileipää?
+Tom antoi kissansa Marille.
+Anna minun hoitaa se.
+Roomalaiset tuhosivat Karthagon.
+Olen sitä mieltä, että Tom on liian luottavainen.
+Tämä on kaupunki, jossa hän syntyi.
+Mä tarviin mun silmälasei.
+Hän ei tehnyt mitään väärää.
+En voinut yhtyä hänen mielipiteeseensä.
+Aurinkoenergia on uusi energianlähde.
+Tomilla on taipumusta hukata tavaroita.
+Et saa antaa periksi.
+En tiennyt, että Tomilla on sisko.
+Olisi todella mielenkiintoista, jos mahdollisimman pian olisi mahdollista tehdä tarkennettuja hakuja Tatoeban tietokantaan.
+Hän veti yliannostuksen hepoa.
+Hän kuoli levollisesti sänkyynsä 86 vuoden iässä.
+Tatoeba ei ole kultti.
+Kannatatko heidän menettelytapojaan?
+Pahin mitä voit tehdä, on tehdä jotakin vain puolinaisesti.
+Miksei käy?
+Voisitkohan auttaa minua?
+Oletko koskaan nähnyt Tomia vihaisena?
+En saa kantta auki.
+Makedonian kielessä on neljä tapaluokkaa: indikatiivi, konditionaali, imperatiivi ja renarratiivi.
+Hän asuu Kiotossa.
+Olet haavoittunut.
+Kukaan ei voi välttää kuolemaa.
+Se on prioriteetti.
+Hänkö rakastaa hänen hiuksiaan, hymyään, silmiään? Vau, hän on helvetin hyvä valehtelemaan!
+Tomi laittoi vahingossa teehensä suolaa.
+Olen ruokaa.
+Minä en halua uskoa ketään.
+Tom lukee.
+Jostain syystä minulla on eloisampi olo öisin.
+Hänellä on taipumusta ylimielisyyteen.
+Ilman muuta.
+He ovat lukiolaisia.
+Mä jätin mun hanskat kirjastoon.
+Miksi me menemme Australiaan?
+Älä ole niin herkkä kritiikille.
+Voitko kertoa minulle, miten tämä tehdään?
+Tykkään kaljasta.
+No mites koe?
+Onko se sinusta hassua?
+Onnettomuus tapahtui sunnuntaina noin kello kolmelta.
+Kova työnteko ei minua haittaa.
+Lopeta ampuminen!
+Kuinka monta kirjaa sinä luit?
+Sinun täytyy olla valmiina, mitä tahansa tapahtuukin.
+Kummasta pidät enemmän, valko- vai punaviinistä?
+He eivät edes tiedä miksi.
+Haluan puhua sinulle Tomista.
+Tomi on jästipäinen.
+Panin valot päälle.
+Tom tunsi olonsa fantastiseksi.
+Oikein!
+Mari on toteuttanut kaikki Tomin unelmat.
+Kaikilla on aivot, mutta monet eivät ole ymmärtäneet niiden käyttöohjeita.
+Siinä huoneessa ei ollut mitään kalustusta.
+Tomilla on lyhyt pinna ja hän räjähtää pienimmästäkin ärsykkeestä.
+Monelta menit nukkumaan eilen?
+Jos haluat esittää kysymyksen, niin nosta kätesi.
+En osaa selittää niiden kahden välistä eroa.
+Tomi ei mene koskaan minnekään ilman puhelintaan.
+Hän itki itkemistään.
+Pidän vadelmista.
+Olkaa tarkkana.
+Tom taitteli kartan auki.
+Vaikuttaa siltä, että olet noussut väärällä jalalla tänä aamuna.
+Kuvittele, että teillä on aikakone.
+Tomi ei ole vielä tehnyt kotitehtäviään.
+Aikaisemmin tämä satama oli menestyvä.
+Kadehdin sinulta menestystäsi.
+Tomi lupasi odottaa.
+En katsonut TV:tä vaan opiskelin englantia eilisiltana.
+Kuusi heistä palaa.
+Mukavia lukuhetkiä.
+Nyrkkeiljä ja näyttelijä ovat tulossa kohti meitä.
+Tom Hanks ja hänen vaimonsa antoivat positiiviset näytteet viruksesta.
+Missä maito on?
+Vaikka hän on töissä ja hänellä on kaksi lasta, hän on alkanut opiskella yliopistossa.
+Tom on ollut poissa koulusta kolme päivää.
+Laitetaan joulukuusi tähän.
+Metsäsiat kaivavat syviä kuoppia.
+En ole kuullut Tomista vähään aikaan.
+Minimipalkalla ei voi elää.
+Tom on ronkeli syöjä.
+Tein sen vain sinun omaksi parhaaksesi.
+Hän on vielä työssä.
+En usko, että Tom tulee takaisin.
+Kadotin kellon.
+Kylläpä tänään tuulee.
+Tom hyppäsi.
+Ranskalaiset ovat viisaampia kuin vaikuttavat ja espanjalaiset vaikuttavat viisaammilta kuin ovat.
+Katso söpöä pientä vauvaa, joka nukkuu sängyssä.
+Ne ovat melko harmittomia.
+Olen kadottanut avaimeni.
+Lehmänmaito on maukkaampaa kuin soijamaito.
+Olkaa kilttejä.
+Kun aloitimme vuonna 2009, olin vakuuttunut että liikkeestämme tulisi yksi kaupungin parhaita.
+En ole koskaan polttanut yhden yhtä tupakkaa.
+Pysytään naimisissa.
+Useat poliisit vartioivat hallia.
+Mikä on verityyppisi?
+Hei, pitkästä aikaa.
+Tarvitset vain apua.
+Sitä ei vain lasketa mukaan.
+He kertoivat minulle löytäneensä heidän avaimensa.
+Pidän molemmista.
+Minun täytyy kertoa sinulle jotakin.
+Sairautensa aikana hän kuihtui kauheasti.
+Jackilla ei ole tarpeeksi rahaa ostaa itselleen uutta polkupyörää.
+Tom on ainoa tuntemani henkilö, joka ei osaa puhua ranskaa.
+Nyt voitte päästää irti.
+Ehkä hän ei tulekaan.
+Mielenosoittajat heittivät kiviä poliiseja päin.
+Minä leikkaan minun tukkani itse.
+Kuusi on palaamassa.
+Seurassanne on hauskaa olla.
+Suunnittelin meneväni rannalle tänään, mutta sitten alkoi sataa.
+Heksadesimaali F on yhtä suuri kuin 15.
+Päästäkää irti hänestä!
+Syötkö kotona vai ulkona?
+Tom sanoo, että annoit sen tapahtua.
+Tiedän, että puhut ranskaa.
+Luulin, että olit päätynyt samaan johtopäätökseen kuin minä.
+Olet muuttunut paljon.
+Annan sinulle vielä yhden mahdollisuuden.
+Tom on seurallinen.
+Olen isäsi aave, tuomittu toviksi kulkemaan yössä, ja päivällä kärvistelen liekeissä kunnes eläessäni tehdyt pahat teot on poltettu pois ja sovitettu.
+Myös minä olen sitä mieltä.
+Hän tietää tämän.
+Tunnen hänen siskonsa.
+Luin hänen kirjansa.
+Tuo on minun paikkani.
+Kuinka suuri on kaasulaskunne kuukaudessa?
+Mietittekö te vakavasti lähtemistä?
+Takistani irtosi nappi.
+Se on tyyntä myrskyn edellä.
+Minulla ei ole varaa syödä näin kalliissa ravintolassa.
+Hän ei kyennyt tulemaan vakavan sairauden vuoksi.
+Tom saattaa olla siellä.
+Ottakaahan omenapiirakkaa, jos maistuu.
+Tykkään katsoa elokuvia ranskaksi.
+Hän pitää lumesta.
+Haluaisin mennä naimisiin hänen kanssaan.
+Ota vähän rahaa kaiken varalta.
+Tuo poika tuolla on hänen veljensä.
+Sinä et muutu koskaan.
+Miten kätevää!
+Hän ansaitsee enemmän.
+Olen velkaa sinulle viisi dollaria.
+Arvaa, kuka minä olen.
+Sinun pitää tehdä kovasti töitä.
+Näetkö ihmisiä puistossa?
+Molemmat heistä ovat ennustamattomia ja kärsimättömiä.
+On niin paljon asioita, jotka haluan sanoa sinulle.
+Lohdutimme toisiamme.
+Olin yksin luokassa.
+Kuka isänne on?
+Ihminen ei ole saari, yksilöolio, vaan jokainen on palanen mannerta.
+Olet etsinyt joka paikasta, mutta en löydä kirjaani.
+Logiikka ja matematiikka ovat vain kielellisiä erikoisrakenteita.
+Kiitin häntä mukavasta lahjasta.
+Söin lounaani loppuun nopeasti.
+Kuolisin mieluummin kuin kokisin jotain niin hirveää itse.
+Se ei ole helppoa, mutta teemme sen joka tapauksessa.
+Älä nuolaise ennen kuin tipahtaa.
+Sinä et tiedä, kuinka huolestunut minä olen.
+Sain väliaikaisen työn yrityksessä.
+Olen täysin kykenevä huolehtimaan itsestäni.
+Etsin feministisen sosiologian oppikirjoja.
+Appelsiinit ovat hyvä C-vitamiinin lähde.
+Kuinka kauaksi aikaa ajattelit jäädä tänne?
+Ymmärrämme.
+Kaikki eivät voi olla runoilijoita.
+Meidän täytyy keksiä keino, jolla estämme Tomia näkemästä Maria.
+Olen aamuvirkku.
+Tuota noin, se on mutkikasta.
+Tomi kertoi minulle, että olette täällä.
+Huone oli niin valoisa, että hän pystyi lukemaan kirjeen.
+Pidätkö uudesta työstäsi?
+Tomi ei osaa laittaa ruokaa.
+Hän ei pidä kahvista.
+Hän ei käynyt koskaan ulkona.
+Tässä ei ole mitään järkeä.
+Tämä kaivo on hyvin syvä.
+Tulen olemaan siellä huomenna.
+Hän lauloi kauniisti.
+Tomin lapset eivät osaa ranskaa.
+Tom haluaa varmistaa, että me emme tee samaa virhettä kuin hän.
+En voinut olla nauramatta vitsille.
+Olen täysi pöhkö.
+Oletko jo myynyt sen?
+Tom ei ole voinut kirjoittaa tätä kirjettä itse.
+Oli synkkä ja myrskyinen yö.
+Saanko minä?
+Hän pakeni rahojen kanssa.
+Tuossa kaupassa myydään lihaa.
+Tomin huone on aika pieni.
+Ne vihaa hämiksiä.
+Televisiosta tulee huomenillalla elokuva, jonka tahdon katsoa.
+Marika oli onnellinen aina kun sanoin jotain suomeksi.
+Mä olen tosissani.
+Tiedät, että sinulla on kiire.
+Tomia tultiin suutelemaan, mutta hän ei tiennyt sitä.
+Ovi on nyt suljettu.
+Tom on allerginen tytöille.
+Häntä lyötiin lujaa kasvoihin.
+Tomi on säälimätön.
+Sokean henkilön kuulu on usein todella tarkka.
+Aion katsoa TV:tä tänä iltana.
+Minua hävettää.
+Nämä kupit ovat kaikki rikkinäisiä.
+Kaikki sopii minulle.
+Hei, sinä!
+Vähäiseltä vaikuttava tapahtuma voi johtaa suureen lopputulemaan.
+Tuskin tunnen ollenkaan Tomia.
+Älkää katsoko!
+Selitän sen yksityiskohtaisesti ensi viikolla.
+Tänään on maanantai.
+Siinä on yksi ratkaistu ongelma.
+Tom astui aulaan ja löysi Maryn odottamasta.
+Hän tavallisesti menee kävelylle kirja kädessä.
+Näen sinut yhdeksältä huomisaamuna.
+Hän oppii portugalia Brasiliassa.
+Tom meni hakemaan jäitä.
+Mari löysi pitkän, vaalean hiuksen Tomin takista.
+Milloin sinulla on syntymäpäivä?
+Hän on mitä kaunein nainen.
+Kun ajattelin sitä, en voinut olla hymyilemättä.
+Hei kaikille, olen Mari.
+Haluan kokeilla benjihyppyä.
+Minulla on ollut kiire muutamana viime päivänä.
+Tomi luuli Marin olevan kuollut.
+Me opiskelemme ranskaa.
+Niin se vain on.
+Viisaus ja hyvyys vaikuttavat alhaisille alhaiselta.
+Hän on hyvä päästään.
+Asuuko Tomi kaukana täältä?
+Hänen isänsä on japanilainen.
+Rakastan häntä niin paljon, että voisin kuolla.
+Minähän varoitin sinua.
+Ranskalainen kahvi on minusta ihanaa.
+Tomia ei kiinnosta politiikka.
+En haluaisi sinua muuna kuin olet.
+Pelatkaa!
+Pitkään kohtaamisen jälkeenkin taístelutantereella oli kärsineitä puita, kuolettavien kamppailujen jäljiltä murretujen aitain sekä muurein palasia ynnä tallattua maata, josta eivät terälehdet kasvaneet.
+Älkää ottako vankeja!
+Jos haluat opiskella Yhdysvalloissa, sinun täytyy hankkia opiskelijaviisumi.
+Avatkaa ikkuna!
+Käännä tämä lause englanniksi.
+Heitä pelottaa.
+Se on klassikko.
+Äitini kattoi pöydän illallista varten.
+Mitä sinä katsot?
+Marista on juuri tullut todella terveen poikavauvan äiti.
+He näyttivät hämmentyneiltä.
+Tom asuu yksikseen isossa talossa.
+Olen iloinen siitä, että haluatte tukea tätä hanketta.
+Sinun pitää saada Tom auttamaan meitä.
+Hymyilkää!
+Tulen pian takaisin.
+Olen kotoisin planeetalta nimeltään Maa.
+Sinä et ole helppo löytää.
+Puhuuko hän ranskaa?
+Minun ei olisi pitänyt valvoa koko yötä.
+Sitä on vaikea ymmärtää.
+Tom puhuu ranskaa paremmin kuin minä.
+Parempi ystävä pivossa kuin kymmenen oksalla.
+Lasketaanko yksi alkuluvuksi?
+Hän kiinnitti nimilapun laukkuun.
+Tomi on joustamaton.
+Tom on nyt pahalla päällä.
+Tom ei ole mikään valehtelija.
+Tunnen hänet, mutta en tiedä hänen nimeään.
+Haluaisitko syödä lounasta yhdessä?
+Lasi maitoa, kiitos.
+Tommi työskentelee aikaisesta aamusta myöhäiseen iltaan joka päivä.
+Se tuntuu unelta.
+Odotin kymmenen minuuttia.
+Nähdään töissä huomenna.
+Olen terve.
+Minä nukun alasti.
+Syön yleensä aamupalan seitsemältä.
+He peittivät pöydän liinalla.
+Tämä on vain syvemmän ongelman oire.
+Tapahtunut muutti Tomin elämän.
+Oletko miettinyt töiden hankkimista?
+Olet aivan kuin minä.
+Hän tuli sisään huoneeseeni.
+Heti kun hän näki, mitä oli tehnyt, hän pujahti ulos.
+Eikö Tom löytänytkin sitä?
+Se on outo ongelma.
+Lue mittarin lukema.
+Tom osaa tanssia kuin robotti.
+Olen katkera.
+Tomi syntyi tuossa talossa.
+Tomilla ei ollut yhtään nälkä.
+Äänialani on suuresta e:stä kaksiviivaiseen e:hen.
+On helpompaa suunnitella asioita kuin toteuttaa niitä.
+Vitsailette!
+Nykyään kukaan ei usko aaveisiin.
+Tämä on söpöä.
+Tom tienaa miljoona dollaria vuodessa.
+Jos lauseille olisi markkinat, kieliopillisissa spekuloinneissamme olisi järkeä.
+On sauna ja allas.
+Olen asiakas.
+Hän oli keski-ikäinen nainen.
+En ota riskiä.
+Tom pysyi coolina.
+Nämä ovat yksinkertaisia lauseita.
+Sattuuko tämä?
+Kenen kanssa menit?
+Muista!
+Minun täytyy jäädä tänne yöksi.
+Se on ainoa reitti ylös.
+Haluan päästä tuonne metrolla.
+Jouluun on vain muutamia päiviä.
+Hän ei tiennyt mitä tehdä ja piteli päätään käsissään.
+Tämä kello on kallis.
+Hän lähti kokouksesta syyttä.
+Tom on täydellinen isä.
+Tomilla on selkä kipeä.
+Tomin sydän särkyi.
+Hän muutti takaisin vanhempiensa kanssa.
+Tom ei ole koskaan opiskellut ranskaa.
+Se keittiönovi avautui.
+Minulla on hyvin vähän rahaa.
+Milloin tulit takaisin matkaltasi?
+Hänen olisi pitänyt olla näyttelijä.
+Mitä minulta jäi nyt väliin?
+Jotkin Euroopan maat eivät ole osa Euroopan unionia.
+Hän on äidinkielinen ranskan puhuja.
+Tom keksi uuden idean.
+Dan puhui potaskaa.
+Puhukaa hitaammin.
+Se ei minua yllätä.
+Kummista pidät enemmän, simpukoista vai ostereista?
+”Katso mitä löysin sohvan alta!” ”Se taitaa olla yksi minun vanhoista sukistani.”
+Miksi et soittanut minulle takaisin?
+Käristy.
+Anteeksi, mutta minulla ei ole pikkurahaa.
+Tietääkö kukaan teistä missä hän asuu?
+Englannin puhuminen ei ole helppoa.
+Tulipalon syy oli tuntematon.
+En ole lintu vaikka haluaisin olla.
+Sinun ei olisi tarvinnut lähteä niin aikaisin.
+Te ette tulleet eilen kouluun.
+Varo! Tiessä on reikä!
+Sama on totta Tomin kanssa.
+Haluan näyttää sinulle jotakin toimistossani.
+Hänen käsialansa on kaunis.
+Tarvitsitko minua?
+Tahdon.
+Olen tottunut heräämään aikaisin.
+Minä olen nälkäinen.
+Juhliin ei tullut ketään.
+Anteeksi, en kuunnellut.
+Tietyt teemat ovat aina esillä hänen kirjoissaan.
+Se on kaikki mitä tiedämme.
+Hän opiskelee.
+Puhutko kiinaa?
+Älä kerro pomolle.
+Miten kaunis hän onkaan!
+Kiitän kutsusta.
+Tämäntyyppisillä kirjoilla ei ole juuri mitään arvoa.
+Olet mukava tyyppi! Olet niin kiltti minulle! Kiitos.
+Elokuva oli suuri menestys.
+Pidän kovin Suomesta, mutten voi sietää suomalaisia.
+Sinun on vapaus pitää salaisuutesi, mutta sinun täytyy luvata minulle, että ei tule enää yöllisiä vierailuja eikä tekosia, jotka pidetään minulta salassa.
+Tomi ei tule antamaan teille anteeksi.
+Se on viimeinen tarjoukseni.
+Tomi ei ole tänään hyvällä tuulella.
+Ovesi ei ole lukossa.
+Mitä tekemistä tällä on minun tulevaisuuteni kanssa?
+Ranskan osaamisesi edistyy hyvin.
+Miten sinä osaat ranskaa noin hyvin?
+Anteeksi.
+Miksi haluaisit tulla kutsuttavan?
+Mistä Mari osti tämän kynsilakan?
+En usko, että hän teeskentelee.
+Sinähän tiedät reitin, eikö niin?
+Sun pitää oppii puhuu sun tunteista.
+Ajatteletko vakavasti menemistä?
+Pidän hänen asenteestaan.
+Lupaa ettet naura.
+Hän on tytöistä kaunein.
+Opetan kiinan kieltä.
+Mistä lähtien?
+He syövät.
+Sormesi ovat nätit.
+He tekivät listan nimistä.
+Siksi emme hyökänneet.
+Osaan puhua sujuvasti ranskaa.
+Jaat hänen kiinnostuksensa tähän kirjaan?
+Mä käyn laittamassa päälle vähän mukavampia vaatteita.
+Tuletko mukaan noutamaan aivoni?
+Tiedän, että et pidä heistä.
+Minä pyydän anteeksi.
+Saanko kysyä kysymyksen?
+Pystyisinpä lopettaa tupakoinnin.
+Opin elämään ilman häntä.
+Tom tarvitsee vaatteita.
+Tomi on suunnilleen yhtä vanha kuin Mari.
+Mitä on tehtävissä?
+F heksadesimaaleissa on yhtä suuri kuin 15.
+Miten sinä löysit Tomin piilopaikan?
+Se olisi voinut olla kuka tahansa meistä.
+Älä usko kaikkea, mitä Tomi sanoo.
+Kädet ylös! Tämä on ryöstö.
+Ratkaisimmeko ongelman?
+22-vuotiaana rakastuin pomooni.
+Lopeta paskan julkaiseminen.
+Hän tykkää kuvien ottamisesta.
+Tulen myöhässä.
+Tykkään ottaa kuvia.
+Olin mustasukkainen veljestäni.
+Bussit, junat ja lentokoneet kuljettavat matkustajia.
+Nuo ovat todella isoja omenoita.
+Jätä huone ennalleen.
+Tomiin rakastuminen oli todennäköisesti isoin virhe, jonka hän oli koskaan tehnyt.
+Älä valehtele!
+Kanadassa puhutaan englantia ja ranskaa.
+He epäilivät häntä eikä ilman syytä.
+Pysy sisällä.
+Tomilla kävi todella huono tuuri.
+Minä vietin koko päivän leikkien lasteni kanssa.
+Ei voi olla totta!
+Tässä on tilinumeroni.
+Anna rahat Tomille.
+En tajua tätä.
+Ei, minä olen englantilainen.
+En usko, että tapaamme uudelleen.
+Huhu osoittautui valheeksi.
+Päästäkää hänestä irti.
+Tom tarvitsi vähän rahaa ostaakseen jotakin Marylle.
+Tom on ainoa mies, jota Mari on koskaan rakastanut.
+Jos aurinkoa ei olisi, niin emme pystyisi elämään.
+Tom meni sisään autoon.
+Miten isäsi voi?
+Soititko minulle viime yönä?
+Tomin kirja käännettiin ranskaksi.
+Hän voitti sen kilpailun helposti.
+Tomista tuli pähkähullu.
+Neuvosi auttavat minua aina.
+Vauva alkoi itkeä.
+Kaikki oli hyvin.
+Kuinka monetta vuotta käyt lääketieteellisessä?
+Miten sanotaan ”kissa” espanjaksi?
+Taas.
+Tehdään jotain hauskaa.
+Hän kompastui kiveen.
+Minä hädin tuskin tunnen sinut.
+Hän oli valmis antamaan hänelle takaisin kaikki hänen rahansa.
+Syytä siitä yksin sinua.
+Tomi ei ole juuri nyt täällä.
+Hän ajatteli saavansa pianostaan hyvän ruumisarkun itselleen.
+Aloin itkeä.
+Kuinka monta kupillista kahvia päivässä on liian paljon?
+Tom ei osaa sitoa kengännauhojaan.
+Minun pitää mennä nyt.
+Sinä puhut.
+Hölmöt ovat onnellisia.
+En muista kutsuneeni sinua.
+On säkkipimeää.
+Se on tyhmää.
+Pitäisikö Skotlannin olla itsenäinen valtio?
+Hyvää yötä, Dan.
+Tom on oikea lehmipoika.
+Hän on erittäin ujo ja tuntee olonsa epämukavaksi juhlissa.
+Minun tekee mieli syödä jotain makeaa.
+Hän ei syö mitään muuta kuin hedelmiä.
+Isäni lopetti tupakoimisen.
+Huomenta, miten menee?
+Ette koskaan!
+Tomi on synkeä.
+Ei ole muuta jumalaa kuin Allah, ja Muhammed on hänen profeettansa.
+Tom syö usein sängyssä.
+Mikä sun nimi o?
+Olen juoksemassa.
+Emme tarvitse sitä.
+Näin Tomin menevän luolaan.
+Sinun on huonompi.
+Minulla on hommia.
+Tämä on hotelli, jossa Tom yleensä yöpyy.
+Kuinka korkealle sinä pystyt hyppäämään?
+Sano Tomille, että hänen pitäisi vastata puhelimeen.
+Olen kiinnostunut ranskankielestä.
+Pidetään tauko.
+Tule takaisin sisään.
+Tomilla ei ole läheisiä ystäviä.
+Huomenna hänen täytyy mennä sinne.
+Presidentti toivoo rauhaa.
+Nyt teidän olisi parempi mennä.
+En tykkää kenestäkään ja kukaan ei tykkää minusta.
+Se oli sinun suunnitelmasi.
+En koskaan uneksinut tapaavani sinua täällä.
+Minä en tiennyt, että sinä olisit täällä.
+Tom tahtoi olla Marin kanssa koko ajan.
+Pahastutko jos katson hetken TV:tä?
+Menisin mieluummin maanalaisella kuin junalla.
+Tomi ei ole täällä.
+Varmaankin ajattelet sen olevan mahdotonta, mutta voisitko ainakin antaa sille mahdollisuuden?
+Ei ole juuri mikään muuttunut.
+Huolehdi omista asioistasi!
+Tomi maalaa taloja.
+Tom oli tarpeeksi tyhmä uskoakseen Maryä.
+Sinä osaat uida paljon paremmin kuin hän.
+Ryyppään liikaa!
+Pidättäydy julkaisemasta kirjoituksia, jotka tekevät tällä sivustolla vierailusta vähemmän miellyttävää.
+Jos minulla olisi siivet, lentäisin sinun luoksesi.
+New York on suuri kaupunki.
+Kuinka pitkäksi aikaa juna pysähtyy täällä?
+Kuinka monta teistä suunnittelee olla täällä taas huomenna?
+Voisin kuvitella, että Tomi on nyt hyvin onnellinen.
+Tommi on saita.
+Viimeaikaiset edistysaskeleet lääketieteessä johtavat uuteen aikakauteen sairaanhoidossa.
+Odotetaan tässä.
+Tomi oli kirkumassa.
+Fréchet-avaruudessa tiheiden avointen joukkojen numeroituva leikkaus on yhä tiheä.
+Kaikki nauravat.
+Hän lähetti minut.
+Voisitko siivota pöydän tyhjäksi?
+Nopeasti! Nopeasti! Kuulen askelia, piiloudu!
+Mä oon laiha.
+Ota hedelmiä, jos mielesi tekee.
+Aika on kuin joki.
+Tom jakoi huoneen Jonin kanssa collegessa.
+Älä tee kärpäsestä härkästä.
+Tom puhuu pikkaisen ranskaa.
+Tuntuuko sinusta koskaan siltä kuin lauseesi jäisivät likipitäen huomiotta?
+Olen varma, että Tomi yllättyy.
+Minäkin.
+Tomi vaikutti mukavalta tyypiltä.
+Hän on aina ollut luokan pää.
+Tomi haluaa tyttöystävän.
+Tom sanoi, että hän haluaisi toisen kupillisen kahvia.
+Tomin puhelimella voi ottaa kuvia.
+Kerron teille tarinan.
+En osaa ranskaa kovin hyvin.
+Tomi nipisti Maria.
+Sinun tulee keskittyä tiehen kun sinä olet ajamassa.
+Voisimme aloittaa nyt, kun sinäkin olet täällä.
+Älä ryntää.
+Ammun hänet.
+Tämä linna on kaunis.
+Hänellä on rautainen tahto.
+Hän näytti todella nuorelta.
+”Oletko ruotsalainen?” ”En, sveitsiläinen."
+En selviydy ilman ilmastointia kesällä.
+Tomi on minulle velkaa kolmesataa dollaria.
+Tom toivoi että hänellä olisi joku jolle puhua.
+Hän on muuttunut paljon sitten viime kerran.
+Etsiksä jotain?
+Nimesi on odotuslistalla.
+En voi antaa sinulle välitöntä vastausta.
+Herää seitsemältä.
+Heräsin ja näin varkaan huoneessani.
+Älä sano mitään kenellekään.
+En osaa laulaa yhtä hyvin kuin Tomi.
+Tassut irti minusta!
+Myrsky tuhosi kotisi.
+Tie oli hyvin epätasainen.
+Jätä se minun kontolleni.
+Luulen meitä kaikkia vähän hulluiksi.
+Hän on älykäs.
+Pidätkö laulamisesta?
+Lähettäkää joku hakemaan tohtoria heti paikalla.
+Uskoisin, että tämä on hänen autonsa.
+Tomi leikkasi omenapuusta joitain oksia.
+Pidä kivaa!
+Tomista tuli kirurgi.
+Tom ei pahemmin pidä Marystä, vaikka sanookin, että pitää hänestä.
+Arvostaisin, jos auttaisitte minua tänä iltana.
+Hän näyttää luurangolta.
+Tämä on paikkansapitävä.
+Anna minulle sinun aseesi.
+Kunnon ruoka ja uni parantavat vilustumisesi.
+Onko Tomi sinun veljesi?
+Vaihda lippua, kiitos.
+Kosovo osallistuu vuoden 2016 olympialaisiin.
+Missä hissi on?
+Missä sinun lippiksesi on?
+Tom huuhteli saippuan pois hiuksistaan.
+Päiväntasaajalla maanpinta pyörii 1675 kilometriä tunnissa!
+Jättikö Tom viestiä?
+Ostin eilen kurpitsansiemeniä ennen kuin kirahvi puri minua.
+Söin kaviaaria.
+Puhun ranskaa vähän.
+Tomi menetti sodassa kolme poikaa.
+Niskaani sattuu vähän.
+Tom on rikoksen ainoa todistaja.
+Mene herättämään Mari.
+Oletko avuntarpeessa?
+Zucchinit ovat vihreitä.
+Anna kun mietin sitä vähän pidempään.
+Minulla on vaimo ja lapsi.
+Minun täytyi purkaa telttani voimakkaan tuulen takia.
+Minun olisi pitänyt opiskella ranskaa ahkerammin.
+Vietin lomani ulkomailla.
+Jouni ja Mari rakastivat toisiaan.
+Minä pidän koirista.
+Tom ei oikeastaan koskaan halunnut asua Bostonissa.
+Katso niitä tyttöjä.
+Harva poliitikko myöntää virheensä.
+Millainen henkilö Tom on?
+Kissani jäi jumiin puuhun.
+Minä syön päärynän.
+Uudenvuodenpäivä on avain vuoteen.
+En ole suunnitellut meneväni mihinkään tänään.
+Saan yli kaksisataa sähköpostiviestiä päivässä.
+En tarvitse vuodetta.
+Vuosimiljoonien ajan ihmiskunta eli kuin eläimet, mutta sitten jokin vapautti mielikuvituksemme voiman: opimme puhumaan.
+Tomi on ollut ulkomailla kolme vuotta.
+Tom sai selville totuuden Marilta.
+Kaiva syvä kuoppa.
+Hänellä on jalassa sukat ja kengät.
+Meillä ei ollut vain nälkä, vaan myös jano.
+Ethän ymmärrä minua väärin.
+Tomi kertoi Marille haluavansa avioeron.
+Onko jotain erityistä, mitä voin tehdä puolestasi?
+Tom seisoi jonossa.
+Hän ei voinut muuta kuin itkeä.
+Tulen takaisin 6:30.
+On suuri kunnia saada kuningas vierailulle kaupunkiimme.
+Tomin piti pitää huolta Marista.
+Olen melko varma, ettei Tom osaa ranskaa.
+Ei ole väliä kuinka hitaasti etenet, kunhan et vaan pysähdy.
+Jos jätät kaikkien sellaisten asioiden, joita et osaa tehdä, hoitamisen muiden harteille, et opi ikinä tekemään niitä asoita itse.
+Tomi säikäytettiin.
+Vektori on yksikkövektori, jos sen normi on yksi.
+Sinä olit ensimmäinen tyttö, jonka kanssa koskaan suutelin.
+”Maistuuko se hyvältä?” ”Kyllä maistuu.”
+Tää o' vitu' jees.
+En tiedä mistä aloittaa.
+Pitäisikö sen olla hauskaa?
+Tiedän, miksi Tomi on niin menestyvä.
+Kirjoitan päivittäin päiväkirjaani.
+Mitä lehteä te tilaatte?
+Tunnetko jonkun täällä?
+Pysy sinä siinä.
+Andoniaaneilla on sininen iho, valkoiset hiukset ja tuntosarvet.
+Tomi pelasti Marin.
+Perheesi odottaa sinua.
+Luuletko, että Tom pitäisi siitä, jos Mari tekisi niin?
+Olen halukas yrittämään mitä tahansa.
+Tomi pitää shakin pelaamisesta.
+Suutele häntä.
+Tunnetko jotakuta, joka ei ole koskaan käyttänyt hammastahnaa?
+Minulla on yliopistotutkinto.
+Kadehdin sinua niin paljon.
+Hän kävi kasvojenkohotuksessa.
+On mahdotonta kiistää ilmiselvä.
+Milloin viimeksi ripustit pyykit?
+Nutipäistä tulee sammakkoja.
+Nimenne, kiitos.
+Olen innokas valokuvaaja.
+Hän osaa myös puhua venäjää.
+En saa yhteyttä Tomiin.
+Hän opettaa meille ranskaa.
+Syötkö lihaa?
+En usko, että he hyväksyvät näitä ehtoja.
+Myyn tietokoneita.
+Saadut etikkakurkut lyövät laudalta ostetun hunajan.
+Minä tiedän.
+Sinä avaat oven.
+Se on suuri ja kömpelö.
+Pidän piirretyistä.
+Anna se minulle.
+Tässä huoneessa on ilmastointi.
+Se on liian vaarallinen!
+Tomi on yksi komeimmista miehistä, jonka olen koskaan nähnyt.
+Pidetään pieni tauko.
+Tom kuivaa astioita.
+Hänen käytöksensä vahvisti huhupuheet.
+Olen koiraihminen.
+Minä näen kuolleita ihmisiä.
+Menemme kotiin, kunhan tämä on ohi.
+Saamelaiset asuvat Lapissa.
+Toivottavasti tässä ei kestä kauan.
+Kuwait kärsi vakavia vahinkoja.
+Tomia rangaistaan.
+Tiedätkö mistä löydän hänet?
+Tomilla menee ihan hyvin.
+Siinä kaikki tältä erää. Kiitos, kun tulitte.
+Tatoeban tulisi olla tärkeämpää kuin mikään muu.
+Parkkipaikalla oleva auto on tulessa.
+Kuinka kauan pidempään luulet sen kestävän?
+Kävimme historiallisesti kiinnostavilla paikoilla.
+Tomin piti soittaa Marille eilen illalla, mutta hän unohti.
+Mikä sinun etunimesi on?
+Hän on keittiössä.
+Tomi on mahtava.
+"Pitää paikkansa", sanoi Joni.
+Ketä sinä narraat?
+Tom näki Marin ajavan uudella autollaan.
+Onko sinulla vaikeuksia ymmärtää mitä naiset ja pienet lapset sanovat sinulle?
+Muistatko mitä hän sanoi?
+Onko sinulla maitoa?
+Minulla on hänelle muutamia yllätyksiä.
+Sää kävi yhä huonommaksi ja huonommaksi kun päivä eteni.
+Ole kiltti, älä lähde. Älä jätä minua tänne yksin.
+Tom alkoi opiskella ranskaa kolme vuotta sitten.
+Tomi kirjoittaa meille harvoin.
+Jos universumi on kosminen muna, kuka sen sitten muni?
+Emme ole vielä vakuuttuneita.
+Alkoholi ei ratkaise yhtäkään ongelmaa.
+Sinä selviät tästä.
+Meidän maamme naiset ovat erilaisia kuin muiden maiden naiset. Monet ovat sitä mieltä, että naisten on hyväksyttävää hankkia lapsia ja omistautua heille täysin, ja aviomiehiään kohtaan, yksinkertaisesti hoitaa velvollisuutensa ja suojella siveyttään.
+Linna on nyt raunioina.
+Kaikki nauroivat.
+Sinä olet vastuussa siitä, mitä olet tehnyt.
+Tom teki keksejä.
+Tom näyttäisi saavuttaneen sen mitä hän lähti hakemaankin.
+Ne kaksi runoa ilmaisevat ihmisen kärsimystä.
+Tomi ei pidä nimestään.
+Olen iloinen, että se ilahduttaa sinua.
+Haluan tietää miksi Tom haluaa tehdä niin.
+Kaikki puutarhan kukat kuihtuivat.
+Mikä on kolmas toivomuksesi?
+Onpa hänellä ihanat silmät.
+Se oli tietokonevirhe.
+Sano terveisiä Tomille, kun näet hänet.
+Tom sanoi minulle, että hän haluaisi, että menen käymään hänen luonaan huomenna iltapäivällä.
+Minun päätäni ei enää särje.
+Balilla on joulukuussa todella kuumaa ja kosteaa.
+Hän on epävarma omasta tulevaisuudestaan.
+Söin juuri aamiaista Tomin kanssa.
+Se on varmaan totta.
+Olen vapaa mies.
+Mammona ennen mainetta.
+Puhuvatko lapsesi ranskaa?
+Kaikki ansaitsevat toisen mahdollisuuden.
+Hän huijasi häneltä kaikki hänen rahansa.
+Voi veljet, sepä on noloa.
+Oletko tulossa illalliselle?
+Minulla ei ole vodkaa.
+Hyvät vanhemmat ovat parhaat opettajat.
+Annathan Tomille mahdollisuuden.
+Tämä ruoka on gluteenitonta.
+Tomaatti ei ole vihannes.
+Te olette ihan seonneet.
+Juotko kahvia?
+Tom ei ole muuttunut.
+Tom on Marin sisarenpoika.
+Hän esitteli ylpeänä uutta kelloaan.
+Johnin pitäisi olla täällä millä hetkellä tahansa.
+Hän on hyvä ihminen.
+Sinun täytyy mennä kouluun.
+Kuusipuu palaa.
+En halua loukata Tomia.
+Tomi kuoli onnettomuudessa.
+Tom on cool.
+Tomi on pikkutarkka.
+Vektoreiden ei tarvitse vastata fyysisiä suureita; mikä tahansa voi olla vektoriavaruus, kunhan vektorien yhteenlasku ja skalaareilla kertominen on määritelty.
+En ole hyvä valehtelija.
+Sitruuna on hapan hedelmä.
+Hän sai flunssan siskoltaan.
+Päästä minut sisään.
+On vaikea puhua kolmea kieltä.
+Tom on aika hyvä shakissa.
+Kotirouvalla on useita kotitaloustehtäviä.
+Älä vedä hätäisiä johtopäätöksiä.
+Sami yritti murtautua.
+Minun olisi pitänyt opiskella enemmän.
+Jos et halua laittaa aurinkorasvaa, niin se on sinun ongelmasi. Älä sitten tule valittamaan minulle, kun palat.
+Minulla on ollut sama ongelma itselläni.
+Vertaa noiden kirjeitten tyyliä.
+Valheet synnyttävät lisää valheita.
+Hänen rohkeutensa sairautensa aikana on inspiraatiota meille kaikille.
+Isäni liittyy jotenkin tuohon liikkeeseen.
+Minun ei tee mieli käydä ulkona.
+Tarvitsetko kyytiä?
+Sinä olet todella kiltti mies, Tomi.
+Voisitko edes katsoa minua hetken?
+Menninkäiset ovat taitavia seppiä.
+Tommilla ei oo mitään mahkuja.
+Onko sinulla pyörää?
+Pese kädet ennen kuin syöt.
+Käydäänpä sitten hommiin.
+On tärkeää pitää tämä mielessä.
+Tiedätkö miten syödään puikoilla?
+Suutele Tomia.
+Minulla on sunnuntai vapaata.
+Tomille kuuluu ihan hyvää.
+Näytänkö minä mielestäsi samalta kuin Tom?
+Tomilla on todella kova kiire juuri nyt.
+Kuulin, että sinulla olisi meille töitä.
+Olen suomalainen.
+Unohdin kaulahuivini.
+Tämä kakku maistuu siltä kuin siinä olisi juustoa.
+En ole rakkautesi.
+Ymmärrätkö, mitä minä sanon?
+Olipa kerran ilkeä kuningas Englannissa.
+Sinun ei pitäisi lelliä lasta. Hänestä tulee todella itsekäs.
+Tyttö avasi oven, kun koputin.
+Hän halusi paremman työn kuin toimiston lattioiden siivoaminen.
+Se orja kantaa sen veden.
+Minun täytyi kävellä sinne, koska autoni meni rikki.
+Voisitko odottaa huomisaamuun saakka?
+Mä haluun jutella sun kanssa Tomista.
+Hän nipisti häntä.
+Tom tahtoi tavata minut.
+Täällä on jo yö.
+Minä tiedän, että Tommi ei tiennyt, kuinka paljon aikaa hän tarvitsisi tehdäkseen tuon.
+Olemmeko tavanneet?
+Lähetän sen takaisin.
+Ei voi olla liian varovainen, kun tekee tätä koetta.
+Tähän ei saa parkeerata.
+En pyytänyt Marikaa opettamaan minulle suomea.
+Älä huoli. En kerro Tomille.
+Tomi on allerginen soijalle.
+Hän vastustaa että häntä kohdellaan kuin lasta.
+Kaikki tapahtuu syystä.
+Täydessä majesteetin loistossaan, koko jalkapallojoukkueen kantaessa häntä olkapäillään, seisoi koulun todellinen kuningatar.
+Tom ei koskaan puhunut paljon siitä.
+Tomi aloitti liikkumisen.
+Teidän pitäisi auttaa isäänne.
+Tomi on auttamassa.
+He kävelivät portaat ylös.
+Minä tiedän, että sinä kärsit kivuista.
+Meillä on kirja.
+Tomi lainaa usein rahaa Marilta.
+Minä autan sinua kernaasti.
+Tomi heitti minut lentokentälle.
+Yllä oleva diagrammi kommutoi vain ja ainoastaan, kun f on isomorfismi.
+Jos mikätahansa poliittinen puolue yrittäisi lakkauttaa sosiaaliturvan, työttömyysvakuutuksen ja hankkiutua eroon työlaeista ja maataloustuista, siitä puolueesta ei kuultaisi enää mitään poliittisessa historiassamme. On pieni sirpaleinen ryhmä, joka tietysti uskoo, että näitä asioita voidaan toteuttaa. Heidän joukossaan on H. L. Hunt (tiedättekin varmaan hänen taustansa), muutamia muita Teksasin öljymiljonäärejä ja muutama satunnainen poliitikko tai liikemies muilta alueilta. Heidän määränsä on mitätön ja he ovat typeriä.
+Tom syleilee Marieta.
+Tomille kuuluu hyvää.
+Hän nukkui autossa.
+En pidä poikamiehenä olemisesta.
+Ovat varmaankin yhdessä.
+Kun Tom alkoi itkeä, niin aloin minäkin.
+Se ei ole ongelma, Tom.
+Tom rypisti otsaansa.
+Tom on häpeissään.
+Monet lapset eivät käytä pyöräilykypäröitä.
+Lue se yhä uudestaan.
+Sen jälkeen Miki vietiin sairaalaan.
+Tom pilasi telttaretken unohtamalla panna teltan autoon.
+Tom halveksii naisia.
+Morjesta!
+Entä sen jälkeen?
+Tom torkkui.
+Minun isäni on pitkä.
+Minusta se on ihme.
+Se puu kasvaa hyvin nopeasti.
+Olen pahoillani siitä mitä sanoin. Se oli asiatonta.
+Sulje ovi mennessäsi.
+En ole vieläkään varma.
+En pure.
+Ajattele mitä lystäät.
+Älä koske tuohon kirjaan.
+Ehkä sinun pitäisi lopettaa romantiikkaromaanien lukeminen.
+Minulla on sanottavaa.
+Tomi on poissa tolaltaan.
+Teidän täytyy olla kärsivällisiä.
+Se metsä oli hyvin hiljainen.
+Me olemme hiljaa.
+Tällä ei ole mitään tekemistä sinun kanssasi.
+Laitan nyt ruokaa.
+On varmaa että Jim jäi kotiin tuona päivänä.
+Päätin mennä uimaan.
+Tulin kuuden maissa.
+Nurkassa istui pöydän yli kumartuen jokin, joka näytti pieneltä tytöltä.
+Tom näytti olevan todella hyvillään.
+He eivät halveksu teitä.
+Aloitan tänä iltana.
+Treenatkaa.
+Kaikki janoavat rakkautta.
+Mietittekö te vakavasti menemistä?
+Söisitkö lounasta kanssani?
+Minulla ei ole vakuutusta.
+Hän jätti vaimonsa.
+Tomi on ollut sairaalassa kolme viikkoa.
+Tämä on hänen ainoa mahdollisuutensa.
+Voitko kertoa minulle mitä hän sanoi?
+Hän on köyhä kuin kirkonrotta.
+Tein lumiukon.
+Uudestaan!
+Emme koskaan!
+Juokaa jotain.
+Yritän mahjongia ensimmäistä kertaa.
+Voisitko mitenkään lukea iltasatua Tomille?
+Sinulla on paljon opittavaa miehiin liittyen.
+Olet ihan niin kuin minä.
+Miten hän reagoi niihin huonoihin uutisiin?
+Paperi jäi jumiin printterin sisälle ja nyt se ei toimi.
+Paina vain alas niin kovaa kuin pystyt.
+Tom tuhlaa aikaansa.
+Vauva itki äänekkäästi.
+Hän kirjoittaa minulle kerran viikossa.
+Tom on liian nuori menemään naimisiin.
+Mikä hänen reaktionsa oli?
+En minä kinastele.
+Olet varmaankin henkisesti uupunut.
+Ranskan puhuminen on vaikeaa.
+Tykkäätkö sinä opiskella?
+Onko tuo ranskaa?
+Miksi elämä on niin täynnä kärsimystä?
+Tatoebassa sinun täytyy aina kuunnella konkareita. He kertovat sinulle mitä ei voi tehdä ja miksi. Ja sitten tee niin kuin he sanovat.
+Tomin on vaikea hyväksyä, että kaikki on ohi hänen ja Marin välillä.
+Minä odotan sinua.
+Tulitko tänne tapaamaan Tomia?
+Dean voi tosiaankin syödä paljon.
+Mä oon vittu ekonomisti.
+On vielä liian aikaista sanoa.
+Hän lähetti hänelle postikortin.
+He ovat nälkäisiä.
+Odotin osittain, että Tom toisi omat popcorninsa elokuvateatteriin.
+Narkissos rakastui omaan kuvajaiseensa.
+Viheltää! Suojaan!
+Olemme innokkaita.
+Nimesi ei ole minulle tuttu.
+Sinä olet todella mukava mies, Tomi.
+Kuulostaa siltä, että olet saanut arvokkaan opetuksen.
+Tom valikoi sanansa huolella.
+Voisit ainakin vastata minulle.
+He syyttivät meitä kiittämättömyydestä.
+Sepä on optimistista sinulta.
+Oletko tosissaan sitä mieltä, että tämä on OK?
+Tulen mukaasi.
+Tom ei tiennyt, mistä Mari puhui.
+Emme voi sille mitään.
+En ole varma uskonko sinua.
+Olin hänen hautajaisissaan.
+Tomi ei saanut unta, joten hän nousi vuoteesta ja meni kävelylle.
+Rikkaudet eivät tyydytä minua.
+Katsoin kuvaa.
+Olen pahoillani että kadotin kelloni.
+Pelaa.
+Tomin sydän on särkynyt.
+Ei leopardi pääse pilkuistaan.
+Tom sanoi minulle, että te olisitte ystäviä.
+Tom on allerginen äyriäisille.
+Elämässä ja kuolemassa ei ole järkeä tahi syytä. Toiset tekevät kaiken oikein, ja silti kuolevat nuorina, samalla kuin toiset elävät vanhaksi.
+Allen on runoilija.
+Minulla ei ole paljoa aikaa. Voisitko sinä hoitaa sen?
+Mitä te teette täällä Bostonissa?
+Tom halusi pysähtyä ajattelemaan.
+Minulla on kuulakärkikynä.
+Hän vaaransi elämänsä sen takia.
+Minun on pakko löytää osa-aikatyö.
+Onko sinulla koskaan ollut ruokamyrkytystä?
+Mari istui risti-istunnassa sängyllä.
+Tukkasi näyttää kivalta.
+Haluan sinun kertovan mitä kuulet.
+Tomin mielestä ei ole mahdollista, että Mari rikkoisi ennätyksen.
+Kuka on tuo ihminen?
+Voisinpa vain uskoa sinua.
+Kaikki pysyivät rauhallisina.
+Onko tämä kuva, jonka hän on piirtänyt itse?
+Tunnen miehen, joka voi auttaa.
+Tomi on surkea suutelija.
+En ymmärrä saksaa lainkaan.
+Kolme lamppua on palanut.
+Tässä on useita metodologiaan liittyviä ongelmia, puhumattakaan joidenkin tulosten epätarkkuudesta.
+Päivä koittaa.
+En saanut unta.
+Oletko miettinyt sitä?
+Tom on hereillä.
+Tehkää olonne mukavaksi.
+Jos huomaat, että olet kuopassa, lopeta kaivaminen.
+Jokaisella ihmisellä on kaikkialla oikeus siihen, että hänet henkilönä tunnustetaan lain edessä.
+Isoisäni kuoli Toisessa maailmansodassa.
+Kaikki täällä on pullollaan gluteenia.
+Mitä tämä nyt on, Tom?
+Sun tukka on kivasti.
+Tämä tarkoitti sitä, että Floridan oli laskettava äänet uudelleen.
+Tom voi hyvin.
+Se ei vaikuta sinne eikä tänne.
+Anteeksi, puhutko englantia?
+Hän on opiskelija.
+Meidän on parempi olla nopeita.
+Kokous pidetään kerran kolmessa vuodessa.
+Jotta voit liittyä kuoroon, sinun pitää osata lukea nuotteja.
+Tom ei odottanut Marin reagoivan kuten hän reagoi.
+Sinun ei pidä vetää liian hätäisiä johtopäätöksiä.
+Tom osaa soittaa huilua.
+Mitä sinä uskot?
+Pidä koirastasi huolta.
+Minulla oli vähän nälkä.
+Huutakaa!
+Hän kieltää tehneensä sen.
+Sini- ja kosinifunktiot ottavat arvoja suljetulta väliltä [-1, 1].
+Tom oli vaikeuksissa.
+Teidän kuunne on palaamassa.
+Missä on kirjani?
+Minkä ikäinen teidän siskonne on?
+Tom on poliitikko.
+Aurinko sulatti lumen.
+Mikä sinun lempinimesi on?
+Tom luotti heihin.
+Paljonko Espanjassa annetaan tippiä?
+Niin on, mutta en voi voi sille mitään.
+En edes tiedä, kuka on varastanut mitäkin.
+Oliko joku muu siinä huoneessa?
+Olenko ikinä valehdellut teille?
+Näyttää että aikaisemmin ottamani pillerit olivat tehokkaita.
+Miehillä on noin seitsemän tai kahdeksan kertaa enemmän testosteronia kuin naisilla.
+Ajokorttini menee vanhaksi tämän kuun lopussa.
+En voi auttaa sinua.
+Olen vapaalla sunnuntaina.
+Minulla ei ole yhtään rahaa mukana.
+Suuri aalto kaatoi hänen kanootin.
+Tom tulee suuresta perheestä.
+He ovat vihollinen.
+Hän on tiskijukka.
+Aina kun Tom tulee paikalle, alkaa sataa.
+Tom meni nukkumaan puolilta öin.
+Junassa on kaksi veturia.
+Toivon, että voit tehdä jotakin auttaaksesi minua.
+Kukaan ei valittanut siitä.
+Saturnus söi lapsensa.
+En ollut ehtinyt pitkälle ennen kuin tapasin hänet.
+Teidän pitäisi auttaa teidän isäänne.
+Olet tunteeton.
+Se oli typerää.
+Tekemällä oppii.
+Juuri minulle antamasi lyijykynän pyyhin on kulunut loppuun.
+En ole lukenut yhtään kirjoja tai aikakausilehtiä viime aikoina.
+Oletko sinä japanilainen?
+”Kuinka vanha olet?” ”Kuusitoista vuotta.”
+Vanhempani ovat Australiassa.
+Tomin täytyi tehdä tuplavuoro.
+”Kuinka siskosi voi?” ”Sisarukseni ei tunnusta binääristä sukupuolijaottelua eikä siksi halua tulla kutsutuksi siskokseni.”
+Hassua!
+Hänellä on monia kirjoja.
+Tom pysyi hiljaa.
+Korissa on joitakin hyviä omenoita.
+Tom oli hemmoteltu.
+Minulle kerrottiin että meidän on tuotava omat vetemme.
+Putkimies pumppasi veden putkesta.
+En voi oikein kuvailla sitä.
+Tomin ranska on erittäin hyvää.
+He piirittävät meitä.
+Tämä kirja kannattaa lukea kahdesti.
+Tomilla oli yllään harmaa puku.
+Mistä Tomi sai hattunsa?
+Älä istu liian lähellä televisiota.
+Sinun ei kuuluisi syödä täällä.
+Joko hänen tai minun täytyy osallistua siihen kokoukseen.
+Uin joka päivä.
+Kuinka monta munaa tämä kana munii joka viikko?
+Sinä osaat lukea, eikö niin?
+Soittakaa minulle, kun te olette valmiit lähtemään.
+Meillä ei ole varaa virheisiin.
+Te ette saa koskaan tietää, jollette koeta.
+Tomi on kestävä.
+Siinä on toinen ongelma.
+Tomi yritti pestä veren pois vaatteistaan.
+Hän ei juonut viiniä.
+Emme ole vielä auki.
+Me autamme kyllä Tomia, mutta emme nyt.
+Tällä ei ole mitään tekemistä sinun kanssasi.
+Pääministeri on eronnut.
+Syntymäpäiväni sattuu tänä vuonna perjantaille.
+Minun pitää kysyä sinulta monta kysymystä.
+Tulen heti perässä.
+Tomi rakastaa laulamista.
+Minusta Tom on rikas.
+Haluan paljon enemmän.
+He molemmat nauravat.
+He menivät metsään.
+Ei ole mitään syytä pelätä.
+Hukkasin avaimeni.
+Vittu.
+Älä häiritse Tomia.
+Olen aina luottanut häneen.
+Pelaatko jalkapalloa tai rugbyä?
+Kuka tekee aamiaista hänelle?
+Ase laukesi vahingossa.
+Vaikuttaa siltä, että Jane nauttii juhlista.
+"Onko Riina kissa vai koira?" "Ei kumpikaan. Se on orava."
+Mikko nauraa.
+Kutsuinko minä sinut?
+Tapasin Tomin töiden jälkeen.
+Günther ja Hans ovat ystäviä.
+Tom kaapattiin.
+Hänen hallintonsa oli itsevaltaista.
+Mitä mieltä olet tästä paidasta?
+Tom oli avoin.
+Hän on jo aloittanut.
+Sain tietää totuuden kirjeestä.
+Jokainen työntekijä on oikeutettu kahden viikon maksettuun lomaan vuodessa.
+Asia ei ole välttämättä siten.
+Pysy rauhallisena.
+Vuonna 1876 luotiin Itävalta-Unkarin kaksoismonarkia, jossa Unkari oli entistä autonomisempi.
+Ikävöin sinua.
+Pystytimme teltan joen rantaan.
+Missä on loput siitä?
+Mistä tässä oikeasti on kyse?
+Tom kysyi Marylta mitä hän teki viime viikonloppuna.
+Tomilla on koirafobia.
+Tämä on se kohta.
+Sinun tarvitsee vain odottaa, kunnes hän palaa.
+Mietittekö tosissanne menemistä?
+Mitä siinä piilee?
+Voisitko herättää minut huomenna aamukuudelta?
+Uskoitko Joulupukkiin, kun olit lapsi?
+Se ei tapahtunut niin kuin sanoit, että se tapahtuisi.
+Osaan tehdä sen itsekseni.
+Minun täytyy lähteä nyt.
+Tom puhuu sinusta oikein hyvää.
+Haluan käyttää tätä.
+Sinun täytyy vain odottaa.
+Ovatko nämä samanhintaisia?
+Haluaisin vaihtaa tämän kirjan johonkin toiseen.
+Anna meille mahdollisuus. Ole kiltti.
+Johdomukaisuus on mielikuvituksettomien viimeinen turvapaikka.
+Paljonko lippu maksaa?
+Tomi hävisi.
+Koiraa ajaa takaa kissaa, ja kissa hiirtä.
+Olen tänään pahalla tuulella.
+Vauvan vaipat pitää vaihtaa.
+Valitse muutamia satunnaisia lauseita (ihan vaan pari kolme), äänitä ne ja lähetä näytteet meille osoitteeseen team@tatoeba.org aiheella "Audio for Tatoeba in &lt; kielen_nimi &gt; ".
+Olen imarreltu.
+Tomilla on vaikeuksia pysyä muun luokan tahdissa.
+Millainen oli yösi?
+Se on ihana.
+Jane soittaa viulua, kitarasta puhumattakaan.
+Se ei ole unta.
+Minä haluan vain auttaa Tomia.
+Tom on märkä.
+Panin hänet kantamaan matkalaukun.
+Huomaa, että suurinta arvoa ei aina ole olemassa.
+Tomi on hyvä hiihtäjä.
+Tom ajaa bussia ja Mary on matkaopas.
+Ketkä ovat ystäviäsi Tatoebassa?
+Unohdan usein hampaiden pesun.
+Miten inhottava ajatus!
+Onko liftaaminen kiellettyä Australiassa?
+En ole varma.
+Kuinka monta kieltä osaat?
+”Onko sinulla nälkä.” ”Minulla on aina nälkä.”
+Olen tosi iloinen siitä, että koulu on ohi.
+Onko minulla vaihtoehtoa?
+Kuulin Tomin puhuvan ranskaa.
+Tomi leikkii leluillaan.
+Mistä päin Australiaa olet kotoisin?
+Sisältääkö tämä ruoka lihaa?
+Hän saattaisi olla ranskalainen.
+Hänellä leikkaa hyvin.
+Tomi oli suuri innoittaja minulle.
+Laimea kompromissiratkaisu on parempi kuin ei mitään.
+Miksi te olitte hänen seurassaan?
+Me emme seurustele enää.
+Etkö sä tienny?
+Tuo ei ole minun.
+Minulla on liian monta asiaa mielessäni nykyään.
+Taloni on kaukana.
+Koskaan ei voi tietää, mitä tapahtuu huomenna.
+Tomi vihaa ulkomaalaisia.
+Tom ei usko itseensä.
+Hän yritti puhua ranskaa meille.
+Voinko lainata yhtä puseroistasi?
+Hän ei halua, että kerrot hänelle seksielämästäsi.
+Painuisivat hiiteen!
+Tuo ei ole koira.
+Tom meni kirkkoon Marin kanssa.
+Huoneessa oli kolme miestä.
+Tuo paita sopii sinulle varmasti hyvin.
+Mari on Tomin kaksossisar.
+Tom voitti lotossa, mutta hän joutui vararikkoon vuotta myöhemmin.
+Toimin ajattelematta.
+Synnyin Australiassa.
+Mari piilotti rahat rintaliiveihinsä.
+Älä yritä lahjoa minua.
+Hänessä on salaperäisyyden mystiikkaa.
+Se on sivuseikka.
+Haluan pullon coca colaa.
+Tomi kosketti minun kättäni.
+Tämä ei ole kala.
+Tom menetti kollegoidensa luottamuksen.
+Nämä paidat ovat samanlaisia. Ne ovat samaa kokoa.
+Tomi öljysi hänen polkupyöränsä ketjut.
+Hyvin, kiitos!
+Nyt olemme kyllä kohtuuttomia.
+Hän ei vain kieltäytynyt auttamasta minua, vaan myös läksytti minua.
+Jos virheitäni aina korjattaisiin, oppisin nopeammin.
+En ole täällä, jos joku soittaa.
+Alkoholi ei ole sallittua kampuksella.
+Tämä ei ole meidän.
+Et kuulosta vakuuttuneelta.
+Tiedät keitä me olemme.
+Tomi on minua rikkaampi.
+Minä en juo alkoholia.
+Vuodat verta.
+Tarvitsen teidän mielipiteitänne.
+Uskon nähneeni metsässä tontun.
+Oletteko käyneet milloinkaan Ranskassa?
+Englannin opettajani suositteli, että lukisin nämä kirjat.
+Tom sanoi, että Mari oli tulossa syömään illallista.
+Tom oli pidempi kuin oletin.
+Tomi ei ole vielä löytänyt Maria.
+Ota vapaasti mitä tahansa haluat syödä.
+Tomikin näki sen.
+Varo! Rekka tulee!
+Hän ei valehtele ikinä.
+Sinulla on riisinjyviä suusi ympärillä.
+Meidän täytyy kertoa Tomille mihin hän voi pysäköidä autonsa.
+Odota.
+Mitä tekisit ilman meitä?
+Tom kehitti puolivillaisen idean, joka ei ikinä toimisi.
+Lunta satoi.
+Tom ei tahdo opiskella ranskaa.
+Me etsimme taloa, jossa on autotalli.
+Voi kunpa puhuisit ranskaa.
+Tomin lounas sisältää voileivän ja omenan.
+Olette aggressiivisia.
+Motelli on kuten hotelli, vain paljon pienempi, ja sitä käyttävät pääasiassa ihmiset, jotka matkustavat autolla.
+En usko, että hän kykenee siihen.
+Tykkään kirjoittaa ranskaksi.
+Hän kysyi minulta, että kuinka monta kieltä minä puhun.
+Luulin, että Tom saisi potkut.
+En ole sitä mieltä, että teit kovin hyvää työtä.
+Se olisi ihanaa.
+Palaan hakemaan matkalaukkujani tänään iltapäivällä.
+Se on liian iso.
+Annan sinulle kaikki vähäiset rahani.
+Oi uusi uljas maailma, jossa on sellaisia ihmisiä!
+Kokeilin kaikkea.
+Miksi sinun isäsi löi sinua?
+Läpäisit kokeen.
+Tom on hiljainen poika.
+Syön leipää.
+Onko se aivan ehdottomasti tarpeen?
+Tomi oli kauhistunut.
+Miksi olet yksin?
+Osaan tehdä sen itsekseni.
+Tom väitti olevansa syytön, kun häntä syytettiin rattijuopumuksesta ja holtittomasta ajamisesta.
+Tommi yritti tappaa meidät.
+Kauanko tämä kestää?
+Hän on itsepäinen.
+Kaikki on ohi väliltämme.
+Me ollaan kaikki ihan vitun jännittyneitä!
+Voitko uskoa tätä? Olemme Ranskassa!
+En ole niin varma, että se on sitä mitä haluan tehdä.
+Se on ongelma.
+Olen varma, että Tomi ei suutu.
+Tom sanoi, ettei se ollut tarpeen.
+Lopeta kiemurtelu.
+Hän on biologi.
+Nyt täytyy olla illallisaika: minulla on kova nälkä.
+Opiskelen ranskaa. Opiskelen myös saksaa.
+Olemme todennäköisesti turvassa toistaiseksi.
+Tiedän, että Tom salailee jotain minulta.
+Hänen pojallaan on hänen silmänsä.
+Mari tykkää kiusata veljeään.
+Teen sinusta fiksun.
+Aiotko sinä vain jäädä tänne?
+Ketään ei pidätetty.
+Hän ei hukkaa aikaa.
+Tämäntyyppinen työ vaatii runsaasti kärsivällisyyttä.
+Rakastan suklaata, erityisesti sellaista, jossa on pähkinöitä.
+Olen melko varma, että Tom on kalju.
+Olet pelastava enkeli!
+Olen kuullut, että Saksassa olut on halvempaa kuin vesi. Onko se totta?
+Tom on terävä päästään.
+Mielikuvitus vaikuttaa elämämme jokaiseen puoleen.
+Luuletko, että se on ansa?
+Puutuoli on kallis.
+Tomi ei koskaan kävele paljain jaloin.
+Kun ihmiset tapaavat, ensivaikutelma määrää enemmän kuin 50 prosenttia siitä mitä tapahtuu seuraavaksi.
+Koska tahansa.
+Söimme curryriisiä eilen illalla.
+Varoitin häntä, mutta hän ei välittänyt varoituksesta.
+On aika hankalaa leikata kakku samankokoisiin paloihin.
+Meidät on lähetetty suorittamaan peitetehtävä.
+Koko kansakunta tahtoo rauhaa.
+Lääke ei auttanut lainkaan.
+Älä yritä tehdä kahta asiaa samaan aikaan.
+Missä on hänen kuvansa?
+Lähde lätkimään, Tom.
+Saamiesi muffinien lukumäärä on käänteisesti verrannollinen siihen, miten usein juttelet IRCissä.
+Hän petti luottamukseni.
+Olen pahoillani kun menetin käyntisi.
+Tomi on Marin pikkuserkku.
+Tom tarkoitti itseään.
+Hän rakastaa Tomia.
+Taifuuni ei ole aiheuttanut vahinkoa.
+En vaadi mahdottomia.
+Kuka tahansa Algeriassa asuva voi katsoa tätä TV-kanavaa.
+Ovatko nämä sinun, Tom?
+Missä baari on?
+Minä toivon, että minun ei tarvitsisi tehdä tuota enää.
+Piru sinut perikööt!
+Olisitteko kilttejä ja alkaisitte käyttäytymään kuin aikuiset?
+Minä alan tajuta ajatuksen.
+Olisin todella kiitollinen, jos voisit lainata minulle vähän rahaa.
+Näen hänet jos hän ei tule liian myöhään.
+Minulla on iso musta koira.
+Montako kertaa kuukaudessa kirjoitat äidillesi?
+Sami pölli Faridin henkilöllisyyden.
+En tuhlaa ammuksia.
+Mitä kuuluu, rouva Jones?
+Emme halunneet huolestuttaa sinua.
+Tomilla on pienet kädet.
+Kuka puhuu ranskaa?
+Kuunnelkaa kakarat!
+Olen ihan loppu.
+Oli aika lähteä.
+Hän kietoi kätensä hänen kaulaansa.
+Cuzco on yksi maailman mielenkiintoisimmista paikoista.
+Homma on hoidettu.
+Olen yrittänyt löytää Tomia.
+Sarjakuvien lukeminen nähdään yleensä lasten ajanvietteenä.
+Mikä järki tämän tekemisessä on?
+Tom ei pidä huonettaan kovin siistinä.
+Mari ei tullut hyvin toimeen toisten tyttöjen kanssa.
+Hän syntyi sokeana.
+Muistathan herättää minut huomenna aamulla kuudelta.
+Yritin pelastaa Tomin.
+Pidä huolta itsestäsi.
+Hän osti tuon talon koska hänen vaimonsa ihastui siihen.
+Tämä on ilmeisen mahdotonta.
+Tomi auttaa äitiä illallisen kanssa.
+Minulla on laukussani jotain, mitä minun täytyy antaa sinulle.
+Tom juoksee hyvin lujaa.
+Hän kosketti hänen käsivarressaan olevaa mustelmaa.
+Sanoiko hän mitään muuta minusta?
+Äiti rakas, miksi olet noin surullinen?
+Odotin Tomia pitkän aikaa.
+Kuka tuo vanha nainen on?
+Tomi söi pilaantunutta ruokaa ja sairastui.
+Sinä olet upea.
+Haluan nukkua vielä vähän aikaa.
+Rentoudutaan vähän.
+Jos olisin tiennyt tuon, en olisi sanonut sellaista hänelle.
+Antautukaa!
+Mennään uimaan jokeen.
+Onpa typerää!
+Tom ei ole paikalla.
+Voisitko katsoa hetken muualle kun vaihdan vaatteeni?
+Olin juuri kylvyssä, kun puhelin pirisi.
+Odotan täällä.
+Ole rauhallinen.
+Montako sait käsiisi?
+Se oli aivan kuin elokuvan kohtaus.
+Tomi kykenee hädin tuskin ruokkia perheensä.
+Hän voisi kuolla.
+Lihaa, kiitos.
+Se ei ole pahinta mitä on tapahtunut.
+Mies näki hänet ja punastui.
+He kaikki saapuivat myöhässä
+Minä luen kirjan.
+Vihaan tekopyhiä.
+Tiedän hänen salaisuutensa.
+Jännittynyt henkilö ei sovi tähän työhön.
+Tuo mekko on tyrmäävän upea.
+Koska olin väsynyt, menin aikaisin sänkyyn.
+Uskon aaveisiin.
+Hän on kuulemma vielä Pariisissa.
+Täysikuu loistaa kirkkaana taivaalla.
+Minä olen aivan yhtä hämmentynyt kuin sinäkin.
+Tomi ostaa harvoin kalliita vaatteita.
+Hän tykkää kauniista helmikaulakorusta todella paljon.
+Missä minun aurinkolasini ovat?
+Jos aurinkoa ei olisi, niin me emme pystyisi elämään.
+Tom otti hatun päästään ja kumarsi.
+Tahdotko omenan?
+Hymyile!
+Liian kalliit!
+Tom ei ollut syönyt koko päivänä ja oli kovin nälkäinen.
+Hän meni Amerikkaan viime viikolla.
+Tom meni telttaretkelle ystävänsä kanssa.
+Tom otatti itsestään kuvan.
+Annettuaan Tomille litsarin Mari juoksi ulos huoneesta.
+Lainasin rahaa Tomilta.
+Suuronnettomuus vältettiin silkalla hyvällä tuurilla.
+Onko tämä sinun matkalaukkusi?
+Sinun ei tarvitse kiittää minua.
+Olet pysäköinyt minun parkkiruutuuni.
+Opettaja kysyi häneltä: »Mikä on 256:n neliöjuuri?»
+En nähnyt yhtäkään lasta puistossa.
+Tunsin vetoa häntä kohtaan.
+Mennään eläintarhaan.
+Pitäisikö kannabis laillistaa?
+Ei syytä huoleen. Se on helppoa.
+Tämä nainen on prostituoitu.
+Kaksi autoa törmäsi toisiinsa.
+Tuo laulaja on suosittu tyttöjen keskuudessa.
+Onpa kaunista!
+Missäköhän Tomi on ja kenenköhän kanssa?
+Hän viettää iltansa läppärinsä edessä.
+Kuinka monta kirjaa luette kuukaudessa?
+Onko sinulla kuulokkeita?
+Osaan puhua vähän ranskaa.
+Tom tuskin koskaan valittaa mistään.
+Kippis!
+Tärkeintä ei ole se mistä yliopistosta olet valmistunut vaan se mitä olet oppinut.
+Sinun ei olisi tarvinnut kiiruhtaa lentokentälle.
+Voitko antaa minulle tuon jutun?
+Hän päätti naida hänet, vaikka hänen vanhempansa eivät tahtoneet sitä.
+Minulla ei ole ruokahalua.
+Yritin vain auttaa.
+Hän on kerännyt lisäkiloja.
+Älä naura.
+Sopikaa asia lopullisesti.
+Sinä tarvitset erityisen työkalun tehdäksesi sen.
+Se on helppoa kuin heinänteko.
+Pidän viinirypäleistä.
+Työnnä ovi auki.
+Tomi ei ole koskaan ollut täsmällinen.
+Epäsäännölliset verbit ovat osa englannin kieltä.
+Haluaisin painottaa kungfutselaisia arvoja, jotka ovat läsnä tämän ryhmän joukossa.
+Mies myönsi murtautuneensa taloon.
+Sinun täytyy pitää huoneesi siistinä.
+Ole oma itsesi.
+Mitä mieltä olet New Yorkista?
+Käytätkö partavettä?
+Sijaisesi on jo valittu.
+Koska hän palaa kotiin?
+Mä piffaan.
+Aiomme mennä naimisiin tänä kesänä.
+Hän ehti.
+Tomi ei kyennyt avaamaan ikkunaa.
+”Puhelin soi.” ”Minä vastaan.”
+Tom suojelee sinua.
+Norjan pääkaupunki on Oslo.
+Onko ranska sinusta vaikeaa?
+Tomi oli rohkea mies.
+No, mikä on asian yhdin?
+Luotatko minuun?
+Puhu kovempaa!
+On hyvä ajatus, että opiskelijat työskentelevät osa-aikaisesti kouluaikana.
+Hän kuoli hiljattain.
+Ei meillä ole mitään, mitä pitäisi piilottaa.
+Se on kaikki huoneessa.
+Se on totuus.
+Hän auttoi minua matkalaukun pakkaamisessa.
+Miten sun treffit meni Tomin kaa?
+Vihollisen vihollinen ei ole välttämättä liittolainen.
+Aloitetaan.
+Älä unohda tehdä mitä pyysin.
+On oleellista varata paikkansa etukäteen.
+Hän tuli toimistooni asti keskustellakseen suunnitelmasta kanssani.
+Tomi lopetti.
+Nyt Tomi asuu enonsa kanssa.
+Sinun vuoksesi minä myöhästyin.
+Tuo on Tomin hevonen.
+Hän ei vaikuta vanhenevan ikinä.
+Sinne ei ole pitkä matka kävellen.
+Valitettavasti Tom ei voi osallistua juhliisi.
+Jää minun kanssani tänne.
+Hän halusi olla laulaja.
+Sanoinko minä jotain väärää?
+Miksen kuollut?
+Onko Tom vielä hereillä?
+Poliisi sai nimettömän vihjeen, että pankkiryöstö oli sisäpiirin keikka.
+Tomi on tehnyt niin paljon kuin hän voi.
+Olet todella hyvä suutelija.
+Tomi hieroi Marin egoa.
+Tervetuloa Marsiin!
+Sotilaat valtasivat rakennuksen.
+Se oli murheellinen onnettomuus.
+Vero sisältyy hintaan.
+Olen varma, että Tom sai viestin.
+Haluaisin kaupunkikartan.
+Minun viisaudenhampaaseeni sattuu.
+Tämä maa kuuluu herra Ikedalle.
+Minun kissani näyttää surulliselta.
+Ota hattu pois päästä.
+Hän syntyi vuonna 1960.
+Se on juuri hänen tapaistaan.
+Jos sinulla olisi aikakone, mihin menisit?
+Tom on fiksu nassikka.
+Tämä on meidän päivämme.
+En ymmärrä saksaa sitten yhtään.
+Minä luen sitä kirjaa.
+Kuinka painava sinun matkalaukkusi on?
+Kaikki tekevät virheitä.
+Jokaisena päivänä tappoivat he laaman pitääkseen Aurinkojumalan onnellisena.
+Olet friikki.
+Tunnut olevan siitä hyvin perillä.
+Se on suosittua senioreitten parissa.
+Serkkuni on vähän vanhempi kuin minä.
+Tatoeba-korpus ei ole täydellinen. Julkisen yhteistyöhön perustuvan projektin luoteesta johtuen nämä tiedot eivät tule ikinä olemaan sataprosenttisesti virheettömiä.
+Mari on ystävällinen tyttö.
+Nyt, pyydä anteeksi.
+Älä heitä pyyhettä kehään.
+Miksi sinä pyysit sitä?
+Hän loiskutti drinkkinsä pikkutakkini päälle.
+Tomilla on kaksi ranskan sanakirjaa.
+Jatka vain harjoittelemista!
+Et auta.
+Voinko tulla huomennakin?
+Kuinka monta päivää aiot viettää Bostonissa?
+Tomilla on liian paljon töitä.
+Kaikki puhuivat siitä.
+Ei, porkkana ei ole tarpeeksi tärkeä, jotta se vaatisi huutomerkin peräänsä.
+Sinun pitäisi tulla myös.
+Oletko sinä Facebookissa?
+Ketkään meistä eivät ole pelkureita.
+Poistukaa välittömästi.
+Nälkä on paras mauste.
+Tomin täytyi viettää sairaalassa kolme viikkoa.
+Mitä varastettiin?
+Olen raskaana.
+Mukavaa lomaa.
+Oliko joku muu huoneessa?
+Monet ihmiset tarvitsevat apuamme.
+Asun enoni kanssa.
+Revontulien näkeminen on yksi minun unelmistani.
+Tom oli paljain jaloin.
+Tomi, oletko syönyt vielä?
+Näytelmä oli ohjelmistossa kuusi kuukautta.
+Haluan sinun pesevän auton.
+Ilmastonvaihdos tekee sinulle paljon hyvää.
+Yhtäkkiä sammuivat kaikki valot.
+Tuon koulun oppilaat käyttävät univormuja.
+Pitäisikö meidän aloittaa kokous nyt?
+En voi sietää tätä melua enää.
+Molemmat tytöt purskahtivat itkuun.
+Tuo ei ole minun autoni.
+Minulla ei ollut tarpeeksi rohkeutta sen tekemiseen.
+Katso asioiden valoisaa puolta.
+Tomin syntymäpäivät ovat ensi viikolla.
+Hän tuli kuuroksi kelloja soittaessaan.
+Tom on saapunut Bostoniin.
+Ei sen väliä.
+Olen todella huolissani sinusta.
+Tomilla on pöytätietokone.
+Sinulla on tapana liioitella kaikkea.
+Pahan tavan saa hankkittua helpolla.
+En halua kastella jalkojani.
+Yks, kaks, kol, nel, viis, kuus, seiten, kasi, ysi, kymppi.
+Mä arvelen, että Tomi ja Mari tykkäävät toisistaan.
+Hän alkoi syödä lounasta.
+Tomi saa asioita aikaan.
+Tom alkoi opetella ranskaa viime vuonna.
+Tom osaa ajaa hyvin.
+Etkö voisi viipyä vielä vähän pidempään?
+Oletko oikeasti puhunut Tomille?
+Silmä silmästä, hammas hampaasta.
+Tom tarvitsee taksin.
+Älä unohda lippua.
+Tykkään ranskan opiskelusta.
+Eivät kaikki poliisit ole rohkeita.
+Syö nuudeleita.
+Minä ihailin hänen anteliaisuuttaan.
+Meidän täytyy aloittaa heti.
+Olet liian ankara itsellesi.
+Voiko ilman yhtäkään petosta menestyä?
+Tom meni keittiöön hakemaan kahvia.
+Vaimoni jätti minut.
+En ostanut mitään tuosta kaupasta.
+Tom on kontrollifriikki.
+En löydä matkalaukkuani.
+Hänellä on aina ollut ongelmia käsien ja jalkojen verenkierrossa.
+Onko tämä polkupyöräsi?
+Myös neljännessä kerroksessa on WC.
+Odottakaa hetkinen.
+Lapsilla on kotitehtäviä.
+Sepä vasta olisi näkemisen arvoista.
+Maaseudulla oli upeaa suven aikaan: vehnä oli keltaista, kaura vihreää, heinä pinottu vihreälle niitylle.
+Toivon, että koe on helppo.
+Tämä on linja-autopysäkki.
+Sanomalehden mukaan huomenna sataa lunta.
+Olen korjannut virheen.
+Hänellä on hyvä sydän.
+Minun ei olisi pitänyt panna kannettavaani niin lähelle pöydän reunaa.
+Tom ei liikuttanut eväänsäkään.
+Tom omaksui Marin ajatuksen.
+Minun olisi parasta mennä takaisin sisälle.
+Tom syntyi Bostonissa.
+Oletko huonolla päällä?
+Se voi olla ongelma.
+Meillä on paljon tavaroita joita tarvitsemme ostaa.
+Työni on todella tärkeää.
+Siellä on iso reikä.
+Oletko jo saanut kirjoitettua kirjeen valmiiksi?
+Tom pitää juoksemisesta.
+Tomissa ei ole hippuakaan lojaalisuutta, kunniallisuutta tai kohtuullisuutta.
+En tee sitä rahan vuoksi.
+Minut nimettiin enoni mukaan.
+Sinä olet nainen, jota rakastan elämäni loppuun saakka.
+Kysy häneltä haluaako hän osallistua kokoukseen.
+Mielestäni meditointi on kaikkea lääkitystä rauhoittavampaa.
+Tuo jäätynyt kala tänne.
+Kaverini kävivät leffassa ilman minua.
+Parempi sata ystävää kuin sata ruplaa.
+Mää kävin just postissa.
+Minusta ranska on vaikeaa.
+Pystyn tehdä sen ilman sinun apuasi.
+Lopeta jo!
+Avataan viinipullo.
+Voi kunpa olisin taas vauva.
+Jos ei olisi pilviä, emme nauttisi auringosta.
+Sinä et saa koskaan tietää, jollet sinä kokeile.
+Satutko tietämään kuinka paljon kello on?
+Yritätkö pyytää minua treffeille?
+Miten lehmä lypsetään?
+Oletko veljeskunnassa?
+Puhu lempeästi jokaiselle.
+Tom näytti hämmentyneeltä.
+Tom ei osaa tehdä tuota.
+He eivät koskaan tee mitään.
+Oletko jo allekirjoittanut sopimuksen?
+Se on minun mielestäni hyvä ajatus.
+Millie pitää kovasti suklaasta.
+Allekirjoituksenne, olkaa hyvä.
+Dollarin arvo laskee kun inflaatiotaso nousee.
+Minulta evättiin pääsy hänen maahansa.
+Anna tulla!
+Luovuttakaa!
+Elän Taškentissa.
+Kuinka kauan täältä kestää päästä Bostoniin?
+No mites koe?
+Kirsikankukat ovat parhaimmillaan tällä viikolla.
+Koko vartaloani kutittaa.
+Mitä Tom teki viime viikolla Bostonissa?
+Katso sormiani.
+Tomi puhuu todella hiljaa.
+Tomi ei halua, että Mari innostuu liikaa.
+Tom laittoi kuulokkeensa kiinni musiikkisoittimeensa.
+Tomi lähti telttailemaan.
+Rakastan sinua enemmän kuin mitään muuta.
+Selittäisitkö sen kuvaajan minulle?
+Tunnen, että ymmärrän tunteitasi.
+Jalkapalloilijat tienaavat paljon.
+Et voi juosta tätä karkuun.
+Hän nauttii hirtehisistä aktiviteeteistä, kuten eläinten leikkelystä ja ihmisten varjostamisesta öisillä kaduilla.
+Tilanne voi riistäytyä käsistä.
+Kuorintavoiteet poistavat kuollutta tai vahingoittunutta ihosolukkoa.
+Tom on hyvää sorttia.
+Mari on muodokas nainen.
+Tom mietiskeli, oliko Mari pelannut pelejä koko iltapäivän.
+Tomi pyöräilee.
+Siitake on eräs sienilaatu.
+Tehty?
+Minun on pakko oppia ranskaa.
+Vuodet kuluivat.
+Sanoiko Tom milloin hän tulisi kylään?
+Vauva on jatkanut itkemistään jo lähes 10 minuuttia.
+Tomi änkyttää.
+Mitä tapahtuu?
+Puhelimesi soi.
+Sinä tiedät, että tarvitsen sen takaisin.
+Onko tämä kirje?
+Se on todella helppo.
+Meidän täytyy lähteä liikenteeseen nyt heti.
+Anna meille tšänssi. Ole kiltti.
+Minä soitan uudestaan.
+Saisinko laskun, kiitos.
+Lapset kasvavat niin nopeasti.
+Miksi suostuit auttamaan Tomia?
+Oletpa sinä pitkä!
+Tahdotko syödä jotain?
+Osaatsää miinustaa kuuden kymmenest?
+Puhunko liian nopeasti?
+Rehellisesti sanottuna en usko, että on kyse plagioinnista.
+Hän nukahti heti.
+Ensin koko idea vaikutti järjettömältä.
+Teen sinut iloiseksi.
+Uusi tunneli on kaksi kertaa niin pitkä kuin vanha.
+Saanko käyttää lyijykynääsi?
+Sulje ovi.
+Olen fatalisti.
+Minä tapasin Tomin vihdoinkin.
+Auta minua tämän arkistokaapin kanssa.
+Mitä valmistat?
+Voisitko avata pullon?
+Haluan sen.
+Tämä romaani antaa hyvin kaunistelevan kuvan mustalaiskiertolaisista.
+Hän luulee olevansa Jumalan lahja maailman naisille.
+Tomi kunnioittaa sinua suuresti.
+Puhu asioista niiden oikeilla nimillä.
+Hän ei osaa puhua englantia eikä ranskaa.
+Älä lopeta.
+Sinä olet paras ystäväni.
+Miljoona ihmistä menetti henkensä sodassa.
+Tomi ei ollut varma siitä, että pitikö hänen tehdä niin.
+Kipu oli sietämätöntä.
+"Sinä et ole herra Lima." "En ole, olen hänen poikansa."
+He vaativat presidentin eroa.
+Missä he asuvat?
+Liityn seuraanne myöhemmin.
+Eräät uskonnot vastustavat elinluovutusta.
+Tomi alkoi siirtymään.
+Se on tosi ärsyttävä.
+Joulu on pian läsnä.
+Äitini kysyi minulta voisinko hakea maitoa.
+Tom antoi minulle kynän.
+Tervetuloa, vangit... tarkoitan, vieraat.
+Kertoiko Tom Marille, mitä Joni sanoi.
+Olet ottamassa aikamoisen riskin.
+Tomi rakastaa kissoja.
+Se kissa syö.
+Olen vain kohtelias.
+Mikäpä ei.
+Minä en ole milloinkaan kohdannut suoraa rotusortoa.
+Kiitos kun autoit minua kääntämään raportin ranskaksi.
+Onpa elämä outoa!
+Olen yksinäni.
+Hän varoitti häntä menemästä yksin ulos illalla.
+Tiede on kehittynyt huomattavasti viime vuosina.
+Meneekö hän Yhdysvaltoihin ensi vuonna?
+Mä tykkään tästä teestä.
+Tämä on työsuhdeauto.
+En usko, että uskot oikeasti niin.
+Tom ei voinut olla olematta surullinen.
+Paetkaa.
+Nyt ymmärrän sen, Tomi.
+Onko sinulla kynsiviilaa, jota voisin lainata?
+Yksikään kansakunta ei ole ollut niin hyveellinen, kuin se itse uskoo, eikä yksikään niin pahansuopa, kuin kukin uskoo toisen olevan.
+Pelkkä ajatuskin siitä puistattaa minua.
+Kerro minulle loput.
+Tom on tehnyt sen.
+Rauhoitu!
+Hän lukee.
+Hänen äänensä ei kanna.
+Kun tulin takaisin, oli minun autoni poissa.
+Tom tulee parantamaan.
+Yritän juuri tutustua sinuun.
+Tomin auto varastettiin viime kuussa.
+Tomi on väkivaltainen.
+Luuletko tosiaan, että se toimii?
+Jätin ikkunan auki.
+Vatikaanivaltio on pinta-alaltaan (0.44 km²) maailman pienin valtio.
+Sinun ei tarvitse lähteä juuri nyt.
+Tuolla Tom on.
+Mietin vain, kuinka usein tällaisia asioita tapahtuu.
+Eilen ilotulitustehtaassa sattui räjähdys.
+Minun ei tee mieli yrittää.
+Myöhään valvominen on ihosi pahin vihollinen.
+Uusi pelikonsoli on julkaistu. Sen nimi on Nintendo 64!
+Rauhallisesti nyt.
+Hän on tyhmä.
+He ovat perhettä.
+Rasismi ja homofobia ovat yhä merkittäviä ongelmia amerikkalaisen jalkapallon ammattiliigassa.
+Tomi sanoi, että hän olisi kiireinen puoli kolmeen saakka.
+Olen tuntenut Tomin pitkään.
+Tomi on kuollut.
+Tomi sulki television.
+Tomi teki hyvää työtä.
+Minä osaan portugalia, sinä saksaa, hän englantia, hän italiaa, toinen heistä ranskaa. Me osaamme esperantoa, te espanjaa, he venäjää, he japania ja he ranskaa.
+Tom on hyvännäköinen mies.
+Opettaja takavarikoi Tomin kännykän.
+Ei koskaan tullut mieleeni että voisin saada lopputilin.
+Monet nuoret tytöt pitävät siitä laulajasta.
+Missä voi vaihtaa ulkomaanvaluuttaa?
+Boston on liian kylmä minulle Chicagosta puhumattakaan.
+Hän halaa puuta.
+Se onkin juuri koko pointti.
+Säilytä.
+Olet minulle velkaa tuosta.
+Mitä tuo oli?
+"Vittu!", sanoi Tom yksinkertaisesti mutta suoraan sydämestään.
+Esperantossa painotus on aina toiseksi viimeisellä tavulla.
+Olen pitänyt sen.
+Tämä kahvi on juomakelvotonta.
+Tuo on linja-autopysäkki.
+Minulla on oikeus ansaita elantoni.
+Oikealla on ohrapelto; kun taas vasemmalla on vehnäpelto.
+Minulla on kaksi koiraa. Toinen on valkoinen ja toinen musta.
+Mitä makua haluat?
+Oletin, että Tom ymmärtäisi ranskaa.
+Tom on talossani.
+Miksi kutsut tätä?
+Tom kuulostaa järkyttyneeltä.
+Missä te olitte aiemmin, kun minä tarvitsin teitä?
+Kerronko teille vitsin?
+Tomi on pakkomielteinen.
+Tietyt ihmiset pakenivat uskonnollista sortoa.
+Tuo lääke tepsi.
+Vietkö minut sairaalalle?
+Minulla on kaksi veljeä ja kolme siskoa.
+Tulemme takaisin huomenna.
+Haluaisitko lähteä syömään kanssani?
+Te olette saksalaisia, eikö vain?
+Hän ei naura koskaan.
+Tom tavoitti Marin ja Jonin.
+Tomi sanoi, että hän löysi jotain outoa.
+Olen tehnyt töitä koko yön.
+Puhu ystävällisesti kaikille.
+Syö lunta.
+Häiritsemmekö sinua?
+Entinen aviomieheni ei enää asu tässä kaupungissa.
+Tomi varasti minun sateenvarjoni.
+Hän on yhä vihainen.
+Mitä sitten jos olen homo? Onko se rikos?
+Hän oli raivoissaan.
+Sinä unohdit vuosipäivämme.
+Se loppuu huomenna.
+Se kaikki tapahtuu niin äkkiä.
+Toivon todellakin, että olet oikeassa.
+Ei Tomi siitä suutu.
+Onko sinulla koira?
+Montako kertaa viikossa sinä käyt suihkussa?
+Jos menet metsään, varo ihmissyöjähirviöitä!
+He taistelivat viimeiseen mieheen.
+Tom ei puhu enää minulle.
+Tiesin, että tulisit pelastamaan minut.
+Nipistin itseäni varmistuakseni siitä, etten vain uneksinut.
+Tomilla ei ole muistikuvaa siitä miten hän sai mustan silmän.
+Meidän pitää olla äärimmäisen varovaisia.
+Minä näen sen kirjan.
+Logiikan ja maalaisjärjen mukaisesti Venäjän, Euroopan unionin ja Yhdysvaltojen täytyy toimia yhdessä.
+Tom meni Marin kanssa Bostoniin.
+Marika on suomalainen, mutta hän osaa saksaa.
+En pidä toimettomana seisoskelusta.
+Olemme varmoja voitostamme.
+Kukapa ei joulusta pitäisi?
+Minulla on paljon tekemistä tänään.
+Tom vaikutti siltä, ettei hän pystynyt keskittymään.
+On erittäin todennäköistä, että Tomi ei halua tehdä tuota.
+Juoksin hänen peräänsä kantaen paperipinoa, jonka hän oli jättänyt lähtiessään.
+Et voi kävellä alasti ympäriinsä tässä hotellissa.
+Onko Tatoeba hyvä?
+Tämä oli karmea päivä.
+Tomia ei kiinnosta mitä Mary ajattelee.
+Tomi näyttää paljon ikäistään vanhemmalta.
+Ne linnut lauloivat.
+Haluan tavata Tomin kanssa.
+Koettaisitko?
+Ethän sitten myöhästy.
+Nancy on luokan kookkain tyttÃ¶.
+Puhu hitaammin.
+Pystytkö sinä siihen oikeasti?
+Älä huolehdi. Pärjään kyllä.
+Olemme sairaana ja vuoteessa.
+Kun olin lapsi, luulin, että jos kuolisin, maailma vain katoaisi. Miten lapsellinen harhaluulo! En vain voinut hyväksyä sitä, että maailma voisi jatkaa olemassa oloaan ilman minua.
+Hän vain haluaa pitää hauskaa.
+Soittakaa minulle, kun olette valmiit lähtemään.
+Tom kirjoittaa vieläkin runoja.
+Tapahtui jotain, jota en ollut odottanut.
+Postitoimisto on tuo ruskea rakennus.
+Ryhmä ulkomaalaisia saapui Edoon, toisin sanoen Tokioon.
+Pidän kielestäni.
+Tomi avasi rekan oven.
+Tom työskenteli keittiössä ollessaan vankilassa.
+Kuulin, että kauppasi kukoistaa.
+Haluan leikkiä lumella.
+Mene puomille istumaan.
+Olen kateellinen siitä, että sinulla on hyvä pomo.
+Meillä on aikaa huomisaamuun asti.
+Hän on varma tutkinnon läpäisemisestä.
+En halua hätäillä.
+Tie jatkui suorana useita kilometrejä.
+Kuusi heistä palaa.
+Te ette voi olla liian varovaisia, kun teette tämän kokeen.
+Ne jotka ovat läsnä, ovat kaikki japanilaisia.
+Anteeksi, onko sinulla kelloa?
+Nautihan olostasi!
+Pystyykö Tom puhumaan ranskaa?
+Haluaisin puhua sujuvasti ranskaa.
+Älä puhu ranskaa minulle.
+Hänen kutsuttiin takaisin matkaltaan.
+En yleensä osta käytettyä tavaraa.
+Tule lähemmäksi, että näen kasvosi.
+Syön illallista seitsemältä.
+Hän on täällä kymmenessä minuutissa.
+Hän katsoi minua ja sanoi, "Tämä on minun vendettani".
+Mistä päin sinä tulet?
+Yrjösin viime yönä.
+Se on matkailuseutua.
+”Kuinka paljon maksoit tästä?” ”Suunnilleen 20 euroa.” ”Vau! Sehän on todella halpaa!”
+Sarvelliset viikinkikypärät eivät ole enää muodissa Skandinaviassa.
+Lapsilla on valotikkuja.
+Sinä et ole lihava. Sinä olet muodokas.
+Kun sade lakkaa, menemme kävelylle.
+Mihin olette menossa viettämään kuherruskuukauttanne?
+Laske kolmeenkymppiin.
+Askorbiinihapon osuus tabletissa on hyvin vähäinen.
+Älä tuhlaa aikaasi tuon tekemiseen.
+En tiedä hänen osoitettaan.
+Kahvia vai teetä?
+He kävivät elokuvissa eilen.
+Anna mennä, Tom.
+En koskaan unohda ystävällisyyttäsi.
+Suosittelen tätä.
+Annapa kun annan tämän sinulle ennen kuin unohdan.
+Minusta on ihanaa puhua hänelle.
+Niinä aikoina näin kauheita hallusinaatioita.
+Hän pitää elämästään.
+Viitsisitkö sulkea oven perässäsi?
+Jos haluat päästä täältä ulos hengissä, seuraa minua.
+Tämä saattaa olla Tomin sateenvarjo.
+Luet sen jonain toisena päivänä.
+Pystyn kävelemään vähintään kaksi mailia.
+Aion tutkia aihetta jatko-opintotasolla.
+Mitä on kaksi plus kaksi?
+Mitä sinä mietit?
+Opimme koulussa, ettei kotitehtäviä tarvitse kopioida.
+Älä rakasta kahta ihmistä yhtä aikaa.
+Avaa ikkuna!
+Kerro minulle mikä harrastuksesi on.
+Tom ei puhu ranskaa.
+Ehkä Tomi pystyy ratkaisemaan tämän ongelman.
+Algeriassa on paljon turistikohteita.
+Tom ja Mari muuttivat Bostoniin.
+Televisio on päällä.
+Tom ei ollut huomannut, että Mari oli jo mennyt kotiin.
+Sanoitko kolmekymmentä?
+Tarvitsen kannettavan.
+Minua väsyttää. Menen sänkyyn.
+Menin kouluun Tomin kanssa.
+Tom on dyykkari.
+Kansi kääntyy myötäpäivään.
+Mitä varovaisempi olet, sitä vähemmän teet virheitä.
+Tomi tuli pelastamaan minua kuin ritari kiiltävässä haarniskassa.
+Et uskoisi minua.
+Te ette voi olla vakavissanne.
+Hän on ystävällinen ihminen.
+Hän on transseksuaali.
+Älä päästä irti.
+Tomi on kiero.
+Ensimmäiset serkukset ovat liian läheisiä mennäkseen naimisiin.
+Jänikset ovat minusta ihania – ranskalaisten ja hyvän viinilasillisen kanssa.
+Tuo vitsi ei ollut hauska.
+Liha on nykyään kallista.
+On kuuma, joten haluan syödä jotain kylmää.
+Älä ole julma.
+Tom alkoi tulla nälkäiseksi.
+Tom sytytti tulitikun ja sytytti sillä sitten kynttilän.
+Voisinko käyttää puhelintasi?
+Oletko menossa Noboribetsuun huomenna?
+Joko Tomi valehtelee tai sitten Mari valehtelee.
+Mihin sinä olet menossa?
+Olis pitäny nukkuu enemmän.
+Tom kirjoitti esitelmänsä Wikipediasta leikkaamalla ja liimaamalla.
+Tomilla on hyvä numeropää.
+Missä kunnossa sinun olkapääsi on?
+Tomi käy suihkussa joka aamu ennen aamupalaa.
+Olet joko minun puolellani tai minua vastaan.
+Joni jäi kotiin kuten häntä käskettiin.
+Tomi pussas mun serkkuu.
+Tomi on sängyssä sikeässä unessa.
+Tomi on älykäs.
+Kotka on valkoinen.
+Haluaisin oppia suomen kielen.
+Melkein pudotin lautaset.
+Tunnen sinut.
+Taivaalta katsottuna joki näytti valtavalta käärmeeltä.
+Kuusipuu on palaamassa.
+Pysähtynytkin kello näyttää oikeaa aikaa kahdesti päivässä.
+Hän ei ikinä valehtele.
+Tässä autossa ei ole ilmastointia.
+Se ei kuulosta todelta.
+Hänen äänensä kuulostaa hyvin kauniilta.
+Tomilla on yläruumis paljaana.
+Mikä tahansa paikka käy.
+Tarjoilja! Toinen korillinen porsaanlihamykyjä, kiitos.
+Unohda mistä puhuimme aikaisemmin.
+Tässä autossa ei ole vakionopeudensäädintä.
+Olen täysin samaa mieltä kanssasi.
+Hänen hautansa on siellä.
+Anteeksi, menisin tästä ohitse.
+Hän luulee, että olen kateellinen.
+Toista perässäni.
+Tiedän siitä jo.
+Henkilö, joka on pelkkä pelinappula, puhuu usein suuria ihmisten seurassa.
+Mitä tämä on?
+Pidin todella siitä mitä Tom sanoi.
+Minäpä kerron sinulle miksi en pidä Tomista.
+Hän pani poikansa osallistumaan kokoukseen puolestaan.
+Minulla on vähän nälkä.
+Tomin näkemys tähän asiaan on kaikkien tiedossa.
+Onko lihansyöminen moraalisesti väärin?
+Mikä suoritus!
+Toivomme, että nautit vierailustasi.
+Hän valehtelee!
+Onnea matkaan.
+Mikä sinun suosikkilaulusi on?
+Miksi hän irtisanoutui töistä?
+Luoja yksin tietää, minne hän on mennyt.
+Tom varasti rahaa Marin käsilaukusta.
+Meidän täytyy odottaa Tomia.
+Tomilta on ruoka lopussa.
+Sää on aurinkoinen.
+Esittelen sinut Tomille, jos niin haluat.
+En halua asua yksin.
+Tom valehteli sinulle.
+Sinun täytyy saada levätä.
+Anteeksi, että herätin sinut.
+Halusitteko te minun tekevän vielä jotain muuta?
+Kohtaamme lopulta tänään.
+Luonto on täynnä mysteerejä.
+Onko sinulla ranskan sanakirjaa?
+Tom on mennyt Bostoniin kiireisille työasioille.
+Varas pääsi sisään huomaamatta.
+Tomi uhrasi henkensä meidän vuoksemme.
+Lähdetkö jo?
+Mary peittää suunsa ja haukottelee.
+Niihin aikoihin miehet olivat vielä miehiä.
+Minun pitää löytää työtä.
+Mihinköhän Tom meni?
+Tom sai fiksun idean.
+He kaikki kutsuivat häntä Pingviiniksi siitä johtuen, että hän oli lyhyt ja lihava.
+Toivon ettei Tom tee mitään tuollaista uudestaan.
+Minun täytyy viedä kamera korjattavaksi.
+Mitä teidän tarvitsee tietää?
+Minulla on hirvittävät tuskat.
+Mietinpähän vaan pitäisikö minun tosiaan ryhtyä opettajaksi.
+Ongelmana oli aika.
+Se on tilanne, jossa kaikki voivat vain hävitä.
+Onko asia tärkeä?
+Etkö haista jotakin epätavallista?
+Lopeta yrittäminen.
+Souda.
+Tom on nopea.
+Hänen tuuheat kulmakarvansa antoivat korostuksen hänen kasvoilleen.
+Tom ei koskaan pelännyt puhua edes omista puutteistaan.
+Olin ennen rikas.
+Monet merimiehet eivät osaa uida.
+Haluaisin nähdä sinut.
+Kävin juuri postissa.
+Synnyin Osakassa, mutta kasvoin Tokiossa.
+Mistä se muistuttaa sinua?
+Älä kerro Tomille totuutta.
+Miten käytät tätä konetta?
+Leiki!
+Mitä sinä söit?
+Veloitit minulta liian paljon.
+Hän käy harvoin leffassa.
+He tuntevat meidät.
+Valmis?
+Kaksi plus kaksi on yhtäsuuri kuin viisi.
+Sen viruksen perimä alkaa muuttua.
+En voi unohtaa hänen kauneuttaan.
+Tomi on huolimaton kuski.
+Kun hän paiskasi oven auki, vanha nainen juoksi hänen eteensä ja yritti estää hänen kulkunsa, mutta hän töytäisi naisen syrjään.
+Olet saanut hyvän ajatuksen.
+Hän ansaitsee enemmän.
+Kunpa keksisin miten DVD poltetaan.
+Tietysti!
+Kaukaa katsoen se näyttää pallolta.
+Teksti ilmaisee kirjoittajan ajatuksia ja tunteita.
+Taskuvaras varasti Marin iPhonen.
+Tom on aloittanut ranskanopinnot.
+Minulla oli tapana käydä leipomossa.
+Tuo on lempibändini.
+Osaatko sanoa, onko tämä Tomin?
+Mitä lukiota kävit?
+Tomi on menettänyt järkensä.
+En ole huolissani Tomista. Olen huolissani sinusta, Mari.
+Tomilla on todella pieni pää.
+Tomi päätti, ettei hän puhu Marille enää koskaan.
+Istuin ylhäällä viime yönä kahteen asti katsomassa olympialaisia TV:ssä.
+Hän tömisteli mudan pois kengistään.
+Unelmoin paljon.
+Mene kysymään Tomilta.
+Se on se mitä halusit, vai kuinka?
+Pidän aamuhämärästä.
+Tom järkyttyi kuullessaan Maryn kuolleen.
+Tänä vuonna syntymäpäiväni osuu perjantaille.
+Elämä on rankkaa.
+Japani on saarivaltio, ja se koostuu neljästä pääsaaresta.
+Kaikki on kunnossa.
+Se oli painajainen.
+Sinä olet kotoisin Ruotsista.
+Tom ja Mary löysivät paikkansa.
+Jopa fiksut ihmiset tekevät toisinaan typeriä asioita.
+Meidän pitää perustaa siirtokuntia muille planeetoille.
+Tomin kuuluisi kertoa Marille kaikki, mitä hän ja Joni tekivät.
+Tomi on laivassa.
+Tomin kotona kummittelee.
+Nämä ovat kaikki minun kirjojani.
+Otapa pala kakkua, jos vain maistuu.
+Tällä oravalla on korkeanpaikankammo.
+Sinä olet tullut hulluksi.
+Tom puhuisi mieluummin ranskaa.
+Nosta kätesi ennen kuin vastaat.
+En tiedä.
+Korpusta ei ole jäsennetty taulukkona vaan verkkona.
+Tom kaatoi muroja kulhoon.
+Tom erosi Marista viime vuonna.
+Anna minulle rahasi tai muuten hakkaan sinut.
+Haluan jutella pomosi kanssa.
+Onko lähellä puhelinta?
+Sovitte, että vuorottelette.
+Aika ei ole absoluuttinen todellisuus, vaan tietoisuutemme muoto.
+Olemme menossa kävelylle.
+Vuoret näyttävät paremmilta kaukaa katsottuna.
+Minun neuvoani ei noudatettu.
+Minun täytyy pahoitella sitä, etten ole kirjoittanut niin pitkään aikaan.
+Tässä metsässä uskotaan olevan kummituksia.
+Olen edelleen sitä miltä, että meidän olisi pitänyt ostaa se maalaus, josta pidit.
+Hänen on täytynyt olla todella kaunis.
+Miten netissä pitäisi mainostaa?
+Tiedät, että teillä on kiire.
+Hän on huonolla tuulella.
+Pahoista teoista jää aina kiinni.
+Vanhempani kirjoittivat minulle avokätisen shekin auttaakseen minut pois kaiken luottokorttivelkataakkani alta.
+Arvostan ystävyyttäsi hyvin paljon.
+Tom osaa laulaa joitakin ranskalaisia lauluja.
+Teidän täytyy tehdä paljon töitä.
+Rakkaus on sokea.
+Kuinka paljon opiskelijoita on yhteensä?
+Tomi kertoi minulle, että hän tuli suuresta perheestä.
+Tom ei syö niin paljon kuin Mari.
+Mikä on syy?
+Hänen tarinansa ei voi olla valheellinen.
+En usko, että olen tehnyt tarpeeksi spaghettia kaikille.
+He tiesivät tarkalleen kuinka suuren riskin he ottaisivat.
+Tom ja Mari puhuvat toisilleen englanniksi.
+Keksi on hyvä nimi koiralle.
+Olet kolmannella luokalla, eikö niin?
+Sinun ei ole pakko mennä niihin juhliin, jos et halua.
+Se on minun elämäni.
+Tomin ja Marin vanhemmat ovat ystäviä.
+Tom on erittäin lämminsydäminen.
+Tomi varastaa tavaraa.
+Hän haluaa pelata jalkapalloa tänä iltapäivänä.
+Ärsyynnyin hänen asenteestaan.
+Olen jo valmis.
+Pitääkö minun vaihtaa junaa?
+Minä pelaan joka päivä tennistä.
+Olet televisiossa.
+Saitko jo työt valmiiksi?
+Mihin teitä sattui?
+Olet kotoisin Hokkaidolta, eikö niin?
+Nyt me osoitamme miten tätä aputulosta voi käyttää päälauseen todistamiseen.
+Minua ei se yllätä.
+Afrikka on se köyhin mantere.
+Pojat olivat yltäpäältä mudan peitossa.
+Tomi ei tiedä mitään Australiasta.
+Tom kirjoittaa ahkerasti jotakin pöytänsä ääressä.
+Lopeta huutaminen.
+Vaikka puristit ovat hyvin suorasanaisia, he eivät kuitenkaan muodosta enemmistöä Tatoebassa.
+Olisin onneton, mutta en tappaisi itseäni.
+Heti kun ovi aukesi, he juoksivat pakoon.
+En näe häntä enää ikinä.
+Teeskennellään, että me olemme sotilaita.
+Minulla ei ole niin kuuma tänään.
+Onpa iso koira!
+Mikä sinun nimesi olikaan? Sinä kyllä kerroit sen minulle, mutta se meni valitettavasti toisesta korvasta sisään ja toisesta ulos.
+Hymyile elämälle!
+Katso yllä!
+Hänellä oli sukat väärin päin.
+Mitä muuta sinä odotit?
+Nyt on liian myöhäistä muuttaa mieltään.
+Tuo kone on valtava.

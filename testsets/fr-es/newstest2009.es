@@ -808,7 +808,7 @@ Nunca fue un asalto sexual.
 Me siento responsable de su muerte."
 El juez Christopher Elwen contestó a Trerise: "Usted es un fetichista muy extraño, y por su víctima debe haber sido una experiencia espantosa, especialmente cuando tenía sólo siete años.
 Esta desagradable saga termina con la víctima quitándose su propia vida.
-Aún más claro, es que si ella no lo hubiera hecho, probablemente la cuestión no habría terminado en los tribunales."
+Aún más claro, es que si ella no lo hubiera hecho, probablemente la cuestión  no habría terminado en los tribunales."
 Y añadió: "he notado el efecto que según la descripción hecha por el padre y la madre de Stephanie el abuso hubo sobre su hija a lo largo de los años.
 Claramente ella habría podido tener un futuro prometedor, de éxito y feliz."
 Un oficial cargado por la pérdida de datos
@@ -817,14 +817,14 @@ El hombre, en viaje de trabajo por el Ministerio de Defensa, abandonó dos docum
 Los documentos fueron pasados a la BBC antes de ser entregado a la policía.
 Seguramente se trata del cargo menos grave en virtud de la ley y no supone alguna indicación de la intención de delinquir.
 El corresponsal de la BBC para la Defensa Frank Gardner refirió que la condena había llegado como una sorpresa para muchos en la administración inglesa.
-"Pensaban que se tratase de un asunto interno entre el Ministerio de Defensa y el Gabinete," dijo.
+"Pensaban que se tratase de un  asunto interno entre el Ministerio de Defensa y el Gabinete," dijo.
 El empleado, que no puede ser nombrado, está cargado bajo la sección 8.1 de la Ley, la cláusula que se refiere a la salvaguardia de la información.
 El Servicio Juríco Real señaló que el funcionario debe ser acusado por la Policía Metropolitana, por causa de la entidad altamente sensible de su trabajo en el Comité de Servicios Secretos.
-Los documentos olvidados contenían informaciones secretas sobre Al-Qaeda y la capacidad de las fuerzas de seguridad en Iraq.
+Los documentos olvidados contenían informaciones secretas sobre Al-Qaeda  y la capacidad de las fuerzas de seguridad en Iraq.
 El oficial fue informado de la decisión el lunes por la mañana y en seguida trasladado desde su casa a un lugar secreto.
 Las sociedades de construcción enfrentan el precio de B&B
-En Gran Bretaña las sociedades de construcción podrían enfrentarse a un precio de más de 80 mil libras esterlinas después del rescate/salvamento del banco Bradford y Bingley.
-El Gobierno, en efecto, proporcionó 14 billón de libras esterlinas para proteger los depósitos de los 2,6 millones de ahorradores del banco.
+En Gran Bretaña las sociedades de construcción  podrían enfrentarse a un precio de más de 80 mil libras esterlinas después del rescate/salvamento del banco Bradford y Bingley.
+El Gobierno, en efecto, proporcionó 14 billón de libras esterlinas  para proteger los depósitos de los 2,6 millones de ahorradores del banco.
 El interés sobre el préstamo será pagado por todas las empresas que utilizan el dinero del los ahorradores, incluidas las 59 sociedades de construcción.
 El director general de la Association de las Sociedades de Construcción (BSA), Adrian Coles, considera "humillante" que las sociedades y sus miembros hayan que pagar
 Eventualmente, el préstamo de14 billones debería ser reembolsado después que las hipotecas de Bradford y Bingley sean redimidas.
@@ -847,7 +847,7 @@ Los habitantes de el estrado del Jersey tendrán que pagar más por su leche.
 El diario Jersey Dairy ha anunciado que el mayor precio de los productos lácteos aumentará por un extra cinco pence el litro desde el próximo lunes.
 Es el segundo incremento de precio de este año, después de un aumento de dos pence en febrero y en seguida de las investigaciones llevadas a cabo por una empresa de consultoría.
 Los comerciantes pueden decidir por sí mismos si quieren aplicar los aumentos de precios para sus clientes.
-La última vez que el mayor precio de la leche había aumentado antes de febrero, fue en 2002.
+La última vez  que el mayor precio de la leche había aumentado antes de febrero, fue en 2002.
 Negada la libertad bajo fianza al ex Primer Ministro de Bangladesh
 Un tribunal de Bangladesh ha rechazado la solicitud de libertad bajo fianza para el ex Primer Ministro Sheikh Hasina, en el sentido de que ella puede ser conducida a la cárcel cuando regresara a su país.
 Sus defensores dijeron que el tribunal no le concedió la libertad bajo fianza acusándole de extorsión de 50 millones de taka ($ 729.700) a un empresario cuando era Primer Ministro.
@@ -889,7 +889,7 @@ Pero más tarde se supo que los abogados no se habían evaluado peores que otros
 Algunos de los abogados en cuestión habían trabajado en la persecución de unos Republicanos, miembros de alto perfil del Congreso, mientras otros se habían negado a investigar las denuncias de fraude electoral contra los Demócratas.
 Estos abogados investigan y enjuician los casos judiciales para el gobierno
 y pueden ser despedidos en cualquier momento, pero no removidos por razones políticas.
-El sucesivo jefe del Departamento de Justicia, el Procurador General Alberto Gonzales, bajo presión por los despidos, renunció a su posición.
+El sucesivo jefe del Departamento de Justicia, el Procurador General Alberto Gonzales, bajo presión por los despidos, renunció a su posición. 
 Un cierto número de otros funcionarios del Departamento de Justicia hizo lo mismo.
 El informe del Procurador General es muy crítico del papel jugado por el Sr Gonzales en el asunto, y subraya como él tenía una "responsabilidad primaria" para los despidos, que "abdicó" de su posición de liderato y fue "notablemente no colaborativo" en el proceso.
 Otros funcionarios, y entre ellos Karl Rove, el ex colaborador de Bush, fueron criticados por no haber cooperado con la investigación.
@@ -902,12 +902,12 @@ Paul Rees, redactor-jefe de la revista Q, dijo: "Hay algunas canciones que trasc
 La canción, escrita por Jim Steinman, requiere una capacidad vocal excelente como la que fue utilizada por Meat Loaf.
 Una sección instrumental de casi dos minutos abre el himno.
 La canción fue conocida primero como un single en el Reino Unido en 1979 y llegó a ser número 15 en la clasificación.
-Sin embargo, Bat Out Of Hell de Meat Loaf permaneció unos nueve años en las clasificaciones y llegó a vender más de 40 millones de copias en todo el mundo.
+Sin embargo, Bat Out Of Hell  de Meat Loaf permaneció unos nueve años en las clasificaciones y llegó a vender más de 40 millones de copias en todo el mundo.
 Meat Loaf - nombre real Marvin Lee Aday - ha sufrido problemas de salud en los últimos años, incluyendo una operación quirúrgica por su arritmia cardíaca en 2003, después de un colapso durante un concierto.
 En 2007, una laringitis aguda le obligó a cancelar algunos conciertos.
 Posteriormente surgió que tenía un quiste en su cuerda vocal.
 Oscura calle de la ciudad, a menudo olvidada y tal vez pronta a la venta
-La ciudad de Nueva York cuenta con miles de avenidas, bulevares, calles y otros caminos, algunos famosos, otros simplemente de servicio.
+La ciudad de Nueva York cuenta con miles de avenidas, bulevares, calles y otros caminos, algunos famosos, otros simplemente de servicio. 
 Sin embargo, a muchas personas, inclusas los taxistas veteranos y los residentes locales de larga data, les resulta difícil indicar la ubicación del Extra Place, sobre todo porque muchos de ellos nunca han oído hablar de esta calle.
 La pequeña calle se encuentra en el East Village y se extiende al Norte de la Primiera Calle – antes que encontré la Seconda Calle - entre el Bowery y la Segunda Avenida.
 Esta callecita, más o menos de 30 pies de ancho y 120 de largo, se asemeja a un polvoriento callejón más de una vía activa.
@@ -921,11 +921,11 @@ Sin embargo, el Departamento de la Vivienda, Preservación y Desarrollo de la ci
 En la reunión del Comité de Comunidad de Vencidad para el uso de la tierra que tuvo lugar este mes, los representantes de la agencia Avalon esbozaron una propuesta para comprar la calle.
 Sin embargo, el comité, prefiriendo que la calle permaneciera a la ciudad, pidió un nuevo plan que se presentará el próximo mes, como dijo Susan Stetzer, el gerente de distrito de la Comunidad n.3.
 "La ciudad es propietaria hoy de muy pocos espacios y nos gustaría que siguiera poseyendo Extra Place," dijo la Sra.
-"Podemos considerar las propuestas hechas por Avalon para solucionar el problema y gestionar el espacio, pero también queremos garantizar el acceso público a la calle."
+"Podemos considerar las propuestas hechas por Avalon para solucionar el problema y gestionar el espacio, pero también queremos garantizar el acceso público a la calle." 
 Avalon Bay había anunciado hace varios meses que quería reparar la pequeña calle e instalar unos asientos, incluidos algunos para ser utilizado como café, en la espera de alquilar los espacios.
 La idea que Avalon podría comprar la calle surgió por primera vez durante la reunión de este mes
 pero Michele de Milly, una portavoz de Avalon Bay, dijo que a pesar de que la compañía quería utilizar la calle, no necesariamente quería poseerla.
-"La preocupación primaria de Avalon Bay es la renovación de este callejón abandonado y la posibilidad de convertirlo en una área pública," dijo, añadiendo que la propuesta de venta venía de la ciudad misma.
+"La preocupación primaria de Avalon Bay es la renovación de este callejón abandonado y la posibilidad de convertirlo en una área pública," dijo, añadiendo que la propuesta de venta venía de la  ciudad misma.
 Seth Donlin, un portavoz del Comité para la Preservación, confirmó que era un deseo de la ciudad lo de vender la calle y observó que la misión de la agencia es el desarrollo de la propiedad más que la gestión de esa.
 En comparación con su alrededores más de color, los del Bowery, Extra Place ha dejado una huella en la historia.
 Algunos creen que obtuvo su nombre en 1802, cuando la gran finca de propiedad de Philip Minthorne fue dividida entre sus hijos y esta estrecha franja de tierra no fue reclamada por nadie.
@@ -935,7 +935,7 @@ La puerta trasera de el CBGB, el monumento de punk rock que cerró en 2006, se a
 Algunos residentes, incluidos los bloggers que escriben sobre el aburguesamiento del East Village, se han opuesto a la idea de vender Extra Place, argumentando que los bienes públicos, aún modesto que sean, deben seguir siendo públicos.
 Otros han elogiado Extra Place como pieza rara, prácticamente sin cambios, una raja de la ciudad que debería ser tutelada.
 Jeremías Moss, que dirige un blog llamado Jeremiah's Vanishing New York (subtitulo, "The Book of Lamentations: A Bitterly Nostalgic Look at a City in the Process of Going Extinct"), ha puesto a disposición parte de una charla de la historia de la ciudad sobre Extra Place, publicada por el diario The New Yorker en 1952.
-El autor, Brendan Gill, escribió: "Extra Place es un callejón un poco estrecho y sin salida, oscuro también por el día y marcados por puertas de almacén de hierro oxidado y contra-ventanas, con periódicos viejos de semanas soplados a lo largo de los canalones."
+El autor, Brendan Gill, escribió: "Extra Place es un callejón un poco estrecho y sin salida, oscuro  también por el día y marcados por puertas de almacén de hierro oxidado y contra-ventanas, con periódicos viejos de semanas soplados a lo largo de los canalones."
 Con pocas excepciones, la calle parecía más o menos la misma en una tarde reciente.
 Una rata se curía a través de la parte atrás de la calle y se paraba cerca la puerta que se utilizaba para entrar al CBGB y que ahora acoge una tienda de ropa de lujo.
 Graffiti en las paredes y una botella de cerveza vacía de cerca 22-oz estaban cerca de un nuevo lote de periódicos desechados.
@@ -944,11 +944,11 @@ El Sr Fields, por su parte, notó que algunas personas subestima el poder atract
 "Pasé los mejores años de mi vida," dijo, "en lugares oscuros, húmedos y asqueroso."
 El debate sobre el bilingüismo: inmersión en el idioma Inglés
 En este capítulo de Education Watch, Bruce Fuller y Lance T. Izumi discuten las posiciones de los candidatos sobre la educación bilingüe.
-Lance T. Izumi, un viejo asociado en estudios sobre la California y director de estudios del Pacific Research Institute for Public Policy, es co-autor del libro "Not as Good as You Think: Why the Middle Class Needs School Choice."
+Lance T. Izumi, un viejo asociado en estudios sobre la California y director de estudios del Pacific Research Institute for Public Policy, es co-autor del libro  "Not as Good as You Think: Why the Middle Class Needs School Choice."
 Llamar de manera efectiva a los votantes hispanos es un negocio difícil.
 Las propuestas en materia de educación hechas por Barack Obama son el ejemplo de eso.
 La campaña del Sr. Obama toma nota de que "los afro-americanos y los estudiantes latinos tienen significativamente menos probabilidades de graduarse que los estudiantes blancos," y esta es una consideración muy cierta.
-Para combatir tales diferencias en los sucesos del aprendizaje, el plan de educación de Obama específicamente aboga, entre otras cosas, "la educación bilingüe de transición" para los alumnos-Inglés.
+Para combatir tales diferencias en los sucesos del aprendizaje,  el plan de educación de Obama específicamente aboga, entre otras cosas, "la educación bilingüe de transición" para los alumnos-Inglés.
 Sin embargo, la cuestión abierta para el Sr Obama es si el compromiso de la educación bilingüe, que prefiere en aula la instrucción en idiomas distintos del Inglés, sea eficaz en anular la distancia en los resultados finales.
 Tomemos, por ejemplo, Sixth Street Prep, una escuela primaria oficialmente reconocida en la región oriental del condado de Los Angeles.
 En esta escuela la inmensa mayoría de los estudiantes son hispanos y de familia con renta baja:
@@ -962,8 +962,8 @@ Inmersión en Inglés significa la casi exclusiva utilización del idioma en el 
 La Sra Mikels, que se opone a la educación bilingüe, me dijo, "hemos tenido éxitos extraordinarios con estudiantes como éste último que ha llegado desde Mexico y que, si entras en el aula 12 meses más tarde no serías capaz de recoger lo que fue."
 "Funciona," señaló, "nosotros creemos que funcione."
 ¿Tomará el Sr Obama una escuela como Sixth Street Prep como un modelo de replicar por otras escuelas con grandes poblaciones de alumnos hispanos-inglés?
-Los resultados logrados por esta escuela deberían quitar cualquier duda sobre la respuesta, pero la idea del los políticos de su partido sobre el asunto de la educación (las Asociaciones para la Educación Nacional han sido por largo tiempo defensores de la educación bilingüe) y su mismo constante apoyo a la educación bilingüe oscura la predicción de la respuesta del Sr Obama.
-Si bien está que los inmigrantes deben aprender Inglés, recientemente el Sr Obama ha trivializado la cuestión dejando que la gente debería dejar de preocuparse por la legislación que sólo está escrita en Inglés
+Los resultados logrados por esta escuela deberían quitar cualquier duda sobre la respuesta, pero la idea del los políticos de su partido sobre el asunto de la educación (las  Asociaciones para la Educación Nacional han sido por largo tiempo defensores de la educación bilingüe) y su mismo constante apoyo a la educación bilingüe oscura la predicción de la respuesta del Sr Obama.
+Si bien está que los inmigrantes deben aprender Inglés, recientemente el Sr Obama ha trivializado la cuestión dejando que la gente debería dejar de preocuparse por la legislación que sólo está escrita en Inglés 
 y en lugar de eso, dijo, "ustedes deben asegurarse de que su niño puede hablar español."
 Si realmente el Sr. Obama desea mejorar el sistema y cerrar lagunas, debería considerar cuidadosamente los modelos de educación que trabajan bien, más que despreciarlos o trivializarlos.
 El precio del petróleo cae bruscamente después de los renovados temores económicos
@@ -981,13 +981,13 @@ Como la situación económica se deteriora, se espera en un rebaje de la demanda
 "Las perspectivas para la equidad mundial, la tasa de interés y de cambio van a ser cada vez más inciertas," escribieron los analistas de la Deutsche Bank en una nota a los inversores.
 "Creemos que los productos básicos no podrán escapar de este contagio.
 Desde la perspectiva de los productos, la nuestra preocupación más acuciantes es la evaluación si el virus americano se propagará a nivel mundial y específicamente a China. "
-Los analistas del banco han reducido sus expectativas para el próximo año, como el consumo de petróleo baja a causa de la crisis en el crecimiento económico y la previsión de reducción del precio del petróleo y del gas es de un 20 por ciento para 2009.
+Los analistas del banco han reducido sus expectativas para el próximo año, como el consumo de petróleo baja a causa de la crisis en el crecimiento económico y la previsión de reducción del precio del petróleo y  del gas es de un 20 por ciento para 2009.
 Segundo cuarto de locura: equipo establece récord
 Después de haber pasado, durante las últimas ocho temporadas, más tiempo que nadie en la uniforme de Jets, jugando en defensa, Shaun Ellis pensé que había visto todo.
 Entonces él vio como se desarrollan las cosas en el segundo cuarto este domingo, cuando los Jets transformaron un partido sin anotación en un juego de desinflarse.
 "Nunca he visto nada como eso," comentó Ellis.
 El segundo cuarto inició después de los Jets y los Arizona Cardinals habían jugado con pereza bajo las sombrías de las nubes.
-En este momento ocurrió que el quarterback Brett Favre encontró a Laveranues Coles realizando una meta de 12 yardas y sugiriendo el presagio perfecto para una tarde, en que la evolución de relación entre los jugadores tuvo un gran salto hacia adelante.
+En este momento ocurrió que el quarterback Brett Favre encontró a Laveranues Coles realizando una meta de 12 yardas y  sugiriendo el presagio perfecto para una tarde, en que la evolución de relación entre los jugadores tuvo un gran salto hacia adelante.
 Favre encontró a Coles para dos metas más en el cuarto, una de estas cuando un cornerback se cayó y otro llegó con 10 segundos en la mitad.
 "Yo no salí de mi camino," dijo Favre de todos los pasos que iban a Coles.
 "Él es un diablo de un jugador.
@@ -999,7 +999,7 @@ Linebacker David Bowens fue obligado a la falta por Warner.
 En el último turnover, las faltas obligadas por Bowens, podrían haber sido la mejores.
 Los Cardenals habían tomado la posesión con 10 segundos disponibles, y después que los Jets recuperaron el balón, Jay Feely le dió una patada de 20 yardas para ganar un definitivo 34-0.
 Son los puntos mayores que los Jets nunca hicieron en un cuarto.
-A El entrenador del equipo, Eric Mangini, preguntadle de describir la locura de este momento, dijo: "El segundo cuarto o el tercer cuarto? "
+A El entrenador del equipo, Eric Mangini,  preguntadle de describir la locura de este momento, dijo: "El segundo cuarto o el tercer cuarto? "
 Cuando se le contestó ambos - los Jets permitieron 21 puntos sin respuesta en el tercer cuarto - Mangini dijo: "Yo puedo decir que me gustó mucho más el segundo cuarto que el terzero.
 Han ganado un montón de puntos en un período muy corto de tiempo."
 Gebrselassie descansado encabeza su récord mundial
@@ -1015,10 +1015,10 @@ Es evidente que la suspensión le dejó fresco, no oxidado.
 "Estoy muy feliz," Gebrselassie dijo a los periodistas.
 "Todo fue perfecto.
 Yo empecé otra vez hace una semana, y hoy teñí algunas dudas, pero al final todo fue bien."
-El atleta ha sido objeto de algunas críticas - especialmente en Kenya, la rival afro-oriental de Etiopía - para el estilo de orquestar demasiado sus carreras, en general, evitando el encuentro con muchas estrellas del maratón mundial, basándose en los marcapasos como si se tratara de una pista de carrera, y poniendo los récord por delante del sentido de competición.
+El atleta ha sido objeto de algunas críticas - especialmente en Kenya, la rival afro-oriental de Etiopía - para el estilo de orquestar demasiado sus carreras, en general, evitando el encuentro con muchas estrellas del maratón mundial, basándose en los marcapasos como si se tratara de una pista de carrera, y poniendo los récord  por delante del sentido de competición.
 Pero esta crítica no disminuye la grandeza de las habilidades de Gebrselassie como corredor.
 Este domingo, a la marcha de cuatro kenianos, Gebrselassie alcanzó la mitad de la carrera en 1:02:04.
-Dos corredores de elite de Kenia, James Kwambai y Charles Kamathi, empezaron desafiar a Gebrselassie después que sus marcapasos disminuyeron.
+Dos corredores de elite de Kenia, James Kwambai y Charles Kamathi, empezaron desafiar a Gebrselassie después que sus marcapasos disminuyeron. 
 Pero poco antes de tres millas de la meta, Gebrselassie cogió un último impulso para separarse de Kwambai, quien finalizó segundo en 2:05:36, mejorando su mejor récord personal por casi cinco minutos.
 Kamathi llegó al tercer lugar en 2:07:48.
 En la carrera femenina, Irina Mikitenko, nativa de Kazajstán pero ahora ciudadana alemana, completó un año notable ganando en 2:19:19, el séptimo tiempo más rápido en la historia.
@@ -1049,7 +1049,7 @@ Teniendo cara de cemento tanto en la vida cuanto en la literatura, la Sra Hursto
 Ella también menciona al nuevo marido de la viuda Dash y escribe que Glenn Lee "vende bebidas de todo tipo y cualquiera cosa se va con habitaciones transitorias."
 Por lo tanto, en tan sólo unos cientos de palabras, la Sra Hurston pone en relación Eatonville con el gobierno autónomo, sino también con el analfabetismo, el segundo matrimonio y el sexo.
 Evidentemente, este Fodor no lo hacía.
-De hecho, no todo el mundo apreció el retrato.
+De hecho, no todo el mundo apreció el  retrato.
 "Zora lo describió tal cual fuera," dijo Ella Dinkins, 90 años, una de las niñas Johnson que la Sra Hurston inmortalizó citando a hombres que iban cantando canciones sin color acerca sus belleza.
 Añadió: "Algunas personas no les gustó eso."
 La Sra Hurston es aún recordada aquí como una excéntrica vivaz que regresó con frecuencia después de que su familia se mudó a Jacksonville, en Florida.
@@ -1075,8 +1075,8 @@ En una carta del 1955 al Sra Hurston escribió al diario The Orlando Sentinel, c
 R Los residentes dicen hoy que la desegregación de las escuelas, positiva en algunos aspectos, había debilitado la cohesión de Eatonville y socavado la confianza de sus jóvenes.
 "Los niños negros estaban acostumbrados ser abrazados - me acuerdo de esto – se acostumbraba abrazar al profesor por la mañana y por la noche," dijo N.Y. Nathiri, la hija de Ella Dinkins y director ejecutivo Preserve the Eatonville Community, una organización sin fines de lucro.
 Esto duró, añadió, hasta que los profesores y los estudiantes no provinieron del mismo lugar.
-"No iba abrazando a tu profesor porque éra blanco - hay una brecha cultural allí," dijo la Sra Nathiri.
-Los derechos civiles, sin embargo, ayudaron a crear el espacio para muchos más Zora Neale Hurstons – escritores negros, actores y artistas que pasaron por encima de los prejuicios, al igual que lo hizo ella, con boyante, confianza y líneas como: "¿Cómo se puede alguno negar a sí mismo el placer de mi compañía!
+"No iba abrazando a tu profesor porque éra blanco -  hay una brecha cultural allí," dijo la Sra Nathiri.
+Los derechos civiles, sin embargo, ayudaron a crear el espacio para muchos más Zora Neale Hurstons – escritores negros, actores y artistas que pasaron por encima de los prejuicios, al igual que lo hizo ella, con boyante, confianza y líneas como: "¿Cómo se puede alguno negar a sí mismo el placer de mi compañía! 
 No lo entiendo."
 En 1975, la escritora Alice Walker se fue hasta la tumba anónima de la Sra Hurston y comenzó a luchar para resucitar su reputación.
 Cinco años más tarde, una aclamada biografía de la Sra Hurston hecha por Robert E. Hemenway apareció en las librerías, reintroduciéndola en los cánones americanos.
@@ -1085,13 +1085,13 @@ Y esta vez, los viejo vecinos de la Sra Hurston la vieron como un salvador.
 En 1988, la comunidad comenzó a planificar una feria para la Sra Hurston para mostrar lo que el condado podría arruinar con esa carretera.
 Miles de admiradores llegaron a el evento inaugural dos años más tarde, y cada enero, muchos retornan para la celebración.
 Después de varios años, el condado ha abandonado su propuesta de carretera.
-"La idea resucitada de la carretera a cinco vías, habría sido poner en lo que usted llamaría velocidad de curvatura, un verdadero orgullo cívico," dijo la Sra Nathiri.
+"La idea resucitada de la carretera a cinco vías, habría sido poner en lo que usted llamaría  velocidad de curvatura, un verdadero orgullo cívico," dijo la Sra Nathiri.
 La Sra Boyd lo dijo más simplemente: "Zora salvó a Eatonville."
 La victoria sobre el proyecto de la carretera ha ayudado a cambiar la imagen de la misma ciudad.
 Personas de fuera ciudad como Rachelle Munson, un abogado que comenzó a venir a la iglesia de aquí en 1993, empezaron a aparecer en grandes números, y los residentes comenzaron a revisar el pasado.
 Eatonville entró en el Registro Histórico Nacional en 1998.
 Una nueva biblioteca (llevando el nombre de Hurston, por supuesto) abrió sus puertas en 2006, sobre un repavimentado y embellecido Kennedy Boulevard.
-Hoy en día, Eatonville sigue siendo una anomalía en Florida: a sólo seis millas del centro de Orlando, puede, a veces, sentirte como en una calle del pasado bajo una lluvia de verano, en una ciudad tan pequeña como la que fue fundada por sólo 27 familias negras en los años 1880.
+Hoy en día, Eatonville sigue siendo una anomalía en Florida: a sólo seis millas del centro de Orlando, puede, a veces, sentirte como en una calle del pasado bajo una lluvia de verano, en una ciudad tan pequeña como la  que fue fundada por sólo 27 familias negras en los años 1880.
 (El 90 por ciento de las personas es negro el día de hoy.)
 Los forasteros que vienen en busca de la historia de Eatonville, de su significado, a menudo son todavía tratados con precaución.
 A Un permiso por anticipado es necesario para hacer la mayoría de las entrevistas, y algunas cosas - como los murales en la iglesia más antigua de Eatonville, pintados por un hombre blanco y mostrando hombres negros que trabajan en el campo - no pueden ser fotografiados.
@@ -1107,7 +1107,7 @@ En la superficie, nada ha cambiado.
 Si los turistas en Manhattan se mantuvieran lejos de los quioscos y de las gigantescas pantallas de televisión en Times Square, no se darían cuenta de encontrarse en el ojo del huracán.
 Ellos nunca podrían imaginar que detrás de la fachada de vidrio de las oficinas a nido de abeja que se encuentran por encima de sus cabezas, los banqueros y los gestores de fondos especulativos que monopolizan Nueva York se enfrentan a diario con el peor "mal día de la oficina" desde el bajón de 1929.
 Chicos para la entrega a domicilio siguen haciendo resonar sus carritos de metal para el té a través de las aceras y llevando bandejas de muffins para reuniones desayuno.
-Hombres latinos sigue arrastrando entre edificios de apartamentos cargodos, al igual que mulas humanas, con 50 camisas de excéntrica estampación colgandas a un yugo a través de sus hombros. Los trabajadores de oficina aún esperan en cola para su comida para llevar de la mañana, y sigue siendo imposible coger un taxi entre las 4 y las 7 por la tarde en los días laborales.
+Hombres latinos sigue arrastrando entre edificios de apartamentos cargodos, al igual que mulas humanas,  con 50 camisas de excéntrica estampación colgandas a un yugo a través de sus hombros. Los trabajadores de oficina aún esperan en cola para su comida para llevar de la mañana, y sigue siendo imposible coger un taxi entre las 4 y  las 7 por la tarde en los días laborales.
 Los empleados esperan todavia haciendo cola por su bagel a los carritos del los vendedores, y todavia es imposible encontrar un taxi entre las cuatro y las cinco de la tarde en los dias de la semana.
 Me parecía como si no hubiera una crisis en absoluto, hasta que, este jueves por la tarde, con todas las previsiones pesimistas que hay, he decidido abrir una nueva cuenta de ahorros.
 Aunque había calculado el tiempo necesario para que la operación coincidiera con la calma del final de la tarde en mi filial local de JP Morgan Chase, una cola de más o menos 20 personas ya estaba esperando.
@@ -1119,7 +1119,7 @@ Durante el año pasado, 15 de de estos bancos silenciosamente han fracasado.
 En los últimos días, Washington Mutual, un banco con $ 327 mil millones de activo, entró en quiebra, y como los neoyorquinos se dirigían hacia sus casas el viernes por la noche para el fin de semana, otro banco, Wachovia, con unos depósitos de ahorro de $ 440 mil millones, iba buscando a un comprador de rescate.
 Los trabajadores de las oficinas y tiendas que se quedaban delante de mí, temiendo otro colapso, estaban trasladando su dinero a un banco a lo que se considera un refugio seguro, lo que está haciendo la mayoría de los rescates en Wall Street.
 Personas ordinarias de Nueva York se han convertido en las últimas semanas en expertos de las finanzas.
-Una mujer en mi supermercado chino local, hablando por teléfono, se refería a Lehman Brothers, el banco fracasado, y su director ejecutivo de aspecto afligido, Dick Fuld, comentaba el asunto con familiaridad como si se quejaran de la inactividad de un colega.
+Una mujer en mi supermercado chino local, hablando por  teléfono, se refería a Lehman Brothers, el banco fracasado, y su director ejecutivo de aspecto afligido, Dick Fuld, comentaba el asunto con familiaridad como si se quejaran de la inactividad de un colega.
 Y Lyn, quincuagésimo y algo conserje en uniforme de mi bloque de apartamentos, ha cambiado el rumbo normal de nuestras conversaciones sobre Brad y Angelina o mis compras al tendero.
 Él me dijo, después de mi visita al banco, que "ahora tengo todos mis ahorros en fondos del mercado monetario.
 La conmutación está hecha, no estoy tomando algún riesgo."
@@ -1146,20 +1146,20 @@ Un portavoz del Servicio del Juzgado dijo: "El jueves 25 de septiembre en el Juz
 "Paul Gadd no asistió en persona."
 Glitter, 64, había informado a las autoridades que deseaba viajar al extranjero, en virtud de encontrarse bajo el registro de delincuentes sexuales.
 Él tiene que informar a las autoridades en caso desee viajar al extranjero durante más de tres días
-y también es necesario que comunique a la policía la fecha prevista con siete días de antelación de su salida.
+y  también es necesario que comunique a la policía la fecha prevista con siete días de antelación de su salida.
 La policía de Kent dijo que no discutiría el caso individual o el posible lugar paradero de Glitter en el condado.
-Un portavoz de Policía de Kent dijo: "La policía de Kent hará todo lo posible para proteger a los niños en este país, o en el extranjero.
-Un portavoz de Policía de Kent dijo: "La policía de Kent hará todo lo posible para proteger a los niños en este país, o en el extranjero.
+Un portavoz de Policía de Kent dijo: "La  policía de Kent hará todo lo posible para proteger a los niños en este país, o en el extranjero.
+Un portavoz de Policía de Kent dijo: "La  policía de Kent hará todo lo posible para proteger a los niños en este país, o en el extranjero.
 "Desde nuestro punto de vista, es más fácil vigilar a alguien que permanece en el Reino Unido porque aquí tenemos los sistemas para gestionar todos los posibles riesgos de manera más eficaz.
 "Proteger a los habitantes de Kent es la principal preocupación de la policía de Kent y trabajamos en estrecha colaboración para vigilar el comportamiento de los delincuentes sexuales registrados en el condado y reducir al mínimo cualquier riesgo que pueda existir para el público."
 Glitter regresó al Reino Unido el mes pasado después de pasar 27 meses en una cárcel vietnamita para el abuso de dos niñas, con edades entre 10 y 11 años.
 Cuando fue liberado Glitter voló a Bangkok, donde cogió un vuelo a Londres.
 Sin embargo, dijo que sentía mal y se negó a volar a Londres.
 Las autoridades tailandesas no le permitieron pasar a través del control de pasaportes y finalmente se voló a Hong Kong.
-Las autoridades chinas también le negaron la entrada y él voló de regreso a Bangkok, donde la policía tailandesa y los funcionarios de inmigración insistieron porque regresara a Gran Bretaña.
+Las autoridades chinas también le negaron la entrada y él voló de regreso a Bangkok, donde la policía tailandesa y los funcionarios de inmigración insistieron porque  regresara a Gran Bretaña.
 Él probablemente llegó al Terminal 3 de Heathrow el 22 de agosto y permaneció allí mientras su abogado David Corker fue al Tribunal de Magistrados de Uxbridge, al oeste de Londres, tras Scotland Yard había aplicado con éxito el orden de registrarse como delincuente sexual.
 Glitter había sido encarcelado en el Reino Unido durante cuatro meses en 1999 por posesión de imágenes de abuso infantil.
-Una fuente del Ministerio del Asuntos Interiores reportó que Jacqui Smith, el Ministro del Interior se tranquilizó y alegró en saber que habían prohibido a Glitter viajar a Francia y España.
+Una fuente del Ministerio del Asuntos Interiores reportó que Jacqui Smith, el Ministro del Interior se tranquilizó y alegró en saber  que habían prohibido a Glitter viajar a Francia y España. 
 "Capto al maestro fuera de escena para extraer su caracter" Günther Bauer_Fotógrafo
 Ni tacones ni volantes ni trajes de estreno.
 La esencia de los grandes maestros del flamenco, despojados de la concentración en la interpretación para obtener el relajado aspecto del hombre o la mujer.
@@ -1531,7 +1531,7 @@ Los pescadores de Boulogne-sur-Mer decidieron esperar hasta la reunión de este 
 En Guilvinec, el " comité de crisis " tendrá que pensar el martes en el desarrollo del movimiento y en su participación en el encuentro previsto en el Ministerio de la Agricultura y de la Pesca en París.
 Pero algunos pescadores bretones no quieren ser representados por responsables del comité nacional de la pesca, que no sostuvo su movimiento.
 " La huelga proseguirá " porque " los pescadores no abandonaron " y " no quieren desplazarse hacia París ", anunció por ejemplo Liliane Cariou, el presidente del comité de la pesca de Lorient.
-Los pescadores profesionales, que no pagan tasas sobre el gasóleo, pagan actualmente cerca de 50 céntimos por litro pero consideran que se puede alcanzar el punto de equilibrio financiero de un barco sólo con un gasóleo con un precio inferior a 0,30 euro por litro.
+Los pescadores profesionales, que no pagan tasas sobre el gasóleo, pagan actualmente cerca de 50 céntimos por litro pero consideran que se puede alcanzar el punto de equilibrio financiero de un barco sólo con un gasóleo con un precio inferior a 0,30 euro por litro. 
 El magnífico Paul Newman
 El intérprete inolvidable de " Dos hombres y un destino " ha muerto a causa de un cáncer, a los 83 años, en su casa en el Connecticut.
 Hillary y Bill Clinton, Nicolas Sarkozy, George Clooney, Julia Roberts, Robert Redford y también Sam Mendes saludaron la leyenda del cine y el actor comprometido, Paul Newman, que ha fallecido a los 83 años.
@@ -1552,7 +1552,7 @@ AIG debe rápidamente realizar liquidez para reembolsar su préstamo de 85 mil m
 Análisis de la histórica sesión de la Bolsa de París
 La Bolsa de Nueva York acusó una caída histórica el lunes pasado después de que la Cámara de los Representantes haya rechazado el plano Paulson para salvar los bancos: el Dow Jones perdió un 6,98 %, o sea una pérdida jamás vista en Bolsa de casi 800 puntos, y el Nasdaq un 9,14 %.
 El índice industrial Dow Jones cayó de 777,68 a 10.365,45 puntos.
-En términos de puntos, la caída más importante de su historia (684,81 puntos) había sido registrada en el pasado el 17 de septiembre de 2001, o sea el día en el cual los intercambios volvieron a empezar después de los atentados terroristas del 11 de septiembre.
+En términos de puntos, la caída más importante de su historia (684,81 puntos) había sido registrada en el pasado el 17 de septiembre de 2001, o sea el día en el cual los intercambios volvieron a empezar después de los atentados terroristas del 11 de septiembre. 
 El índice Nasdaq, a dominante tecnológica, retrocedió 199,61 puntos a 1.983,73 unidades y el índice ensanchado(extendido) Standard & Poor's 500 un 8,81 % (o sea, 106,85 puntos), a 1.106,55 unidades, según las cifras definitivas del cierre.
 Ya deprimida por la crisis a principios de sesión, Wall Street se hundió después del rechazo inesperado por la Cámara de los Representantes del plano para salvar los bancos que hubiera permitido recobrar un poco de estabilidad en los mercados.
 Con 228 votos en contra y 205 a favor, los representantes le negaron al secretario del Tesoro de EEUU Henry Paulson los medios que pedía.
@@ -1731,7 +1731,7 @@ Es el Sr. Vic Toews, ex ministro de la "Justicia" (¡oh ironía!) en el gabinete
 Deshonrar así esta mujer que llevó un combate incesante para la justicia y que merece toda nuestra admiración lo que dice todo sobre las relaciones del primer ministro y de Stephen Harper.
 Estamos en frente de un gobierno que es el único, entre todos los países occidentales implicados, que no ha repatriado a su nacional que está encerrado en el campo de concentración de Guantánamo.
 Es un gobierno que no tiene en cuenta de ninguna manera el hecho de que Omar Khadr era un adolescente muy joven cuando los hechos que le son recriminados ocurrieron.
-El único gobierno que, a pesar del hecho de que Canadá firmó el Convenio de Ginebra, reniega su promesa y deja vivir en condiciones inhumanas un niño-soldado.
+El único gobierno que, a pesar del hecho de que Canadá firmó el Convenio de Ginebra, reniega su promesa y deja vivir en condiciones inhumanas un niño-soldado. 
 El único que chonta con una justicia falsa para evaluar la culpabilidad del acusado.
 Recordemos que el UNICEF, Amnistía Internacional y la Asociación de los abogados canadienses, particularmente, sostienen la repatriación de Omar Khadr con el fin de que goce del beneficio de un proceso equitativo en Canadá.
 Es este gobierno que cierra los ojos sobre la tortura: poco le importa que un joven adulto sea psicológicamente destruido, sin duda para siempre después de tantos años de exacciones.
@@ -1740,8 +1740,8 @@ Ya ha llegado la hora en la cual ninguna moral existe más: podemos maltratar, t
 Muchos electores creen que encontrarán la salvación en un partido que encomia la Virtud, la Ley y el Orden: no ven que este gobierno renunció a lo que hacía la reputación y la dignidad de nuestro país.
 Sr. Toews la vergüenza está provocada por esta renuncia y por nada más.
 Opinión libre - El discurso orwelliano de Barrick Gold
-En su edición del 17 de septiembre, Le Devoir publicó una carta de Sr. Patrick J . Garver, vicepresidente y director de la minera canadiense Barrick Gold.
-Siguiendo una lógica orwelliana, Barrick Gold afirma que la compañía aurífera más grande en el mundo intentó un proceso por difamación de seis millones de euros contra tres autores y una pequeña casa editorial con el fin de provocar un " debate público transparente ".
+En su edición del 17 de septiembre, Le Devoir publicó una carta de Sr. Patrick J . Garver, vicepresidente y director de la minera canadiense Barrick Gold. 
+Siguiendo una lógica orwelliana, Barrick Gold afirma que la compañía aurífera más grande en el mundo intentó un proceso por difamación de seis millones de euros contra tres autores y una pequeña casa editorial con el fin de provocar un " debate público transparente ". 
 Si es verdad que los jueces son independientes e imparciales, no es la verdad que juzgan, sobre todo en el caso de persecuciones por difamación, sino la ley.
 Sin sorpresa, esta diferencia fundamental es completamente ocultada por Sr. Garver.
 ¿ Porqué, según Barrick Gold, el mejor modo de llevar un debate público sería perjudicar quienquiera se atreve a sostener una posición contraria a la suya?
@@ -1786,7 +1786,7 @@ Llega después de 14 meses de una crisis provocada por el estallido de una burbu
 Es un grupo de elegidos republicanos que había hecho cambiar el primer proyecto de acuerdo, la semana pasada.
 Creemos que hemos salido del estancamiento desde que los demócratas aceptaron que ciertos activos "tóxicos" de las compañías en dificultad sean solamente asegurados por el gobierno, más bien que comprados.
 Con el objetivo de limar las asperezas para todo el mundo en el Congreso, también añadimos una disposición que estipulaba que si el gobierno tenía que asumir pérdidas durante cinco años con este programa, podría imponer nuevas tasas que pretenderían ayudarlo a recuperar dinero.
-El nuevo plan prevé el pago de una primera parte de 250 mil millones a la cual podrán añadirse 100 otros mil millones si al presidente le parece necesario.
+El nuevo plan prevé el pago de una primera parte de 250 mil millones a la cual podrán añadirse 100 otros mil millones si al presidente le parece necesario. 
 El pago de otros 350 mil millones tendría que ser confirmado por otro voto de parte del Congreso.
 En cambio de su ayuda, Washington conseguirá participaciones en las empresas socorridas que le valdrán dividendos en caso de ganancias y que podrá volver a vender cuando la tormenta será pasada.
 El gobierno federal tendrá la posibilidad de retrasar los procedimientos de embargos que concernían las viviendas obtenidas con préstamos inmobiliarios según este plan, así como fijar límites sobre la remuneración y sobre las compensaciones en metálico pagadas a los dirigentes de las empresas afectadas por la crisis.
@@ -1801,9 +1801,9 @@ El representante demócrata Brad Sherman, que es animador de un pequeño grupo e
 " Cuatrocientos profesores de economía, entre los que tres Premios Nobel, nos escribieron para decirnos: pedimos al Congreso no apresurarse y examinar atentamente la vía que hay que tomar ", declaró ayer.
 En este mismo momento, en Europa, teníamos otra vez la prueba de la naturaleza mundial de la crisis.
 Después de una reunión urgente, los tres países del Benelux anunciaron la nacionalización parcial del grupo bancario Fortis por 11,2 mil millones de euros (16,3 mil millones de dólares).
-La intervención de los gobiernos de Bélgica, Países Bajos y de Luxemburgo había sido necesaria después de que el banco francés BNP Paribas diera a conocer que renunciaba comprar su competidora en quiebra desde que perdió 2 mil millones de euros (2,9 mil millones de dólares) durante la crisis de los préstamos inmobiliarios de riesgo en los Estados Unidos.
-Fortis emplea a 85 000 personas y forma parte de los veinte bancos europeos más grandes y de los diez aseguradores más grandes.
-" Esto no es dinero perdido, declaró ayer el ministro neerlandés de las Finanzas, Wouter Bos.
+La intervención de los gobiernos de Bélgica, Países Bajos y de Luxemburgo había sido necesaria después de que el banco francés BNP Paribas diera a conocer que renunciaba comprar su competidora en quiebra desde que perdió 2 mil millones de euros (2,9 mil millones de dólares) durante la crisis de los préstamos inmobiliarios de riesgo en los Estados Unidos. 
+Fortis emplea a 85 000 personas y forma parte de los veinte bancos europeos más grandes y de los diez aseguradores más grandes. 
+" Esto no es dinero perdido, declaró ayer el ministro neerlandés de las Finanzas, Wouter Bos. 
 En cambio, recuperamos un derecho de voto en el banco y influencia.
 Es justamente algo que los ahorradores y los familias apreciaran ahora que los tiempos son inciertos. "
 Durante este tiempo, al otro lado de la Mancha, el gobierno británico parecía querer nacionalizar otro banco que sufre la crisis financiera.
@@ -1845,11 +1845,11 @@ El cineasta francés Bertrand Tavernier lo consideraba, con humor, " como un des
 La profesión no fue siempre fácil para el bello Paul Newman al que los papeles llegaron durante mucho tiempo sin hacer nada.
 Sin embargo interpretó menos a menudo el papel de galán joven que de marginal: neuróticos, alcohólicos, cabrones o desesperados, cuyos rasgos reflejaron las rebeliones.
 Como realizador, Newman reveló lados su verdadera sensibilidad púdica no muy conocidos.
-Su película Raquel, Raquel, en 1968 (según la novela de la canadiense Margaret Laurence), con su esposa Joanne Woodward en el papel principal, describía un retrato femenino de melancolía.
+Su película Raquel, Raquel, en 1968 (según la novela de la canadiense Margaret Laurence), con su esposa Joanne Woodward en el papel principal, describía un retrato femenino de melancolía. 
 Él que perdió a su hijo Scott a causa de sobredosis le dedicó su película Harry and Son en 1984, obra de pudor y de tristeza.
 " Entre los numerosos homenajes que se desencadenaron ayer para Newman, su gran amigo y antiguo compañero de armas Robert Redford (habían trabajado juntos en The Sting y Butch Cassidy and the Sundance Kid) afirmaba, muy entristecido: " mi vida y mi país fueron mejores gracias a su existencia "
 Generosidad, amor de la existencia son rasgos importantes del actor fallecido.
-Del otro lado de su carrera de leyenda, se esconde también un gran militante para los derechos civiles, la ecología, el cine independiente, un contestatario contra los excesos de Hollywood.
+Del otro lado de su carrera de leyenda, se esconde también un gran militante para los derechos civiles, la ecología, el cine independiente, un contestatario contra los excesos de Hollywood. 
 Habremos visto mucho su cara reinar sobre los botes de salsa vinagreta, de las salsas, de las galletas y de otros alimentos, juzgando este método como un método de mal gusto, aunque empezó como un gag.
 Los provechos de estas ventas fueron dados a su Fundación para la infancia en dificultad.
 Newman, más bien que contentarse de su mito, se habrá comprometido hasta el fin.
@@ -2225,7 +2225,7 @@ Debido al endeudamiento del país y el aumento del déficit comercial, es sólo 
 Los observadores rusos al contrario del político de la oposición calificaron de democráticas a las elecciones.
 Serguei Lebedev, jefe de la misión de la Comunidad de Estados Independientes declaró a la agencia rusa de noticias Ria Novosti: "la gente no cree en las palabras sino en los hechos", de manera que la falta de la oposición no es otra cosa que el testimonio de la madurez de los electores bielorrusos.
 Brunetta: "De ahora en más se desayuna antes de empezar a trabajar"
-No ha sucedido nunca en la Historia de Palacio Chigi que pusieran puertas automáticas para controlar la entrada y la salida del personal.
+No ha sucedido nunca en la Historia de Palacio Chigi que pusieran puertas automáticas para  controlar la entrada y la salida del personal.
 pero desde hoy se inicia con esta medida contra quien ficha y después se va al bar a tomar un café en horario de trabajo.
 Esta novedad ha sido presentada hoy por el ministro de la Administración Publica, Renato Brunetta y por el secretario general de la presidencia del Consejo, Mauro Masi.
 "Las puertas automáticas- dice Brunetta - son un instrumento para trabajar mejor, con mayor productividad, más presencia y más servicios" precisa el ministro.
@@ -2233,13 +2233,13 @@ Esta novedad ha sido presentada hoy por el ministro de la Administración Public
 Esto es Reformismo", subraya de nuevo Brunetta.
 Con Palacio Chigi se completa la instalación en todos los edificios de la Presidencia del Consejo.
 Para Masi "la elección de las puertas automáticas es importante también desde el punto de vista simbólico".
-No se ha encontrado resistencia por parte de los empleados, asegura el secretario general: "ha sido un cambio compartido por los trabajadores y hubo la colaboración de parte de los mismos".
+No se ha encontrado resistencia por parte de los empleados, asegura el secretario general: "ha sido un cambio compartido por los trabajadores y hubo  la colaboración de parte de los mismos".
 En definitiva, no más desayuno en horario de trabajo; no más café y medialunas.
 Palabra de Brunetta, que sugiere, sonriendo, "un buen capuchino a las 7 de la mañana es una mano santa".
 Durante una convención en la escuela Superior de la Pública Administración
 de Roma, el ministro declara que "en tres meses las ausencias por enfermedades de los empleados públicos han sido reducidas del 50%, quiere decir 60 mil personas más al trabajo en un año".
 Y agrega que es necesario rendir más eficaz la Administración Pública
-italiana, "las cuales dinámicas salariales – explica el ministro – en los últimos 8-10 años han sido dobles respecto al sector privado y bien por arriba del taso de inflación".
+italiana, "las cuales dinámicas salariales – explica el ministro – en los últimos  8-10 años han sido dobles respecto al sector privado y bien por arriba del taso de inflación".
 Por ahora millones de empleados públicos se han unido para oponerse a las normas del decreto Brunetta adhiriendo a la petición apoyada por el Codacons.
 "Mientras el ministro de la Función Pública muestra los números, el menor ausentismo de trabajo por causas de enfermedad – escribe la asociación de consumadores – el pueblo de los 'trabajadores vagos' está en continuo aumento .
 Son millones efectivamente en Italia los empleados de la administración pública correctos y productivos que se han unido para declarar guerra a las normas ilegitimas del decreto".
@@ -2259,14 +2259,14 @@ Por su parte el presidente de la Cámara Gianfranco Fini ha subrayado " como el 
 "Los datos sobre los accidentes en el trabajo parecen señalar un ligero andamiento positivo, pero esto no quita que el número de las muertes blancas sea igualmente impresionante", ha remarcado el presidente del Anmil Pietro Mercandelli.
 "No queremos, efectivamente, que esta "tendencia a la disminución" se traduzca en menos atención, porque es justamente cuando la atención disminuye que explota la tragedia.
 "Creemos que a nivel general se haga todavía demasiado poco para contrastar el fenómeno de los accidentes y el remedio puede ser ejercitado a través de múltiples acciones.
-Son necesarios, a nuestro criterio - ha resaltado Mercandelli – mayores controles y inspecciones, pero también una intervención más fuerte sobre la formación de los trabajadores, y esto a partir del mundo de la escuela ".
-"Sirve un ulterior esfuerzo - ha agregado - por cuanto concierne la comunicación y la sensibilización de la opinión pública.
+Son necesarios, a nuestro criterio - ha resaltado Mercandelli – mayores controles y inspecciones, pero también una intervención más fuerte  sobre la formación de los trabajadores, y esto a partir del mundo de la escuela ".
+"Sirve un ulterior esfuerzo  - ha agregado -  por cuanto concierne la comunicación y la sensibilización de la opinión pública.
 Pero sirve, sobretodo, un mayor sentido de responsabilidad de parte de los empleadores respecto a un fenómeno que representa una emergencia social".
 Mercandelli ha denunciado "el progresivo deterioro del nivel de tutela subsidiaria prevista para las víctimas del trabajo" y la "derivación asistencial hacia la cual el sistema se está dirigiendo en los últimos años".
 "El objetivo es restituir al trabajador la garantía del seguro - ha agregado – porque la suerte de quien se accidenta no tenga que depender de la dádiva dispuesta por el legislador cada vez".
 Lectores Mp3 bajo acusa, ponen a riesgo la audición
 Escuchar música a alto volumen por un periodo largo tiempo utilizando aparatos musicales portátiles como los lectores Mp3 puede causar lesiones permanentes a la audición.
-Es cuanto refiere la Comisión europea, que en un comunicado difundido en Bruxel cita la opinión de la Comisión Científica del riesgo sanitario emergente y recientemente identificado (Csrseri) de la Ue, publicado hoy.
+Es cuanto refiere la Comisión europea, que en un comunicado difundido en Bruxel cita la opinión de la Comisión  Científica del riesgo sanitario emergente y recientemente identificado (Csrseri) de la Ue, publicado hoy.
 "De esta opinión científica – se lee en la nota – surge que el 5-10% de aquellos que, por un periodo de al menos 5 años, escuchan música con aparatos musicales portátiles semanalmente por más de una hora al día teniendo el aparato a alto volumen arriesgan una perdida permanente de la capacidad auditiva".
 "Me preocupa el hecho que un número así alto de jóvenes que utilizan con frecuencia aparatos musicales portátiles y teléfonos celulares a nivel acústico elevado puedan arruinar inconscientemente sus oídos en manera irremediable", afirma Meglena Kuneva.
 "De las pruebas científicas – sigue la responsabilidad Ue - emerge un riesgo claro y debemos reaccionar rápidamente.
@@ -2274,16 +2274,16 @@ Lo que cuenta, es sensibilizar a los consumadores y rendir esta información de 
 Debemos re examinar, además los sistemas de control existentes a la luz de esta opinión científica, para que sean ampliamente eficaces y tengan el paso con la nueva tecnología".
 Bruxel había pedido Al Comité Científico Independiente de examinar el problema, viendo el gran uso de aparatos musicales portátiles y el aumento del número de jóvenes expuestos al ruido que eso origina.
 "Los científicos - concluye el ejecutivo Ue – confirman que es motivo de preocupación y la Comisión europea ahora examinará junto con a los estados miembros y a las partes interesadas que medidas se podrían eventualmente adoptar para proteger mejor los niños y los adolescentes de la exposición al ruido proveniente de aparatos musicales portátiles y aparatos afines".
-Actualmente, existe ya una norma de seguridad europea que limita a 100 dB el nivel de ruido de los aparatos musicales portátiles, pero preocupación aumenta como el daño auditivo que puede derivar de una exposición excesiva a tales fuentes de ruido.
+Actualmente, existe ya una norma de seguridad europea que limita a 100 dB el nivel de ruido de los aparatos musicales portátiles, pero preocupación aumenta como el daño auditivo que puede derivar de una exposición  excesiva a tales fuentes de ruido.
 Es posible limitar de mucho estos daños recurriendo a soluciones como la reducción de niveles y del tiempo de exposición al ruido.
-A su parecer, El Comité Científico Ue hace presente que se los utilizadores de aparatos musicales portátiles escuchan a volumen alto (mas de 89 decibeles)música por solo 5 horas a la semana superan el límite actualmente en vigor relativo al ruido máximo consentido en el puesto de trabajo.
+A su parecer, El Comité Científico Ue hace presente que se  los utilizadores de aparatos musicales portátiles escuchan a volumen alto (mas de 89 decibeles)música por solo 5 horas a la semana superan el límite actualmente en vigor relativo al ruido máximo consentido en el puesto de trabajo.
 Aquellos que escuchan música en tales condiciones por periodos mas prolongados, arriesgan una perdida permanente de la capacidad auditiva después de un periodo de 5 años.
-Significa que afecta el 5-10% de los utilizadores de tales aparatos y el numero puede ser cuantificado entre 2,5 y 10 millones de personas en la Ue.
+Significa que afecta el  5-10% de los utilizadores de tales aparatos y el numero puede ser cuantificado entre 2,5 y 10 millones de personas en la Ue.
 Roma, Alemanno da el vía a la Comisión para el futuro de la capital
 Hoy se inicia, en marzo se cierra, en junio se harán las cuentas.
 Es este el calendario fijado por la Municipalidad y para los trabajadores de la "Comisión para el fututo de la capital de Roma", que se ha instaurado esta mañana en su nueva sede detrás de las Termas de Caracalla.
-En seis meses, el presidente Antonio Marzano y los otros 49 componentes de la Comisión deliberaran los puntos principales para Roma.
-Una vez cerradas las puertas en marzo, la junta y el consejo comunal evaluaran análisis y proyectos, en modo de presentar en junio el Piano estratégico para Roma con el "bollo oficial" de la Municipalidad y de su intendente Gianni Alemanno.
+En seis meses, el presidente Antonio Marzano  y los otros 49 componentes de la Comisión deliberaran los puntos principales para Roma.
+Una vez cerradas las puertas en marzo, la junta y el consejo comunal  evaluaran análisis y proyectos, en modo de presentar en junio el Piano estratégico para Roma con el "bollo oficial" de la Municipalidad y de su intendente Gianni Alemanno.
 "La Comisión es absolutamente independiente y está representada por todas las ideas políticas, sociales y culturales – tiende a subrayar Alemanno – Deberá proveer propuestas para el desarrollo de Roma en la cual los que deciden políticamente, la junta y el consejo municipal, podrán después avalarse.
 No hay ninguna sobra posición de roles, solo la voluntad de tener un lugar donde elaborar un gran proyecto para Roma.
 En marzo terminados los trabajos desaparecerá, porque esta experiencia debe tener un termine temporal preciso.
@@ -2294,7 +2294,7 @@ Casi siempre la política se aplasta en la gestión ordinaria y en emergencias q
 Nosotros, al contrario, queremos mirar mas allá y a largo plazo, en una prospectiva mas profunda, trabajando con seriedad al desarrollo de Roma y a su futuro".
 El intendente de Roma tiende a señalar además que "esta Comisión no es ni un ente inútil ni una banalidad: es absolutamente gratis, no costera un euro a los ciudadanos romanos y servirá para hacer participar y razonar las mejores mentes que exprime la capital".
 Para Alemanno, efectivamente, "se necesita tener un diseño estratégico como referencia, no cerrado ni inmóvil, para permitir a nuestra ciudad hacer un autentico salto de nivel, de la cual tenemos absoluta necesidad, pensando con espíritu unitario a su futuro".
-Un futuro que, precisa el intendente de Roma" no se limitara solo a los actuales confines comunales sino que mirara mas allá" no solo en la óptica de la futura ciudad metropolitana y de su estado jurídico de Capital sino "también considerando el rol que Roma puede y debe desenvolver como Capital de Europa y del Mediterráneo".
+Un futuro que, precisa el intendente de Roma" no se limitara solo a los actuales confines comunales sino que mirara mas allá" no solo en la óptica de la futura ciudad metropolitana y de su estado jurídico de Capital sino "también  considerando el rol que Roma puede y debe desenvolver como Capital de Europa y del Mediterráneo".
 ¿Obama? El primer presidente anti American.
 Ha escrito un noto político americano que le interesa pasar por independiente: "Barack Obama será el segundo presidente anti-Americano.
 El primero fue Jimmy Carter, que con sus decisiones redujo la economía USA y tubo relaciones (como hace también hoy da ciudadano privado) con el enemigo Islam".
@@ -2313,7 +2313,7 @@ Han pedido a 1500 personas: ¿cuáles han sido los errores cometidos por Bush du
 Cambia América.
 En Vietnam esta nación perdió 50 mil soldados y la mandaron a casa a patadas en el trasero.
 En Irak son 4500 los soldados que han perdido la vida y los americanos no han sido forzados a hacer las valijas.
-Igualmente, Irak para la mayoría ha sido el punto débil de Bush.
+Igualmente, Irak para la mayoría ha sido el punto débil de  Bush.
 Quien asumirá el puesto de George W tendrá un deber enorme que desenvolver.
 Usa, el colapso económico se hace sentir también para los periodistas: en los periódicos es tiempo de cortes. Muchos dan la culpa a Internet, "asesina" del papel impreso.
 Quinientos periodistas americanos han sido interpelados por PEW Research Center sobre el estado de su profesión y de control mental para el futuro.
@@ -2361,9 +2361,9 @@ La crisis, efectivamente, es una crisis de instituciones bancarias- financiaría
 El que crea inmediatamente un problema político para quien lo gobierna: es decir cómo responder a la dificultad y a las protestas de aquellas personas y de aquellas familias que, por otra parte son electores.
 La crisis aparece económicamente mundial pero es políticamente y exclusivamente nacional.
 El internacionalismo político parece sustancialmente fuera de juego o no tienen mucho para decir: la prueba crucial es La Unión Europea que dividida como siempre entre los distintos intereses y las diferentes estrategias estatales no alcanza decidir ninguna política en común.
-Es del gobierno de cada estado que todos se esperan una intervención, planes de rescate y de reactivación, de nuevas reglas y sobretodo la subvención de fondos: desde el momento que se llega al corte es solo el estado que posee los recursos económicos y la masa de recursos financiaros para remediar las cosas.
+Es del gobierno de cada estado que todos se esperan una intervención, planes de rescate y de reactivación, de nuevas reglas y sobretodo  la subvención de fondos: desde el momento que se llega al corte  es solo el estado que posee los recursos económicos y la masa de recursos financiaros para remediar las cosas.
 Y poseen también los medios necesarios y la legitimación a usarlos: dos recursos de valor incalculable, valores en ciertas circunstancias en la cual ningún mercado probablemente y ninguna organización podrá jamás disponer en la misma medida.
-Esta nueva énfasis que la crisis pone sobre el estado-nación es en perfecta sintonía, con la mayor importancia siempre que el nuevo desarrollo de la economía tiende a atribuirle a un factor muy coligado a ese elemento: la territorialidad.
+Esta nueva énfasis que la crisis pone sobre el estado-nación es en perfecta sintonía, con la mayor importancia siempre que el nuevo desarrollo de la  economía tiende a atribuirle a un factor muy coligado a ese elemento: la territorialidad.
 Paradójicamente, mientras estábamos convencidos de haber entrado en la red de la tecnología siempre mas sofisticada, del inmaterial, mientras estábamos convencidos que la finanza global estaba ya destinada a dominar el mundo, nos dimos cuenta que nuestro futuro tendrá en cambio que hacer las cuentas cada vez mas con las cosas poco inmateriales como el agua, los cultivos y el petróleo.
 Todas cosas que, fíjate, pueden ser ciertamente transportadas de un lugar al otro de la tierra pero son igualmente unidas en modo absoluto en un espacio circunscrito, un territorio.
 Así que quien se encuentra como soberano, posee ciertamente muchas mas cartas respecto a quien no lo es, y a quien tiene la desgracia de vivir en un puesto sin cultivos, sin petróleo y sin agua.
@@ -2372,16 +2372,16 @@ Quien dice Territorio, Estado, Gobierno, inevitablemente dice Política y Lidera
 En este sentido la crisis económica parece producir dos fenómenos convergentes.
 Por un lado la conciencia objetiva de la necesidad de una liderazgo, la petición de alguno que sepa tomar en mano la situación.
 Por otro lado una onda de descrédito para los liderazgos existente, de especie económica relevada inadecuadas con muchas zonas oscuras.
-Y juntos algo mas profundo y en un cierto sentido inquietante: un descrédito, una intolerancia, una imagen inadecuada, un sentido de lejanía, que tiende a implicar la entera clase dirigente de los países del Occidente en un número creciente.
+Y juntos algo mas profundo y en un cierto sentido inquietante: un descrédito, una intolerancia, una imagen inadecuada, un sentido de lejanía, que tiende a  implicar la entera clase dirigente de los países del Occidente en un número creciente.
 Parece avanzar siempre más, en diversos lugares de la población, la convicción que antes que sus acciones sean las mismas que las de las elites sociales hasta ahora en auge, el mismo modo de sentir y de ser, su cultura en la excepción comprensiva del termine, a haber hecho el propio tiempo y a ser mas extraño a las opiniones de la mayoría.
-La demanda de liderazgo, en pocas palabras, alimenta subterráneamente un movimiento ramificado pero potente de deslegitimación de las clases dirigentes y de los estructuras políticas tradicionales, que se manifiestan en una"revuelta» electoral o en los cambios repentinos de humores colectivos de estos últimos tiempos, desde la salida conservadora en Austria-Baviera al colapso del consenso social-democrático en Gran Bretaña, a la rebelión de los hombres del congreso americanos contra Bush (y capas también con la victoria de la derecha en Italia que tiene algo que ver).
+La demanda de liderazgo, en pocas palabras, alimenta subterráneamente un movimiento ramificado pero potente de  deslegitimación de las clases  dirigentes y de los estructuras políticas tradicionales, que se manifiestan en una"revuelta» electoral o en los cambios repentinos de humores colectivos de estos últimos tiempos, desde la salida conservadora en Austria-Baviera al colapso del consenso social-democrático en Gran Bretaña, a la rebelión de los hombres del congreso americanos contra Bush (y capas también con la victoria de la derecha en Italia que tiene algo que ver).
 Se tiene la impresión que las elites tradicionales, sus partidos, sus programas, pero también sus ritos, sus periódicos, sus intelectuales acreditados, su formato diría alguno, hagan siempre más dificultad a comprender y entonces a representar, aquello que desde hoy que está tomando forma son los estratos profundos de la sociedad occidental y que la crisis económica renueva, acrecienta y agita potencialmente en desmedida.
 De frente a todo esto hablar de una"rebelión de masas» hoy en día es francamente exagerado.
 Pero tener los ojos abiertos ciertamente no lo es.
 El súper pegamento para caminar sobre las paredes
 Vencer las leyes de gravedad gracias a un súper pegamento y en un futuro caminar sobre las paredes como el hombre araña.
 Es el objetivo de varios centros de investigación americanos y ahora un equipo de cuatro institutos se ha acercado bastante.
-Con un adhesivo de solo 2,5 centímetros cuadrados los científicos han podido tener pegado un cuerpo de 100 kilos sobre una pared vertical.
+Con un adhesivo de solo 2,5 centímetros  cuadrados los científicos han podido tener pegado un cuerpo de 100 kilos sobre una pared vertical.
 EL ESTUDIO – La revista americana Ciencia ha publicado los descubrimientos de algunos investigadores de la Universidad de Dayton, de Akron, de Georgia Institute of Technology y de la Air Force Research Laboratory.
 El material inventado por el team de investigadores es una evolución de los existentes que usan una estructura particular del carbono, llamada nanotubos de carbono.
 «El principio del pegamento puede ser imaginado como una serie de tubos ordenados como una pila de espaguetis» explica Zhong Lin Wang del Georgia Institute of Technology de Atlanta.
@@ -2396,8 +2396,8 @@ En un artículo de la revista American Chemical Society, los estudiosos californ
 Fármacos: nunca con jugo de fruta
 Atención al jugo de pomelo, al de naranja y al de manzana.
 Estas bebidas, consumadas sobre todo en verano porque son refrescantes y ricas de vitaminas, si se toman contemporáneamente con algunos fármacos se altera su absorción amplificando o disminuyendo según el caso, la eficiencia con consecuencias graves para la salud.
-A repetir el riesgo de los jugos de frutas sean envasados que frescos asociados a la asunción de algunos medicinales David Bailey, profesor de la Universidad de Western Ontario en Londres, que desde el 236esimo meeting nacional de American Chemical Society en curso a Filadelfia envía una nueva alarma: basta un vaso de jugo de pomelo, de naranja y de manzana para reducir el absorbimiento de algunos fármacos, anulando los efectos benéficos y poniendo a riesgo la salud de los pacientes.
-El jugo de pomelo era ya estado bajo acusa porque se retenía responsable de aumentar a niveles tóxicos algunos medicinales anti arrítmicos, antibióticos, ansiolíticos, antihistamínicos y neurológicos.
+A repetir el riesgo de los jugos de frutas sean envasados que frescos asociados a la asunción de algunos medicinales David Bailey, profesor de la Universidad de Western Ontario en Londres, que desde el  236esimo meeting nacional de American Chemical Society en curso a Filadelfia envía una nueva alarma: basta un vaso de jugo de pomelo, de naranja y de manzana para reducir el absorbimiento de algunos fármacos, anulando los efectos benéficos y poniendo a riesgo la salud de los pacientes.
+El jugo de pomelo era ya estado bajo acusa porque se retenía responsable de aumentar  a niveles tóxicos algunos medicinales anti arrítmicos, antibióticos, ansiolíticos, antihistamínicos y neurológicos.
 FARMACOS A RIESGOS – La misma agencia italiana del fármaco había dado la noticia en un boletín de informaciones dos años atrás alarmando médicos y pacientes a no subestimar el peligro que derivaba de este mezcla y a poner atención a cosa se bebe en el caso se esté asumiendo un fármaco como por ejemplo el a Diasepam o el Metadone.
 NO SOLO EL POMELO – Según los expertos también el jugo de naranja y el de manzana contienen sustancias que inhiben los fármacos.
 Una larga lista de los principios activos inhibidos por el pomelo y otros jugos.
@@ -2408,12 +2408,12 @@ El premio nobel de economía ha sido asignado al americano Paul Krugman por sus 
 Krugman, 55 años, es un neo keynesiano que enseña a la Universidad de Princeton y es un noto editorialista del New York Times.
 Krugman es uno de los mayores críticos de las decisiones de la administración de Bush en cuanto a la economía y a la política exterior.
 Pocos meses después del atentado del 11 de septiembre del 2001, en esos días che quebraba Enron, Krugman había previsto en una editorial publicada por el New York Times que el segundo evento seria mas determinante que el primero, en termines de consecuencia para los Estados Unidos.
-Una previsión que desencadeno mucha polémica y que por varios años vino reprochada a la economía, pero que ahora se ha revelado exacta.
-«Estoy sorprendido y un poco molesto por como el recuerdo del escándalo del colapso de Enron y de Worldcom han desaparecido rápidamente de la atención del público», había declarado Krugman a la fine del 2002.
-Según Lorenzo Bini Smaghi, del comité ejecutivo de la banca central europea, Krugman es un"economista de gran valor», pero también un divulgador con un estilo"muy agresivo, particularmente crítico contra los excesos del liberalismo de la administración de Bush».
+Una previsión que desencadeno mucha polémica  y que por varios años vino reprochada a la economía, pero que ahora se ha revelado exacta.
+«Estoy sorprendido y un poco molesto por como el recuerdo del escándalo del colapso de Enron y de Worldcom han desaparecido rápidamente de la atención del público», había declarado Krugman  a la fine del 2002.
+Según Lorenzo Bini Smaghi, del comité ejecutivo de la banca central europea, Krugman es un"economista de gran valor», pero también un  divulgador con un estilo"muy agresivo, particularmente crítico contra los excesos del liberalismo de la administración de Bush».
 Open Office, eco la tercera edición del paquete"anti-Microsoft»
 Es el día del lanzamiento del OpenOffice.org 3.0, la suite open source de productividad personal que mira a atraer siempre mas utilizadores, desde la casa a la oficina a los profesionistas de la administración pública, como alternativa gratuita al conocido Microsoft Office.
-Después de un trabajo de casi un año de parte de los desarrolladores voluntarios, de los cuales sus espaldas están vigiladas por SUN Microsystem, el nuevo Open Office se muestra al público con varias novedades: a la pantalla de bienvenida y a la interfaz revista menos grosera, se agregan otras mas consistentes, como la compatibilidad para el sistema operativo Apple Mac OS X y el soporte para el nuevo formato ODF(Open Document Format) 1.2,la ultima versión estándar ISO.
+Después de un trabajo de casi un año de parte de los desarrolladores voluntarios,  de los cuales sus espaldas están vigiladas por SUN Microsystem, el nuevo Open Office se muestra al público con varias novedades: a la pantalla de bienvenida y a la interfaz revista menos grosera, se agregan otras mas consistentes, como la compatibilidad para el sistema operativo Apple Mac OS X y el soporte para el nuevo formato ODF(Open Document Format) 1.2,la ultima versión estándar ISO.
 Atención puesta también al multi funcionamiento con la suite Office 2007, Open Office es en grado de abrir los documentos con la nueva extensión de Microsoft (.docx, .xlsx, .pptx).
 Interesante algunas funciones especificas de algunos módulos como aquel que permite reducir la dimensión de la presentación de PowerPoint, útil por ejemplo, para enviarla vía posta electrónica, o la posibilidad de importar el file PDF en el modulo de elaboración grafica, conservando el aspecto original de la pagina.
 Siempre sobre este frente se pueden crear documentos "PDF híbridos", que acumulan la grafica típica del formato de Adobe con los elementos de una hoja de cálculo o de un elaborador de texto.
@@ -2424,7 +2424,7 @@ Además que para Windows y Mac OS, como normalmente la suite es también disponi
 A pedido puede ser mandado también el cd de instalación a casa o al trabajo.
 Y si el tema del gratuito puede ser un gancho para la difusión en las casas, es en ámbito business que Open Office la suite prueba, intenta la grande apuesta, pudiendo ya contar con varios proyectos realizados en la pública administración y en las escuelas.
 Y no faltan ni siquiera las realidades que ofrecen un servicio de formación, consultas y de asistencia ideal para las pequeñas y medianas empresas, en las que se podrían abrir prospectivas de business.
-Open Office se compone de cinco módulos principales: Writer, para la video escritura el correspondiente de Word; Calc, es la hoja de cálculo que sustituye Excel; Impress, para la presentación de Powerpoint; Dbase, come en el caso del conocido Access es el programa que consiente a trabajar en el data base; y por ultimo Draw el modulo grafico.
+Open Office se compone de cinco módulos principales: Writer, para la video escritura  el correspondiente de Word; Calc, es la hoja de cálculo que sustituye Excel; Impress, para la presentación de Powerpoint; Dbase, come en el caso del conocido Access es el programa que consiente a trabajar en el data base; y por ultimo Draw el modulo grafico.
 Objetivo para el 2008 es de llegar a 5 millones de download, y considerando que hasta hoy llegamos a casi ya 3 millones 600 mil, con la salida de la versión nueva es probable que se pueda superar la cifra prevista.
 También Kohl resulta positivo es el cuarto caso de doping
 Nuevo caso positivo en el tour de Francia: se trata del austriaco Bernhard Kohl, del team Gerolsteiner, tercer clasificado y ganador de la mejor remera del escalador.
@@ -2437,10 +2437,10 @@ El austriaco de 26 años se ha posicionado en el podio a las espaldas del españ
 INMIGRANTES:NEW YORK TIMES SE PREGUNTA, ITALIA ES RACISTA?
 Italia de país de emigrante se ha transformado solo recientemente en una destinación privilegiada para los inmigrantes" acogidos con hostilidad.
 Esto está transformando el país bello en una nación de racistas? Es lo que se pregunta el New York Times en un largo artículo que ha dedicado al debate sobre el tema racismo en Italia partiendo del caso del joven Abdul William Guibre originario de Burkina Faso asesinado el mes anterior en Milán por haber robado una caja de galletitas.
-Este caso evidencia lo que el New York Times define la "paradoja del norte": las regiones septentrionales son al mismo tiempo aquellas donde se registran "mas integración y mas trabajo" pero también el mas alto sentimiento anti-inmigrantes del país y el soporto mas alto de la liga Norte".
+Este caso evidencia lo que el  New York Times define la "paradoja del norte": las regiones septentrionales son al mismo tiempo aquellas donde se registran "mas integración y mas trabajo" pero también el mas alto sentimiento anti-inmigrantes del país y el soporto mas alto de la liga Norte".
 Como confirma de la creciente tensión entre italianos e inmigrantes el New York Times ha citado también los episodios de intolerancia en Milán, Parma, Roma, Ciampino y Castel Volturno.
 No solo.
-También la nueva legislación querida por la Lega aprieta el freno sobre la inmigración y facilita la expulsión de los clandestinos es citada como paradigma del cambiamiento del clima en Italia.
+También la nueva legislación querida por la Lega aprieta  el freno sobre la inmigración y facilita la expulsión de los clandestinos es citada como paradigma del cambiamiento del clima en Italia.
 Tendencia marcada sea por el Papa que por el presidente de la República: "Giorgio Napolitano encontrando a Benedetto XVI en el Congreso ha pedido que el Estado y la iglesia trabajen juntos para combatir el racismo".
 Estudiantes victimas del alquiler caro, hasta 900 euros por una habitación
 El mercado de los alquileres para los universitarios no conoce la crisis.
@@ -2476,7 +2476,7 @@ Entre las normas previstas existen mediadas de facilitación fiscal a favor de l
 «Es una iniciativa que me gusta» observa Giuseppe Tornatore"y espero que otras ciudades sigan el ejemplo de Bolonia poniendo en pie otras medidas.
 Es cierto, que para contrasta el extra poder de las meticones, las salas tradicionales tienen que mejorar la calidad del sonido y de la imagen porque el público hoy es mas exigente.
 La defensa del cine tradicional es un tema que para mí fue siempre importante: el cierre del cine de Bagheria, el lugar de mi infancia y adolescencia, fue la chispa que me convenció a realizar el "Nuevo cine Paradiso", que ya pensaba desde hace 10 años.
-Vivo en Roma desde hace 25 años, y cuando paso por delante al Rialto o al Quirinale de vía Nazionale ya cerrados, en donde he vivido tantas emociones compartidas, para no ver los carteles ennegrecidos por el polvo, me giro para el otro lado».
+Vivo en Roma desde hace 25 años, y cuando paso por delante al Rialto o al Quirinale de vía Nazionale ya cerrados, en donde he vivido tantas emociones compartidas, para no ver los carteles  ennegrecidos por el polvo, me giro para el otro lado».
 Lazo entre política y 'ndrangheta, ha sido arrestado el alcalde de Gioia Tauro
 "El alcalde de Gioia Tauro era disponible a uniformar las elecciones del Municipio para los interesados a la cosca Piromalli".
 Son pesadas las acusas que los magistrados de la Dirección antimafia de Calabria dan al intendente y al vice intendente de Goia Tauro Giorgio Dal Torrione e Rosario Schiavone, y al intendente de Rosarno Carlo Martelli, arrestados esta mañana por asociación mafiosa.

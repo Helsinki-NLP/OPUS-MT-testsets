@@ -2,7 +2,7 @@
 
 A collection of machine translation benchmarks. Currently it includes:
 
-* [WMT news translation](http://www.statmt.org/wmt20/translation-task.html)
+* [WMT news translation](http://www.statmt.org/wmt21/translation-task.html)
 * [Tico19 tanslation benchmark](https://tico-19.github.io)
 * [Test sets from the Tatoeba translation challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge/)
 

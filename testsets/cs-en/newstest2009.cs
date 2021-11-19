@@ -2242,7 +2242,7 @@ A dodá, že je nutné, aby se italská veřejná správa stala výkonnější
 "její výplatní dynamika – vysvětluje ministr – se v posledních 8-10 letech zdvojnásobila vzhledem k soukromému sektoru a je daleko vyšší než inflační procento".
 Mezitím se sešly tisíce veřejných zaměstnanců, aby odmítly normy Brunettova dekretu v souladu s žádostí podporovanou Codacons.
 "Zatímco ministr pro veřejnou správu dnes představí cifry týkající se nížší absence v práci kvůli nemoci – píše sdružení na ochranu spotřebitelů – národ 'pilných lenochů' se neustále rozrůstá.
-V Itálii máme tisíce produktivních a korektních zaměstnanců ve veřejné správě, kteří se shromáždili, aby vyhlásili válku nelegitimním normám obsaženým v dekretu".
+V Itálii máme tisíce produktivních a korektních zaměstnanců ve veřejné správě, kteří se shromáždili, aby vyhlásili válku nelegitimním normám  obsaženým v dekretu".
 Na Taru se bude protestovat především proti vyloučení příplatků na nemocenskou, která závisí na činnosti; rozšíření doby, ve které je možné nemocného zkontrolovat, v jakém časovém rozmezí se budou vykonávat kontrolní návštěvy, a proti ostatním normám zahrnutým v nových ministerských ustanoveních.
 Pracovní úrazy, Napolitano: "Rezolutní prevence"
 Každý den se v Itálii stane 2.500 pracovních úrazů, zemřou tři osoby a dvacet sedm zůstane trvale invalidních.
@@ -2255,13 +2255,13 @@ Hlava státu vyjadřuje svůj živý obdiv k neustálému společnému úsilí 
 Napolitano neskrývá, že "zde bezpochyby existuje i problém zdrojů: je rozhodující investovat do školení a informovanosti.
 Zvláštního významu nabývají početné iniciativy prosazené v oblasti školství, aby mladí lidé, kteří čelí světu práce, získali jasnější uvědomění.
 Je nutné upozorňovat na tento jev, nevzdávat se kvůli jeho znepokojivé sociální závažnosti, aplikovat a zlepšovat legislativní normy.
-Prezident komory Gianfranco Fini ze své strany zdůraznil, "jak jev úmrtí následkem pracovního úrazu vytváří absolutně kritický sociální stav, jak uráží svědomí každého z nás a nutí všechny instituce k přesvědčivému úsilí směřujícímu k nutnému ukončení tohoto stavu.".
+Prezident komory Gianfranco Fini ze své strany zdůraznil, "jak jev úmrtí následkem pracovního úrazu vytváří absolutně kritický sociální stav, jak uráží svědomí každého z nás a nutí všechny instituce k přesvědčivému úsilí směřujícímu k  nutnému ukončení tohoto stavu.".
 "Co se týká dat pracovních úrazů, zdá se, že vykazují určitý pozitivní obrat, to však nepopírá, že počet úmrtí následkem pracovníh úrazu je tak jako tak alarmující", znovu poznamenal prezident Anmilu Pietro Mercandelli.
 "Nechtěli bychom právě, aby tahle "snaha o snížení" vedla k menší pozorností, protože právě v okamžiku, kdy pozornost ustane, vypukne tragédie.
-"Věříme, že se všeobecně dělá ještě moc málo k zastavení problému úrazů a existují mnohé činnosti, které mohou mít na tento problém vliv.
+"Věříme, že se všeobecně dělá ještě moc málo k zastavení problému úrazů a existují mnohé činnosti, které mohou mít na tento problém  vliv.
 Je nezbytné, podle našeho mínění - zdůraznil Mercandelli – zvýšit kontroly a inspekce, avšak také silněji zásahnout v oblasti školení pracovníků, a to hned od školního věku".
 "Je ještě potřeba dalšího úsilí - dodal – co se týče komunikace a spoluúčasti veřejného mínění.
-Ale je hlavně třeba větší smysl pro zodpovědnost ze strany zaměstnavatelů vůči fenoménu, který představuje vyjímečný sociální jev .".
+Ale je hlavně třeba větší smysl pro zodpovědnost ze strany zaměstnavatelů vůči fenoménu, který představuje vyjímečný sociální jev  .".
 Mercandelli nakonec prohlásil, že jde o progresivní degeneraci úrovní práva na odškodné předpokládané pro pracovní oběti a "odsunutí podpůrné péče", ke kterému se systém v posledních letech dostává.".
 "Cílem je tedy vrátit pracovníkovi garanci pojištění - dodal – protože osud těch, kteří si ublíží, nesmí záviset na spontánnosti nebo obdarování čas od času zákonodárcem".
 Přehrávače Mp3 obviněny, vystavují sluch riziku
@@ -2269,7 +2269,7 @@ Poslouchat delší dobu hlasitou hudbu a používat přenosné hudební přístr
 Podle dnes zveřejněného oznámení Evropské komise, která v jedné úřední zprávě rozšířené v Bruselu cituje mínění Komitétu pro vědu o zdravotních rizicích, které v poslední době vyvstaly a byly identifikovány (Csrseri) Eu.
 "Z tohoto vědeckého názoru – čteme v poznámkách – vyplývá, že 5-10% těch, co po dobu aspoň pěti let poslouchají hudbu pomocí přenosných hudebních přístrojů, týdně více než hodinu denně a udržují přístroj na vysoké hlasitosti, riskují trvalou ztrátu sluchové schopnosti".
 "Dělá mi starosti, že tak velké množství mladých lidí, kteří používají často přenosné hudební přístroje a mobilní telefony na vysokých akustických úrovních, mohou nevědomky poškodit svůj sluch nenapravitelným způsobem", přiznává Meglena Kuneva.
-"Z vědeckých zjištění – pokračuje vedoucí – vyplývá jasné riziko a je třeba rychle reagovat.
+"Z vědeckých zjištění – pokračuje vedoucí  – vyplývá jasné riziko a je třeba rychle reagovat.
 To nejdůležitější je, že musíme podnítit spotřebitele a zveřejnit tyto informace.
 Musíme nadále znovu prověřit již existující kontrolní systémy ve světle tohoto vědeckého zjištění, aby se tak staly zcela účinnými a aby držely krok s novou technologií".
 Brusel požádal na Nezávislém vědeckém komitétu, aby byl tento problém prozkoumán vzhledem k vysokému použití přenosných hudebních přístrojů a rostoucímu počtu mladých lidí vystavených hluku tohoto původu.
@@ -2345,26 +2345,26 @@ Co se pak týká dovolených, argumentace se komplikuje: určitý počet dní po
 Avšak američtí novináři, podle vlastního doznání, onemocní často v průběhu jednoho roku.
 Je to pouze otázka klimatu.
 UNIPOL: SOUD V ŘÍMĚ, DANILO COPPOLA ZŮSTÁVÁ V GROTTAFERRATĚ
-Prezident druhého trestního senátu Římského soudu, Carmelo Rinaudo, se rozhodl zamítnout podání podnikatele s realitami Daniela Coppoly, který požádal, aby se mohl přemístit ze svého města, Grottaferraty, do bytu v Římě.
-Coppola je vyšetřovaný za bankrot v souvislosti s protinabídkou při prodeji Unipol-Bnl.
+Prezident druhého trestního senátu Římského soudu, Carmelo Rinaudo, se rozhodl zamítnout podání podnikatele s realitami Daniela Coppoly, který požádal, aby se mohl přemístit ze svého města, Grottaferraty, do bytu v Římě. 
+Coppola je vyšetřovaný za bankrot v souvislosti s protinabídkou  při prodeji Unipol-Bnl.
 Během procesu na vlastní náklady získal minulý týden propuštění z domácího vězení, které bylo přeměněno na nucený trvalý pobyt v Grottaferratě.
 Jeho advokáti, Michele Gentiloni e Gaetano Pecorella, požádali, aby podnikatel s realitami mohl změnit místo pobytu z venkovského městečka do hlavního města.
 Avšak podle soudu toto přesunutí (proti kterému se vyjádřil pm)by mu dovolilo ovlivnit svoji společnost a dostat se k důkazům, které ho obviňují.
 Elity v nebezpečí
 Tento jev se projevil již před několika dny, kdy Komora representantů hlasovala proti záchrannému plánu na poskytnutí 700 miliard dolarů předloženému Bílým domem: značná část Američanů se více zajímala a zajímá o potrestání Wall Street než o záchranu ekonomie.
-Potvrzují to i včerejší New York Times, které nás informují, že současná krize rozpolcuje republikánskou stranu, neustále více rozdělenou mezi svoji starou duši East Coast, mírnější, vstřícnou k federálním institucím a k business community, a svoji novou duši, která je naopak konzervativní, nepřátelská vůči"těm z Washingtonu» a vůči světu financí, silná především ve státech ve střední části a na jihu..
+Potvrzují to i včerejší New York Times, které nás informují, že současná krize rozpolcuje republikánskou stranu, neustále více rozdělenou mezi svoji starou duši East Coast, mírnější, vstřícnou k federálním institucím a k  business community, a svoji novou duši, která je naopak konzervativní, nepřátelská vůči"těm z Washingtonu» a vůči světu financí, silná především ve státech ve střední části a na jihu..
 Duše, která se arogantně projevila hlasováním, o kterém jsem mluvil na začátku..
 Tato právě citovaná věc je však pouhým příkladem změn, velkých změn, které aktuální ekonomické zemětřesení již ukazuje : nejen ve Spojených státech, ale na celém západě a možná nejenom tady.
 Jak v Usa, tak v Evropě se zdá, že tato krize funguje jako akcelerátor jevů, které byly v inkubaci už dlouho, které se v novém klimatu utužují a konečně vycházejí na světlo.
 Prvním z těchto jevů je reaktualizace, mimořádné oživení trhu, dvojité kategorie Stát-moc ve vztahu k určitému znovuznárodnění ekonomie.
 Krize je vskutku krizí bankovně finančních institucí, které samozřejmě mají silná pouta v zahraničí, ale v nichž jsou především zahrnuty v největší míře rozpočty lidí a rodin žijících v jediné zemi, v jediném státě.
-Což vytvořilo současně politický problém pro ty, co ho řídí: to znamená, jak odpovědět na potíže a protesty lidí a rodin, které jsou mimo jiné i voliči.
+Což vytvořilo současně  politický problém pro ty, co ho řídí:  to znamená, jak odpovědět na potíže a protesty lidí a rodin, které jsou mimo jiné i voliči.
 Zkrátka krize se jeví ekonomicky světová, ale politicky skoro výhradně národní.
 Politická mezinárodnost se zdá být podstatně mimo hru nebo že nemá nic moc co dodat: očividný důkaz dala Evropská unie, která je rozdělená jako vždy mezi různé zájmy a různé státní strategie a která se nedokáže rozhodnout pro jednu společnou politickou linii.
 A tak všichni čekají zásah vlády každého jednotlivého státu, záchranné plány, oživení trhu, nová pravidla a hlavně rozdělení fondů: v okamžiku, kdy se dostaneme do tísně, pouze státy mají ekonomické prostředky, množství finančních zdrojů, aby byly schopny se pokusit dát vše do pořádku.
 A také vlastní nezbytné prostředky a oprávnění, aby je mohly použít: dva zdroje nesmírné hodnoty, za určitých okolností, kterými snad žádný trh a žádná mezinárodní organizace nebude nikdy moci disponovat v podobné míře.
 Tato nová emfáze, kterou krize klade na státně-národní prvek, je ostatně v naprostém souladu se stále větším významem, který se pokouší poslední ekonomické pokroky přisoudit k jednomu faktoru s ním úzce spojenému: územní příslušnosti.
-Paradoxně ve skutečnosti, zatímco jsme byli přesvědčeni, že jsme vstoupili do království sitě, stále sofistikovanější technologie, imateriální, zatímco jsme byli přesvědčeni, že celosvětové finance byly už předurčeny vládnout světu, z ničeho nic jsme si uvědomili, že naše budoucnost se bude muset naopak stále více potýkat s takovými málo nemateriálními věcmi jako je voda, obilí, nafta.
+Paradoxně ve skutečnosti, zatímco jsme byli přesvědčeni, že jsme  vstoupili do království sitě, stále sofistikovanější technologie, imateriální, zatímco jsme byli přesvědčeni, že celosvětové finance byly už předurčeny vládnout světu, z ničeho nic jsme si uvědomili, že naše budoucnost se bude muset naopak stále více potýkat s takovými málo nemateriálními věcmi jako je voda, obilí, nafta.
 Všechny věci, kdo by to byl řekl, se mohou převážet z jednoho místa na zemi na druhé, jsou však v každém případě spojené, absolutně, k ohraničenému prostoru, území.
 Takže, kdo se stane jejich vládcem, má určitě mnohem víc karet v rukávě než kdo jím není a kdo má tu smůlu, že žije na místě bez obilí, bez nafty a bez vody.
 Dostávám se ke druhé novince, která však předvídá zlom.
@@ -2388,7 +2388,7 @@ Materiál, který vynalezl tým badatelů, je vývojem materiálů již existuj�
 Vědci se inspirovali nohami gekonu, pokrytými mikroskopickými chloupky, které umožňují zvířeti zajistit perfektní přilnutí.
 Testy prováděné na různých materiálech, jako sklo, Teflon a skelný papír ukázaly, že nové lepidlo je desetkrát silnější než nožky těchto plazů a současně"se jednoduše odlepí od stěny» vysvětluje Liming Dai, badatel Inženýrské fakulty Daytonské univerzity.
 CHODIT PO ZDECH? -"Tento materiál by mohl být užitečný jako provizorní lepidlo» dodá Liming Dai.
-Snad k chození po zdech jako Spiderman? Snad ano, ale badatelé přemýšlejí o daleko méně fascinujícím použití jako spojení elektrických přístrojů, protože trpasličí uhlíkové trubky jsou vodiči tepla a elektrické energie.
+Snad k chození po zdech jako Spiderman? Snad ano, ale badatelé přemýšlejí  o daleko méně fascinujícím použití jako spojení elektrických přístrojů, protože trpasličí uhlíkové trubky jsou vodiči tepla a elektrické energie.
 Další aplikace by se mohly týkat leteckého kosmického inženýrství .
 Prozatím žádní super hrdinové.
 DALŠÍ VÝZKUM – Také univerzita v Berkley, v Kalifornii, se věnuje výzkumu nového lepidla.
@@ -2396,12 +2396,12 @@ V jednom článku časopisu American Chemical Society, kalifornští vědci pře
 Léky: nikdy s džusy
 Pozor na grepový, pomerančový a jablečný džus.
 Jestliže vezmete tyto nápoje, které se konzumují především v létě, protože jsou osvěžující a plné vitamínů, společně s některými život zachraňujícími léky, jejich požitím se mění zesílení nebo snížení účinnosti s vážnými následky na zdraví.
-Aby David Bailey, profesor Univerzity Western Ontario v Londýně zdůraznil rizika džusů jak hotových, tak čerstvých v kombinaci s požitím některých léků, na právě probíhajícím 263. národní meetingu American Chemical Society ve Philadelphii vyvolává nový poplach: stačí jedna sklenička grepového, pomerančového a jablečného džusu ke snížení vstřebávání některých život zachraňujících léků, k anulování jejich prospěšných efektů a vystavení zdraví pacientů riziku.
+Aby David Bailey, profesor Univerzity Western Ontario v Londýně zdůraznil rizika džusů jak hotových, tak čerstvých v kombinaci s požitím některých léků, na právě probíhajícím 263. národní meetingu American Chemical Society ve Philadelphii vyvolává nový poplach: stačí jedna sklenička grepového, pomerančového a jablečného džusu ke snížení vstřebávání některých život zachraňujících  léků, k anulování jejich prospěšných efektů a vystavení zdraví pacientů riziku.
 Grepový džus byl již obviněn, že je odpovědný za to, že zvyšuje až na toxickou úroveň efekty některých antiaritmických léků, antibiotik, anxiolitik, antihistaminových a neurologických léků.
 LÉKY V RIZIKU– Oznámila to sama Italská lékařská agentura v informačním bulletinu před dvěma lety a vyburcovala lékaře a pacienty, aby nepodceňovali nebezpečí vyplývající z této směsky a aby dávali pozor na to, co pijí v případě, že berou léky, jako na příklad Diazepam nebo Metadon.
 NEJEN GRAPEFRUIT – Podle expertů také pomerančový a jablečný džus obsahují látky, které léky utlumují.
 Dlouhý seznam účinků utlumených grapefruitem a dalšími džusy.
-Odtud výzva Micheleho Carruby, ředitele farmakologického oddělení Státní univerzity v Miláně:"Takové objevy se většinou okamžitě oznamují nejrůznějším mezinárodním a národním lékárnickým agenturám, které eventuelně zařídí a vymění informační instrukce léků.
+Odtud výzva Micheleho Carruby, ředitele farmakologického oddělení Státní univerzity  v Miláně:"Takové objevy se většinou okamžitě oznamují nejrůznějším mezinárodním a národním lékárnickým agenturám, které eventuelně zařídí a vymění informační instrukce léků.
 Takže čtěte vždy ilustrativní lístky léků, které získáte a jestliže narazíte na něco nejasného, nezneklidňujte se, ale požádejte lékaře nebo lékárníka o vyjasnění» zdůraznil expert pro agenturu Ansa.
 Nobel za ekonomii Paulu Krugmanovi
 Nobelova cena byla přidělena Američanovi Paulu Krugmanovi za jeho studie komerčních modelů a lokalizace ekonomických aktivit.
@@ -2415,8 +2415,8 @@ Open Office, máme tady třetí vydání balíčku"anti-Microsoft»
 Je den vydání Open Office.org 3.0, balíček open source osobní výroby, který směřuje k pronikání ke stále více uživatelům, od domácnosti do kanceláře, od odborníků k veřejné správě, jako bezplatná alternativa známějšího Microsoft Office.
 Po asi roční práci dobrovolných pracovníků, kontrolovaných SUN Microsystemem, se nový Open Office ukazuje široké veřejnosti s různými novinkami: k uvítací obrazovce a k revidovanému a vylepšenému otevíracímu oknu se přidají další, daleko podstatnější, jako kompatibilita pro operativní systém Apple Mac OS X a podpora nového formátu ODF (Open Document Format) 1.2, poslední standartní verze ISO.
 Důraz je kladen i na spolupráci s balíčkem Office 2007, Open Office je schopen otevřít dokument i s novou příponou Microsoftu (.docx, .xlsx, .pptx).
-Zajímavé jsou zvláštní funkce některých modelů jako toho, co dovoluje zmenšit rozměry prezentace PowerPointu, užitečné na příklad pro přenos elektronickou cestou, nebo možnost přenést složku PDF do modelu grafického provedení a zachovat původní vzhled stránky.
-Stále z tohohle hlediska můžeme vytvářet dokumenty "PDF hybridy", které se podobají typické grafice formátu Adobe a mají vlastnosti tabulkového procesoru nebo textového programu.
+Zajímavé jsou zvláštní funkce některých modelů jako toho, co dovoluje zmenšit rozměry prezentace PowerPointu, užitečné na příklad pro přenos  elektronickou cestou, nebo možnost přenést složku PDF do modelu grafického provedení a zachovat původní vzhled stránky.
+Stále z tohohle hlediska můžeme vytvářet dokumenty "PDF hybridy", které se podobají typické grafice formátu Adobe a mají vlastnosti  tabulkového procesoru nebo textového programu.
 Spolupráce je prvek, který získal mnohá vylepšení uvnitř aplikačních programů: v excellu je možné dohromady pracovat mezi různými uživateli a vyhnout se konfliktům na změnách, v textovém programu je každému spolupracovníkovi přidělena jedna barva ke komentářům, aby byla jasnější identifikace v revizní fázi.
 Některé firmy pracují také na přenosu některých funkcí Open Office na Web (on the cloud), a v následujících týdnech by měli přestavit definitivní výsledek.
 Italskou verzi je možné stáhnout na adrese http://it.openoffice.org/download/3.0.0/download300.html, byla přidána k anglické verzi, která se nachází na mirroru od pátku.
@@ -2430,13 +2430,13 @@ Také výsledky Kohla jsou pozitivní, je to čtvrtý případ dopingu
 Nový pozitivní případ na posledním Tour de France: jedná se o Rakušana Bernharda Kohla, z týmu Gerolsteiner, třetího klasifikovaného a vítěze trička nejlepšího vrchaře.
 Zprávu citovaly stránky deníku L'Equipe.
 26ti letý Kohl je čtvrtý závodník pozitivní na Ceru, Epo třetí generace, po Italech Riccardovi Riccò a Leonardovi Piepoli a Němci Stefanovi Schumacherovi, i on z Gerolsteiner.
-Výsledky krevních vzorků Kohla spadají do těch, které byly provedeny v posledních týdnech laboratořemi Losanna a Chatenay-Malabry.
+Výsledky krevních vzorků Kohla spadají do těch, které byly provedeny   v posledních týdnech laboratořemi Losanna a Chatenay-Malabry.
 Jestliže kontrolní analýzy potvrdí pozitivitu na Ceru, Rakušan ztratí třetí místo na Tour a bude muset čelit stanoveným dvěma letům diskvalifikace.
 Zprávu o pozitivitě Kohla na Epo třetí generace potvrzuje šéf francouzské antidopingové agentury Pierre Bordry, který oznámil Associated Press, že už informoval o výsledku rakouské vládní orgány.
 26ti letý Rakušan se umístil na stupních vítězů za Španělem Carlosem Sastrem a Američanem Cadel Evansema, získal také puntíkované tričko nejlepšího vrchaře.
 IMIGRANTI:NEW YORK TIMES SE TÁŽE, JE ITALIE RASISTOU?
 Itálie "jako země emigrantů se pouze v poslední domě přeměnila na přednostní cíl přistěhovalců" přijatých s odporem.
-Proměňuje to krásnou zemi na národ rasistů? Tak se táží v jednom dlouhém článku New York Times, které věnovaly tento článek debatě na téma rasizmu v Itálii, a začaly případem mladého Abdula Williama Guibre původem z Burkiny Faso, zabitého minulý měsíc v Miláně, protože ukradl krabici sušenek.
+Proměňuje to krásnou zemi na národ rasistů? Tak se táží v jednom dlouhém článku New York Times, které věnovaly tento článek debatě na téma rasizmu v Itálii, a začaly případem mladého Abdula Williama Guibre původem z  Burkiny Faso, zabitého minulý měsíc v Miláně, protože ukradl krabici sušenek.
 Tento případ zviditelňuje to, co New York Times definují "paradoxem severu": severní oblasti jsou současně těmi, kde se registruje "více integrace a více práce", ale také "nejsilnější antipřistěhovalecké smýšlení v zemi a nejsilnější podpora Severní ligy".
 Aby potvrdil zvyšující se napětí mezi Italy a přistěhovalci, NYT cituje případy intolerance z Milána, Parmy, Říma, Ciampina a Castel Volturna.
 Nejen to.
@@ -2456,14 +2456,14 @@ Hodnoty jsou o trošku nižší (550 euro za jednolůžkový) v zónách blízk
 Ušetříme jedině, jestliže se přesuneme do periferních oblastí: 300 euro za lůžko a 450 za jednolůžkový pokoj zónách Prenestina, Centocelle a podobně.
 V Neapoli je za lůžko třeba 300/450 euro, za pokoj od 400 do 600 euro, s nejvyššími cenami v zónách Policlinico, Vomero a Colli Aminei.
 V Bari chtějí za lůžko 250/350 euro, alespoň 350 za jednolůžkový pokoj.
-V menších městech jsou ceny rozhodně nižší, ale mají větší dopady na ekonomiku občanů.
+V menších městech jsou ceny rozhodně nižší, ale mají větší dopady  na ekonomiku občanů.
 Ve městech jako Perugia, kde je nejčastějším jevem nájemné pro studenty ze zemí mimo evropskou unii, je konečně zaznamenána jedna další anomálie: navýšení zhruba o 25-30% poplatku, který chtějí po zahraničních studentech, ve srovnání s italskými.
 Sbohem starému kinu Paradiso, města ruší historické sály
 Kinematografické historické sály zavírají ve prospěch Multiplexu.
 "Město bez kin je jako slepé, je jako tvář bez očí."
 Obraz nabídnutý režisérem Giuseppem Tornatorem úspěšně dokumentuje, co se děje ve velkých italských městských centrech, ale i venkovských městečkách.
 Proces omezování kin, zrození velkých multisálů na předměstí a následující zánik monosálů v centrálních zónách měst, je jednou z událostí, které se zdají být nevyhnutelné a nevratné, ale má také všechny znaky opravdového kulturního zločinu.
-Často mizí historická místa nabitá vzpomínkami,"je to jako kdybychom přišli o kamaráda, o známého, se kterým jsme sdíleli kus cesty a hodně emocí», pociťuje režisér Nového kina Paradiso, film, který před dvaceti lety získal Tornatorovi Oscara a velkou cenu poroty v Cannes, a který vyprávěl poezii jednoho vesnického kina a smutku kvůli způsobu života, který asi kino ztratilo navždy.
+Často mizí historická místa nabitá vzpomínkami,"je to jako kdybychom přišli o kamaráda, o  známého, se kterým jsme sdíleli kus cesty a hodně emocí», pociťuje režisér Nového kina Paradiso, film, který před dvaceti lety získal Tornatorovi Oscara a velkou cenu poroty v Cannes, a který vyprávěl poezii jednoho vesnického kina a smutku kvůli způsobu života, který asi kino ztratilo navždy.
 Hodnoty získané Anecem, hlavním sdružením provozovatelů, mluví jasně: v posledních pěti letech zavřelo dveře 316 kin tradičního tipu, a nejvyšší účet zaplatily především sály v nejdůležitějších městech: o 10 míň ve Florencii, o 9 v Milaně, Neapoli, Bologni a Římě, o 6 méně v Toríně, o 5 v Palermu.
 Mezi regiony nejvíce postiženými uzavírkami je na prvním místě Emilia-Romagna se ztrátou 82 kinových sálů, následovaná Toskánskem (44) a Lombardií (41).
 A důkazem, že prvním zodpovědným za jejich mizení je nástup multiplexu, jsou právě tyto tři italské regiony, které zaregistrovaly nejvyšší počet nových kinových multisálů: o 195 pláten víc v Lombardii v posledních pěti letech, o 81 jak v Toskánsku, tak v Emilia-Romagně.
@@ -2477,14 +2477,14 @@ Mezi plánovanými normami jsou kroky daňových úlev ve prospěch provozovatel
 Je však jisté, že aby bylo možné se postavit proti velké moci multiplexu, tradiční sály musí zlepšit kvalitu zvuku a obrazu, protože dnešní publikum je náročnější.
 Obrana tradičního kina je téma, které bylo provždy důležité: uzavření Super kina v Bagherii, místo mého dětství a dospívání, bylo jiskrou, která mě přesvědčila založit "Nové kino Paradiso", o kterém jsem přemýšlel již 10 let.
 Žiju v Římě již 25 let, a když procházím před již zavřenými Rialtem nebo Quirinalem v ulici Nazionale, tam, kde jsem sdílel tolik emocí, abych nemusel dívat na nápisy zčernalé prachem, otočím se na druhou stranu».
-Spojení mezi politikou a mafiánskou skupinou 'ndrangheta, starosta Gioie Tauro ve vězení
+Spojení mezi politikou a mafiánskou skupinou 'ndrangheta, starosta  Gioie Tauro ve vězení
 "Starosta z Gioie Tauro byl ochotný upravit volby městského úřadu podle zájmů mafiánské skupiny Piromalli".
 Obvinění, která Ředitelství proti mafii v Kalábrii vznášejí proti starostovi a vicestarostovi Gioie Tauro Giorgiovi Dal Torrione e Rosariovi Schiavone, a starostovi Rosarna Carlu Martellimu, uvězněným dnes ráno kvůli externí spolupráci s mafiánskou organizací, jsou těžká.
 V želízkách také Gioacchino Piromalli, starý prostředník mezi klanem a veřejnou správou, a jeho vnuk advokát, jmenovec šéfa, již obviněný z páchání zločinů mafiánského charakteru, odsouzený k úhradě 10 milionů euro.
 "Ignorovali všechny právní a morální normy, jakož i zdravý rozum", píší státní zástupci, když dvě místní správy vyjádřily ochotu zaplatit konzultace advokátovi Piromallimu.
 "Tak by mafiánské skupině umožnili – píší soudci – oficiálně vstoupit do městských úřadů a usnadnili již tak obrovské možnosti kontroly a řízení veřejné správy".
 Prezident kalábrijské regionální komise Agazio Loiero neskrývá, že "tajných dohod mezi místními institucemi a organizovaným zločineckým podsvětím je v jeho kraji hodně: "Jsou oblasti, ve kterých je soustředění mafie silnější než v ostatních, kde jsou tajné dohody nevyhnutelné.
-Ale máme také mnoho místních politiků, kteří odolávají nátlakům 'ndranghety, hrdinů, kteří jsou stále neposkvrnění".
+Ale máme také mnoho místních politiků, kteří odolávají nátlakům  'ndranghety, hrdinů, kteří jsou stále neposkvrnění".
 Uvěznění z dnešního rána následují po uvěznění z července minulého roku, kterými policie ukázala, že mafiánská skupina Piromalli dostala konečný zásah .
 Od konce dubna minulého roku - městská rada Gioii Tauro byla rozpuštěna již od roku 1991, důvodem bylo i tenkrát předpokládané propojení mezi organizovanou kriminalitou a místní správou - byli místní politici zbaveni funkcí v obecní správě.
 Giorgio Dal Torrione, předseda křesťanských demokratů, který v okamžiku rozpuštění byl zvolen hlavou koalice pravého středu po užší volbě v květnu.
