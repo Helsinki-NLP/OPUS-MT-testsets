@@ -3,6 +3,7 @@
 A collection of machine translation benchmarks. Currently it includes:
 
 * [WMT news translation](http://www.statmt.org/wmt21/translation-task.html)
+* [WMT21 European Low Resource Languages](http://www.statmt.org/wmt21/multilingualHeritage-translation-task.html)
 * [Tico19 tanslation benchmark](https://tico-19.github.io)
 * [Test sets from the Tatoeba translation challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge/)
 * [FLORES1 data sets](https://github.com/facebookresearch/flores/)

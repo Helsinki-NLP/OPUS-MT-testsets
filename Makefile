@@ -69,20 +69,6 @@ ${2_LETTER_FILES_UPGRADED}: log/%.upgraded: testsets/%
 
 
 
-## add various WMT data sets
-
-.PHONY: wmt
-wmt:
-	wget http://data.statmt.org/wmt21/translation-task/dev.tgz
-	wget http://data.statmt.org/wmt21/translation-task/test.tgz
-	tar -xzf dev.tgz
-	tar -xzf test.tgz
-	rm -f dev.tgz test.tgz
-	${MAKE} wmt-multilingual
-	${MAKE} wmt-sgm
-	${MAKE} wmt-wikipedia
-	${MAKE} wmt-dev-xml
-	${MAKE} wmt-test-xml
 
 
 ## TODO: should we keep all Tatoeba test set releases
@@ -125,6 +111,23 @@ ${TATOEBA_TEST_CONVERTED}: %.converted: %.txt.gz
 	fi
 	touch $@
 
+
+
+## add various WMT data sets
+
+.PHONY: wmt
+wmt:
+	wget http://data.statmt.org/wmt21/translation-task/dev.tgz
+	wget http://data.statmt.org/wmt21/translation-task/test.tgz
+	tar -xzf dev.tgz
+	tar -xzf test.tgz
+	rm -f dev.tgz test.tgz
+	${MAKE} wmt-multilingual
+	${MAKE} wmt-sgm
+	${MAKE} wmt-wikipedia
+	${MAKE} wmt-dev-xml
+	${MAKE} wmt-test-xml
+	${MAKE} wmt21-ml
 
 
 WMT_MULTILINGUAL_TXT = 	news-test2008 newsdev2014 \
@@ -233,6 +236,35 @@ ${WMT_TEST_XML}: %.converted: %.xml
 	touch $@
 
 
+.PHONY: wmt21-ml
+wmt21-ml:
+	tar xf testsets/wm21ml.tar.gz
+	mkdir -p testsets/is-no testsets/is-sv
+	grep -v '^<' europeana/test/europeana.test.is.xml    > testsets/is-no/europeana2021.is
+	grep -v '^<' europeana/test/europeana.test.is_NO.xml > testsets/is-no/europeana2021.no
+	grep -v '^<' europeana/test/europeana.test.is.xml    > testsets/is-sv/europeana2021.is
+	grep -v '^<' europeana/test/europeana.test.is_SV.xml > testsets/is-sv/europeana2021.sv
+	mkdir -p testsets/nb-is testsets/nb-sv
+	grep -v '^<' europeana/test/europeana.test.nb.xml    > testsets/nb-is/europeana2021.nb
+	grep -v '^<' europeana/test/europeana.test.nb_IS.xml > testsets/nb-is/europeana2021.is
+	grep -v '^<' europeana/test/europeana.test.nb.xml    > testsets/nb-sv/europeana2021.nb
+	grep -v '^<' europeana/test/europeana.test.nb_SV.xml > testsets/nb-sv/europeana2021.sv
+	mkdir -p testsets/sv-is testsets/sv-nb
+	grep -v '^<' europeana/test/europeana.test.sv.xml    > testsets/sv-is/europeana2021.sv
+	grep -v '^<' europeana/test/europeana.test.sv_IS.xml > testsets/sv-is/europeana2021.is
+	grep -v '^<' europeana/test/europeana.test.sv.xml    > testsets/sv-nb/europeana2021.sv
+	grep -v '^<' europeana/test/europeana.test.sv_NB.xml > testsets/sv-nb/europeana2021.nb
+	for s in ca it oc ro; do \
+	  for t in ca it oc ro; do \
+	    if [ "$$s" != "$$t" ]; then \
+		mkdir -p testsets/$$s-$$t; \
+		grep -v '^<' wikipedia/test/wp.test.$$s.xml > testsets/$$s-$$t/wmt21-ml-wp.$$s; \
+		grep -v '^<' wikipedia/test/wp.test.$$t.xml > testsets/$$s-$$t/wmt21-ml-wp.$$t; \
+	    fi \
+	  done \
+	done
+	rm -fr europeana wikipedia
+
 
 ## flores101
 
@@ -320,7 +352,7 @@ flores1:
 	done
 
 
-
+.PHONY: multi30k
 multi30k:
 	git clone https://github.com/multi30k/dataset.git
 	for s in cs de en fr; do \
