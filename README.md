@@ -7,6 +7,7 @@ A collection of machine translation benchmarks. Currently it includes:
 * [Test sets from the Tatoeba translation challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge/)
 * [FLORES1 data sets](https://github.com/facebookresearch/flores/)
 * [FLORES-101 dev and devtest](https://github.com/facebookresearch/flores/)
+* [multi30k test sets](https://github.com/multi30k/dataset)
 
 
 ## License

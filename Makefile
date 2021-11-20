@@ -3,7 +3,7 @@
 # maintain various MT testsets
 
 
-DATASETS = wmt tatoeba flores1 flores101
+DATASETS = wmt tatoeba flores1 flores101 multi30k tico19
 
 all:
 	${MAKE} ${DATASETS}
@@ -49,12 +49,12 @@ ${CHECKED_FILES}:
 ## TODO: this is slow because of the repeated call to the slow iso639 script
 
 2_LETTER_FILES 		= ${wildcard testsets/??-??/*.??}
-2_LETTER_FILES_UPGRADED = ${patsubst %,%.upgraded,${2_LETTER_FILES}}
+2_LETTER_FILES_UPGRADED = ${patsubst testsets/%,log/%.upgraded,${2_LETTER_FILES}}
 
 .PHONY: upgrade-2-letter-files
 upgrade-2-letter-files: ${2_LETTER_FILES_UPGRADED}
 
-${2_LETTER_FILES_UPGRADED}: %.upgraded: %
+${2_LETTER_FILES_UPGRADED}: log/%.upgraded: testsets/%
 	@( d=$(shell iso639 -3 -p ${word 2,$(subst /, ,$<)}); \
 	  l=$(shell iso639 -3 -p ${lastword 2,$(subst ., ,$<)}); \
 	  if [ ! -e testsets/$$d/${basename ${notdir $<}}.$$l ]; then \
@@ -64,8 +64,8 @@ ${2_LETTER_FILES_UPGRADED}: %.upgraded: %
 	  else \
 	    echo "testsets/$$d/${basename ${notdir $<}}.$$l exists already"; \
 	  fi )
-#	touch $@
-
+	mkdir -p ${dir $@}
+	touch $@
 
 
 
@@ -241,6 +241,10 @@ flores101:
 	wget https://dl.fbaipublicfiles.com/flores101/dataset/flores101_dataset.tar.gz
 	tar -C testsets -xzf flores101_dataset.tar.gz
 	rm -f flores101_dataset.tar.gz
+	mv testsets/flores101_dataset/dev/zho_simpl.dev testsets/flores101_dataset/dev/cmn_Hans.dev
+	mv testsets/flores101_dataset/dev/zho_trad.dev testsets/flores101_dataset/dev/cmn_Hant.dev
+	mv testsets/flores101_dataset/devtest/zho_simpl.dev testsets/flores101_dataset/devtest/cmn_Hans.devtest
+	mv testsets/flores101_dataset/devtest/zho_trad.dev testsets/flores101_dataset/devtest/cmn_Hant.devtest
 	${MAKE} flores101-file-links
 
 FLORES101_DEV_FILES = $(wildcard testsets/flores101_dataset/dev/*.dev)
@@ -317,3 +321,72 @@ flores1:
 
 
 
+multi30k:
+	git clone https://github.com/multi30k/dataset.git
+	for s in cs de en fr; do \
+	  for t in cs de en fr; do \
+	    if [ "$$s" != "$$t" ]; then \
+		mkdir -p testsets/$$s-$$t; \
+		gzip -cd dataset/data/task1/raw/test_2016_flickr.$$s.gz > testsets/$$s-$$t/multi30k_test_2016_flickr.$$s; \
+		gzip -cd dataset/data/task1/raw/test_2016_flickr.$$t.gz > testsets/$$s-$$t/multi30k_test_2016_flickr.$$t; \
+		gzip -cd dataset/data/task1/raw/test_2018_flickr.$$s.gz > testsets/$$s-$$t/multi30k_test_2018_flickr.$$s; \
+		gzip -cd dataset/data/task1/raw/test_2018_flickr.$$t.gz > testsets/$$s-$$t/multi30k_test_2018_flickr.$$t; \
+	    fi \
+	  done \
+	done
+	for s in de en fr; do \
+	  for t in de en fr; do \
+	    if [ "$$s" != "$$t" ]; then \
+		mkdir -p testsets/$$s-$$t; \
+		gzip -cd dataset/data/task1/raw/test_2017_flickr.$$s.gz > testsets/$$s-$$t/multi30k_test_2017_flickr.$$s; \
+		gzip -cd dataset/data/task1/raw/test_2017_flickr.$$t.gz > testsets/$$s-$$t/multi30k_test_2017_flickr.$$t; \
+		gzip -cd dataset/data/task1/raw/test_2017_mscoco.$$s.gz > testsets/$$s-$$t/multi30k_test_2017_mscoco.$$s; \
+		gzip -cd dataset/data/task1/raw/test_2017_mscoco.$$t.gz > testsets/$$s-$$t/multi30k_test_2017_mscoco.$$t; \
+	    fi \
+	  done \
+	done
+	mkdir -p testsets/de-en testsets/en-de
+	gzip -cd dataset/data/task2/raw/test_2016.1.de.gz  > testsets/de-en/multi30k_task2_test_2016.de
+	gzip -cd dataset/data/task2/raw/test_2016.2.de.gz >> testsets/de-en/multi30k_task2_test_2016.de
+	gzip -cd dataset/data/task2/raw/test_2016.3.de.gz >> testsets/de-en/multi30k_task2_test_2016.de
+	gzip -cd dataset/data/task2/raw/test_2016.4.de.gz >> testsets/de-en/multi30k_task2_test_2016.de
+	gzip -cd dataset/data/task2/raw/test_2016.5.de.gz >> testsets/de-en/multi30k_task2_test_2016.de
+	gzip -cd dataset/data/task2/raw/test_2016.1.en.gz  > testsets/de-en/multi30k_task2_test_2016.en
+	gzip -cd dataset/data/task2/raw/test_2016.2.en.gz >> testsets/de-en/multi30k_task2_test_2016.en
+	gzip -cd dataset/data/task2/raw/test_2016.3.en.gz >> testsets/de-en/multi30k_task2_test_2016.en
+	gzip -cd dataset/data/task2/raw/test_2016.4.en.gz >> testsets/de-en/multi30k_task2_test_2016.en
+	gzip -cd dataset/data/task2/raw/test_2016.5.en.gz >> testsets/de-en/multi30k_task2_test_2016.en
+	cp testsets/de-en/multi30k_task2_test_2016.de testsets/en-de/multi30k_task2_test_2016.de
+	cp testsets/de-en/multi30k_task2_test_2016.en testsets/en-de/multi30k_task2_test_2016.en
+	rm -fr dataset
+
+
+## TICO-19 translation benchmark
+## from https://tico-19.github.io/index.html
+
+TICO19_TEST = ${patsubst tico19-testset/test/test.%.tsv,testsets/%/tico19-test.en,${wildcard tico19-testset/test/*.tsv}}
+
+.PHONY: tico19 tico19-fetch tico19-convert tico19-cleanup
+tico19:
+	${MAKE} tico19-fetch
+	${MAKE} tico19-convert
+	${MAKE} tico19-cleanup
+
+tico19-fetch:
+	wget https://tico-19.github.io/data/tico19-testset.zip
+	unzip tico19-testset.zip
+	rm -f tico19-testset.zip
+
+tico19-cleanup:
+	rm -fr __MACOSX
+	rm -fr tico19-testset
+
+tico19-convert: ${TICO19_TEST}
+
+${TICO19_TEST}: testsets/%/tico19-test.en: tico19-testset/test/test.%.tsv
+	mkdir -p ${dir $@}
+	cut -f1 $< | tail -n +2 | sed 's/^ *//;s/ *$$//' > $@.labels
+	cut -f2 $< | tail -n +2 | sed 's/^ *//;s/ *$$//' > ${@:en=${patsubst testsets/en-%/,%,$(dir $@)}}.labels
+	cut -f3 $< | tail -n +2 | sed 's/^ *//;s/ *$$//' > $@
+	cut -f4 $< | tail -n +2 | sed 's/^ *//;s/ *$$//' > ${@:en=${patsubst testsets/en-%/,%,$(dir $@)}}
+	cut -f5- $< | tail -n +2 | sed 's/^ *//;s/ *$$//' > $@.info
