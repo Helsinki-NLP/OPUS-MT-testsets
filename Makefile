@@ -8,36 +8,46 @@ DATASETS = wmt tatoeba flores1 flores101 multi30k tico19
 all:
 	${MAKE} ${DATASETS}
 	${MAKE} upgrade-2-letter-files
-	${MAKE} label-files
+	${MAKE} check-label-files
 
 
 
-## create default files for language labels
-## (just add the language of the file as default)
+## check whether we really need the language-label file
+## (remove the ones that have only one language,
+##  which is the same as the language of the test set)
 
-TESTFILES = $(filter-out %.info,$(filter-out %.labels,${wildcard testsets/*-*/*.*}))
-LABELFILES = ${patsubst %,%.labels,${TESTFILES}}
+CHECK_LABELFILES = ${patsubst %.labels,%.check,${wildcard testsets/*-*/*.labels}}
 
-.PHONY: label-files
-label-files: ${LABELFILES}
-${LABELFILES}:
-	for l in `seq ${shell cat $(@:.labels=) | wc -l}`; do \
-	  echo ${lastword ${subst ., ,$(@:.labels=)}} >> $@; \
-	done
+check-label-files: ${CHECK_LABELFILES}
+${CHECK_LABELFILES}: %.check: %.labels
+	@if [ -e $< ]; then \
+	  if [ ${shell sort -u $< | wc -l} -eq 1 ]; then \
+	    if [ "${shell sort -u $<}" == "$(subst .,,$(suffix ${basename $<}))" ]; then \
+		echo "rm -f $<"; \
+		rm -f $<; \
+	    else \
+		echo "language label is different from the the language file in $<"; \
+	    fi \
+	  else \
+	    echo "more than one language label in $<"; \
+	  fi \
+	fi
+
 
 
 ## some sanity checking and cleaning up of files with problems
 
+TESTFILES = $(filter-out %.info,$(filter-out %.labels,${wildcard testsets/*-*/*.*}))
 CHECKED_FILES = ${sort ${basename ${TESTFILES}}}
 sanity-check: ${CHECKED_FILES}
 	-rmdir testsets/* 2>/dev/null
 
 ${CHECKED_FILES}:
-	@if [ `ls $@.* | grep -v '.labels' | grep -v '.info' | grep -v '.upgraded' | wc -l` -ne 2 ]; then \
+	@if [ `ls $@.* | grep -v '.labels' | grep -v '.info' | wc -l` -ne 2 ]; then \
 	  echo "$@ does not have 2 language files"; \
 	  rm -f $@.*; \
 	else \
-	  if [ `wc -l $@.* | grep -v total | grep -v '.info' | grep -v '.upgraded' | sed 's/^ *//' | cut -f1 -d' ' | sort -u | wc -l` -ne 1 ]; then \
+	  if [ `wc -l $@.* | grep -v total | grep -v '.info' | sed 's/^ *//' | cut -f1 -d' ' | sort -u | wc -l` -ne 1 ]; then \
 	    echo "line count for $@.* does not match!"; \
 	    rm -f $@.*; \
 	  fi \
@@ -282,48 +292,23 @@ flores101:
 FLORES101_DEV_FILES = $(wildcard testsets/flores101_dataset/dev/*.dev)
 FLORES101_DEVTEST_FILES = $(wildcard testsets/flores101_dataset/devtest/*.devtest)
 
-FLORES101_DEV_LABELS = ${patsubst %.dev,%.labels,$(FLORES101_DEV_FILES)}
-FLORES101_DEVTEST_LABELS = ${patsubst %.devtest,%.labels,$(FLORES101_DEVTEST_FILES)}
 
 ## make symbolic links for all language combinations
 
 .PHONY: flores101-file-links
-flores101-file-links: ${FLORES101_DEV_LABELS} ${FLORES101_DEVTEST_LABELS}
+flores101-file-links: ${FLORES101_DEV_FILES} ${FLORES101_DEVTEST_FILES}
 	-for s in ${basename ${notdir ${FLORES101_DEV_LABELS}}}; do \
 	  for t in ${basename ${notdir ${FLORES101_DEV_LABELS}}}; do \
 	    if [ "$$s" != "$$t" ]; then \
 		echo "create links for $$s-$$t/flores101"; \
 		mkdir -p testsets/$$s-$$t; \
 		ln -s ../flores101_dataset/dev/$$s.dev testsets/$$s-$$t/flores101-dev.$$s; \
-		ln -s ../flores101_dataset/dev/$$s.labels testsets/$$s-$$t/flores101-dev.$$s.labels; \
 		ln -s ../flores101_dataset/dev/$$t.dev testsets/$$s-$$t/flores101-dev.$$t; \
-		ln -s ../flores101_dataset/dev/$$t.labels testsets/$$s-$$t/flores101-dev.$$t.labels; \
 		ln -s ../flores101_dataset/devtest/$$s.devtest testsets/$$s-$$t/flores101-devtest.$$s; \
-		ln -s ../flores101_dataset/devtest/$$s.labels testsets/$$s-$$t/flores101-devtest.$$s.labels; \
 		ln -s ../flores101_dataset/devtest/$$t.devtest testsets/$$s-$$t/flores101-devtest.$$t; \
-		ln -s ../flores101_dataset/devtest/$$t.labels testsets/$$s-$$t/flores101-devtest.$$t.labels; \
 	    fi \
 	  done \
 	done
-
-## language labels
-## TODO: do we really need those?
-
-.PHONY: flores101-dev-labels
-flores101-dev-labels: ${FLORES101_DEV_LABELS}
-${FLORES101_DEV_LABELS}: %.labels: %.dev
-	for l in `seq ${shell cat $< | wc -l}`; do \
-	  echo ${basename ${notdir $@}} >> $@; \
-	done
-
-.PHONY: flores101-devtest-labels
-flores101-devtest-labels: ${FLORES101_DEVTEST_LABELS}
-${FLORES101_DEVTEST_LABELS}: %.labels: %.devtest
-	for l in `seq ${shell cat $< | wc -l}`; do \
-	  echo ${basename ${notdir $@}} >> $@; \
-	done
-
-
 
 
 
@@ -417,8 +402,8 @@ tico19-convert: ${TICO19_TEST}
 
 ${TICO19_TEST}: testsets/%/tico19-test.en: tico19-testset/test/test.%.tsv
 	mkdir -p ${dir $@}
-	cut -f1 $< | tail -n +2 | sed 's/^ *//;s/ *$$//' > $@.labels
-	cut -f2 $< | tail -n +2 | sed 's/^ *//;s/ *$$//' > ${@:en=${patsubst testsets/en-%/,%,$(dir $@)}}.labels
+	cut -f1 $< | tail -n +2 | sed 's/^ *//;s/ *$$//' | tr "-" "_" > $@.labels
+	cut -f2 $< | tail -n +2 | sed 's/^ *//;s/ *$$//' | tr "-" "_" > ${@:en=${patsubst testsets/en-%/,%,$(dir $@)}}.labels
 	cut -f3 $< | tail -n +2 | sed 's/^ *//;s/ *$$//' > $@
 	cut -f4 $< | tail -n +2 | sed 's/^ *//;s/ *$$//' > ${@:en=${patsubst testsets/en-%/,%,$(dir $@)}}
 	cut -f5- $< | tail -n +2 | sed 's/^ *//;s/ *$$//' > $@.info
