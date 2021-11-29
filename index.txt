@@ -794,22 +794,16 @@
     2400   14870   78250 testsets//eng-kor/tatoeba-test-v2021-08-07.eng
     3981   98308  613287 testsets//zh-en/newstest2018-zhen.en
     2002   52115  319266 testsets//zh-en/newsdev2017-zhen.en
-    3981   13920  470341 testsets//zh-en/newstest2018-enzh.zh
-    2002    6352  258305 testsets//zh-en/newsdev2017-enzh.zh
     2000   66424  422547 testsets//zh-en/newstestB2020-zhen.en
     2000   71306  453904 testsets//zh-en/newstest2019-zhen.en
     3981   13920  470341 testsets//zh-en/newstest2018-zhen.zh
     2002    6352  258305 testsets//zh-en/newsdev2017-zhen.zh
-    3981   98308  613287 testsets//zh-en/newstest2018-enzh.en
-    2002   52115  319266 testsets//zh-en/newsdev2017-enzh.en
     2000    8642  298477 testsets//zh-en/newstestB2020-zhen.zh
     2000    8837  305755 testsets//zh-en/newstest2019-zhen.zh
     2791   77252  483552 testsets//zh-en/newstest2021.zh-en.en
-    2001    6340  239723 testsets//zh-en/newstest2017-enzh.zh
     2000   65561  421292 testsets//zh-en/newstest2020-zhen.en
     2001   47636  288610 testsets//zh-en/newstest2017-zhen.en
     2791   10852  361314 testsets//zh-en/newstest2021.zh-en.zh
-    2001   47636  288610 testsets//zh-en/newstest2017-enzh.en
     2000    8642  298477 testsets//zh-en/newstest2020-zhen.zh
     2001    6340  239723 testsets//zh-en/newstest2017-zhen.zh
      520    9660  123204 testsets//hi-en/newsdev2014.hi
@@ -900,36 +894,24 @@
    10519   65607  345857 testsets//heb-eng/tatoeba-test-v2021-08-07.eng
     3000   56252  333282 testsets//fin-eng/newstest2016-fien.eng
     3002   54960  327031 testsets//fin-eng/newstest2017-fien.eng
-    3000   56252  333282 testsets//fin-eng/newstest2016-enfi.eng
-    3002   54960  327031 testsets//fin-eng/newstest2017-enfi.eng
    10000   48248  369040 testsets//fin-eng/tatoeba-test-v2020-07-28.fin
-    3002   38346  347642 testsets//fin-eng/newstest2017-enfi.fin
-    3000   40522  360229 testsets//fin-eng/newstest2016-enfi.fin
     3002   38346  347642 testsets//fin-eng/newstest2017-fien.fin
     3000   40522  360229 testsets//fin-eng/newstest2016-fien.fin
    10000   62866  331520 testsets//fin-eng/tatoeba-test-v2020-07-28.eng
     3002   38512  351092 testsets//fin-eng/newstestB2017-fien.fin
-    3002   38512  351092 testsets//fin-eng/newstestB2017-enfi.fin
     3000   38651  347714 testsets//fin-eng/newstestB2016-enfi.fin
-    1500   28490  172753 testsets//fin-eng/newsdev2015-enfi.eng
     1500   28490  172753 testsets//fin-eng/newsdev2015-fien.eng
     3000   56252  333282 testsets//fin-eng/newstestB2016-enfi.eng
-    3002   54960  327031 testsets//fin-eng/newstestB2017-enfi.eng
     3002   54960  327031 testsets//fin-eng/newstestB2017-fien.eng
     1500   19817  182180 testsets//fin-eng/newsdev2015-fien.fin
-    1500   19817  182180 testsets//fin-eng/newsdev2015-enfi.fin
-    1370   16893  152650 testsets//fin-eng/newstest2015-enfi.fin
     1370   16893  152650 testsets//fin-eng/newstest2015-fien.fin
     1370   24204  145457 testsets//fin-eng/newstest2015-fien.eng
-    1370   24204  145457 testsets//fin-eng/newstest2015-enfi.eng
    10186   49226  376931 testsets//fin-eng/tatoeba-test-v2021-03-30.fin
     3000   54790  328355 testsets//fin-eng/newstest2018-fien.eng
     1996   32307  194777 testsets//fin-eng/newstest2019-fien.eng
-    3000   54790  328355 testsets//fin-eng/newstest2018-enfi.eng
    10690   51957  398701 testsets//fin-eng/tatoeba-test-v2021-08-07.fin
    10186   64169  338841 testsets//fin-eng/tatoeba-test-v2021-03-30.eng
    10690   67873  359125 testsets//fin-eng/tatoeba-test-v2021-08-07.eng
-    3000   38149  345478 testsets//fin-eng/newstest2018-enfi.fin
     1996   21497  193793 testsets//fin-eng/newstest2019-fien.fin
     3000   38149  345478 testsets//fin-eng/newstest2018-fien.fin
     1311    8217   45575 testsets//nor-dan/tatoeba-test-v2020-07-28.nor
@@ -959,9 +941,7 @@
      502   10425   62557 testsets//fr-en/newssyscomb2009.en
      502   10916   70529 testsets//fr-en/newssyscomb2009.fr
     1500   24994  153487 testsets//fr-en/newsdiscussdev2015-enfr.fr
-    1500   23668  135813 testsets//fr-en/newsdiscusstest2015-enfr.en
     2489   59054  383398 testsets//fr-en/newstest2010.fr
-    1500   25164  153950 testsets//fr-en/newsdiscusstest2015-enfr.fr
     2489   54025  328648 testsets//fr-en/newstest2010.en
     1500   24201  137371 testsets//fr-en/newsdiscussdev2015-enfr.en
      461    4843   24949 testsets//fr-en/multi30k_test_2017_mscoco.en
@@ -1000,33 +980,25 @@
      502    8644   62880 testsets//cs-en/newssyscomb2009.cs
     1000   11877   62076 testsets//cs-en/multi30k_test_2016_flickr.en
     3000   56088  332974 testsets//cs-en/newstest2013.en
-    2656   39219  279753 testsets//cs-en/newstest2015-encs.cs
     2051   43457  263240 testsets//cs-en/news-test2008.en
     2983   47257  344991 testsets//cs-en/newstest2018-csen.cs
     2999   57424  340382 testsets//cs-en/newstest2016-csen.en
-    3005   46971  335361 testsets//cs-en/newstest2017-encs.cs
     2489   45486  336311 testsets//cs-en/newstest2010.cs
     1071   10272   69775 testsets//cs-en/multi30k_test_2018_flickr.cs
     3003   55352  405486 testsets//cs-en/newstest2011.cs
-    2999   48944  349486 testsets//cs-en/newstest2016-encs.cs
-    2983   55927  333332 testsets//cs-en/newstest2018-encs.en
     2525   57634  345562 testsets//cs-en/newstest2009.en
     3005   54769  321031 testsets//cs-en/newstest2017-csen.en
     3003   55540  406578 testsets//cs-en/newstest2012.cs
     2656   39219  279753 testsets//cs-en/newstest2015-csen.cs
     3003   51860  378089 testsets//cs-en/newstest2014-csen.cs
      502   10425   62557 testsets//cs-en/newssyscomb2009.en
-    2656   47165  276506 testsets//cs-en/newstest2015-encs.en
     1000    9332   62364 testsets//cs-en/multi30k_test_2016_flickr.cs
     3000   48506  351491 testsets//cs-en/newstest2013.cs
     2983   55927  333332 testsets//cs-en/newstest2018-csen.en
     2999   48944  349486 testsets//cs-en/newstest2016-csen.cs
     2051   36446  267659 testsets//cs-en/news-test2008.cs
-    3005   54769  321031 testsets//cs-en/newstest2017-encs.en
     2489   54025  328648 testsets//cs-en/newstest2010.en
     3003   65832  396884 testsets//cs-en/newstest2011.en
-    2999   57424  340382 testsets//cs-en/newstest2016-encs.en
-    2983   47257  344991 testsets//cs-en/newstest2018-encs.cs
     1071   13753   70603 testsets//cs-en/multi30k_test_2018_flickr.en
     2525   47331  348154 testsets//cs-en/newstest2009.cs
     3005   46971  335361 testsets//cs-en/newstest2017-csen.cs
@@ -1672,18 +1644,10 @@
     1001   14044  119460 testsets//tr-en/newsdev2016-tren.tr
     3000   45944  387904 testsets//tr-en/newstest2018-tren.tr
     1001   19474  115176 testsets//tr-en/newsdev2016-tren.en
-    1001   14044  119460 testsets//tr-en/newsdev2016-entr.tr
-    3000   60232  364401 testsets//tr-en/newstest2018-entr.en
-    1001   19474  115176 testsets//tr-en/newsdev2016-entr.en
-    3000   45944  387904 testsets//tr-en/newstest2018-entr.tr
     3000   58396  345226 testsets//tr-en/newstest2016-tren.en
     3007   45049  378923 testsets//tr-en/newstest2017-tren.tr
     3000   44195  369202 testsets//tr-en/newstest2016-tren.tr
     3007   59741  355800 testsets//tr-en/newstest2017-tren.en
-    3007   45049  378923 testsets//tr-en/newstest2017-entr.tr
-    3000   58396  345226 testsets//tr-en/newstest2016-entr.en
-    3007   59741  355800 testsets//tr-en/newstest2017-entr.en
-    3000   44195  369202 testsets//tr-en/newstest2016-entr.tr
     2500   15228   82735 testsets//eng-nds/tatoeba-test-v2021-08-07.nds
     2500   14803   76247 testsets//eng-nds/tatoeba-test-v2020-07-28.eng
     2500   15228   82735 testsets//eng-nds/tatoeba-test-v2021-03-30.nds
@@ -1746,12 +1710,10 @@
     2525   61124  391108 testsets//fra-eng/newstest2009.fra
     1500   24994  153487 testsets//fra-eng/newsdiscussdev2015-enfr.fra
     1500   24201  137371 testsets//fra-eng/newsdiscussdev2015-enfr.eng
-    1500   23668  135813 testsets//fra-eng/newsdiscusstest2015-enfr.eng
    12681   94315  546578 testsets//fra-eng/tatoeba-test-v2021-08-07.fra
    10892   72511  380799 testsets//fra-eng/tatoeba-test-v2021-03-30.eng
    10892   78788  453831 testsets//fra-eng/tatoeba-test-v2021-03-30.fra
    12681   86600  458041 testsets//fra-eng/tatoeba-test-v2021-08-07.eng
-    1500   25164  153950 testsets//fra-eng/newsdiscusstest2015-enfr.fra
      211     837    6036 testsets//tur-crh/tatoeba-test-v2021-03-30.crh
      208     824    5953 testsets//tur-crh/tatoeba-test-v2021-08-07.crh
      207     791    5849 testsets//tur-crh/tatoeba-test-v2020-07-28.tur
@@ -1798,13 +1760,11 @@
      336    1939   11033 testsets//epo-glg/tatoeba-test-v2021-03-30.glg
      324    1861   10911 testsets//epo-glg/tatoeba-test-v2020-07-28.epo
      329    1892   10776 testsets//epo-glg/tatoeba-test-v2021-08-07.glg
-    2066   45975  295121 testsets//kaz-eng/newsdev2019-enkk.eng
     2066   37742  539332 testsets//kaz-eng/newsdev2019-kken.kaz
      397    2176   11624 testsets//kaz-eng/tatoeba-test-v2020-07-28.eng
     1000   17774  111204 testsets//kaz-eng/newstest2019-kken.eng
      409    1739   20795 testsets//kaz-eng/tatoeba-test-v2021-03-30.kaz
      403    1715   20480 testsets//kaz-eng/tatoeba-test-v2021-08-07.kaz
-    2066   37742  539332 testsets//kaz-eng/newsdev2019-enkk.kaz
     2066   45975  295121 testsets//kaz-eng/newsdev2019-kken.eng
      397    1692   20201 testsets//kaz-eng/tatoeba-test-v2020-07-28.kaz
     1000   13519  194610 testsets//kaz-eng/newstest2019-kken.kaz
@@ -2128,12 +2088,8 @@
      221     327   10620 testsets//jpn_Kana-spa/tatoeba-test-v2021-03-30.jpn_Kana
     1999   45165  290402 testsets//ro-en/newsdev2016-roen.ro
     1999   42055  248676 testsets//ro-en/newstest2016-roen.en
-    1999   43352  278538 testsets//ro-en/newstest2016-enro.ro
-    1999   43535  259395 testsets//ro-en/newsdev2016-enro.en
     1999   43352  278538 testsets//ro-en/newstest2016-roen.ro
     1999   43535  259395 testsets//ro-en/newsdev2016-roen.en
-    1999   45165  290402 testsets//ro-en/newsdev2016-enro.ro
-    1999   42055  248676 testsets//ro-en/newstest2016-enro.en
      405    2306   19561 testsets//eng-arq/tatoeba-test-v2021-08-07.arq
      405    2306   19563 testsets//eng-arq/tatoeba-test-v2021-03-30.arq
      403    2584   13185 testsets//eng-arq/tatoeba-test-v2020-07-28.eng
@@ -3440,19 +3396,15 @@
    14229   95174  507990 testsets//epo-eng/tatoeba-test-v2021-03-30.eng
    17675  120742  643809 testsets//epo-eng/tatoeba-test-v2021-08-07.eng
     2000   28941  223507 testsets//est-eng/newsdev2018-eten.est
-    2000   38104  223883 testsets//est-eng/newsdev2018-enet.eng
     1359    7295   37845 testsets//est-eng/tatoeba-test-v2020-07-28.eng
     1359    6374   39050 testsets//est-eng/tatoeba-test-v2021-03-30.est
-    2000   30543  237821 testsets//est-eng/newstest2018-enet.est
     2000   40168  239565 testsets//est-eng/newstest2018-eten.eng
     1359    6374   39050 testsets//est-eng/tatoeba-test-v2021-08-07.est
     1359    6374   39050 testsets//est-eng/tatoeba-test-v2020-07-28.est
-    2000   28941  223507 testsets//est-eng/newsdev2018-enet.est
     2000   38104  223883 testsets//est-eng/newsdev2018-eten.eng
     1359    7295   37845 testsets//est-eng/tatoeba-test-v2021-03-30.eng
     1359    7295   37845 testsets//est-eng/tatoeba-test-v2021-08-07.eng
     2000   30543  237821 testsets//est-eng/newstest2018-eten.est
-    2000   40168  239565 testsets//est-eng/newstest2018-enet.eng
      226    1373    6794 testsets//lfn_Latn-heb/tatoeba-test-v2021-03-30.lfn_Latn
      212    1202    5869 testsets//lfn_Latn-heb/tatoeba-test-v2021-08-07.lfn_Latn
      212    1009    8674 testsets//lfn_Latn-heb/tatoeba-test-v2021-08-07.heb
@@ -3807,16 +3759,10 @@
     2002    6352  258305 testsets//zho-eng/newsdev2017-zhen.zho
     2001   47636  288610 testsets//zho-eng/newstest2017-zhen.eng
    10000   70665  370084 testsets//zho-eng/tatoeba-test-v2020-07-28.eng
-    2001    6340  239723 testsets//zho-eng/newstest2017-enzh.zho
-    2002   52115  319266 testsets//zho-eng/newsdev2017-enzh.eng
-    3981   98308  613287 testsets//zho-eng/newstest2018-enzh.eng
     2791   77252  483552 testsets//zho-eng/newstest2021.zh-en.eng
     2000    8642  298477 testsets//zho-eng/newstest2020-zhen.zho
     2000   65561  421292 testsets//zho-eng/newstest2020-zhen.eng
-    3981   13920  470341 testsets//zho-eng/newstest2018-enzh.zho
     2791   10852  361314 testsets//zho-eng/newstest2021.zh-en.zho
-    2002    6352  258305 testsets//zho-eng/newsdev2017-enzh.zho
-    2001   47636  288610 testsets//zho-eng/newstest2017-enzh.eng
    10000   15397  341108 testsets//zho-eng/tatoeba-test-v2020-07-28.zho
     2001    6340  239723 testsets//zho-eng/newstest2017-zhen.zho
     2002   52115  319266 testsets//zho-eng/newsdev2017-zhen.eng
@@ -4764,8 +4710,6 @@
      785   31031  225881 testsets//de-en/newstestB2020-deen.de
     2525   54224  382617 testsets//de-en/newstest2009.de
     1000    9600   64059 testsets//de-en/multi30k_test_2017_flickr.de
-    2998   58628  351779 testsets//de-en/newstest2018-ende.en
- 9777386 80405044 582949702 total
     2998   54933  387874 testsets//de-en/newstest2018-deen.de
     2051   41187  298369 testsets//de-en/news-test2008.de
     1000   11877   62076 testsets//de-en/multi30k_test_2016_flickr.en
@@ -4775,7 +4719,6 @@
     1000   10905   70649 testsets//de-en/multi30k_test_2016_flickr.de
     3000   54712  385433 testsets//de-en/newstest2013.de
     3003   62515  446765 testsets//de-en/newstest2012.de
-    2998   54933  387874 testsets//de-en/newstest2018-ende.de
     1000   10526   55242 testsets//de-en/multi30k_test_2017_flickr.en
      785   33689  208817 testsets//de-en/newstestB2020-deen.en
     2000   34386  206941 testsets//de-en/newstest2019-deen.en
@@ -4783,21 +4726,16 @@
     1071   12316   80893 testsets//de-en/multi30k_test_2018_flickr.de
     3003   62550  450571 testsets//de-en/newstest2011.de
      461    4605   29906 testsets//de-en/multi30k_test_2017_mscoco.de
-    2999   56789  337711 testsets//de-en/newstest2016-ende.en
     2169   40771  241016 testsets//de-en/newstest2015-deen.en
     3004   52833  374670 testsets//de-en/newstest2017-deen.de
-    3004   56435  336817 testsets//de-en/newstest2017-ende.en
      502   10425   62557 testsets//de-en/newssyscomb2009.en
     3003   59326  359898 testsets//de-en/newstest2014-deen.en
     2999   53944  379803 testsets//de-en/newstest2016-deen.de
-    2169   38160  268951 testsets//de-en/newstest2015-ende.de
      785   31031  225881 testsets//de-en/newstest2020-deen.de
     2489   53162  383291 testsets//de-en/newstest2010.de
     5000   61687  323040 testsets//de-en/multi30k_task2_test_2016.en
     2999   56789  337711 testsets//de-en/newstest2016-deen.en
-    2169   40771  241016 testsets//de-en/newstest2015-ende.en
      502    9806   69689 testsets//de-en/newssyscomb2009.de
-    3004   52833  374670 testsets//de-en/newstest2017-ende.de
     3003   54865  399406 testsets//de-en/newstest2014-deen.de
     2489   54025  328648 testsets//de-en/newstest2010.en
     5000   46772  299975 testsets//de-en/multi30k_task2_test_2016.de
@@ -4806,7 +4744,6 @@
     3003   65832  396884 testsets//de-en/newstest2011.en
     1071   13753   70603 testsets//de-en/multi30k_test_2018_flickr.en
     3004   56435  336817 testsets//de-en/newstest2017-deen.en
-    2999   53944  379803 testsets//de-en/newstest2016-ende.de
     2169   38160  268951 testsets//de-en/newstest2015-deen.de
      982    5519   29640 testsets//nor-nor/tatoeba-test-v2021-08-07.nor2
      948    5317   28487 testsets//nor-nor/tatoeba-test-v2020-07-28.nor1
@@ -4825,6 +4762,7 @@
      692    3521   17414 testsets//ina_Latn-lfn_Latn/tatoeba-test-v2021-08-07.lfn_Latn
      378    1879   10470 testsets//ina_Latn-lfn_Latn/tatoeba-test-v2020-07-28.ina_Latn
      692    3369   18614 testsets//ina_Latn-lfn_Latn/tatoeba-test-v2021-08-07.ina_Latn
+ 9731362 79694455 576226176 total
      707    3476   19506 testsets//ina_Latn-lfn_Latn/tatoeba-test-v2021-03-30.ina_Latn
     1743   38890  242634 testsets//cat-oci/wmt21-ml-wp.oci
     1743   39351  237129 testsets//cat-oci/wmt21-ml-wp.cat
@@ -7704,18 +7642,14 @@
      278     431    9670 testsets//cmn_Hans-bul/tatoeba-test-v2020-07-28.cmn_Hans
      278    1849   18315 testsets//cmn_Hans-bul/tatoeba-test-v2020-07-28.bul
      279     432    9708 testsets//cmn_Hans-bul/tatoeba-test-v2021-03-30.cmn_Hans
-    2003   34619  275878 testsets//lav-eng/newsdev2017-enlv.lav
     1631    9273   48234 testsets//lav-eng/tatoeba-test-v2020-07-28.eng
     2001   32903  264253 testsets//lav-eng/newstest2017-lven.lav
-    2003   42562  256700 testsets//lav-eng/newsdev2017-enlv.eng
     1631    7957   52897 testsets//lav-eng/tatoeba-test-v2020-07-28.lav
     2001   42080  254207 testsets//lav-eng/newstest2017-lven.eng
     2003   42562  256700 testsets//lav-eng/newsdev2017-lven.eng
-    2001   42080  254207 testsets//lav-eng/newstest2017-enlv.eng
     1631    7957   52897 testsets//lav-eng/tatoeba-test-v2021-03-30.lav
     1631    7957   52897 testsets//lav-eng/tatoeba-test-v2021-08-07.lav
     2003   34619  275878 testsets//lav-eng/newsdev2017-lven.lav
-    2001   32903  264253 testsets//lav-eng/newstest2017-enlv.lav
     1631    9273   48234 testsets//lav-eng/tatoeba-test-v2021-03-30.eng
     1631    9273   48234 testsets//lav-eng/tatoeba-test-v2021-08-07.eng
     2915   21259  139221 testsets//lat-fra/tatoeba-test-v2021-08-07.lat
@@ -8596,8 +8530,6 @@
     3003   55352  405486 testsets//ces-eng/newstest2011.ces
     2489   45486  336311 testsets//ces-eng/newstest2010.ces
     2051   36446  267659 testsets//ces-eng/news-test2008.ces
-    3005   46971  335361 testsets//ces-eng/newstest2017-encs.ces
-    2999   48944  349486 testsets//ces-eng/newstest2016-encs.ces
     3003   55540  406578 testsets//ces-eng/newstest2012.ces
    10000   64235  334019 testsets//ces-eng/tatoeba-test-v2020-07-28.eng
      502   10425   62557 testsets//ces-eng/newssyscomb2009.eng
@@ -8605,8 +8537,6 @@
      502    8644   62880 testsets//ces-eng/newssyscomb2009.ces
    10000   52176  333261 testsets//ces-eng/tatoeba-test-v2020-07-28.ces
     3003   63778  381734 testsets//ces-eng/newstest2012.eng
-    2999   57424  340382 testsets//ces-eng/newstest2016-encs.eng
-    3005   54769  321031 testsets//ces-eng/newstest2017-encs.eng
     3000   56088  332974 testsets//ces-eng/newstest2013.eng
     3003   65832  396884 testsets//ces-eng/newstest2011.eng
     2051   43457  263240 testsets//ces-eng/news-test2008.eng
@@ -8615,9 +8545,7 @@
     3003   51860  378089 testsets//ces-eng/newstest2014-csen.ces
     2656   39219  279753 testsets//ces-eng/newstest2015-csen.ces
     2983   55927  333332 testsets//ces-eng/newstest2018-csen.eng
-    2983   55927  333332 testsets//ces-eng/newstest2018-encs.eng
    13824   73056  465735 testsets//ces-eng/tatoeba-test-v2021-08-07.ces
-    2656   39219  279753 testsets//ces-eng/newstest2015-encs.ces
    12076   63466  406824 testsets//ces-eng/tatoeba-test-v2021-03-30.ces
     1000   11877   62076 testsets//ces-eng/multi30k_test_2016_flickr.eng
     2525   57634  345555 testsets//ces-eng/newstest2009.eng
@@ -8628,9 +8556,7 @@
     2525   47331  348131 testsets//ces-eng/newstest2009.ces
     1000    9332   62364 testsets//ces-eng/multi30k_test_2016_flickr.ces
    12076   77881  407644 testsets//ces-eng/tatoeba-test-v2021-03-30.eng
-    2656   47165  276506 testsets//ces-eng/newstest2015-encs.eng
    13824   89597  466845 testsets//ces-eng/tatoeba-test-v2021-08-07.eng
-    2983   47257  344991 testsets//ces-eng/newstest2018-encs.ces
      891    4471   29777 testsets//pol-tur/tatoeba-test-v2020-07-28.pol
      891    3894   29253 testsets//pol-tur/tatoeba-test-v2020-07-28.tur
      894    3908   29355 testsets//pol-tur/tatoeba-test-v2021-03-30.tur
@@ -8801,14 +8727,10 @@
      544    3548   21422 testsets//deu-msa/tatoeba-test-v2021-08-07.deu
      544    3183   20976 testsets//deu-msa/tatoeba-test-v2021-08-07.msa
      540    3535   21362 testsets//deu-msa/tatoeba-test-v2021-03-30.deu
-    2000   28941  223507 testsets//et-en/newsdev2018-enet.et
-    2000   38104  223883 testsets//et-en/newsdev2018-enet.en
     2000   38104  223883 testsets//et-en/newsdev2018-eten.en
     2000   28941  223507 testsets//et-en/newsdev2018-eten.et
     2000   40168  239565 testsets//et-en/newstest2018-eten.en
     2000   30543  237821 testsets//et-en/newstest2018-eten.et
-    2000   30543  237821 testsets//et-en/newstest2018-enet.et
-    2000   40168  239565 testsets//et-en/newstest2018-enet.en
    10272   55692  586595 testsets//spa-rus/tatoeba-test-v2021-03-30.rus
    10506   56994  600307 testsets//spa-rus/tatoeba-test-v2021-08-07.rus
    10272   61817  357772 testsets//spa-rus/tatoeba-test-v2021-03-30.spa
@@ -9092,9 +9014,7 @@
     1016   14702  216945 testsets//guj-eng/newstest2019-guen.guj
     1016   15734   91690 testsets//guj-eng/newstest2019-guen.eng
     1998   36882  216712 testsets//guj-eng/newsdev2019-guen.eng
-    1998   36882  216712 testsets//guj-eng/newsdev2019-engu.eng
     1998   36699  545913 testsets//guj-eng/newsdev2019-guen.guj
-    1998   36699  545913 testsets//guj-eng/newsdev2019-engu.guj
      287    1420   14709 testsets//pol-bel/tatoeba-test-v2020-07-28.bel
      287    1399    9221 testsets//pol-bel/tatoeba-test-v2020-07-28.pol
      287    1420   14709 testsets//pol-bel/tatoeba-test-v2021-08-07.bel
@@ -9209,10 +9129,7 @@
     3003   53892  695033 testsets//rus-eng/newstest2014-ruen.rus
     2818   47743  595877 testsets//rus-eng/newstest2015-ruen.rus
    15118   83529  863373 testsets//rus-eng/tatoeba-test-v2021-03-30.rus
-    3000   62925  384386 testsets//rus-eng/newstest2018-enru.eng
    10000   61769  317652 testsets//rus-eng/tatoeba-test-v2020-07-28.eng
-    2998   53349  666071 testsets//rus-eng/newstest2016-enru.rus
-    3001   51917  655369 testsets//rus-eng/newstest2017-enru.rus
    19425  110241 1142501 testsets//rus-eng/tatoeba-test-v2021-08-07.rus
     3003   63778  381734 testsets//rus-eng/newstest2012.eng
     2818   56935  343179 testsets//rus-eng/newstest2015-enru.eng
@@ -9235,10 +9152,7 @@
     3003   61220  374421 testsets//rus-eng/newstest2014-ruen.eng
    15118   94776  493488 testsets//rus-eng/tatoeba-test-v2021-03-30.eng
    19425  125308  649753 testsets//rus-eng/tatoeba-test-v2021-08-07.eng
-    3001   60714  366812 testsets//rus-eng/newstest2017-enru.eng
-    2998   61077  366610 testsets//rus-eng/newstest2016-enru.eng
    10000   54795  562957 testsets//rus-eng/tatoeba-test-v2020-07-28.rus
-    3000   53650  683202 testsets//rus-eng/newstest2018-enru.rus
     1387    2271   62977 testsets//jpn_Hani-eng/tatoeba-test-v2021-03-30.jpn_Hani
     1000    7338   40771 testsets//jpn_Hani-eng/tatoeba-test-v2020-07-28.eng
     1500    2457   68417 testsets//jpn_Hani-eng/tatoeba-test-v2021-08-07.jpn_Hani
@@ -9536,18 +9450,13 @@
     1164    5284   29243 testsets//fra-gcf/tatoeba-test-v2021-08-07.fra
     1166    5293   29298 testsets//fra-gcf/tatoeba-test-v2021-03-30.fra
     9241   60331  348480 testsets//spa-jpn_Hira/tatoeba-test-v2021-03-30.spa
- 11058230 87062998 623921178 total
     9379   61188  352891 testsets//spa-jpn_Hira/tatoeba-test-v2021-08-07.spa
     9379   13447  463232 testsets//spa-jpn_Hira/tatoeba-test-v2021-08-07.jpn_Hira
     8801   57879  333864 testsets//spa-jpn_Hira/tatoeba-test-v2020-07-28.spa
     8801   12471  435759 testsets//spa-jpn_Hira/tatoeba-test-v2020-07-28.jpn_Hira
     9241   13223  456623 testsets//spa-jpn_Hira/tatoeba-test-v2021-03-30.jpn_Hira
-    2001   42080  254207 testsets//lv-en/newstest2017-enlv.en
-    2003   34619  275878 testsets//lv-en/newsdev2017-enlv.lv
     2003   34619  275878 testsets//lv-en/newsdev2017-lven.lv
     2001   42080  254207 testsets//lv-en/newstest2017-lven.en
-    2001   32903  264253 testsets//lv-en/newstest2017-enlv.lv
-    2003   42562  256700 testsets//lv-en/newsdev2017-enlv.en
     2003   42562  256700 testsets//lv-en/newsdev2017-lven.en
     2001   32903  264253 testsets//lv-en/newstest2017-lven.lv
     1377    6803   53404 testsets//tur-heb/tatoeba-test-v2020-07-28.heb
@@ -9605,16 +9514,15 @@
      458    2308   15490 testsets//deu-eus/tatoeba-test-v2021-03-30.eus
      458    2765   16821 testsets//deu-eus/tatoeba-test-v2021-03-30.deu
     1000   17774  111204 testsets//kk-en/newstest2019-kken.en
-    2066   45975  295121 testsets//kk-en/newsdev2019-enkk.en
     2066   37742  539332 testsets//kk-en/newsdev2019-kken.kk
     2066   45975  295121 testsets//kk-en/newsdev2019-kken.en
-    2066   37742  539332 testsets//kk-en/newsdev2019-enkk.kk
     1000   13519  194610 testsets//kk-en/newstest2019-kken.kk
     3651   29080  184175 testsets//deu-nor/tatoeba-test-v2020-07-28.deu
     3651   28410  160248 testsets//deu-nor/tatoeba-test-v2020-07-28.nor
     3651   29080  184175 testsets//deu-nor/tatoeba-test-v2021-08-07.deu
     3651   28410  160248 testsets//deu-nor/tatoeba-test-v2021-08-07.nor
     3651   28410  160248 testsets//deu-nor/tatoeba-test-v2021-03-30.nor
+ 11021974 85003041 610669255 total
     3651   29080  184175 testsets//deu-nor/tatoeba-test-v2021-03-30.deu
     1001   16199  119630 testsets//pl-en/newstest2020-plen.pl
     2000   41231  250115 testsets//pl-en/newsdev2020-plen.en
@@ -10204,22 +10112,14 @@
      215     534    3752 testsets//ina_Latn-tlh_Latn/tatoeba-test-v2021-08-07.tlh_Latn
     3000   44195  369202 testsets//tur-eng/newstest2016-tren.tur
     3007   45049  378923 testsets//tur-eng/newstest2017-tren.tur
-    3000   45944  387904 testsets//tur-eng/newstest2018-entr.tur
-    1001   14044  119460 testsets//tur-eng/newsdev2016-entr.tur
    10000   66526  346423 testsets//tur-eng/tatoeba-test-v2020-07-28.eng
     3000   58396  345226 testsets//tur-eng/newstest2016-tren.eng
     3007   59741  355800 testsets//tur-eng/newstest2017-tren.eng
-    3000   60232  364401 testsets//tur-eng/newstest2018-entr.eng
-    1001   19474  115176 testsets//tur-eng/newsdev2016-entr.eng
    10000   49076  380219 testsets//tur-eng/tatoeba-test-v2020-07-28.tur
-    3000   58396  345226 testsets//tur-eng/newstest2016-entr.eng
-    3007   59741  355800 testsets//tur-eng/newstest2017-entr.eng
     3000   60232  364401 testsets//tur-eng/newstest2018-tren.eng
    11731   57731  449177 testsets//tur-eng/tatoeba-test-v2021-03-30.tur
     1001   19474  115176 testsets//tur-eng/newsdev2016-tren.eng
    13907   68529  532189 testsets//tur-eng/tatoeba-test-v2021-08-07.tur
-    3000   44195  369202 testsets//tur-eng/newstest2016-entr.tur
-    3007   45049  378923 testsets//tur-eng/newstest2017-entr.tur
     3000   45944  387904 testsets//tur-eng/newstest2018-tren.tur
    11731   78678  412581 testsets//tur-eng/tatoeba-test-v2021-03-30.eng
    13907   93511  490245 testsets//tur-eng/tatoeba-test-v2021-08-07.eng
@@ -10728,14 +10628,10 @@
      785   33689  208817 testsets//deu-eng/newstestB2020-deen.eng
    10000   69441  426072 testsets//deu-eng/tatoeba-test-v2020-07-28.deu
     1000    9600   64059 testsets//deu-eng/multi30k_test_2017_flickr.deu
-    2999   53944  379803 testsets//deu-eng/newstest2016-ende.deu
-    3004   52833  374670 testsets//deu-eng/newstest2017-ende.deu
     2000   34386  206941 testsets//deu-eng/newstest2019-deen.eng
     2998   58628  351779 testsets//deu-eng/newstest2018-deen.eng
     2000   31097  219591 testsets//deu-eng/newstest2019-deen.deu
     2998   54933  387874 testsets//deu-eng/newstest2018-deen.deu
-    2999   56789  337711 testsets//deu-eng/newstest2016-ende.eng
-    3004   56435  336817 testsets//deu-eng/newstest2017-ende.eng
      785   31031  225881 testsets//deu-eng/newstestB2020-deen.deu
    10000   69486  363148 testsets//deu-eng/tatoeba-test-v2020-07-28.eng
      502   10425   62557 testsets//deu-eng/newssyscomb2009.eng
@@ -10759,20 +10655,16 @@
     3000   54712  385433 testsets//deu-eng/newstest2013.deu
      785   33781  208214 testsets//deu-eng/newstest2020-deen.eng
     2525   54224  382617 testsets//deu-eng/newstest2009.deu
-    2169   40771  241016 testsets//deu-eng/newstest2015-ende.eng
      461    4843   24949 testsets//deu-eng/multi30k_test_2017_mscoco.eng
     1000   11877   62076 testsets//deu-eng/multi30k_test_2016_flickr.eng
-    2169   38160  268951 testsets//deu-eng/newstest2015-ende.deu
      461    4605   29906 testsets//deu-eng/multi30k_test_2017_mscoco.deu
     2525   57634  345555 testsets//deu-eng/newstest2009.eng
     1000   10905   70649 testsets//deu-eng/multi30k_test_2016_flickr.deu
    17565  126272  782297 testsets//deu-eng/tatoeba-test-v2021-08-07.deu
     3004   56435  336817 testsets//deu-eng/newstest2017-deen.eng
     2999   56789  337711 testsets//deu-eng/newstest2016-deen.eng
-    2998   54933  387874 testsets//deu-eng/newstest2018-ende.deu
    12664   89511  553341 testsets//deu-eng/tatoeba-test-v2021-03-30.deu
     5000   46772  299975 testsets//deu-eng/multi30k_task2_test_2016.deu
-    2998   58628  351779 testsets//deu-eng/newstest2018-ende.eng
     3004   52833  374670 testsets//deu-eng/newstest2017-deen.deu
     2999   53944  379803 testsets//deu-eng/newstest2016-deen.deu
     5000   61687  323040 testsets//deu-eng/multi30k_task2_test_2016.eng
@@ -10858,12 +10750,10 @@
      502    9806   69689 testsets//de-cs/newssyscomb2009.de
     2525   47331  348154 testsets//de-cs/newstest2009.cs
     1997   37519  272961 testsets//de-cs/newstest2019-decs.cs
-    1998   36882  216712 testsets//gu-en/newsdev2019-engu.en
     1998   36882  216712 testsets//gu-en/newsdev2019-guen.en
     1016   14702  216945 testsets//gu-en/newstest2019-guen.gu
     1016   15734   91690 testsets//gu-en/newstest2019-guen.en
     1998   36699  545913 testsets//gu-en/newsdev2019-guen.gu
-    1998   36699  545913 testsets//gu-en/newsdev2019-engu.gu
     2500   15048  136512 testsets//hbs-epo/tatoeba-test-v2021-08-07.hbs
     2500   15048  136512 testsets//hbs-epo/tatoeba-test-v2021-03-30.hbs
     2500   15217   91451 testsets//hbs-epo/tatoeba-test-v2021-08-07.epo
@@ -11008,13 +10898,10 @@
     1790   11397   68146 testsets//vie-epo/tatoeba-test-v2020-07-28.epo
     1790   16466   90979 testsets//vie-epo/tatoeba-test-v2021-08-07.vie
     1790   16466   90979 testsets//vie-epo/tatoeba-test-v2021-03-30.vie
-    2998   61077  366610 testsets//ru-en/newstest2016-enru.en
     3003   63778  381734 testsets//ru-en/newstest2012.en
     3003   53892  695033 testsets//ru-en/newstest2014-ruen.ru
     2818   47743  595877 testsets//ru-en/newstest2015-ruen.ru
-    3001   60714  366812 testsets//ru-en/newstest2017-enru.en
     3000   56088  332974 testsets//ru-en/newstest2013.en
-    3000   53650  683202 testsets//ru-en/newstest2018-enru.ru
     3001   51917  655369 testsets//ru-en/newstest2017-ruen.ru
     3000   62925  384386 testsets//ru-en/newstest2018-ruen.en
     2818   56935  343179 testsets//ru-en/newstest2015-enru.en
@@ -11023,11 +10910,8 @@
      991   18253  114732 testsets//ru-en/newstestB2020-ruen.en
     2000   37348  226200 testsets//ru-en/newstest2019-ruen.en
     3000   50033  626964 testsets//ru-en/newstest2013.ru
-    3001   51917  655369 testsets//ru-en/newstest2017-enru.ru
-    3000   62925  384386 testsets//ru-en/newstest2018-enru.en
     2818   56935  343179 testsets//ru-en/newstest2015-ruen.en
     3003   61220  374421 testsets//ru-en/newstest2014-ruen.en
-    2998   53349  666071 testsets//ru-en/newstest2016-enru.ru
     3003   55503  699810 testsets//ru-en/newstest2012.ru
     2998   61077  366610 testsets//ru-en/newstest2016-ruen.en
      991   15008  195730 testsets//ru-en/newstestB2020-ruen.ru
@@ -11292,8 +11176,6 @@
      912    5529   29598 testsets//ina-lat/tatoeba-test-v2021-08-07.ina
      823    5115   27439 testsets//ina-lat/tatoeba-test-v2020-07-28.ina
      823    3652   24351 testsets//ina-lat/tatoeba-test-v2020-07-28.lat
-    1999   42055  248676 testsets//ron-eng/newstest2016-enro.eng
-    1999   43352  278538 testsets//ron-eng/newstest2016-enro.ron
     5000   31187  184941 testsets//ron-eng/tatoeba-test-v2020-07-28.ron
     1999   43352  278538 testsets//ron-eng/newstest2016-roen.ron
     1999   42055  248676 testsets//ron-eng/newstest2016-roen.eng
@@ -11304,8 +11186,6 @@
    10019   62889  339781 testsets//ron-eng/tatoeba-test-v2021-03-30.eng
     5508   34144  202003 testsets//ron-eng/tatoeba-test-v2021-08-07.ron
     5508   34440  183226 testsets//ron-eng/tatoeba-test-v2021-08-07.eng
-    1999   45165  290402 testsets//ron-eng/newsdev2016-enro.ron
-    1999   43535  259395 testsets//ron-eng/newsdev2016-enro.eng
      257     761    6824 testsets//eng-que/tatoeba-test-v2020-07-28.que
      257    1379    6926 testsets//eng-que/tatoeba-test-v2020-07-28.eng
      258    1383    6950 testsets//eng-que/tatoeba-test-v2021-03-30.eng
@@ -11700,33 +11580,21 @@
     4999   30567  183905 testsets//fas-epo/tatoeba-test-v2021-03-30.epo
     2500   15281   90671 testsets//fas-epo/tatoeba-test-v2020-07-28.epo
     2500   21677  156753 testsets//fas-epo/tatoeba-test-v2020-07-28.fas
-    3000   56252  333282 testsets//fi-en/newstest2016-enfi.en
-    3000   40522  360229 testsets//fi-en/newstest2016-enfi.fi
-    3002   38346  347642 testsets//fi-en/newstest2017-enfi.fi
     1500   19817  182180 testsets//fi-en/newsdev2015-fien.fi
-    3002   54960  327031 testsets//fi-en/newstest2017-enfi.en
     1500   28490  172753 testsets//fi-en/newsdev2015-fien.en
     3000   54790  328355 testsets//fi-en/newstest2018-fien.en
     3002   38512  351092 testsets//fi-en/newstestB2017-fien.fi
-    1370   16893  152650 testsets//fi-en/newstest2015-enfi.fi
     3000   38149  345478 testsets//fi-en/newstest2018-fien.fi
     3002   54960  327031 testsets//fi-en/newstestB2017-fien.en
-    1370   24204  145457 testsets//fi-en/newstest2015-enfi.en
     1996   21497  193793 testsets//fi-en/newstest2019-fien.fi
     1996   32307  194777 testsets//fi-en/newstest2019-fien.en
-    3000   54790  328355 testsets//fi-en/newstest2018-enfi.en
     1370   16893  152650 testsets//fi-en/newstest2015-fien.fi
-    3002   38512  351092 testsets//fi-en/newstestB2017-enfi.fi
-    3000   38149  345478 testsets//fi-en/newstest2018-enfi.fi
     1370   24204  145457 testsets//fi-en/newstest2015-fien.en
-    3002   54960  327031 testsets//fi-en/newstestB2017-enfi.en
     3000   56252  333282 testsets//fi-en/newstestB2016-enfi.en
     3000   38651  347714 testsets//fi-en/newstestB2016-enfi.fi
     3000   56252  333282 testsets//fi-en/newstest2016-fien.en
     3000   40522  360229 testsets//fi-en/newstest2016-fien.fi
-    1500   19817  182180 testsets//fi-en/newsdev2015-enfi.fi
     3002   38346  347642 testsets//fi-en/newstest2017-fien.fi
-    1500   28490  172753 testsets//fi-en/newsdev2015-enfi.en
     3002   54960  327031 testsets//fi-en/newstest2017-fien.en
      276    1455    8551 testsets//hrv-jpn_Hira/tatoeba-test-v2021-08-07.hrv
      279    1467    8638 testsets//hrv-jpn_Hira/tatoeba-test-v2021-03-30.hrv
@@ -11742,4 +11610,4 @@
      921    5583   32908 testsets//kor_Hang-spa/tatoeba-test-v2021-08-07.spa
      922    4560   37094 testsets//kor_Hang-spa/tatoeba-test-v2020-07-28.kor_Hang
      922    5597   32988 testsets//kor_Hang-spa/tatoeba-test-v2020-07-28.spa
- 5076313 39477436 300196476 total
+ 4829617 36524784 277531159 total
