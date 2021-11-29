@@ -11,6 +11,11 @@ all:
 	${MAKE} check-label-files
 
 
+index.txt: testsets
+	find testsets/ -type f | \
+	grep -v '.labels$$' | grep -v '.info$$' | \
+	xargs wc > $@
+
 
 ## check whether we really need the language-label file
 ## (remove the ones that have only one language,
@@ -387,6 +392,7 @@ TICO19_TEST = ${patsubst tico19-testset/test/test.%.tsv,testsets/%/tico19-test.e
 tico19:
 	${MAKE} tico19-fetch
 	${MAKE} tico19-convert
+	${MAKE} tico19-reverse
 	${MAKE} tico19-cleanup
 
 tico19-fetch:
