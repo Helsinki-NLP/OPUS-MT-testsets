@@ -400,6 +400,20 @@ tico19-cleanup:
 
 tico19-convert: ${TICO19_TEST}
 
+tico19-reverse:
+	for l in ${wildcard testsets/*/tico19-test.*}; do \
+	  s=`echo $$l | cut -f2 -d'/' | cut -f1 -d'-'`; \
+	  t=`echo $$l | cut -f2 -d'/' | cut -f2 -d'-'`; \
+	  f=`basename $$l`; \
+	  if [ ! -e testsets/$$t-$$s/$$f ]; then \
+		echo "link $$f to $$t-$$s"; \
+		mkdir -p testsets/$$t-$$s; \
+		cd testsets/$$t-$$s; \
+		ln -s ../$$s-$$t/$$f .; \
+		cd ../.. ; \
+	  fi \
+	done
+
 ${TICO19_TEST}: testsets/%/tico19-test.en: tico19-testset/test/test.%.tsv
 	mkdir -p ${dir $@}
 	cut -f1 $< | tail -n +2 | sed 's/^ *//;s/ *$$//' | tr "-" "_" > $@.labels
