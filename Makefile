@@ -139,6 +139,7 @@ wmt:
 	rm -f dev.tgz test.tgz
 	${MAKE} wmt-multilingual
 	${MAKE} wmt-sgm
+	${MAKE} wmt-remove-duplicates
 	${MAKE} wmt-wikipedia
 	${MAKE} wmt-dev-xml
 	${MAKE} wmt-test-xml
@@ -194,6 +195,28 @@ ${WMT_MULTILINGUAL_TXT}:
 		fi; \
 	    fi \
 	  done \
+	done
+
+## remove those accidental duplicates from some news test sets
+## (this is super slow because of the iso639 script)
+wmt-remove-duplicates:
+	for f in ${wildcard testsets/*/news*-????.*}; do \
+	  S=`echo $$f | cut -f2 -d/ | cut -f1 -d-`; \
+	  T=`echo $$f | cut -f2 -d/ | cut -f2 -d-`; \
+	  s=`iso639 -2 $$S`; \
+	  t=`iso639 -2 $$T`; \
+	  b=`echo $$f | cut -f1,2 -d-`; \
+	  if [ -e $$b-$$s$$t.$$S ] && [ -e $$b-$$t$$s.$$S ]; then \
+	    if [ -e $$b-$$s$$t.$$T ] && [ -e $$b-$$t$$s.$$T ]; then \
+	      if [ `diff $$b-$$s$$t.$$S $$b-$$t$$s.$$S | wc -l` -eq 0 ]; then \
+	        if [ `diff $$b-$$s$$t.$$T $$b-$$t$$s.$$T | wc -l` -eq 0 ]; then \
+	          echo "$$b-$$s$$t $$b-$$t$$s are the same"; \
+	 	  echo "rm $$b-$$t$$s.$$S $$b-$$t$$s.$$T"; \
+	 	  rm -f $$b-$$t$$s.$$S $$b-$$t$$s.$$T; \
+		fi \
+	      fi \
+	    fi \
+	  fi \
 	done
 
 wmt-wikipedia:
