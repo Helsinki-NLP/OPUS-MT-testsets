@@ -12,7 +12,7 @@ all:
 
 
 index.txt: testsets
-	find testsets/ -type f | \
+	find testsets -type f | \
 	grep -v '.labels$$' | grep -v '.info$$' | \
 	xargs wc > $@
 
@@ -221,10 +221,20 @@ wmt-remove-duplicates:
 	done
 
 wmt-remove-langpair-ids:
-	@for f in ${wildcard testsets/*/news*-????.???}; do \
-	  n=`echo $$f | sed 's#\(\/news.*\)-....\(\....\)#\1\2#'`; \
+	@for f in ${wildcard testsets/*/news*-????.*}; do \
+	  n=`echo $$f | sed 's#\(\/news.*\)-....\(\..*\)#\1\2#'`; \
 	  if [ -e $$n ]; then \
-	    echo "cannot mv $$f $$n"; \
+	    if [ `diff $$f $$n | wc -l` -eq 0 ]; then \
+	      echo "git rm $$f"; \
+	      git rm $$f; \
+	    else \
+	      if [ `cat $$f | wc -l` -eq `cat $$n | wc -l` ]; then \
+	        echo "git rm $$f"; \
+	        git rm $$f; \
+	      else \
+	        echo "cannot mv $$f $$n"; \
+	      fi \
+	    fi \
 	  else \
 	    echo "git mv $$f $$n"; \
 	    git mv $$f $$n; \
