@@ -144,6 +144,7 @@ wmt:
 	${MAKE} wmt-dev-xml
 	${MAKE} wmt-test-xml
 	${MAKE} wmt21-ml
+	${MAKE} wmt-remove-langpair-id
 
 
 WMT_MULTILINGUAL_TXT = 	news-test2008 newsdev2014 \
@@ -218,6 +219,18 @@ wmt-remove-duplicates:
 	    fi \
 	  fi \
 	done
+
+wmt-remove-langpair-ids:
+	@for f in ${wildcard testsets/*/news*-????.???}; do \
+	  n=`echo $$f | sed 's#\(\/news.*\)-....\(\....\)#\1\2#'`; \
+	  if [ -e $$n ]; then \
+	    echo "cannot mv $$f $$n"; \
+	  else \
+	    echo "git mv $$f $$n"; \
+	    git mv $$f $$n; \
+	  fi \
+	done
+
 
 wmt-wikipedia:
 	mkdir -p testsets/km-en testsets/en-km
