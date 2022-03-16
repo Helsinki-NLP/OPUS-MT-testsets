@@ -340,16 +340,15 @@ flores101:
 	mv testsets/flores101_dataset/devtest/zho_trad.dev testsets/flores101_dataset/devtest/cmn_Hant.devtest
 	${MAKE} flores101-file-links
 
-FLORES101_DEV_FILES = $(wildcard testsets/flores101_dataset/dev/*.dev)
-FLORES101_DEVTEST_FILES = $(wildcard testsets/flores101_dataset/devtest/*.devtest)
-
+FLORES101_DEV_FILES := $(wildcard testsets/flores101_dataset/dev/*.dev)
+FLORES101_DEVTEST_FILES := $(wildcard testsets/flores101_dataset/devtest/*.devtest)
 
 ## make symbolic links for all language combinations
 
 .PHONY: flores101-file-links
 flores101-file-links: ${FLORES101_DEV_FILES} ${FLORES101_DEVTEST_FILES}
-	-for s in ${basename ${notdir ${FLORES101_DEV_LABELS}}}; do \
-	  for t in ${basename ${notdir ${FLORES101_DEV_LABELS}}}; do \
+	-for s in ${basename ${notdir ${FLORES101_DEV_FILES}}}; do \
+	  for t in ${basename ${notdir ${FLORES101_DEV_FILES}}}; do \
 	    if [ "$$s" != "$$t" ]; then \
 		echo "create links for $$s-$$t/flores101"; \
 		mkdir -p testsets/$$s-$$t; \
