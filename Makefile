@@ -395,8 +395,10 @@ flores101:
 	rm -f flores101_dataset.tar.gz
 	mv testsets/flores101_dataset/dev/zho_simpl.dev testsets/flores101_dataset/dev/cmn_Hans.dev
 	mv testsets/flores101_dataset/dev/zho_trad.dev testsets/flores101_dataset/dev/cmn_Hant.dev
-	mv testsets/flores101_dataset/devtest/zho_simpl.dev testsets/flores101_dataset/devtest/cmn_Hans.devtest
-	mv testsets/flores101_dataset/devtest/zho_trad.dev testsets/flores101_dataset/devtest/cmn_Hant.devtest
+	mv testsets/flores101_dataset/devtest/zho_simpl.devtest testsets/flores101_dataset/devtest/cmn_Hans.devtest
+	mv testsets/flores101_dataset/devtest/zho_trad.devtest testsets/flores101_dataset/devtest/cmn_Hant.devtest
+	mv testsets/flores101_dataset/dev/srp.dev testsets/flores101_dataset/dev/srp_Cyrl.dev
+	mv testsets/flores101_dataset/devtest/srp.devtest testsets/flores101_dataset/devtest/srp_Cyrl.devtest
 	${MAKE} flores101-file-links
 
 FLORES101_DEV_FILES := $(wildcard testsets/flores101_dataset/dev/*.dev)
@@ -418,6 +420,65 @@ flores101-file-links: ${FLORES101_DEV_FILES} ${FLORES101_DEVTEST_FILES}
 	    fi \
 	  done \
 	done
+
+
+.PHONY: flores200
+flores200:
+	wget -O flores200_dataset.tar.gz --trust-server-names https://tinyurl.com/flores200dataset
+	tar -C testsets -xzf flores200_dataset.tar.gz
+	rm -f flores200_dataset.tar.gz
+	${MAKE} flores200-fixes
+	${MAKE} flores200-file-links
+
+
+
+FLORES200_WITHOUT_VARIANTS := ${shell ls testsets/flores200_dataset/dev | cut -f1 -d_ | sort | uniq -c | grep ' 1 ' | rev | cut -f1 -d' ' | rev}
+
+# remove script extension for languages without variants
+# but keep Cyrl for Serbian as there can be Latn as well
+# use Mandarin instead of Chinese
+# use both msa and zsm
+
+flores200-fixes:
+	-mv testsets/flores200_dataset/dev/zho_Hans.dev testsets/flores200_dataset/dev/cmn_Hans.dev
+	-mv testsets/flores200_dataset/dev/zho_Hant.dev testsets/flores200_dataset/dev/cmn_Hant.dev
+	-mv testsets/flores200_dataset/devtest/zho_Hans.devtest testsets/flores200_dataset/devtest/cmn_Hans.devtest
+	-mv testsets/flores200_dataset/devtest/zho_Hant.devtest testsets/flores200_dataset/devtest/cmn_Hant.devtest
+	-for l in ${FLORES200_WITHOUT_VARIANTS}; do \
+	  mv testsets/flores200_dataset/dev/$${l}_*.dev testsets/flores200_dataset/dev/$$l.dev; \
+	  mv testsets/flores200_dataset/devtest/$${l}_*.devtest testsets/flores200_dataset/devtest/$$l.devtest; \
+	done
+	-mv testsets/flores200_dataset/dev/srp.dev testsets/flores200_dataset/dev/srp_Cyrl.dev
+	-mv testsets/flores200_dataset/devtest/srp.devtest testsets/flores200_dataset/devtest/srp_Cyrl.devtest
+	-mv testsets/flores200_dataset/dev/arb_Arab.dev testsets/flores200_dataset/dev/ara.dev
+	-mv testsets/flores200_dataset/dev/arb_Latn.dev testsets/flores200_dataset/dev/ara_Latn.dev
+	-mv testsets/flores200_dataset/devtest/arb_Arab.devtest testsets/flores200_dataset/devtest/ara.devtest
+	-mv testsets/flores200_dataset/devtest/arb_Latn.devtest testsets/flores200_dataset/devtest/ara_Latn.devtest
+	-cd testsets/flores200_dataset/dev && ln -s zsm.dev msa.dev
+	-cd testsets/flores200_dataset/devtest && ln -s zsm.devtest msa.devtest
+
+
+FLORES200_DEV_FILES := $(wildcard testsets/flores200_dataset/dev/*.dev)
+FLORES200_DEVTEST_FILES := $(wildcard testsets/flores200_dataset/devtest/*.devtest)
+
+## make symbolic links for all language combinations
+
+.PHONY: flores200-file-links
+flores200-file-links: ${FLORES200_DEV_FILES} ${FLORES200_DEVTEST_FILES}
+	-for s in ${basename ${notdir ${FLORES200_DEV_FILES}}}; do \
+	  for t in ${basename ${notdir ${FLORES200_DEV_FILES}}}; do \
+	    if [ "$$s" != "$$t" ]; then \
+		echo "create links for $$s-$$t/flores200"; \
+		mkdir -p testsets/$$s-$$t; \
+		ln -s ../flores200_dataset/dev/$$s.dev testsets/$$s-$$t/flores200-dev.$$s; \
+		ln -s ../flores200_dataset/dev/$$t.dev testsets/$$s-$$t/flores200-dev.$$t; \
+		ln -s ../flores200_dataset/devtest/$$s.devtest testsets/$$s-$$t/flores200-devtest.$$s; \
+		ln -s ../flores200_dataset/devtest/$$t.devtest testsets/$$s-$$t/flores200-devtest.$$t; \
+	    fi \
+	  done \
+	done
+
+
 
 
 
