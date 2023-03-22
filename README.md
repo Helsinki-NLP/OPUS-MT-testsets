@@ -1,4 +1,4 @@
-# OPUS-MT-eval - benchmarks for evaluating MT models
+# OPUS-MT-testsets
 
 A collection of machine translation benchmarks. Currently it includes:
 
