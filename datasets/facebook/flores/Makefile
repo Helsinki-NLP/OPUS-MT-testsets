@@ -37,7 +37,7 @@ flores101.tsv: flores101_dataset
 	  echo "add $$s"; \
 	  for t in ${FLORES101_LANGS}; do \
 	    if [ "$$s" != "$$t" ]; then \
-	      echo "$$s	$$t	flores101-devtest				datasets/facebook/flores/flores101_dataset/devtest/$$s.devtest datasets/facebook/flores/flores101_dataset/devtest/$$t.devtest" >> $@; \
+	      echo "$$s	$$t	flores101-devtest				datasets/facebook/flores/flores101_dataset/devtest/$$s.devtest	datasets/facebook/flores/flores101_dataset/devtest/$$t.devtest" >> $@; \
 	    fi \
 	  done \
 	done
@@ -89,7 +89,7 @@ flores200.tsv: flores200_dataset
 	    if [ "$$x" != "$$y" ]; then \
 	      t=`echo $$y | cut -f1 -d-`; \
 	      T=`echo $$y | cut -f2 -d-`; \
-	      echo "$$S	$$T	flores200-devtest			 	datasets/facebook/flores/flores200_dataset/devtest/$$s.devtest datasets/facebook/flores/flores200_dataset/devtest/$$t.devtest" >> $@; \
+	      echo "$$S	$$T	flores200-devtest				datasets/facebook/flores/flores200_dataset/devtest/$$s.devtest	datasets/facebook/flores/flores200_dataset/devtest/$$t.devtest" >> $@; \
 	    fi \
 	  done \
 	done

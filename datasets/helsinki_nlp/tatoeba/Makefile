@@ -118,9 +118,9 @@ testsets.tsv:
 	      TL="$$D/$$T.labels"; \
 	    fi \
 	  fi; \
-	  echo "$$s	$$t	$$n		$${SL}	$${TL} 	$$D/$$S $$D/$$T" >> $@.unsorted; \
+	  echo "$$s	$$t	$$n		$${SL}	$${TL}	$$D/$$S	$$D/$$T" >> $@.unsorted; \
 	  if [ "$$s" != "$$t" ]; then \
-	    echo "$$t	$$s	$$n		$${TL}	$${SL} 	$$D/$$T $$D/$$S" >> $@.unsorted; \
+	    echo "$$t	$$s	$$n		$${TL}	$${SL}	$$D/$$T	$$D/$$S" >> $@.unsorted; \
 	  fi; \
 	done
 	sort $@.unsorted > $@
