@@ -5,6 +5,8 @@
 
 DATASETS = wmt tatoeba flores1 flores101 multi30k tico19
 
+TESTSET_TSVS := $(shell find datasets -name testsets.tsv)
+
 all:
 	${MAKE} ${DATASETS}
 	${MAKE} upgrade-2-letter-files
@@ -15,6 +17,16 @@ index.txt: testsets
 	find testsets -type f | \
 	grep -v '.labels$$' | grep -v '.info$$' | \
 	xargs wc > $@
+
+testsets.tsv: ${TESTSET_TSVS}
+	find datasets -name testsets.tsv -exec cat {} \; |\
+	sort -u > $@
+
+benchmarks.tsv: testsets.tsv
+	cut -f3 $< | sort -u > $@
+
+langpairs.tsv: testsets.tsv
+	cut -f1,2 $< | sort -u > $@
 
 
 ## check whether we really need the language-label file
