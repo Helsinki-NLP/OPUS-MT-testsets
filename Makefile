@@ -8,7 +8,7 @@ DATASETS = wmt tatoeba flores1 flores101 multi30k tico19
 TESTSET_TSVS := $(shell find datasets -name testsets.tsv)
 
 
-all: testsets.tsv benchmarks.tsv langpairs.tsv
+all: testsets.tsv benchmarks.tsv langpairs.tsv langpair2benchmark.tsv benchmark2langpair.tsv
 
 
 all-old:
@@ -31,6 +31,12 @@ benchmarks.tsv: testsets.tsv
 
 langpairs.tsv: testsets.tsv
 	cut -f1,2 $< | sort -u > $@
+
+langpair2benchmark.tsv: testsets.tsv
+	scripts/langpair_benchmarks.pl < $< > $@
+
+benchmark2langpair.tsv: testsets.tsv
+	scripts/benchmark_langpairs.pl < $< > $@
 
 
 ## check whether we really need the language-label file
