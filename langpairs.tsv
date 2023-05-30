@@ -11303,6 +11303,7 @@ eng	hye
 eng	ibo
 eng	ido
 eng	ido_Latn
+eng	iku
 eng	ile
 eng	ilo
 eng	ina
@@ -11356,6 +11357,7 @@ eng	lij
 eng	lim
 eng	lin
 eng	lit
+eng	liv
 eng	lmo
 eng	ltg
 eng	ltz
@@ -17426,6 +17428,7 @@ ido	spa
 ido	yid
 ido_Latn	eng
 ido_Latn	lfn_Latn
+iku	eng
 ile	deu
 ile	eng
 ile	epo
@@ -24673,6 +24676,7 @@ lit	zho_simpl
 lit	zho_trad
 lit	zsm
 lit	zul
+liv	eng
 lmo	ace_Arab
 lmo	ace_Latn
 lmo	acm

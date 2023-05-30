@@ -7,7 +7,11 @@ DATASETS = wmt tatoeba flores1 flores101 multi30k tico19
 
 TESTSET_TSVS := $(shell find datasets -name testsets.tsv)
 
-all:
+
+all: testsets.tsv benchmarks.tsv langpairs.tsv
+
+
+all-old:
 	${MAKE} ${DATASETS}
 	${MAKE} upgrade-2-letter-files
 	${MAKE} check-label-files
