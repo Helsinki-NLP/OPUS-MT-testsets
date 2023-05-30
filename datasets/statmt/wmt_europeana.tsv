@@ -1,0 +1,6 @@
+isl	nob	europeana2021				datasets/statmt/wmt_multilingual/is/europeana2021.is	datasets/statmt/wmt_multilingual/is/europeana2021.nb
+isl	swe	europeana2021				datasets/statmt/wmt_multilingual/is/europeana2021.is	datasets/statmt/wmt_multilingual/is/europeana2021.sv
+nob	isl	europeana2021				datasets/statmt/wmt_multilingual/nb/europeana2021.nb	datasets/statmt/wmt_multilingual/is/europeana2021.is
+nob	swe	europeana2021				datasets/statmt/wmt_multilingual/nb/europeana2021.nb	datasets/statmt/wmt_multilingual/is/europeana2021.sv
+swe	isl	europeana2021				datasets/statmt/wmt_multilingual/sv/europeana2021.sv	datasets/statmt/wmt_multilingual/is/europeana2021.is
+swe	nob	europeana2021				datasets/statmt/wmt_multilingual/sv/europeana2021.sv	datasets/statmt/wmt_multilingual/is/europeana2021.nb

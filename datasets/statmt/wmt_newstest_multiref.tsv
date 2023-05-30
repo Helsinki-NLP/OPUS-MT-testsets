@@ -1,0 +1,7 @@
+deu	eng	newstestALL2020				datasets/statmt/wmt_newstest/2020/newstest2020.de	datasets/statmt/wmt_newstest/2020/newstest2020.en	datasets/statmt/wmt_newstest/2020/newstestB2020.en
+eng	deu	newstestALL2020				datasets/statmt/wmt_newstest/2020/newstest2020.en	datasets/statmt/wmt_newstest/2020/newstest2020.de	datasets/statmt/wmt_newstest/2020/newstestB2020.de
+eng	fin	newstestALL2016				datasets/statmt/wmt_newstest/2016/newstest2016.en	datasets/statmt/wmt_newstest/2016/newstest2016.fi	datasets/statmt/wmt_newstest/2016/newstestB2016.fi
+eng	fin	newstestALL2017				datasets/statmt/wmt_newstest/2017/newstest2017.en	datasets/statmt/wmt_newstest/2017/newstest2017.fi	datasets/statmt/wmt_newstest/2017/newstestB2017.fi
+eng	zho	newstestALL2020				datasets/statmt/wmt_newstest/2020/newstest2020.en	datasets/statmt/wmt_newstest/2020/newstest2020.zh	datasets/statmt/wmt_newstest/2020/newstestB2020.zh
+rus	eng	newstestALL2020				datasets/statmt/wmt_newstest/2020/newstest2020.ru	datasets/statmt/wmt_newstest/2020/newstest2020.en	datasets/statmt/wmt_newstest/2020/newstestB2020.en
+zho	eng	newstestALL2020				datasets/statmt/wmt_newstest/2020/newstest2020.zh	datasets/statmt/wmt_newstest/2020/newstest2020.en	datasets/statmt/wmt_newstest/2020/newstestB2020.en
