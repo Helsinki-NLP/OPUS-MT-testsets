@@ -3,18 +3,29 @@
 # maintain various MT testsets
 
 
-DATASETS = wmt tatoeba flores1 flores101 multi30k tico19
 
+
+DATASET_DIRS := $(dir $(shell find datasets -name Makefile))
 TESTSET_TSVS := $(shell find datasets -name testsets.tsv)
 
 
-all: testsets.tsv benchmarks.tsv langpairs.tsv langpair2benchmark.tsv benchmark2langpair.tsv
+all:
+	for d in ${DATASET_DIRS}; do \
+	  ${MAKE} -C $$d all; \
+	done
+	${MAKE} tsvfiles
 
+tsvfiles: testsets.tsv benchmarks.tsv langpairs.tsv langpair2benchmark.tsv benchmark2langpair.tsv
+
+
+
+BENCHMARKS   := wmt tatoeba flores1 flores101 multi30k tico19
 
 all-old:
-	${MAKE} ${DATASETS}
+	${MAKE} ${BENCHMARKS}
 	${MAKE} upgrade-2-letter-files
 	${MAKE} check-label-files
+	${MAKE} index.txt
 
 
 index.txt: testsets

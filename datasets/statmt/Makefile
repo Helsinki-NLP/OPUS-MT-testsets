@@ -12,6 +12,8 @@ BENCHMARKS = 	wmt_newstest.tsv \
 		wmt2021_newstest.tsv \
 		wmt2022_newstest.tsv
 
+.PHONY: all
+all: testsets.tsv
 
 testsets.tsv: ${BENCHMARKS}
 	cat $^ | sort -u > $@
