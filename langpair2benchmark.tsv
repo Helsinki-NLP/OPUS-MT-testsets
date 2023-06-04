@@ -2037,8 +2037,7 @@ amh-pbt	flores200-devtest
 amh-pes	flores200-devtest
 amh-plt	flores200-devtest
 amh-pol	flores101-devtest flores200-devtest
-amh-por	flores101-devtest flores200-devtest
-amh-por_BR	tico19-test
+amh-por	flores101-devtest flores200-devtest tico19-test
 amh-prs	flores200-devtest tico19-test
 amh-pus	flores101-devtest tico19-test
 amh-quy	flores200-devtest
@@ -2058,8 +2057,7 @@ amh-sna	flores101-devtest flores200-devtest
 amh-snd	flores101-devtest flores200-devtest
 amh-som	flores101-devtest flores200-devtest tico19-test
 amh-sot	flores200-devtest
-amh-spa	flores101-devtest flores200-devtest
-amh-spa_LA	tico19-test
+amh-spa	flores101-devtest flores200-devtest tico19-test
 amh-srd	flores200-devtest
 amh-srp	flores101-devtest
 amh-srp_Cyrl	flores101-devtest flores200-devtest
@@ -2078,8 +2076,6 @@ amh-tgk	flores101-devtest flores200-devtest
 amh-tgl	flores101-devtest flores200-devtest tico19-test
 amh-tha	flores101-devtest flores200-devtest
 amh-tir	flores200-devtest tico19-test
-amh-tir_ER	tico19-test
-amh-tir_ET	tico19-test
 amh-tpi	flores200-devtest
 amh-tsn	flores200-devtest
 amh-tso	flores200-devtest
@@ -2477,8 +2473,7 @@ ara-pbt	flores200-devtest
 ara-pes	flores200-devtest
 ara-plt	flores200-devtest
 ara-pol	flores101-devtest flores200-devtest tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
-ara-por	flores101-devtest flores200-devtest
-ara-por_BR	tico19-test
+ara-por	flores101-devtest flores200-devtest tico19-test
 ara-prs	flores200-devtest tico19-test
 ara-pus	flores101-devtest tico19-test
 ara-quy	flores200-devtest
@@ -2498,8 +2493,7 @@ ara-sna	flores101-devtest flores200-devtest
 ara-snd	flores101-devtest flores200-devtest
 ara-som	flores101-devtest flores200-devtest tico19-test
 ara-sot	flores200-devtest
-ara-spa	flores101-devtest flores200-devtest tatoeba-test-v2021-08-07
-ara-spa_LA	tico19-test
+ara-spa	flores101-devtest flores200-devtest tatoeba-test-v2021-08-07 tico19-test
 ara-srd	flores200-devtest
 ara-srp	flores101-devtest
 ara-srp_Cyrl	flores101-devtest flores200-devtest
@@ -2518,8 +2512,6 @@ ara-tgk	flores101-devtest flores200-devtest
 ara-tgl	flores101-devtest flores200-devtest tico19-test
 ara-tha	flores101-devtest flores200-devtest
 ara-tir	flores200-devtest tico19-test
-ara-tir_ER	tico19-test
-ara-tir_ET	tico19-test
 ara-tpi	flores200-devtest
 ara-tsn	flores200-devtest
 ara-tso	flores200-devtest
@@ -6290,8 +6282,7 @@ ben-pbt	flores200-devtest
 ben-pes	flores200-devtest
 ben-plt	flores200-devtest
 ben-pol	flores101-devtest flores200-devtest
-ben-por	flores101-devtest flores200-devtest
-ben-por_BR	tico19-test
+ben-por	flores101-devtest flores200-devtest tico19-test
 ben-prs	flores200-devtest tico19-test
 ben-pus	flores101-devtest tico19-test
 ben-quy	flores200-devtest
@@ -6311,8 +6302,7 @@ ben-sna	flores101-devtest flores200-devtest
 ben-snd	flores101-devtest flores200-devtest
 ben-som	flores101-devtest flores200-devtest tico19-test
 ben-sot	flores200-devtest
-ben-spa	flores101-devtest flores200-devtest
-ben-spa_LA	tico19-test
+ben-spa	flores101-devtest flores200-devtest tico19-test
 ben-srd	flores200-devtest
 ben-srp	flores101-devtest
 ben-srp_Cyrl	flores101-devtest flores200-devtest
@@ -6331,8 +6321,6 @@ ben-tgk	flores101-devtest flores200-devtest
 ben-tgl	flores101-devtest flores200-devtest tico19-test
 ben-tha	flores101-devtest flores200-devtest
 ben-tir	flores200-devtest tico19-test
-ben-tir_ER	tico19-test
-ben-tir_ET	tico19-test
 ben-tpi	flores200-devtest
 ben-tsn	flores200-devtest
 ben-tso	flores200-devtest
@@ -8883,8 +8871,7 @@ ckb-pbt	flores200-devtest
 ckb-pes	flores200-devtest
 ckb-plt	flores200-devtest
 ckb-pol	flores101-devtest flores200-devtest
-ckb-por	flores101-devtest flores200-devtest
-ckb-por_BR	tico19-test
+ckb-por	flores101-devtest flores200-devtest tico19-test
 ckb-prs	flores200-devtest tico19-test
 ckb-pus	flores101-devtest tico19-test
 ckb-quy	flores200-devtest
@@ -8904,8 +8891,7 @@ ckb-sna	flores101-devtest flores200-devtest
 ckb-snd	flores101-devtest flores200-devtest
 ckb-som	flores101-devtest flores200-devtest tico19-test
 ckb-sot	flores200-devtest
-ckb-spa	flores101-devtest flores200-devtest
-ckb-spa_LA	tico19-test
+ckb-spa	flores101-devtest flores200-devtest tico19-test
 ckb-srd	flores200-devtest
 ckb-srp	flores101-devtest
 ckb-srp_Cyrl	flores101-devtest flores200-devtest
@@ -8924,8 +8910,6 @@ ckb-tgk	flores101-devtest flores200-devtest
 ckb-tgl	flores101-devtest flores200-devtest tico19-test
 ckb-tha	flores101-devtest flores200-devtest
 ckb-tir	flores200-devtest tico19-test
-ckb-tir_ER	tico19-test
-ckb-tir_ET	tico19-test
 ckb-tpi	flores200-devtest
 ckb-tsn	flores200-devtest
 ckb-tso	flores200-devtest
@@ -10539,18 +10523,16 @@ din-mya	tico19-test
 din-nep	tico19-test
 din-nus	tico19-test
 din-orm	tico19-test
-din-por_BR	tico19-test
+din-por	tico19-test
 din-prs	tico19-test
 din-pus	tico19-test
 din-rus	tico19-test
 din-som	tico19-test
-din-spa_LA	tico19-test
+din-spa	tico19-test
 din-swa	tico19-test
 din-tam	tico19-test
 din-tgl	tico19-test
 din-tir	tico19-test
-din-tir_ER	tico19-test
-din-tir_ET	tico19-test
 din-urd	tico19-test
 din-zho	tico19-test
 din-zul	tico19-test
@@ -11409,8 +11391,7 @@ eng-plt	flores200-devtest
 eng-pmn	tatoeba-test-v2020-07-28
 eng-pms	tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 eng-pol	flores101-devtest flores200-devtest newstest2020 tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
-eng-por	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
-eng-por_BR	tico19-test
+eng-por	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07 tico19-test
 eng-prg	tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 eng-prs	flores200-devtest tico19-test
 eng-pus	flores101-devtest newstest2020 tico19-test
@@ -11433,8 +11414,7 @@ eng-sna	flores101-devtest flores200-devtest
 eng-snd	flores101-devtest flores200-devtest
 eng-som	flores101-devtest flores200-devtest tico19-test
 eng-sot	flores200-devtest
-eng-spa	flores101-devtest flores200-devtest newssyscomb2009 newstest2008 newstest2009 newstest2010 newstest2011 newstest2012 newstest2013 tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
-eng-spa_LA	tico19-test
+eng-spa	flores101-devtest flores200-devtest newssyscomb2009 newstest2008 newstest2009 newstest2010 newstest2011 newstest2012 newstest2013 tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07 tico19-test
 eng-sqi	tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 eng-srd	flores200-devtest
 eng-srp	flores101-devtest
@@ -11455,8 +11435,6 @@ eng-tgk	flores101-devtest flores200-devtest
 eng-tgl	flores101-devtest flores200-devtest tatoeba-test-v2021-08-07 tico19-test
 eng-tha	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 eng-tir	flores200-devtest tico19-test
-eng-tir_ER	tico19-test
-eng-tir_ET	tico19-test
 eng-tlh	tatoeba-test-v2021-08-07
 eng-toki	tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 eng-tpi	flores200-devtest
@@ -12657,8 +12635,7 @@ fas-orm	flores101-devtest tico19-test
 fas-ory	flores101-devtest
 fas-pan	flores101-devtest
 fas-pol	flores101-devtest
-fas-por	flores101-devtest
-fas-por_BR	tico19-test
+fas-por	flores101-devtest tico19-test
 fas-prs	tico19-test
 fas-pus	flores101-devtest tico19-test
 fas-ron	flores101-devtest
@@ -12668,8 +12645,7 @@ fas-slv	flores101-devtest
 fas-sna	flores101-devtest
 fas-snd	flores101-devtest
 fas-som	flores101-devtest tico19-test
-fas-spa	flores101-devtest
-fas-spa_LA	tico19-test
+fas-spa	flores101-devtest tico19-test
 fas-srp	flores101-devtest
 fas-srp_Cyrl	flores101-devtest
 fas-swa	tico19-test
@@ -12681,8 +12657,6 @@ fas-tgk	flores101-devtest
 fas-tgl	flores101-devtest tico19-test
 fas-tha	flores101-devtest
 fas-tir	tico19-test
-fas-tir_ER	tico19-test
-fas-tir_ET	tico19-test
 fas-tur	flores101-devtest
 fas-ukr	flores101-devtest
 fas-umb	flores101-devtest
@@ -13519,8 +13493,7 @@ fra-pcd	tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 fra-pes	flores200-devtest
 fra-plt	flores200-devtest
 fra-pol	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
-fra-por	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
-fra-por_BR	tico19-test
+fra-por	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07 tico19-test
 fra-prs	flores200-devtest tico19-test
 fra-pus	flores101-devtest tico19-test
 fra-quy	flores200-devtest
@@ -13540,8 +13513,7 @@ fra-sna	flores101-devtest flores200-devtest
 fra-snd	flores101-devtest flores200-devtest
 fra-som	flores101-devtest flores200-devtest tico19-test
 fra-sot	flores200-devtest
-fra-spa	flores101-devtest flores200-devtest newssyscomb2009 newstest2008 newstest2009 newstest2010 newstest2011 newstest2012 newstest2013 tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
-fra-spa_LA	tico19-test
+fra-spa	flores101-devtest flores200-devtest newssyscomb2009 newstest2008 newstest2009 newstest2010 newstest2011 newstest2012 newstest2013 tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07 tico19-test
 fra-srd	flores200-devtest
 fra-srp	flores101-devtest
 fra-srp_Cyrl	flores101-devtest flores200-devtest
@@ -13560,8 +13532,6 @@ fra-tgk	flores101-devtest flores200-devtest
 fra-tgl	flores101-devtest flores200-devtest tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07 tico19-test
 fra-tha	flores101-devtest flores200-devtest
 fra-tir	flores200-devtest tico19-test
-fra-tir_ER	tico19-test
-fra-tir_ET	tico19-test
 fra-tlh	tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 fra-tlh_Latn	tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 fra-toki	tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
@@ -14066,8 +14036,7 @@ fuv-pbt	flores200-devtest
 fuv-pes	flores200-devtest
 fuv-plt	flores200-devtest
 fuv-pol	flores200-devtest
-fuv-por	flores200-devtest
-fuv-por_BR	tico19-test
+fuv-por	flores200-devtest tico19-test
 fuv-prs	flores200-devtest tico19-test
 fuv-pus	tico19-test
 fuv-quy	flores200-devtest
@@ -14087,8 +14056,7 @@ fuv-sna	flores200-devtest
 fuv-snd	flores200-devtest
 fuv-som	flores200-devtest tico19-test
 fuv-sot	flores200-devtest
-fuv-spa	flores200-devtest
-fuv-spa_LA	tico19-test
+fuv-spa	flores200-devtest tico19-test
 fuv-srd	flores200-devtest
 fuv-srp_Cyrl	flores200-devtest
 fuv-ssw	flores200-devtest
@@ -14106,8 +14074,6 @@ fuv-tgk	flores200-devtest
 fuv-tgl	flores200-devtest tico19-test
 fuv-tha	flores200-devtest
 fuv-tir	flores200-devtest tico19-test
-fuv-tir_ER	tico19-test
-fuv-tir_ET	tico19-test
 fuv-tpi	flores200-devtest
 fuv-tsn	flores200-devtest
 fuv-tso	flores200-devtest
@@ -15784,8 +15750,7 @@ hau-pbt	flores200-devtest
 hau-pes	flores200-devtest
 hau-plt	flores200-devtest
 hau-pol	flores101-devtest flores200-devtest
-hau-por	flores101-devtest flores200-devtest
-hau-por_BR	tico19-test
+hau-por	flores101-devtest flores200-devtest tico19-test
 hau-prs	flores200-devtest tico19-test
 hau-pus	flores101-devtest tico19-test
 hau-quy	flores200-devtest
@@ -15805,8 +15770,7 @@ hau-sna	flores101-devtest flores200-devtest
 hau-snd	flores101-devtest flores200-devtest
 hau-som	flores101-devtest flores200-devtest tico19-test
 hau-sot	flores200-devtest
-hau-spa	flores101-devtest flores200-devtest
-hau-spa_LA	tico19-test
+hau-spa	flores101-devtest flores200-devtest tico19-test
 hau-srd	flores200-devtest
 hau-srp	flores101-devtest
 hau-srp_Cyrl	flores101-devtest flores200-devtest
@@ -15825,8 +15789,6 @@ hau-tgk	flores101-devtest flores200-devtest
 hau-tgl	flores101-devtest flores200-devtest tico19-test
 hau-tha	flores101-devtest flores200-devtest
 hau-tir	flores200-devtest tico19-test
-hau-tir_ER	tico19-test
-hau-tir_ET	tico19-test
 hau-tpi	flores200-devtest
 hau-tsn	flores200-devtest
 hau-tso	flores200-devtest
@@ -16251,8 +16213,7 @@ hin-pbt	flores200-devtest
 hin-pes	flores200-devtest
 hin-plt	flores200-devtest
 hin-pol	flores101-devtest flores200-devtest
-hin-por	flores101-devtest flores200-devtest
-hin-por_BR	tico19-test
+hin-por	flores101-devtest flores200-devtest tico19-test
 hin-prs	flores200-devtest tico19-test
 hin-pus	flores101-devtest tico19-test
 hin-quy	flores200-devtest
@@ -16272,8 +16233,7 @@ hin-sna	flores101-devtest flores200-devtest
 hin-snd	flores101-devtest flores200-devtest
 hin-som	flores101-devtest flores200-devtest tico19-test
 hin-sot	flores200-devtest
-hin-spa	flores101-devtest flores200-devtest
-hin-spa_LA	tico19-test
+hin-spa	flores101-devtest flores200-devtest tico19-test
 hin-srd	flores200-devtest
 hin-srp	flores101-devtest
 hin-srp_Cyrl	flores101-devtest flores200-devtest
@@ -16292,8 +16252,6 @@ hin-tgk	flores101-devtest flores200-devtest
 hin-tgl	flores101-devtest flores200-devtest tico19-test
 hin-tha	flores101-devtest flores200-devtest
 hin-tir	flores200-devtest tico19-test
-hin-tir_ER	tico19-test
-hin-tir_ET	tico19-test
 hin-tpi	flores200-devtest
 hin-tsn	flores200-devtest
 hin-tso	flores200-devtest
@@ -17819,8 +17777,7 @@ ind-pbt	flores200-devtest
 ind-pes	flores200-devtest
 ind-plt	flores200-devtest
 ind-pol	flores101-devtest flores200-devtest
-ind-por	flores101-devtest flores200-devtest
-ind-por_BR	tico19-test
+ind-por	flores101-devtest flores200-devtest tico19-test
 ind-prs	flores200-devtest tico19-test
 ind-pus	flores101-devtest tico19-test
 ind-quy	flores200-devtest
@@ -17840,8 +17797,7 @@ ind-sna	flores101-devtest flores200-devtest
 ind-snd	flores101-devtest flores200-devtest
 ind-som	flores101-devtest flores200-devtest tico19-test
 ind-sot	flores200-devtest
-ind-spa	flores101-devtest flores200-devtest
-ind-spa_LA	tico19-test
+ind-spa	flores101-devtest flores200-devtest tico19-test
 ind-srd	flores200-devtest
 ind-srp	flores101-devtest
 ind-srp_Cyrl	flores101-devtest flores200-devtest
@@ -17860,8 +17816,6 @@ ind-tgk	flores101-devtest flores200-devtest
 ind-tgl	flores101-devtest flores200-devtest tico19-test
 ind-tha	flores101-devtest flores200-devtest
 ind-tir	flores200-devtest tico19-test
-ind-tir_ER	tico19-test
-ind-tir_ET	tico19-test
 ind-tpi	flores200-devtest
 ind-tsn	flores200-devtest
 ind-tso	flores200-devtest
@@ -20365,18 +20319,16 @@ kau-mya	tico19-test
 kau-nep	tico19-test
 kau-nus	tico19-test
 kau-orm	tico19-test
-kau-por_BR	tico19-test
+kau-por	tico19-test
 kau-prs	tico19-test
 kau-pus	tico19-test
 kau-rus	tico19-test
 kau-som	tico19-test
-kau-spa_LA	tico19-test
+kau-spa	tico19-test
 kau-swa	tico19-test
 kau-tam	tico19-test
 kau-tgl	tico19-test
 kau-tir	tico19-test
-kau-tir_ER	tico19-test
-kau-tir_ET	tico19-test
 kau-urd	tico19-test
 kau-zho	tico19-test
 kau-zul	tico19-test
@@ -21391,8 +21343,7 @@ khm-pbt	flores200-devtest
 khm-pes	flores200-devtest
 khm-plt	flores200-devtest
 khm-pol	flores101-devtest flores200-devtest
-khm-por	flores101-devtest flores200-devtest
-khm-por_BR	tico19-test
+khm-por	flores101-devtest flores200-devtest tico19-test
 khm-prs	flores200-devtest tico19-test
 khm-pus	flores101-devtest tico19-test
 khm-quy	flores200-devtest
@@ -21412,8 +21363,7 @@ khm-sna	flores101-devtest flores200-devtest
 khm-snd	flores101-devtest flores200-devtest
 khm-som	flores101-devtest flores200-devtest tico19-test
 khm-sot	flores200-devtest
-khm-spa	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
-khm-spa_LA	tico19-test
+khm-spa	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07 tico19-test
 khm-srd	flores200-devtest
 khm-srp	flores101-devtest
 khm-srp_Cyrl	flores101-devtest flores200-devtest
@@ -21432,8 +21382,6 @@ khm-tgk	flores101-devtest flores200-devtest
 khm-tgl	flores101-devtest flores200-devtest tico19-test
 khm-tha	flores101-devtest flores200-devtest
 khm-tir	flores200-devtest tico19-test
-khm-tir_ER	tico19-test
-khm-tir_ET	tico19-test
 khm-tpi	flores200-devtest
 khm-tsn	flores200-devtest
 khm-tso	flores200-devtest
@@ -21824,8 +21772,7 @@ kin-pbt	flores200-devtest
 kin-pes	flores200-devtest
 kin-plt	flores200-devtest
 kin-pol	flores200-devtest
-kin-por	flores200-devtest
-kin-por_BR	tico19-test
+kin-por	flores200-devtest tico19-test
 kin-prs	flores200-devtest tico19-test
 kin-pus	tico19-test
 kin-quy	flores200-devtest
@@ -21845,8 +21792,7 @@ kin-sna	flores200-devtest
 kin-snd	flores200-devtest
 kin-som	flores200-devtest tico19-test
 kin-sot	flores200-devtest
-kin-spa	flores200-devtest
-kin-spa_LA	tico19-test
+kin-spa	flores200-devtest tico19-test
 kin-srd	flores200-devtest
 kin-srp_Cyrl	flores200-devtest
 kin-ssw	flores200-devtest
@@ -21864,8 +21810,6 @@ kin-tgk	flores200-devtest
 kin-tgl	flores200-devtest tico19-test
 kin-tha	flores200-devtest
 kin-tir	flores200-devtest tico19-test
-kin-tir_ER	tico19-test
-kin-tir_ET	tico19-test
 kin-tpi	flores200-devtest
 kin-tsn	flores200-devtest
 kin-tso	flores200-devtest
@@ -23403,18 +23347,16 @@ kur-mya	tico19-test
 kur-nep	tico19-test
 kur-nus	tico19-test
 kur-orm	tico19-test
-kur-por_BR	tico19-test
+kur-por	tico19-test
 kur-prs	tico19-test
 kur-pus	tico19-test
 kur-rus	tico19-test
 kur-som	tico19-test
-kur-spa_LA	tico19-test
+kur-spa	tico19-test
 kur-swa	tico19-test
 kur-tam	tico19-test
 kur-tgl	tico19-test
 kur-tir	tico19-test
-kur-tir_ER	tico19-test
-kur-tir_ET	tico19-test
 kur-urd	tico19-test
 kur-zho	tico19-test
 kur-zul	tico19-test
@@ -24385,8 +24327,7 @@ lin-pbt	flores200-devtest
 lin-pes	flores200-devtest
 lin-plt	flores200-devtest
 lin-pol	flores101-devtest flores200-devtest
-lin-por	flores101-devtest flores200-devtest
-lin-por_BR	tico19-test
+lin-por	flores101-devtest flores200-devtest tico19-test
 lin-prs	flores200-devtest tico19-test
 lin-pus	flores101-devtest tico19-test
 lin-quy	flores200-devtest
@@ -24406,8 +24347,7 @@ lin-sna	flores101-devtest flores200-devtest
 lin-snd	flores101-devtest flores200-devtest
 lin-som	flores101-devtest flores200-devtest tico19-test
 lin-sot	flores200-devtest
-lin-spa	flores101-devtest flores200-devtest
-lin-spa_LA	tico19-test
+lin-spa	flores101-devtest flores200-devtest tico19-test
 lin-srd	flores200-devtest
 lin-srp	flores101-devtest
 lin-srp_Cyrl	flores101-devtest flores200-devtest
@@ -24426,8 +24366,6 @@ lin-tgk	flores101-devtest flores200-devtest
 lin-tgl	flores101-devtest flores200-devtest tico19-test
 lin-tha	flores101-devtest flores200-devtest
 lin-tir	flores200-devtest tico19-test
-lin-tir_ER	tico19-test
-lin-tir_ET	tico19-test
 lin-tpi	flores200-devtest
 lin-tsn	flores200-devtest
 lin-tso	flores200-devtest
@@ -25675,8 +25613,7 @@ lug-pbt	flores200-devtest
 lug-pes	flores200-devtest
 lug-plt	flores200-devtest
 lug-pol	flores101-devtest flores200-devtest
-lug-por	flores101-devtest flores200-devtest
-lug-por_BR	tico19-test
+lug-por	flores101-devtest flores200-devtest tico19-test
 lug-prs	flores200-devtest tico19-test
 lug-pus	flores101-devtest tico19-test
 lug-quy	flores200-devtest
@@ -25696,8 +25633,7 @@ lug-sna	flores101-devtest flores200-devtest
 lug-snd	flores101-devtest flores200-devtest
 lug-som	flores101-devtest flores200-devtest tico19-test
 lug-sot	flores200-devtest
-lug-spa	flores101-devtest flores200-devtest
-lug-spa_LA	tico19-test
+lug-spa	flores101-devtest flores200-devtest tico19-test
 lug-srd	flores200-devtest
 lug-srp	flores101-devtest
 lug-srp_Cyrl	flores101-devtest flores200-devtest
@@ -25716,8 +25652,6 @@ lug-tgk	flores101-devtest flores200-devtest
 lug-tgl	flores101-devtest flores200-devtest tico19-test
 lug-tha	flores101-devtest flores200-devtest
 lug-tir	flores200-devtest tico19-test
-lug-tir_ER	tico19-test
-lug-tir_ET	tico19-test
 lug-tpi	flores200-devtest
 lug-tsn	flores200-devtest
 lug-tso	flores200-devtest
@@ -27172,8 +27106,7 @@ mar-pbt	flores200-devtest
 mar-pes	flores200-devtest
 mar-plt	flores200-devtest
 mar-pol	flores101-devtest flores200-devtest
-mar-por	flores101-devtest flores200-devtest
-mar-por_BR	tico19-test
+mar-por	flores101-devtest flores200-devtest tico19-test
 mar-prs	flores200-devtest tico19-test
 mar-pus	flores101-devtest tico19-test
 mar-quy	flores200-devtest
@@ -27193,8 +27126,7 @@ mar-sna	flores101-devtest flores200-devtest
 mar-snd	flores101-devtest flores200-devtest
 mar-som	flores101-devtest flores200-devtest tico19-test
 mar-sot	flores200-devtest
-mar-spa	flores101-devtest flores200-devtest
-mar-spa_LA	tico19-test
+mar-spa	flores101-devtest flores200-devtest tico19-test
 mar-srd	flores200-devtest
 mar-srp	flores101-devtest
 mar-srp_Cyrl	flores101-devtest flores200-devtest
@@ -27213,8 +27145,6 @@ mar-tgk	flores101-devtest flores200-devtest
 mar-tgl	flores101-devtest flores200-devtest tico19-test
 mar-tha	flores101-devtest flores200-devtest
 mar-tir	flores200-devtest tico19-test
-mar-tir_ER	tico19-test
-mar-tir_ET	tico19-test
 mar-tpi	flores200-devtest
 mar-tsn	flores200-devtest
 mar-tso	flores200-devtest
@@ -28993,8 +28923,7 @@ msa-pbt	flores200-devtest
 msa-pes	flores200-devtest
 msa-plt	flores200-devtest
 msa-pol	flores101-devtest flores200-devtest
-msa-por	flores101-devtest flores200-devtest
-msa-por_BR	tico19-test
+msa-por	flores101-devtest flores200-devtest tico19-test
 msa-prs	flores200-devtest tico19-test
 msa-pus	flores101-devtest tico19-test
 msa-quy	flores200-devtest
@@ -29014,8 +28943,7 @@ msa-sna	flores101-devtest flores200-devtest
 msa-snd	flores101-devtest flores200-devtest
 msa-som	flores101-devtest flores200-devtest tico19-test
 msa-sot	flores200-devtest
-msa-spa	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
-msa-spa_LA	tico19-test
+msa-spa	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07 tico19-test
 msa-srd	flores200-devtest
 msa-srp	flores101-devtest
 msa-srp_Cyrl	flores101-devtest flores200-devtest
@@ -29034,8 +28962,6 @@ msa-tgk	flores101-devtest flores200-devtest
 msa-tgl	flores101-devtest flores200-devtest tico19-test
 msa-tha	flores101-devtest flores200-devtest
 msa-tir	flores200-devtest tico19-test
-msa-tir_ER	tico19-test
-msa-tir_ET	tico19-test
 msa-tpi	flores200-devtest
 msa-tsn	flores200-devtest
 msa-tso	flores200-devtest
@@ -29221,8 +29147,7 @@ mya-pbt	flores200-devtest
 mya-pes	flores200-devtest
 mya-plt	flores200-devtest
 mya-pol	flores101-devtest flores200-devtest
-mya-por	flores101-devtest flores200-devtest
-mya-por_BR	tico19-test
+mya-por	flores101-devtest flores200-devtest tico19-test
 mya-prs	flores200-devtest tico19-test
 mya-pus	flores101-devtest tico19-test
 mya-quy	flores200-devtest
@@ -29242,8 +29167,7 @@ mya-sna	flores101-devtest flores200-devtest
 mya-snd	flores101-devtest flores200-devtest
 mya-som	flores101-devtest flores200-devtest tico19-test
 mya-sot	flores200-devtest
-mya-spa	flores101-devtest flores200-devtest
-mya-spa_LA	tico19-test
+mya-spa	flores101-devtest flores200-devtest tico19-test
 mya-srd	flores200-devtest
 mya-srp	flores101-devtest
 mya-srp_Cyrl	flores101-devtest flores200-devtest
@@ -29262,8 +29186,6 @@ mya-tgk	flores101-devtest flores200-devtest
 mya-tgl	flores101-devtest flores200-devtest tico19-test
 mya-tha	flores101-devtest flores200-devtest
 mya-tir	flores200-devtest tico19-test
-mya-tir_ER	tico19-test
-mya-tir_ET	tico19-test
 mya-tpi	flores200-devtest
 mya-tsn	flores200-devtest
 mya-tso	flores200-devtest
@@ -29327,18 +29249,16 @@ nep-msa	tico19-test
 nep-mya	tico19-test
 nep-nus	tico19-test
 nep-orm	tico19-test
-nep-por_BR	tico19-test
+nep-por	tico19-test
 nep-prs	tico19-test
 nep-pus	tico19-test
 nep-rus	tico19-test
 nep-som	tico19-test
-nep-spa_LA	tico19-test
+nep-spa	tico19-test
 nep-swa	tico19-test
 nep-tam	tico19-test
 nep-tgl	tico19-test
 nep-tir	tico19-test
-nep-tir_ER	tico19-test
-nep-tir_ET	tico19-test
 nep-urd	tico19-test
 nep-zho	tico19-test
 nep-zul	tico19-test
@@ -30609,8 +30529,7 @@ nus-pbt	flores200-devtest
 nus-pes	flores200-devtest
 nus-plt	flores200-devtest
 nus-pol	flores200-devtest
-nus-por	flores200-devtest
-nus-por_BR	tico19-test
+nus-por	flores200-devtest tico19-test
 nus-prs	flores200-devtest tico19-test
 nus-pus	tico19-test
 nus-quy	flores200-devtest
@@ -30630,8 +30549,7 @@ nus-sna	flores200-devtest
 nus-snd	flores200-devtest
 nus-som	flores200-devtest tico19-test
 nus-sot	flores200-devtest
-nus-spa	flores200-devtest
-nus-spa_LA	tico19-test
+nus-spa	flores200-devtest tico19-test
 nus-srd	flores200-devtest
 nus-srp_Cyrl	flores200-devtest
 nus-ssw	flores200-devtest
@@ -30649,8 +30567,6 @@ nus-tgk	flores200-devtest
 nus-tgl	flores200-devtest tico19-test
 nus-tha	flores200-devtest
 nus-tir	flores200-devtest tico19-test
-nus-tir_ER	tico19-test
-nus-tir_ET	tico19-test
 nus-tpi	flores200-devtest
 nus-tsn	flores200-devtest
 nus-tso	flores200-devtest
@@ -31193,8 +31109,7 @@ orm-oci	flores101-devtest
 orm-ory	flores101-devtest
 orm-pan	flores101-devtest
 orm-pol	flores101-devtest
-orm-por	flores101-devtest
-orm-por_BR	tico19-test
+orm-por	flores101-devtest tico19-test
 orm-prs	tico19-test
 orm-pus	flores101-devtest tico19-test
 orm-ron	flores101-devtest
@@ -31204,8 +31119,7 @@ orm-slv	flores101-devtest
 orm-sna	flores101-devtest
 orm-snd	flores101-devtest
 orm-som	flores101-devtest tico19-test
-orm-spa	flores101-devtest
-orm-spa_LA	tico19-test
+orm-spa	flores101-devtest tico19-test
 orm-srp	flores101-devtest
 orm-srp_Cyrl	flores101-devtest
 orm-swa	tico19-test
@@ -31217,8 +31131,6 @@ orm-tgk	flores101-devtest
 orm-tgl	flores101-devtest tico19-test
 orm-tha	flores101-devtest
 orm-tir	tico19-test
-orm-tir_ER	tico19-test
-orm-tir_ET	tico19-test
 orm-tur	flores101-devtest
 orm-ukr	flores101-devtest
 orm-umb	flores101-devtest
@@ -32952,9 +32864,9 @@ por-afr	flores101-devtest flores200-devtest
 por-ajp	flores200-devtest
 por-aka	flores200-devtest
 por-als	flores200-devtest
-por-amh	flores101-devtest flores200-devtest
+por-amh	flores101-devtest flores200-devtest tico19-test
 por-apc	flores200-devtest
-por-ara	flores101-devtest flores200-devtest
+por-ara	flores101-devtest flores200-devtest tico19-test
 por-ara_Latn	flores200-devtest
 por-arb_Arab	flores200-devtest
 por-arb_Latn	flores200-devtest
@@ -32972,7 +32884,7 @@ por-bam	flores200-devtest
 por-ban	flores200-devtest
 por-bel	flores101-devtest flores200-devtest
 por-bem	flores200-devtest
-por-ben	flores101-devtest flores200-devtest
+por-ben	flores101-devtest flores200-devtest tico19-test
 por-bho	flores200-devtest
 por-bjn_Arab	flores200-devtest
 por-bjn_Latn	flores200-devtest
@@ -32984,7 +32896,7 @@ por-cat	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-tes
 por-ceb	flores101-devtest flores200-devtest
 por-ces	flores101-devtest flores200-devtest
 por-cjk	flores200-devtest
-por-ckb	flores101-devtest flores200-devtest
+por-ckb	flores101-devtest flores200-devtest tico19-test
 por-cmn_Hans	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 por-cmn_Hant	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 por-crh	flores200-devtest
@@ -32992,23 +32904,24 @@ por-cym	flores101-devtest flores200-devtest
 por-dan	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 por-deu	flores101-devtest flores200-devtest tatoeba-test-v2021-08-07
 por-dik	flores200-devtest
+por-din	tico19-test
 por-dyu	flores200-devtest
 por-dzo	flores200-devtest
 por-ell	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
-por-eng	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
+por-eng	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07 tico19-test
 por-epo	flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 por-est	flores101-devtest flores200-devtest
 por-eus	flores200-devtest
 por-ewe	flores200-devtest
 por-fao	flores200-devtest
-por-fas	flores101-devtest
+por-fas	flores101-devtest tico19-test
 por-fij	flores200-devtest
 por-fin	flores101-devtest flores200-devtest tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 por-fon	flores200-devtest
-por-fra	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
+por-fra	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07 tico19-test
 por-ful	flores101-devtest
 por-fur	flores200-devtest
-por-fuv	flores200-devtest
+por-fuv	flores200-devtest tico19-test
 por-gaz	flores200-devtest
 por-gla	flores200-devtest
 por-gle	flores101-devtest flores200-devtest
@@ -33016,9 +32929,9 @@ por-glg	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-tes
 por-grn	flores200-devtest tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 por-guj	flores101-devtest flores200-devtest
 por-hat	flores200-devtest
-por-hau	flores101-devtest flores200-devtest
+por-hau	flores101-devtest flores200-devtest tico19-test
 por-heb	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
-por-hin	flores101-devtest flores200-devtest
+por-hin	flores101-devtest flores200-devtest tico19-test
 por-hne	flores200-devtest
 por-hrv	flores101-devtest flores200-devtest
 por-hun	flores101-devtest flores200-devtest tatoeba-test-v2021-08-07
@@ -33026,7 +32939,7 @@ por-hye	flores101-devtest flores200-devtest
 por-ibo	flores101-devtest flores200-devtest
 por-ilo	flores200-devtest
 por-ina	tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
-por-ind	flores101-devtest flores200-devtest
+por-ind	flores101-devtest flores200-devtest tico19-test
 por-isl	flores101-devtest flores200-devtest
 por-ita	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 por-jav	flores101-devtest flores200-devtest
@@ -33040,13 +32953,14 @@ por-kan	flores101-devtest flores200-devtest
 por-kas_Arab	flores200-devtest
 por-kas_Deva	flores200-devtest
 por-kat	flores101-devtest flores200-devtest
+por-kau	tico19-test
 por-kaz	flores101-devtest flores200-devtest
 por-kbp	flores200-devtest
 por-kea	flores101-devtest flores200-devtest
 por-khk	flores200-devtest
-por-khm	flores101-devtest flores200-devtest
+por-khm	flores101-devtest flores200-devtest tico19-test
 por-kik	flores200-devtest
-por-kin	flores200-devtest
+por-kin	flores200-devtest tico19-test
 por-kir	flores101-devtest flores200-devtest
 por-kmb	flores200-devtest
 por-kmr	flores200-devtest
@@ -33054,6 +32968,7 @@ por-knc_Arab	flores200-devtest
 por-knc_Latn	flores200-devtest
 por-kon	flores200-devtest
 por-kor	flores101-devtest flores200-devtest
+por-kur	tico19-test
 por-lao	flores101-devtest flores200-devtest
 por-lat	tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 por-lat_Latn	tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
@@ -33063,20 +32978,20 @@ por-lfn_Cyrl	tatoeba-test-v2021-08-07
 por-lfn_Latn	tatoeba-test-v2021-08-07
 por-lij	flores200-devtest
 por-lim	flores200-devtest
-por-lin	flores101-devtest flores200-devtest
+por-lin	flores101-devtest flores200-devtest tico19-test
 por-lit	flores101-devtest flores200-devtest
 por-lmo	flores200-devtest
 por-ltg	flores200-devtest
 por-ltz	flores101-devtest flores200-devtest
 por-lua	flores200-devtest
-por-lug	flores101-devtest flores200-devtest
+por-lug	flores101-devtest flores200-devtest tico19-test
 por-luo	flores101-devtest flores200-devtest
 por-lus	flores200-devtest
 por-lvs	flores200-devtest
 por-mag	flores200-devtest
 por-mai	flores200-devtest
 por-mal	flores101-devtest flores200-devtest
-por-mar	flores101-devtest flores200-devtest
+por-mar	flores101-devtest flores200-devtest tico19-test
 por-min_Arab	flores200-devtest
 por-min_Latn	flores200-devtest
 por-mkd	flores101-devtest flores200-devtest
@@ -33085,19 +33000,20 @@ por-mni	flores200-devtest
 por-mon	flores101-devtest
 por-mos	flores200-devtest
 por-mri	flores101-devtest flores200-devtest
-por-msa	flores101-devtest flores200-devtest
-por-mya	flores101-devtest flores200-devtest
+por-msa	flores101-devtest flores200-devtest tico19-test
+por-mya	flores101-devtest flores200-devtest tico19-test
 por-nds	tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
+por-nep	tico19-test
 por-nld	flores101-devtest flores200-devtest tatoeba-test-v2021-08-07
 por-nno	flores200-devtest
 por-nob	flores101-devtest flores200-devtest
 por-nor	tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 por-npi	flores101-devtest flores200-devtest
 por-nso	flores101-devtest flores200-devtest
-por-nus	flores200-devtest
+por-nus	flores200-devtest tico19-test
 por-nya	flores101-devtest flores200-devtest
 por-oci	flores101-devtest flores200-devtest
-por-orm	flores101-devtest
+por-orm	flores101-devtest tico19-test
 por-ory	flores101-devtest flores200-devtest
 por-pag	flores200-devtest
 por-pan	flores101-devtest flores200-devtest
@@ -33107,12 +33023,12 @@ por-pes	flores200-devtest
 por-plt	flores200-devtest
 por-pol	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 por-por	tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
-por-prs	flores200-devtest
-por-pus	flores101-devtest
+por-prs	flores200-devtest tico19-test
+por-pus	flores101-devtest tico19-test
 por-quy	flores200-devtest
 por-ron	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 por-run	flores200-devtest
-por-rus	flores101-devtest flores200-devtest tatoeba-test-v2021-08-07
+por-rus	flores101-devtest flores200-devtest tatoeba-test-v2021-08-07 tico19-test
 por-sag	flores200-devtest
 por-san	flores200-devtest
 por-sat	flores200-devtest
@@ -33124,26 +33040,27 @@ por-slv	flores101-devtest flores200-devtest
 por-smo	flores200-devtest
 por-sna	flores101-devtest flores200-devtest
 por-snd	flores101-devtest flores200-devtest
-por-som	flores101-devtest flores200-devtest
+por-som	flores101-devtest flores200-devtest tico19-test
 por-sot	flores200-devtest
-por-spa	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
+por-spa	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07 tico19-test
 por-srd	flores200-devtest
 por-srp	flores101-devtest
 por-srp_Cyrl	flores101-devtest flores200-devtest
 por-ssw	flores200-devtest
 por-sun	flores200-devtest
+por-swa	tico19-test
 por-swe	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 por-swh	flores101-devtest flores200-devtest
 por-szl	flores200-devtest
-por-tam	flores101-devtest flores200-devtest
+por-tam	flores101-devtest flores200-devtest tico19-test
 por-taq_Latn	flores200-devtest
 por-taq_Tfng	flores200-devtest
 por-tat	flores200-devtest
 por-tel	flores101-devtest flores200-devtest
 por-tgk	flores101-devtest flores200-devtest
-por-tgl	flores101-devtest flores200-devtest tatoeba-test-v2021-08-07
+por-tgl	flores101-devtest flores200-devtest tatoeba-test-v2021-08-07 tico19-test
 por-tha	flores101-devtest flores200-devtest
-por-tir	flores200-devtest
+por-tir	flores200-devtest tico19-test
 por-toki	tatoeba-test-v2021-08-07
 por-tpi	flores200-devtest
 por-tsn	flores200-devtest
@@ -33156,7 +33073,7 @@ por-tzm	flores200-devtest
 por-uig	flores200-devtest
 por-ukr	flores101-devtest flores200-devtest tatoeba-test-v2021-08-07
 por-umb	flores101-devtest flores200-devtest
-por-urd	flores101-devtest flores200-devtest
+por-urd	flores101-devtest flores200-devtest tico19-test
 por-uzb	flores101-devtest
 por-uzn	flores200-devtest
 por-vec	flores200-devtest
@@ -33167,51 +33084,13 @@ por-xho	flores101-devtest flores200-devtest
 por-ydd	flores200-devtest
 por-yor	flores101-devtest flores200-devtest
 por-yue	flores200-devtest
-por-zho	tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
+por-zho	tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07 tico19-test
 por-zho_Hans	flores200-devtest
 por-zho_Hant	flores200-devtest
 por-zho_simpl	flores101-devtest
 por-zho_trad	flores101-devtest
 por-zsm	flores200-devtest
-por-zul	flores101-devtest flores200-devtest
-por_BR-amh	tico19-test
-por_BR-ara	tico19-test
-por_BR-ben	tico19-test
-por_BR-ckb	tico19-test
-por_BR-din	tico19-test
-por_BR-eng	tico19-test
-por_BR-fas	tico19-test
-por_BR-fra	tico19-test
-por_BR-fuv	tico19-test
-por_BR-hau	tico19-test
-por_BR-hin	tico19-test
-por_BR-ind	tico19-test
-por_BR-kau	tico19-test
-por_BR-khm	tico19-test
-por_BR-kin	tico19-test
-por_BR-kur	tico19-test
-por_BR-lin	tico19-test
-por_BR-lug	tico19-test
-por_BR-mar	tico19-test
-por_BR-msa	tico19-test
-por_BR-mya	tico19-test
-por_BR-nep	tico19-test
-por_BR-nus	tico19-test
-por_BR-orm	tico19-test
-por_BR-prs	tico19-test
-por_BR-pus	tico19-test
-por_BR-rus	tico19-test
-por_BR-som	tico19-test
-por_BR-spa_LA	tico19-test
-por_BR-swa	tico19-test
-por_BR-tam	tico19-test
-por_BR-tgl	tico19-test
-por_BR-tir	tico19-test
-por_BR-tir_ER	tico19-test
-por_BR-tir_ET	tico19-test
-por_BR-urd	tico19-test
-por_BR-zho	tico19-test
-por_BR-zul	tico19-test
+por-zul	flores101-devtest flores200-devtest tico19-test
 prg-eng	tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 prs-ace_Arab	flores200-devtest
 prs-ace_Latn	flores200-devtest
@@ -33367,8 +33246,7 @@ prs-pbt	flores200-devtest
 prs-pes	flores200-devtest
 prs-plt	flores200-devtest
 prs-pol	flores200-devtest
-prs-por	flores200-devtest
-prs-por_BR	tico19-test
+prs-por	flores200-devtest tico19-test
 prs-pus	tico19-test
 prs-quy	flores200-devtest
 prs-ron	flores200-devtest
@@ -33387,8 +33265,7 @@ prs-sna	flores200-devtest
 prs-snd	flores200-devtest
 prs-som	flores200-devtest tico19-test
 prs-sot	flores200-devtest
-prs-spa	flores200-devtest
-prs-spa_LA	tico19-test
+prs-spa	flores200-devtest tico19-test
 prs-srd	flores200-devtest
 prs-srp_Cyrl	flores200-devtest
 prs-ssw	flores200-devtest
@@ -33406,8 +33283,6 @@ prs-tgk	flores200-devtest
 prs-tgl	flores200-devtest tico19-test
 prs-tha	flores200-devtest
 prs-tir	flores200-devtest tico19-test
-prs-tir_ER	tico19-test
-prs-tir_ET	tico19-test
 prs-tpi	flores200-devtest
 prs-tsn	flores200-devtest
 prs-tso	flores200-devtest
@@ -33515,8 +33390,7 @@ pus-orm	flores101-devtest tico19-test
 pus-ory	flores101-devtest
 pus-pan	flores101-devtest
 pus-pol	flores101-devtest
-pus-por	flores101-devtest
-pus-por_BR	tico19-test
+pus-por	flores101-devtest tico19-test
 pus-prs	tico19-test
 pus-ron	flores101-devtest
 pus-rus	flores101-devtest tico19-test
@@ -33525,8 +33399,7 @@ pus-slv	flores101-devtest
 pus-sna	flores101-devtest
 pus-snd	flores101-devtest
 pus-som	flores101-devtest tico19-test
-pus-spa	flores101-devtest
-pus-spa_LA	tico19-test
+pus-spa	flores101-devtest tico19-test
 pus-srp	flores101-devtest
 pus-srp_Cyrl	flores101-devtest
 pus-swa	tico19-test
@@ -33538,8 +33411,6 @@ pus-tgk	flores101-devtest
 pus-tgl	flores101-devtest tico19-test
 pus-tha	flores101-devtest
 pus-tir	tico19-test
-pus-tir_ER	tico19-test
-pus-tir_ET	tico19-test
 pus-tur	flores101-devtest
 pus-ukr	flores101-devtest
 pus-umb	flores101-devtest
@@ -34364,8 +34235,7 @@ rus-pbt	flores200-devtest
 rus-pes	flores200-devtest
 rus-plt	flores200-devtest
 rus-pol	flores101-devtest flores200-devtest tatoeba-test-v2021-08-07
-rus-por	flores101-devtest flores200-devtest tatoeba-test-v2021-08-07
-rus-por_BR	tico19-test
+rus-por	flores101-devtest flores200-devtest tatoeba-test-v2021-08-07 tico19-test
 rus-prs	flores200-devtest tico19-test
 rus-pus	flores101-devtest tico19-test
 rus-quy	flores200-devtest
@@ -34386,8 +34256,7 @@ rus-sna	flores101-devtest flores200-devtest
 rus-snd	flores101-devtest flores200-devtest
 rus-som	flores101-devtest flores200-devtest tico19-test
 rus-sot	flores200-devtest
-rus-spa	flores101-devtest flores200-devtest newstest2012 newstest2013 tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
-rus-spa_LA	tico19-test
+rus-spa	flores101-devtest flores200-devtest newstest2012 newstest2013 tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07 tico19-test
 rus-srd	flores200-devtest
 rus-srp	flores101-devtest
 rus-srp_Cyrl	flores101-devtest flores200-devtest tatoeba-test-v2021-08-07
@@ -34407,8 +34276,6 @@ rus-tgk	flores101-devtest flores200-devtest
 rus-tgl	flores101-devtest flores200-devtest tico19-test
 rus-tha	flores101-devtest flores200-devtest
 rus-tir	flores200-devtest tico19-test
-rus-tir_ER	tico19-test
-rus-tir_ET	tico19-test
 rus-tlh	tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 rus-toki	tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 rus-toki_Latn	tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
@@ -36934,8 +36801,7 @@ som-pbt	flores200-devtest
 som-pes	flores200-devtest
 som-plt	flores200-devtest
 som-pol	flores101-devtest flores200-devtest
-som-por	flores101-devtest flores200-devtest
-som-por_BR	tico19-test
+som-por	flores101-devtest flores200-devtest tico19-test
 som-prs	flores200-devtest tico19-test
 som-pus	flores101-devtest tico19-test
 som-quy	flores200-devtest
@@ -36954,8 +36820,7 @@ som-smo	flores200-devtest
 som-sna	flores101-devtest flores200-devtest
 som-snd	flores101-devtest flores200-devtest
 som-sot	flores200-devtest
-som-spa	flores101-devtest flores200-devtest
-som-spa_LA	tico19-test
+som-spa	flores101-devtest flores200-devtest tico19-test
 som-srd	flores200-devtest
 som-srp	flores101-devtest
 som-srp_Cyrl	flores101-devtest flores200-devtest
@@ -36974,8 +36839,6 @@ som-tgk	flores101-devtest flores200-devtest
 som-tgl	flores101-devtest flores200-devtest tico19-test
 som-tha	flores101-devtest flores200-devtest
 som-tir	flores200-devtest tico19-test
-som-tir_ER	tico19-test
-som-tir_ET	tico19-test
 som-tpi	flores200-devtest
 som-tsn	flores200-devtest
 som-tso	flores200-devtest
@@ -37222,9 +37085,9 @@ spa-afr	flores101-devtest flores200-devtest tatoeba-test-v2021-03-30 tatoeba-tes
 spa-ajp	flores200-devtest
 spa-aka	flores200-devtest
 spa-als	flores200-devtest
-spa-amh	flores101-devtest flores200-devtest
+spa-amh	flores101-devtest flores200-devtest tico19-test
 spa-apc	flores200-devtest
-spa-ara	flores101-devtest flores200-devtest tatoeba-test-v2021-08-07
+spa-ara	flores101-devtest flores200-devtest tatoeba-test-v2021-08-07 tico19-test
 spa-ara_Latn	flores200-devtest
 spa-arb_Arab	flores200-devtest
 spa-arb_Latn	flores200-devtest
@@ -37244,7 +37107,7 @@ spa-bam	flores200-devtest
 spa-ban	flores200-devtest
 spa-bel	flores101-devtest flores200-devtest tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 spa-bem	flores200-devtest
-spa-ben	flores101-devtest flores200-devtest
+spa-ben	flores101-devtest flores200-devtest tico19-test
 spa-ber	tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 spa-bho	flores200-devtest
 spa-bjn_Arab	flores200-devtest
@@ -37257,7 +37120,7 @@ spa-cat	flores101-devtest flores200-devtest tatoeba-test-v2021-08-07
 spa-ceb	flores101-devtest flores200-devtest
 spa-ces	flores101-devtest flores200-devtest newssyscomb2009 newstest2008 newstest2009 newstest2010 newstest2011 newstest2012 newstest2013 tatoeba-test-v2021-08-07
 spa-cjk	flores200-devtest
-spa-ckb	flores101-devtest flores200-devtest
+spa-ckb	flores101-devtest flores200-devtest tico19-test
 spa-cmn_Hans	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 spa-cmn_Hant	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 spa-cor	tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
@@ -37266,23 +37129,24 @@ spa-cym	flores101-devtest flores200-devtest
 spa-dan	flores101-devtest flores200-devtest tatoeba-test-v2021-08-07
 spa-deu	flores101-devtest flores200-devtest newssyscomb2009 newstest2008 newstest2009 newstest2010 newstest2011 newstest2012 newstest2013 tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 spa-dik	flores200-devtest
+spa-din	tico19-test
 spa-dyu	flores200-devtest
 spa-dzo	flores200-devtest
 spa-ell	flores101-devtest flores200-devtest tatoeba-test-v2021-08-07
-spa-eng	flores101-devtest flores200-devtest newssyscomb2009 newstest2008 newstest2009 newstest2010 newstest2011 newstest2012 newstest2013 tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
+spa-eng	flores101-devtest flores200-devtest newssyscomb2009 newstest2008 newstest2009 newstest2010 newstest2011 newstest2012 newstest2013 tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07 tico19-test
 spa-epo	flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 spa-est	flores101-devtest flores200-devtest
 spa-eus	flores200-devtest tatoeba-test-v2021-08-07
 spa-ewe	flores200-devtest
 spa-fao	flores200-devtest
-spa-fas	flores101-devtest
+spa-fas	flores101-devtest tico19-test
 spa-fij	flores200-devtest
 spa-fin	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 spa-fon	flores200-devtest
-spa-fra	flores101-devtest flores200-devtest newssyscomb2009 newstest2008 newstest2009 newstest2010 newstest2011 newstest2012 newstest2013 tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
+spa-fra	flores101-devtest flores200-devtest newssyscomb2009 newstest2008 newstest2009 newstest2010 newstest2011 newstest2012 newstest2013 tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07 tico19-test
 spa-ful	flores101-devtest
 spa-fur	flores200-devtest
-spa-fuv	flores200-devtest
+spa-fuv	flores200-devtest tico19-test
 spa-gaz	flores200-devtest
 spa-gla	flores200-devtest tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 spa-gle	flores101-devtest flores200-devtest
@@ -37290,10 +37154,10 @@ spa-glg	flores101-devtest flores200-devtest tatoeba-test-v2021-08-07
 spa-grn	flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 spa-guj	flores101-devtest flores200-devtest
 spa-hat	flores200-devtest
-spa-hau	flores101-devtest flores200-devtest
+spa-hau	flores101-devtest flores200-devtest tico19-test
 spa-hbs	tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 spa-heb	flores101-devtest flores200-devtest tatoeba-test-v2021-08-07
-spa-hin	flores101-devtest flores200-devtest
+spa-hin	flores101-devtest flores200-devtest tico19-test
 spa-hne	flores200-devtest
 spa-hrv	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 spa-hun	flores101-devtest flores200-devtest newssyscomb2009 newstest2008 newstest2009 tatoeba-test-v2021-08-07
@@ -37302,7 +37166,7 @@ spa-ibo	flores101-devtest flores200-devtest
 spa-ido	tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 spa-ilo	flores200-devtest
 spa-ina	tatoeba-test-v2021-08-07
-spa-ind	flores101-devtest flores200-devtest
+spa-ind	flores101-devtest flores200-devtest tico19-test
 spa-isl	flores101-devtest flores200-devtest tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 spa-ita	flores101-devtest flores200-devtest newssyscomb2009 newstest2009 tatoeba-test-v2021-08-07
 spa-jav	flores101-devtest flores200-devtest
@@ -37318,13 +37182,14 @@ spa-kan	flores101-devtest flores200-devtest
 spa-kas_Arab	flores200-devtest
 spa-kas_Deva	flores200-devtest
 spa-kat	flores101-devtest flores200-devtest
+spa-kau	tico19-test
 spa-kaz	flores101-devtest flores200-devtest
 spa-kbp	flores200-devtest
 spa-kea	flores101-devtest flores200-devtest
 spa-khk	flores200-devtest
-spa-khm	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
+spa-khm	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07 tico19-test
 spa-kik	flores200-devtest
-spa-kin	flores200-devtest
+spa-kin	flores200-devtest tico19-test
 spa-kir	flores101-devtest flores200-devtest
 spa-kmb	flores200-devtest
 spa-kmr	flores200-devtest
@@ -37333,6 +37198,7 @@ spa-knc_Latn	flores200-devtest
 spa-kon	flores200-devtest
 spa-kor	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 spa-kor_Hang	tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
+spa-kur	tico19-test
 spa-lad	tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 spa-lad_Latn	tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 spa-lao	flores101-devtest flores200-devtest
@@ -37341,20 +37207,20 @@ spa-lav	flores101-devtest
 spa-lfn	tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 spa-lij	flores200-devtest
 spa-lim	flores200-devtest
-spa-lin	flores101-devtest flores200-devtest
+spa-lin	flores101-devtest flores200-devtest tico19-test
 spa-lit	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 spa-lmo	flores200-devtest
 spa-ltg	flores200-devtest
 spa-ltz	flores101-devtest flores200-devtest
 spa-lua	flores200-devtest
-spa-lug	flores101-devtest flores200-devtest
+spa-lug	flores101-devtest flores200-devtest tico19-test
 spa-luo	flores101-devtest flores200-devtest
 spa-lus	flores200-devtest
 spa-lvs	flores200-devtest
 spa-mag	flores200-devtest
 spa-mai	flores200-devtest
 spa-mal	flores101-devtest flores200-devtest
-spa-mar	flores101-devtest flores200-devtest
+spa-mar	flores101-devtest flores200-devtest tico19-test
 spa-min_Arab	flores200-devtest
 spa-min_Latn	flores200-devtest
 spa-mkd	flores101-devtest flores200-devtest tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
@@ -37363,19 +37229,20 @@ spa-mni	flores200-devtest
 spa-mon	flores101-devtest
 spa-mos	flores200-devtest
 spa-mri	flores101-devtest flores200-devtest
-spa-msa	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
-spa-mya	flores101-devtest flores200-devtest
+spa-msa	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07 tico19-test
+spa-mya	flores101-devtest flores200-devtest tico19-test
 spa-nds	tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
+spa-nep	tico19-test
 spa-nld	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 spa-nno	flores200-devtest
 spa-nob	flores101-devtest flores200-devtest tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 spa-nor	tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 spa-npi	flores101-devtest flores200-devtest
 spa-nso	flores101-devtest flores200-devtest
-spa-nus	flores200-devtest
+spa-nus	flores200-devtest tico19-test
 spa-nya	flores101-devtest flores200-devtest
 spa-oci	flores101-devtest flores200-devtest
-spa-orm	flores101-devtest
+spa-orm	flores101-devtest tico19-test
 spa-ory	flores101-devtest flores200-devtest
 spa-pag	flores200-devtest
 spa-pan	flores101-devtest flores200-devtest
@@ -37384,13 +37251,13 @@ spa-pbt	flores200-devtest
 spa-pes	flores200-devtest
 spa-plt	flores200-devtest
 spa-pol	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
-spa-por	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
-spa-prs	flores200-devtest
-spa-pus	flores101-devtest
+spa-por	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07 tico19-test
+spa-prs	flores200-devtest tico19-test
+spa-pus	flores101-devtest tico19-test
 spa-quy	flores200-devtest
 spa-ron	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 spa-run	flores200-devtest tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
-spa-rus	flores101-devtest flores200-devtest newstest2012 newstest2013 tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
+spa-rus	flores101-devtest flores200-devtest newstest2012 newstest2013 tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07 tico19-test
 spa-sag	flores200-devtest
 spa-san	flores200-devtest
 spa-sat	flores200-devtest
@@ -37402,7 +37269,7 @@ spa-slv	flores101-devtest flores200-devtest
 spa-smo	flores200-devtest
 spa-sna	flores101-devtest flores200-devtest
 spa-snd	flores101-devtest flores200-devtest
-spa-som	flores101-devtest flores200-devtest
+spa-som	flores101-devtest flores200-devtest tico19-test
 spa-sot	flores200-devtest
 spa-spa	tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 spa-srd	flores200-devtest
@@ -37410,18 +37277,19 @@ spa-srp	flores101-devtest
 spa-srp_Cyrl	flores101-devtest flores200-devtest
 spa-ssw	flores200-devtest
 spa-sun	flores200-devtest
+spa-swa	tico19-test
 spa-swe	flores101-devtest flores200-devtest tatoeba-test-v2021-08-07
 spa-swh	flores101-devtest flores200-devtest
 spa-szl	flores200-devtest
-spa-tam	flores101-devtest flores200-devtest
+spa-tam	flores101-devtest flores200-devtest tico19-test
 spa-taq_Latn	flores200-devtest
 spa-taq_Tfng	flores200-devtest
 spa-tat	flores200-devtest tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 spa-tel	flores101-devtest flores200-devtest
 spa-tgk	flores101-devtest flores200-devtest
-spa-tgl	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
+spa-tgl	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07 tico19-test
 spa-tha	flores101-devtest flores200-devtest
-spa-tir	flores200-devtest
+spa-tir	flores200-devtest tico19-test
 spa-tlh	tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 spa-toki	tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 spa-tpi	flores200-devtest
@@ -37435,7 +37303,7 @@ spa-tzm	flores200-devtest
 spa-uig	flores200-devtest
 spa-ukr	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 spa-umb	flores101-devtest flores200-devtest
-spa-urd	flores101-devtest flores200-devtest
+spa-urd	flores101-devtest flores200-devtest tico19-test
 spa-uzb	flores101-devtest
 spa-uzn	flores200-devtest
 spa-vec	flores200-devtest
@@ -37447,51 +37315,13 @@ spa-ydd	flores200-devtest
 spa-yid	tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 spa-yor	flores101-devtest flores200-devtest
 spa-yue	flores200-devtest
-spa-zho	tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
+spa-zho	tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07 tico19-test
 spa-zho_Hans	flores200-devtest
 spa-zho_Hant	flores200-devtest
 spa-zho_simpl	flores101-devtest
 spa-zho_trad	flores101-devtest
 spa-zsm	flores200-devtest
-spa-zul	flores101-devtest flores200-devtest
-spa_LA-amh	tico19-test
-spa_LA-ara	tico19-test
-spa_LA-ben	tico19-test
-spa_LA-ckb	tico19-test
-spa_LA-din	tico19-test
-spa_LA-eng	tico19-test
-spa_LA-fas	tico19-test
-spa_LA-fra	tico19-test
-spa_LA-fuv	tico19-test
-spa_LA-hau	tico19-test
-spa_LA-hin	tico19-test
-spa_LA-ind	tico19-test
-spa_LA-kau	tico19-test
-spa_LA-khm	tico19-test
-spa_LA-kin	tico19-test
-spa_LA-kur	tico19-test
-spa_LA-lin	tico19-test
-spa_LA-lug	tico19-test
-spa_LA-mar	tico19-test
-spa_LA-msa	tico19-test
-spa_LA-mya	tico19-test
-spa_LA-nep	tico19-test
-spa_LA-nus	tico19-test
-spa_LA-orm	tico19-test
-spa_LA-por_BR	tico19-test
-spa_LA-prs	tico19-test
-spa_LA-pus	tico19-test
-spa_LA-rus	tico19-test
-spa_LA-som	tico19-test
-spa_LA-swa	tico19-test
-spa_LA-tam	tico19-test
-spa_LA-tgl	tico19-test
-spa_LA-tir	tico19-test
-spa_LA-tir_ER	tico19-test
-spa_LA-tir_ET	tico19-test
-spa_LA-urd	tico19-test
-spa_LA-zho	tico19-test
-spa_LA-zul	tico19-test
+spa-zul	flores101-devtest flores200-devtest tico19-test
 sqi-eng	tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 srd-ace_Arab	flores200-devtest
 srd-ace_Latn	flores200-devtest
@@ -38470,17 +38300,15 @@ swa-mya	tico19-test
 swa-nep	tico19-test
 swa-nus	tico19-test
 swa-orm	tico19-test
-swa-por_BR	tico19-test
+swa-por	tico19-test
 swa-prs	tico19-test
 swa-pus	tico19-test
 swa-rus	tico19-test
 swa-som	tico19-test
-swa-spa_LA	tico19-test
+swa-spa	tico19-test
 swa-tam	tico19-test
 swa-tgl	tico19-test
 swa-tir	tico19-test
-swa-tir_ER	tico19-test
-swa-tir_ET	tico19-test
 swa-urd	tico19-test
 swa-zho	tico19-test
 swa-zul	tico19-test
@@ -39291,8 +39119,7 @@ tam-pbt	flores200-devtest
 tam-pes	flores200-devtest
 tam-plt	flores200-devtest
 tam-pol	flores101-devtest flores200-devtest
-tam-por	flores101-devtest flores200-devtest
-tam-por_BR	tico19-test
+tam-por	flores101-devtest flores200-devtest tico19-test
 tam-prs	flores200-devtest tico19-test
 tam-pus	flores101-devtest tico19-test
 tam-quy	flores200-devtest
@@ -39312,8 +39139,7 @@ tam-sna	flores101-devtest flores200-devtest
 tam-snd	flores101-devtest flores200-devtest
 tam-som	flores101-devtest flores200-devtest tico19-test
 tam-sot	flores200-devtest
-tam-spa	flores101-devtest flores200-devtest
-tam-spa_LA	tico19-test
+tam-spa	flores101-devtest flores200-devtest tico19-test
 tam-srd	flores200-devtest
 tam-srp	flores101-devtest
 tam-srp_Cyrl	flores101-devtest flores200-devtest
@@ -39331,8 +39157,6 @@ tam-tgk	flores101-devtest flores200-devtest
 tam-tgl	flores101-devtest flores200-devtest tico19-test
 tam-tha	flores101-devtest flores200-devtest
 tam-tir	flores200-devtest tico19-test
-tam-tir_ER	tico19-test
-tam-tir_ET	tico19-test
 tam-tpi	flores200-devtest
 tam-tsn	flores200-devtest
 tam-tso	flores200-devtest
@@ -40579,8 +40403,7 @@ tgl-pbt	flores200-devtest
 tgl-pes	flores200-devtest
 tgl-plt	flores200-devtest
 tgl-pol	flores101-devtest flores200-devtest
-tgl-por	flores101-devtest flores200-devtest tatoeba-test-v2021-08-07
-tgl-por_BR	tico19-test
+tgl-por	flores101-devtest flores200-devtest tatoeba-test-v2021-08-07 tico19-test
 tgl-prs	flores200-devtest tico19-test
 tgl-pus	flores101-devtest tico19-test
 tgl-quy	flores200-devtest
@@ -40600,8 +40423,7 @@ tgl-sna	flores101-devtest flores200-devtest
 tgl-snd	flores101-devtest flores200-devtest
 tgl-som	flores101-devtest flores200-devtest tico19-test
 tgl-sot	flores200-devtest
-tgl-spa	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
-tgl-spa_LA	tico19-test
+tgl-spa	flores101-devtest flores200-devtest tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07 tico19-test
 tgl-srd	flores200-devtest
 tgl-srp	flores101-devtest
 tgl-srp_Cyrl	flores101-devtest flores200-devtest
@@ -40619,8 +40441,6 @@ tgl-tel	flores101-devtest flores200-devtest
 tgl-tgk	flores101-devtest flores200-devtest
 tgl-tha	flores101-devtest flores200-devtest
 tgl-tir	flores200-devtest tico19-test
-tgl-tir_ER	tico19-test
-tgl-tir_ET	tico19-test
 tgl-tpi	flores200-devtest
 tgl-tsn	flores200-devtest
 tgl-tso	flores200-devtest
@@ -41022,8 +40842,7 @@ tir-pbt	flores200-devtest
 tir-pes	flores200-devtest
 tir-plt	flores200-devtest
 tir-pol	flores200-devtest
-tir-por	flores200-devtest
-tir-por_BR	tico19-test
+tir-por	flores200-devtest tico19-test
 tir-prs	flores200-devtest tico19-test
 tir-pus	tico19-test
 tir-quy	flores200-devtest
@@ -41043,8 +40862,7 @@ tir-sna	flores200-devtest
 tir-snd	flores200-devtest
 tir-som	flores200-devtest tico19-test
 tir-sot	flores200-devtest
-tir-spa	flores200-devtest
-tir-spa_LA	tico19-test
+tir-spa	flores200-devtest tico19-test
 tir-srd	flores200-devtest
 tir-srp_Cyrl	flores200-devtest
 tir-ssw	flores200-devtest
@@ -41061,8 +40879,7 @@ tir-tel	flores200-devtest
 tir-tgk	flores200-devtest
 tir-tgl	flores200-devtest tico19-test
 tir-tha	flores200-devtest
-tir-tir_ER	tico19-test
-tir-tir_ET	tico19-test
+tir-tir	tico19-test
 tir-tpi	flores200-devtest
 tir-tsn	flores200-devtest
 tir-tso	flores200-devtest
@@ -41089,82 +40906,6 @@ tir-zho_Hans	flores200-devtest
 tir-zho_Hant	flores200-devtest
 tir-zsm	flores200-devtest
 tir-zul	flores200-devtest tico19-test
-tir_ER-amh	tico19-test
-tir_ER-ara	tico19-test
-tir_ER-ben	tico19-test
-tir_ER-ckb	tico19-test
-tir_ER-din	tico19-test
-tir_ER-eng	tico19-test
-tir_ER-fas	tico19-test
-tir_ER-fra	tico19-test
-tir_ER-fuv	tico19-test
-tir_ER-hau	tico19-test
-tir_ER-hin	tico19-test
-tir_ER-ind	tico19-test
-tir_ER-kau	tico19-test
-tir_ER-khm	tico19-test
-tir_ER-kin	tico19-test
-tir_ER-kur	tico19-test
-tir_ER-lin	tico19-test
-tir_ER-lug	tico19-test
-tir_ER-mar	tico19-test
-tir_ER-msa	tico19-test
-tir_ER-mya	tico19-test
-tir_ER-nep	tico19-test
-tir_ER-nus	tico19-test
-tir_ER-orm	tico19-test
-tir_ER-por_BR	tico19-test
-tir_ER-prs	tico19-test
-tir_ER-pus	tico19-test
-tir_ER-rus	tico19-test
-tir_ER-som	tico19-test
-tir_ER-spa_LA	tico19-test
-tir_ER-swa	tico19-test
-tir_ER-tam	tico19-test
-tir_ER-tgl	tico19-test
-tir_ER-tir	tico19-test
-tir_ER-tir_ET	tico19-test
-tir_ER-urd	tico19-test
-tir_ER-zho	tico19-test
-tir_ER-zul	tico19-test
-tir_ET-amh	tico19-test
-tir_ET-ara	tico19-test
-tir_ET-ben	tico19-test
-tir_ET-ckb	tico19-test
-tir_ET-din	tico19-test
-tir_ET-eng	tico19-test
-tir_ET-fas	tico19-test
-tir_ET-fra	tico19-test
-tir_ET-fuv	tico19-test
-tir_ET-hau	tico19-test
-tir_ET-hin	tico19-test
-tir_ET-ind	tico19-test
-tir_ET-kau	tico19-test
-tir_ET-khm	tico19-test
-tir_ET-kin	tico19-test
-tir_ET-kur	tico19-test
-tir_ET-lin	tico19-test
-tir_ET-lug	tico19-test
-tir_ET-mar	tico19-test
-tir_ET-msa	tico19-test
-tir_ET-mya	tico19-test
-tir_ET-nep	tico19-test
-tir_ET-nus	tico19-test
-tir_ET-orm	tico19-test
-tir_ET-por_BR	tico19-test
-tir_ET-prs	tico19-test
-tir_ET-pus	tico19-test
-tir_ET-rus	tico19-test
-tir_ET-som	tico19-test
-tir_ET-spa_LA	tico19-test
-tir_ET-swa	tico19-test
-tir_ET-tam	tico19-test
-tir_ET-tgl	tico19-test
-tir_ET-tir	tico19-test
-tir_ET-tir_ER	tico19-test
-tir_ET-urd	tico19-test
-tir_ET-zho	tico19-test
-tir_ET-zul	tico19-test
 tlh-deu	tatoeba-test-v2021-08-07
 tlh-eng	tatoeba-test-v2021-08-07
 tlh-epo	tatoeba-test-v2021-08-07
@@ -43696,8 +43437,7 @@ urd-pbt	flores200-devtest
 urd-pes	flores200-devtest
 urd-plt	flores200-devtest
 urd-pol	flores101-devtest flores200-devtest
-urd-por	flores101-devtest flores200-devtest
-urd-por_BR	tico19-test
+urd-por	flores101-devtest flores200-devtest tico19-test
 urd-prs	flores200-devtest tico19-test
 urd-pus	flores101-devtest tico19-test
 urd-quy	flores200-devtest
@@ -43717,8 +43457,7 @@ urd-sna	flores101-devtest flores200-devtest
 urd-snd	flores101-devtest flores200-devtest
 urd-som	flores101-devtest flores200-devtest tico19-test
 urd-sot	flores200-devtest
-urd-spa	flores101-devtest flores200-devtest
-urd-spa_LA	tico19-test
+urd-spa	flores101-devtest flores200-devtest tico19-test
 urd-srd	flores200-devtest
 urd-srp	flores101-devtest
 urd-srp_Cyrl	flores101-devtest flores200-devtest
@@ -43737,8 +43476,6 @@ urd-tgk	flores101-devtest flores200-devtest
 urd-tgl	flores101-devtest flores200-devtest tico19-test
 urd-tha	flores101-devtest flores200-devtest
 urd-tir	flores200-devtest tico19-test
-urd-tir_ER	tico19-test
-urd-tir_ET	tico19-test
 urd-tpi	flores200-devtest
 urd-tsn	flores200-devtest
 urd-tso	flores200-devtest
@@ -45855,22 +45592,18 @@ zho-nor	tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-
 zho-nus	tico19-test
 zho-orm	tico19-test
 zho-pol	tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
-zho-por	tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
-zho-por_BR	tico19-test
+zho-por	tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07 tico19-test
 zho-prs	tico19-test
 zho-pus	tico19-test
 zho-rus	tatoeba-test-v2021-08-07 tico19-test
 zho-slv	tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 zho-som	tico19-test
-zho-spa	tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
-zho-spa_LA	tico19-test
+zho-spa	tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07 tico19-test
 zho-swa	tico19-test
 zho-swe	tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 zho-tam	tico19-test
 zho-tgl	tico19-test
 zho-tir	tico19-test
-zho-tir_ER	tico19-test
-zho-tir_ET	tico19-test
 zho-tlh	tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 zho-tur	tatoeba-test-v2020-07-28 tatoeba-test-v2021-03-30 tatoeba-test-v2021-08-07
 zho-uig	tatoeba-test-v2021-08-07
@@ -46872,8 +46605,7 @@ zul-pbt	flores200-devtest
 zul-pes	flores200-devtest
 zul-plt	flores200-devtest
 zul-pol	flores101-devtest flores200-devtest
-zul-por	flores101-devtest flores200-devtest
-zul-por_BR	tico19-test
+zul-por	flores101-devtest flores200-devtest tico19-test
 zul-prs	flores200-devtest tico19-test
 zul-pus	flores101-devtest tico19-test
 zul-quy	flores200-devtest
@@ -46893,8 +46625,7 @@ zul-sna	flores101-devtest flores200-devtest
 zul-snd	flores101-devtest flores200-devtest
 zul-som	flores101-devtest flores200-devtest tico19-test
 zul-sot	flores200-devtest
-zul-spa	flores101-devtest flores200-devtest
-zul-spa_LA	tico19-test
+zul-spa	flores101-devtest flores200-devtest tico19-test
 zul-srd	flores200-devtest
 zul-srp	flores101-devtest
 zul-srp_Cyrl	flores101-devtest flores200-devtest
@@ -46913,8 +46644,6 @@ zul-tgk	flores101-devtest flores200-devtest
 zul-tgl	flores101-devtest flores200-devtest tico19-test
 zul-tha	flores101-devtest flores200-devtest
 zul-tir	flores200-devtest tico19-test
-zul-tir_ER	tico19-test
-zul-tir_ET	tico19-test
 zul-tpi	flores200-devtest
 zul-tsn	flores200-devtest
 zul-tso	flores200-devtest
