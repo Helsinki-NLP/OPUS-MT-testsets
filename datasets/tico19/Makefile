@@ -51,27 +51,28 @@ ${TICO19_TEST}: testsets/%/tico19-test.en: tico19-testset/test/test.%.tsv
 
 
 TICO19_LANGS := $(sort $(shell ls testsets | cut -f2 -d-))
+TICO19_BASEDIR := datasets/tico19/testsets
 
 tico19.tsv:
 	for l in ${TICO19_LANGS}; do \
 	  L=`iso639 -3 -k -n $$l`; \
-	  echo "eng	$$L	tico19-test				datasets/tioc19/tico19-test.en	datasets/tioc19/tico19-test.$$l" >> $@; \
+	  echo "eng	$$L	tico19-test				${TICO19_BASEDIR}/en-$$l/tico19-test.en	${TICO19_BASEDIR}/en-$$l/tico19-test.$$l" >> $@; \
 	done
 
 tico19-reverse.tsv:
 	for l in ${TICO19_LANGS}; do \
 	  L=`iso639 -3 -k -n $$l`; \
-	  echo "$$L	eng	tico19-test			 	datasets/tioc19/tico19-test.$$l	datasets/tioc19/tico19-test.en" >> $@; \
+	  echo "$$L	eng	tico19-test			 	${TICO19_BASEDIR}/en-$$l/tico19-test.$$l	${TICO19_BASEDIR}/en-$$l/tico19-test.en" >> $@; \
 	done
 
 tico19-multi.tsv:
-	for s in ${TICO19_LANGS}; do \
+	for s in $(filter-out en,${TICO19_LANGS}); do \
 	  S=`iso639 -3 -k -n $$s`; \
 	  echo "add $$S"; \
-	  for t in ${TICO19_LANGS}; do \
+	  for t in $(filter-out en,${TICO19_LANGS}); do \
 	    if [ $$s != $$t ]; then \
 	      T=`iso639 -3 -k -n $$t`; \
-	      echo "$$S	$$T	tico19-test			 	datasets/tioc19/tico19-test.$$s	datasets/tioc19/tico19-test.$$t" >> $@; \
+	      echo "$$S	$$T	tico19-test			 	${TICO19_BASEDIR}/en-$$s/tico19-test.$$s	${TICO19_BASEDIR}/en-$$t/tico19-test.$$t" >> $@; \
 	    fi \
 	  done \
 	done
