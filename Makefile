@@ -26,14 +26,11 @@ index.txt: testsets
 testsets.tsv: ${TESTSET_TSVS}
 	find datasets -name testsets.tsv -exec cat {} \; |\
 	sort -u > $@
-	for b in `cut -f3 $@ | sort -u`; do \
-	  grep '	$$b	' $@ > testsets/$$b.tsv; \
-	done
 
 benchmarks.tsv: testsets.tsv
 	cut -f3 $< | sort -u > $@
-	for b in `cat $@`; do \
-	  grep '	$$b	' $@ > testsets/$$b.tsv; \
+	for b in `cat benchmarks.tsv`; do \
+	  grep "	$$b	" testsets.tsv > testsets/$$b.tsv; \
 	done
 
 langpairs.tsv: testsets.tsv

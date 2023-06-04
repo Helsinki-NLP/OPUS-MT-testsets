@@ -1,0 +1,8 @@
+ces	eng	newstest2015				datasets/statmt/wmt_newstest/2015/newstest2015.cs	datasets/statmt/wmt_newstest/2015/newstest2015.en
+deu	eng	newstest2015				datasets/statmt/wmt_newstest/2015/newstest2015.de	datasets/statmt/wmt_newstest/2015/newstest2015.en
+eng	ces	newstest2015				datasets/statmt/wmt_newstest/2015/newstest2015.en	datasets/statmt/wmt_newstest/2015/newstest2015.cs
+eng	deu	newstest2015				datasets/statmt/wmt_newstest/2015/newstest2015.en	datasets/statmt/wmt_newstest/2015/newstest2015.de
+eng	fin	newstest2015				datasets/statmt/wmt_newstest/2015/newstest2015.en	datasets/statmt/wmt_newstest/2015/newstest2015.fi
+eng	rus	newstest2015				datasets/statmt/wmt_newstest/2015/newstest2015.en	datasets/statmt/wmt_newstest/2015/newstest2015.ru
+fin	eng	newstest2015				datasets/statmt/wmt_newstest/2015/newstest2015.fi	datasets/statmt/wmt_newstest/2015/newstest2015.en
+rus	eng	newstest2015				datasets/statmt/wmt_newstest/2015/newstest2015.ru	datasets/statmt/wmt_newstest/2015/newstest2015.en

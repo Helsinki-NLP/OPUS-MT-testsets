@@ -1,0 +1,4 @@
+ben	hin	florestest2021				datasets/statmt/wmt21-news-systems/txt/sources/florestest2021.bn-hi.src.bn	datasets/statmt/wmt21-news-systems/txt/references/florestest2021.bn-hi.ref.A.hi	
+hin	ben	florestest2021				datasets/statmt/wmt21-news-systems/txt/sources/florestest2021.hi-bn.src.hi	datasets/statmt/wmt21-news-systems/txt/references/florestest2021.hi-bn.ref.A.bn	
+xho	zul	florestest2021				datasets/statmt/wmt21-news-systems/txt/sources/florestest2021.xh-zu.src.xh	datasets/statmt/wmt21-news-systems/txt/references/florestest2021.xh-zu.ref.A.zu	
+zul	xho	florestest2021				datasets/statmt/wmt21-news-systems/txt/sources/florestest2021.zu-xh.src.zu	datasets/statmt/wmt21-news-systems/txt/references/florestest2021.zu-xh.ref.A.xh	

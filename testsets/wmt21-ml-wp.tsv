@@ -1,0 +1,12 @@
+cat	ita	wmt21-ml-wp				datasets/statmt/wmt_multilingual/wp.test.ca	datasets/statmt/wmt_multilingual/wp.test.it
+cat	oci	wmt21-ml-wp				datasets/statmt/wmt_multilingual/wp.test.ca	datasets/statmt/wmt_multilingual/wp.test.oc
+cat	ron	wmt21-ml-wp				datasets/statmt/wmt_multilingual/wp.test.ca	datasets/statmt/wmt_multilingual/wp.test.ro
+ita	cat	wmt21-ml-wp				datasets/statmt/wmt_multilingual/wp.test.it	datasets/statmt/wmt_multilingual/wp.test.ca
+ita	oci	wmt21-ml-wp				datasets/statmt/wmt_multilingual/wp.test.it	datasets/statmt/wmt_multilingual/wp.test.oc
+ita	ron	wmt21-ml-wp				datasets/statmt/wmt_multilingual/wp.test.it	datasets/statmt/wmt_multilingual/wp.test.ro
+oci	cat	wmt21-ml-wp				datasets/statmt/wmt_multilingual/wp.test.oc	datasets/statmt/wmt_multilingual/wp.test.ca
+oci	ita	wmt21-ml-wp				datasets/statmt/wmt_multilingual/wp.test.oc	datasets/statmt/wmt_multilingual/wp.test.it
+oci	ron	wmt21-ml-wp				datasets/statmt/wmt_multilingual/wp.test.oc	datasets/statmt/wmt_multilingual/wp.test.ro
+ron	cat	wmt21-ml-wp				datasets/statmt/wmt_multilingual/wp.test.ro	datasets/statmt/wmt_multilingual/wp.test.ca
+ron	ita	wmt21-ml-wp				datasets/statmt/wmt_multilingual/wp.test.ro	datasets/statmt/wmt_multilingual/wp.test.it
+ron	oci	wmt21-ml-wp				datasets/statmt/wmt_multilingual/wp.test.ro	datasets/statmt/wmt_multilingual/wp.test.oc

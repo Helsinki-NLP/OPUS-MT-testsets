@@ -1,0 +1,2 @@
+eng	fra	newsdiscusstest2015				datasets/statmt/wmt_newstest/2015/newsdiscusstest2015.en	datasets/statmt/wmt_newstest/2015/newsdiscusstest2015.fr
+fra	eng	newsdiscusstest2015				datasets/statmt/wmt_newstest/2015/newsdiscusstest2015.fr	datasets/statmt/wmt_newstest/2015/newsdiscusstest2015.en

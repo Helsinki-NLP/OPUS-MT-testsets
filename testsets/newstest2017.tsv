@@ -1,0 +1,14 @@
+ces	eng	newstest2017				datasets/statmt/wmt_newstest/2017/newstest2017.cs	datasets/statmt/wmt_newstest/2017/newstest2017.en
+deu	eng	newstest2017				datasets/statmt/wmt_newstest/2017/newstest2017.de	datasets/statmt/wmt_newstest/2017/newstest2017.en
+eng	ces	newstest2017				datasets/statmt/wmt_newstest/2017/newstest2017.en	datasets/statmt/wmt_newstest/2017/newstest2017.cs
+eng	deu	newstest2017				datasets/statmt/wmt_newstest/2017/newstest2017.en	datasets/statmt/wmt_newstest/2017/newstest2017.de
+eng	fin	newstest2017				datasets/statmt/wmt_newstest/2017/newstest2017.en	datasets/statmt/wmt_newstest/2017/newstest2017.fi
+eng	lav	newstest2017				datasets/statmt/wmt_newstest/2017/newstest2017.en	datasets/statmt/wmt_newstest/2017/newstest2017.lv
+eng	rus	newstest2017				datasets/statmt/wmt_newstest/2017/newstest2017.en	datasets/statmt/wmt_newstest/2017/newstest2017.ru
+eng	tur	newstest2017				datasets/statmt/wmt_newstest/2017/newstest2017.en	datasets/statmt/wmt_newstest/2017/newstest2017.tr
+eng	zho	newstest2017				datasets/statmt/wmt_newstest/2017/newstest2017.en	datasets/statmt/wmt_newstest/2017/newstest2017.zh
+fin	eng	newstest2017				datasets/statmt/wmt_newstest/2017/newstest2017.fi	datasets/statmt/wmt_newstest/2017/newstest2017.en
+lav	eng	newstest2017				datasets/statmt/wmt_newstest/2017/newstest2017.lv	datasets/statmt/wmt_newstest/2017/newstest2017.en
+rus	eng	newstest2017				datasets/statmt/wmt_newstest/2017/newstest2017.ru	datasets/statmt/wmt_newstest/2017/newstest2017.en
+tur	eng	newstest2017				datasets/statmt/wmt_newstest/2017/newstest2017.tr	datasets/statmt/wmt_newstest/2017/newstest2017.en
+zho	eng	newstest2017				datasets/statmt/wmt_newstest/2017/newstest2017.zh	datasets/statmt/wmt_newstest/2017/newstest2017.en
