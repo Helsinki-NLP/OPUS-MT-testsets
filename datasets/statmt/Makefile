@@ -54,7 +54,7 @@ wmt_newstest.tsv: .wmt-files
 	    S=`iso639 -n -3 $$s`; \
 	    T=`iso639 -n -3 $$t`; \
 	    for d in `ls wmt_newstest/$$y/$$p | cut -f1 -d. | sort -u`; do \
-	      echo "$$S	$$T	$$d				datasets/statmt/wmt_newstest/$$y/$$d.$$s	datasets/statmt/wmt_newstest/$$y/$$d.$$t" >> $@.unsorted; \
+	      echo "$$S	$$T	$$d				datasets/statmt/wmt_newstest/$$y/$$p/$$d.$$s	datasets/statmt/wmt_newstest/$$y/$$p/$$d.$$t" >> $@.unsorted; \
 	    done \
 	  done \
 	done
@@ -72,7 +72,7 @@ wmt_newstest_multiref.tsv: .wmt-files
 	    if [ `diff wmt_newstest/$$y/$$p/newstest$$y.$$s wmt_newstest/$$y/$$p/newstestB$$y.$$s | wc -l` -eq 0 ]; then \
 	      S=`iso639 -n -3 $$s`; \
 	      T=`iso639 -n -3 $$t`; \
-	      echo "$$S	$$T	newstestALL$$y				datasets/statmt/wmt_newstest/$$y/newstest$$y.$$s	datasets/statmt/wmt_newstest/$$y/newstest$$y.$$t	datasets/statmt/wmt_newstest/$$y/newstestB$$y.$$t" >> $@.unsorted; \
+	      echo "$$S	$$T	newstestALL$$y				datasets/statmt/wmt_newstest/$$y/$$p/newstest$$y.$$s	datasets/statmt/wmt_newstest/$$y/$$p/newstest$$y.$$t	datasets/statmt/wmt_newstest/$$y/$$p/newstestB$$y.$$t" >> $@.unsorted; \
 	    fi \
 	  fi \
 	done

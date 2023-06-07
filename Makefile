@@ -27,6 +27,9 @@ testsets.tsv: ${TESTSET_TSVS}
 	find datasets -name testsets.tsv -exec cat {} \; |\
 	sort -u > $@
 
+%.tsv-check: %.tsv
+	cut -f7- $< | tr "\t" "\n" | xargs ls
+
 benchmarks.tsv: testsets.tsv
 	cut -f3 $< | sort -u > $@
 	for b in `cat benchmarks.tsv`; do \
