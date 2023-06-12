@@ -9,6 +9,7 @@ all: testsets.tsv
 
 testsets.tsv:
 	git clone https://github.com/multi30k/dataset.git
+	rm -fr dataset/.git*
 	for s in cs de en fr; do \
 	  gunzip dataset/data/task1/raw/test_2016_flickr.$$s.gz; \
 	  gunzip dataset/data/task1/raw/test_2018_flickr.$$s.gz; \
