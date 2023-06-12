@@ -96,3 +96,32 @@ flores200.tsv: flores200_dataset
 
 
 
+
+## flores v1 does not seem to exist anymore
+## (probably because it is part of flores101 and flores200)
+
+.PHONY: flores1
+flores.tsv:
+	wget -O flores_test_sets.tgz https://github.com/facebookresearch/flores/blob/main/floresv1/data/flores_test_sets.tgz?raw=true
+	tar -xzf flores_test_sets.tgz
+	rm -f flores_test_sets.tgz
+	for s in km ne ps si; do \
+	  mkdir -p testsets/$$s-en testsets/en-$$s; \
+	  rsync flores_test_sets/wikipedia.devtest.$$s-en.en testsets/en-$$s/wikipedia.devtest.$$s-en.en; \
+	  rsync flores_test_sets/wikipedia.devtest.$$s-en.$$s testsets/en-$$s/wikipedia.devtest.$$s-en.$$s; \
+	  rsync flores_test_sets/wikipedia.devtest.$$s-en.en testsets/$$s-en/wikipedia.devtest.$$s-en.en; \
+	  rsync flores_test_sets/wikipedia.devtest.$$s-en.$$s testsets/$$s-en/wikipedia.devtest.$$s-en.$$s; \
+	  S=`iso639 -3 -k -n $$s`; \
+	  echo "$$S	eng	flores-devtest				datasets/facebook/testsets/en-$$s/wikipedia.devtest.$$s-en.$$S	datasets/facebook/testsets/en-$$s/wikipedia.devtest.$$s-en.en" >> $@; \
+	  echo "eng	$$S	flores-devtest				datasets/facebook/testsets/en-$$s/wikipedia.devtest.$$s-en.en	datasets/facebook/testsets/en-$$s/wikipedia.devtest.$$s-en.$$S" >> $@; \
+	done
+	for s in ne si; do \
+	  mkdir -p testsets/$$s-en testsets/en-$$s; \
+	  rsync flores_test_sets/wikipedia.test.$$s-en.en testsets/en-$$s/wikipedia.test.$$s-en.en; \
+	  rsync flores_test_sets/wikipedia.test.$$s-en.$$s testsets/en-$$s/wikipedia.test.$$s-en.$$s; \
+	  rsync flores_test_sets/wikipedia.test.$$s-en.en testsets/$$s-en/wikipedia.test.$$s-en.en; \
+	  rsync flores_test_sets/wikipedia.test.$$s-en.$$s testsets/$$s-en/wikipedia.test.$$s-en.$$s; \
+	  S=`iso639 -3 -k -n $$s`; \
+	  echo "$$S	eng	flores-test				datasets/facebook/testsets/en-$$s/wikipedia.test.$$s-en.$$S	datasets/facebook/testsets/en-$$s/wikipedia.test.$$s-en.en" >> $@; \
+	  echo "eng	$$S	flores-test				datasets/facebook/testsets/en-$$s/wikipedia.test.$$s-en.en	datasets/facebook/testsets/en-$$s/wikipedia.test.$$s-en.$$S" >> $@; \
+	done
