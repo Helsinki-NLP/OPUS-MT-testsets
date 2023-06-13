@@ -18,7 +18,7 @@ NTREX:
 	cd NTREX/NTREX-128 && mv newstest2019-ref.zho-TW.txt newstest2019-ref.zho_Hant.txt
 	dos2unix NTREX/NTREX-128/*.txt
 	for t in `ls NTREX/NTREX-128/*.txt`; do \
-	  grep -v '^ *$$' < $$t > $$t.tmp; \
+	  grep -v '^ *$$' < $$t | grep -v '^\.*$$' > $$t.tmp; \
 	  mv -f $$t.tmp $$t; \
 	done
 	rm -fr NTREX/.git*
