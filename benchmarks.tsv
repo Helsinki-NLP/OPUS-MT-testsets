@@ -3,6 +3,11 @@ flores101-devtest
 flores200-devtest
 florestest2021
 generaltest2022
+multi30k_task2_test_2016
+multi30k_test_2016_flickr
+multi30k_test_2017_flickr
+multi30k_test_2017_mscoco
+multi30k_test_2018_flickr
 newsdiscusstest2015
 newssyscomb2009
 newstest2008
@@ -25,6 +30,7 @@ newstestALL2020
 newstestB2016
 newstestB2017
 newstestB2020
+ntrex128
 tatoeba-test-v2020-07-28
 tatoeba-test-v2021-03-30
 tatoeba-test-v2021-08-07
