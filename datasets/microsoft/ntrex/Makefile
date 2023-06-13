@@ -16,6 +16,7 @@ NTREX:
 	git clone https://github.com/MicrosoftTranslator/NTREX.git
 	cd NTREX/NTREX-128 && mv newstest2019-ref.zho-CN.txt newstest2019-ref.zho_Hans.txt
 	cd NTREX/NTREX-128 && mv newstest2019-ref.zho-TW.txt newstest2019-ref.zho_Hant.txt
+	dos2unix NTREX/NTREX-128/*.txt
 	for t in `ls NTREX/NTREX-128/*.txt`; do \
 	  grep -v '^ *$$' < $$t > $$t.tmp; \
 	  mv -f $$t.tmp $$t; \
